@@ -1,0 +1,43 @@
+
+/* PT Sans */
+@font-face {
+  font-family: 'PT Sans';
+  src: url('/assets/fonts/PT_Sans/PT_Sans-Web-Regular.woff') format('woff'),
+       url('/assets/fonts/PT_Sans/PT_Sans-Web-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+/* PT Serif */
+@font-face { // Regular
+  font-family: 'PT Serif';
+  src: url('/assets/fonts/PT_Serif/PT_Serif-Web-Regular.woff') format('woff'),
+       url('/assets/fonts/PT_Serif/PT_Serif-Web-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face { // Bold
+  font-family: 'PT Serif';
+  src: url('/assets/fonts/PT_Serif/PT_Serif-Web-Bold.woff') format('woff'),
+       url('/assets/fonts/PT_Serif/PT_Serif-Web-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face { // Italic
+  font-family: 'PT Serif';
+  src: url('/assets/fonts/PT_Serif/PT_Serif-Web-Italic.woff') format('woff'),
+       url('/assets/fonts/PT_Serif/PT_Serif-Web-Italic.ttf') format('truetype');
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face { // Bold-Italic
+  font-family: 'PT Serif';
+  src: url('/assets/fonts/PT_Serif/PT_Serif-Web-BoldItalic.woff') format('woff'),
+       url('/assets/fonts/PT_Serif/PT_Serif-Web-BoldItalic.ttf') format('truetype');
+  font-weight: 700;
+  font-style: italic;
+}
