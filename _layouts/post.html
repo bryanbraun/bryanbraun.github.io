@@ -18,4 +18,8 @@ layout: default
 
 {% include mailchimp-subscribe.html %}
 
+{% if page.comments %}
+  {% include comments.html %}
+{% endif %}
+
 {% comment %} Add disqus comments here? {% endcomment %}

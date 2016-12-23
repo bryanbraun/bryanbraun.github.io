@@ -43,6 +43,7 @@ defaults:
       type: posts   # limit to posts
     values:
       is_post: true # automatically set is_post=true for all posts
+      comments: true
 
 # Custom Vars
 branch: master      # the branch my live site is deployed to.
