@@ -6,15 +6,25 @@
   <body>
 
     {% include header.html %}
+    {% include logo.html %}
 
     <div class="page-content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
+      {% if page.is_post %}
+        {% comment %} Don't print a page-level title. It will be printed in the post template. {% endcomment %}
+      {% else %}
+        {% if page.title %}
+          <h1 class="page-title">{{ page.title }}</h1>
+        {% endif %}
+      {% endif %}
+
+      {{ content }}
     </div>
 
     {% include footer.html %}
-
+    <script src="/assets/js/anchor.min.js"></script>
+    <script>
+      anchors.add('h2, h3, h4, h5, h6');
+    </script>
   </body>
 
 </html>

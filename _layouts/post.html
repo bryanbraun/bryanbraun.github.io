@@ -1,15 +1,21 @@
 ---
 layout: default
 ---
-<div class="post">
-
-  <header class="post-header">
-    <h1 class="post-title">{{ page.title }}</h1>
-    <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+<div class="article">
+  <header class="article-header">
+    <h1 class="article-title">{{ page.title }}</h1>
+    <p class="article-meta">{{ page.date | date: "%b %-d, %Y" }}</p>
   </header>
 
-  <article class="post-content">
+  <article class="article-content">
     {{ content }}
   </article>
 
+  <footer class="article-footer">
+    <a class="edit-link" href="https://github.com/{{ site.github.repository_nwo }}/edit/{{ site.branch }}/{{ page.path }}">Edit this article</a>
+  </footer>
 </div>
+
+{% include mailchimp-subscribe.html %}
+
+{% comment %} Add disqus comments here? {% endcomment %}

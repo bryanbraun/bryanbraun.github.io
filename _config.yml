@@ -7,25 +7,42 @@
 #
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-#
+
 # Site settings
 # These are used to personalize your new site. If you look in the HTML files,
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Bryan Braun | Student of Life
+title: Bryan Braun - Student of Life
 email: bbraun7@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://bryanbraun.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: http://bryanbraun.com # the base hostname & protocol for your site, e.g. http://example.com
 repository: bryanbraun/bryanbraun.github.io
+timezone: America/New_York
 
 # Build settings
 gems:
   - jekyll-feed
+  - jekyll-redirect-from
 exclude:
   - Gemfile
   - Gemfile.lock
 sass:
-  sass_dir: assets/_scss-partials
+  sass_dir: assets/_sass
   style: expanded
+
+# Content settings
+collections:
+- books
+
+defaults:
+  -
+    scope:
+      path: ""      # all files
+      type: posts   # limit to posts
+    values:
+      is_post: true # automatically set is_post=true for all posts
+
+# Custom Vars
+branch: master      # the branch my live site is deployed to.

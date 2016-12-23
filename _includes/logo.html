@@ -1,28 +1,33 @@
-<svg width="240px" height="240px" viewBox="0 0 240 240" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-labelledby="title desc" role="img">
+<svg width="220px" height="220px" viewBox="0 0 240 240" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-labelledby="title desc" role="img" class="logo">
   <!-- follows accessibility recommendations at https://www.sitepoint.com/tips-accessible-svg/ -->
   <title id="title">Bryan Braun</title>
   <desc id="desc">Logo</desc>
 
   <defs>
-    <linearGradient id="logo-gradient" x1="0" x2="0" y1="0" y2="1">
-      <stop class="stop1" offset="0%"/>
-      <stop class="stop2" offset="100%"/>
+    <radialGradient id="logo-radial-gradient0" fx="50%" fy="0%" cx="50%" cy="0%" r="50%">
+      <stop offset="0%"   stop-color="#99CCDD" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#5599AA" stop-opacity="1" />
+    </radialGradient>
+
+    <radialGradient id="logo-radial-gradient1" fx="50%" fy="0%" cx="50%" cy="0%" r="90%">
+      <stop offset="0%"   stop-color="#99CCDD" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#111039" stop-opacity="1" />
+    </radialGradient>
+
+    <radialGradient id="logo-radial-gradient2" fx="50%" fy="0%" cx="50%" cy="0%" r="90%">
+      <stop offset="0%"   stop-color="#72EC82" stop-opacity="1"/>
+      <stop offset="50%" stop-color="#3D8358" stop-opacity="1" />
+      <stop offset="100%" stop-color="#224A57" stop-opacity="1" />
+    </radialGradient>
+
+    <linearGradient id="logo-linear-gradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%"   stop-color="#99CCDD" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#5599AA" stop-opacity="1" />
     </linearGradient>
-    <style type="text/css"><![CDATA[
-      #logo-gradient .stop1 { stop-color: #99CCDD; }
-      #logo-gradient .stop2 { stop-color: #5599AA; }
-      #logo-stroke-box {
-        stroke: url(#logo-gradient);
-        fill: transparent;
-      }
-      #logo-mask-box {
-        fill: url(#logo-gradient);
-      }
-      ]]></style>
   </defs>
 
   <rect id="logo-stroke-box" x="10" y="10" width="224" height="224" stroke-width="8" />
-  <rect id="logo-mask-box"   x="10" y="10" width="224" height="224" mask="url(#logo-name)"/>
+  <rect id="logo-mask-box"   x="10" y="10" width="224" height="224"  mask="url(#logo-name)"/>
 
   <mask id="logo-name" fill="#FFFFFF">
     <g id="Bryan" transform="translate(45.000000, 48.000000)">
@@ -40,4 +45,75 @@
       <path id="N__2" transform="translate(0,0)" d="M123,60 L123,17.21875 L130.913086,17.21875 L130.913086,21.4462891 C134.285499,18.242497 137.766258,16.640625 141.355469,16.640625 C142.559902,16.640625 143.601721,16.8935522 144.480957,17.3994141 C145.360193,17.905276 146.028644,18.5978146 146.486328,19.4770508 C146.944013,20.3562869 147.269205,21.2776645 147.461914,22.2412109 C147.654623,23.2047574 147.750977,24.2525985 147.750977,25.3847656 L147.750977,60 L139.837891,60 L139.837891,27.6972656 C139.837891,26.0592366 139.597008,24.8427774 139.115234,24.0478516 C138.633461,23.2529257 137.742194,22.8554688 136.441406,22.8554688 C134.851555,22.8554688 133.0088,23.7346917 130.913086,25.4931641 L130.913086,60 L123,60 Z"></path>
     </g>
   </mask>
+
+  <style type="text/css"><![CDATA[
+    #logo-mask-box {
+      fill: url(#logo-linear-gradient);
+    }
+    #logo-stroke-box {
+      stroke: url(#logo-linear-gradient);
+      fill: transparent;
+    }
+  ]]></style>
+
+  <script type="text/javascript"><![CDATA[
+    (function() {
+      var hoverGradients = ['logo-radial-gradient0', 'logo-radial-gradient1', 'logo-radial-gradient2'];
+      var hoverGradientEls = {
+        'logo-radial-gradient0': document.getElementById('logo-radial-gradient0'),
+        'logo-radial-gradient1': document.getElementById('logo-radial-gradient1'),
+        'logo-radial-gradient2': document.getElementById('logo-radial-gradient2')
+      };
+      var logoMaskBox = document.getElementById('logo-mask-box');
+      var logoStrokeBox = document.getElementById('logo-stroke-box');
+      var DEFAULT_FILL_VALUE = 'url(#logo-linear-gradient)';
+      var activeGradientNum = 0;
+
+      logoMaskBox.addEventListener('mouseenter', setHoverGradient);
+      logoMaskBox.addEventListener('mousemove', positionHoverGradient);
+      logoMaskBox.addEventListener('mouseleave', setDefaultGradient);
+      logoMaskBox.addEventListener('click', toggleGradient);
+
+      function getHoverFillValue() {
+        return 'url(#' + hoverGradients[activeGradientNum] + ')';
+      }
+
+      function positionHoverGradient(event) {
+        var currentGradientEl = hoverGradientEls[hoverGradients[activeGradientNum]],
+            clientRect = logoMaskBox.getBoundingClientRect(),
+            svgX = event.x - clientRect.left,
+            svgY = event.y - clientRect.top,
+            percentX = Math.round(100 * (svgX / clientRect.width)),
+            percentY = Math.round(100 * (svgY / clientRect.height));
+
+        // We set percentages instead of units because that
+        // works best across various SVG scaling scenarios.
+        currentGradientEl.fx.baseVal.valueAsString = '' + percentX + '%';
+        currentGradientEl.fy.baseVal.valueAsString = '' + percentY + '%';
+        currentGradientEl.cx.baseVal.valueAsString = '' + percentX + '%';
+        currentGradientEl.cy.baseVal.valueAsString = '' + percentY + '%';
+      }
+
+      function setHoverGradient() {
+        logoMaskBox.style.fill = getHoverFillValue();
+        logoStrokeBox.style.stroke = getHoverFillValue();
+      }
+
+      function setDefaultGradient(event) {
+        logoMaskBox.style.fill = DEFAULT_FILL_VALUE;
+        logoStrokeBox.style.stroke = DEFAULT_FILL_VALUE;
+      }
+
+      function toggleGradient(event) {
+        if (activeGradientNum === hoverGradients.length - 1) {
+          activeGradientNum = 0;
+        } else {
+          activeGradientNum++;
+        }
+        setHoverGradient();
+        positionHoverGradient(event);
+      }
+
+    })();
+  ]]></script>
 </svg>

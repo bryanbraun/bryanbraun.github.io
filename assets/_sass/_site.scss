@@ -1,0 +1,177 @@
+body {
+  font-family: $serif-stack;
+  margin: 0;
+  padding: 0 1rem; // page padding for mobile
+  border-top: 7px solid $bb-blue1;
+}
+h1, h2, h3, h4, h5, h6 {
+  font-family: $sans-serif-stack;
+  font-weight: normal;
+}
+
+a {
+  color: $bb-blue2;
+}
+
+img {
+  max-width: 100%;
+}
+
+.main-nav {
+  > ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: flex-end;
+  }
+
+  a {
+    font-family: $sans-serif-stack;
+    font-size: 13px;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: $bb-off-black;
+    padding: 1.5rem 2rem;
+    display: block;
+
+    &:link    { }
+    &:visited { color: $bb-off-black; }
+    &:hover   { background-color: #EEE; }
+    &:active  { }
+  }
+}
+
+.logo {
+  display: block;
+  margin: auto;
+  padding: 2rem 0;
+}
+
+.page-content {
+  // overflow: auto; prevents collapsing margins between this box and the child heading.
+  // see: http://stackoverflow.com/a/19719427/1154642
+  overflow: auto;
+  max-width: 40rem; // 16*40 = 640px
+  margin: 0 auto;
+  line-height: 1.5; // designed to be inherited by all page-content.
+}
+
+.page-title {
+  text-align: center;
+}
+
+.article-title {
+  text-align: center;
+}
+.article-meta {
+  text-align: center;
+  font-size: 0.75rem;
+  margin: 1.5rem 0;
+}
+.article-footer {
+  text-align: right;
+}
+.edit-link {
+  font-family: $sans-serif-stack;
+  font-size: 0.75rem;
+}
+
+.site-footer {
+  padding-top: 4rem;
+  padding-bottom: 2rem;
+  text-align: center;
+
+  > p {
+    font-family: $sans-serif-stack;
+    font-size: 0.75rem; // 12px
+    margin: 0.25rem; // 4px
+  }
+}
+
+// Projects
+.projects {
+  list-style-type: none;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.project {
+  border: 1px solid #ccc;
+  margin: 2px;
+  float: left;
+  width: 207px;
+  //   207 (width)
+  // +   2 (border on both sides)
+  // +   4 (margin on both sides)
+  // = 213px (per image)
+  // *   3 (wide)
+  // = 639px (out of a possible total width of 640)
+
+  img {
+    display: block;
+  }
+}
+
+// Old subscribe styles
+.subscribe {
+  font-family: $sans-serif-stack;
+  padding: 3em 0;
+  margin-top: 1em;
+  text-align: center;
+  border-bottom: 1px solid #ccc;
+  border-top: 1px solid #ccc;
+}
+
+.subscribe-text p {
+  margin-top: 0;
+}
+
+.subscribe-form {
+  margin: 0 auto;
+}
+
+.subscribe-email {
+  background-color: white;
+  border-left: 1px solid rgba(100,100,100,0.22);
+  border-right: 1px solid rgba(100,100,100,0.22);
+  border-bottom: 1px solid rgba(100,100,100,0.22);
+  border-top: 1px solid transparent;
+  border-radius: 3px;
+  box-shadow: inset 0px 1px 1px rgba(0,0,0,0.4);
+  padding: 3px 0 3px 6px;
+  font-size: 14px;
+  margin-right: 10px;
+  height: 32px;
+}
+
+.mc-field-group {
+  display: inline-block;
+}
+.mce_inline_error {
+  display: inline-block;
+  vertical-align:top;
+}
+.subscribe-button-wrap {
+  display: inline-block;
+  vertical-align: top;
+}
+
+.subscribe-button {
+  line-height: 34px;
+  border: 0;
+  border-radius: 3px;
+  margin: 1px 0 0 10px;
+  font-size: 14px;
+  color: #FFFFFF;
+  background-color: $bb-blue1;
+  vertical-align: top;
+  width: 120px;
+  display: inline-block;
+}
+
+.subscribe-button:hover {
+  background-color: $bb-blue1;
+  cursor: pointer;
+}

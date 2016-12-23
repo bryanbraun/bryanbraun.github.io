@@ -1,0 +1,35 @@
+- name: Bouncy Ball
+  url: http://sparkbox.github.io/bouncy-ball/
+  image: http://www.bryanbraun.com/sites/default/files/styles/gallery_thumbnail/public/bouncy-ball.png?itok=j3QRQQUo
+
+- name: AnchorJS
+  url: https://github.com/bryanbraun/anchorjs
+  image: http://www.bryanbraun.com/sites/default/files/styles/gallery_thumbnail/public/anchorjs_logo.png?itok=tYJ3-rzM
+
+- name: After Dark in CSS
+  url: http://bryanbraun.github.io/after-dark-css
+  image: http://www.bryanbraun.com/sites/default/files/styles/gallery_thumbnail/public/flying-toaster_0.gif?itok=AVkC3q_I
+
+- name: Poor Man's Styleguide
+  url: http://www.poormansstyleguide.com
+  image: http://www.bryanbraun.com/sites/default/files/styles/gallery_thumbnail/public/frontend-styleguide-template_0.png?itok=K7wO33mS
+
+- name: Bitbooks
+  url: http://www.bryanbraun.com/2015/10/20/bitbooks-closing-thoughts
+  image: http://www.bryanbraun.com/sites/default/files/styles/gallery_thumbnail/public/bitbooks_b2.png?itok=apn_vHek
+
+- name: Franklin
+  url: https://github.com/bryanbraun/franklin
+  image: http://www.bryanbraun.com/sites/default/files/styles/gallery_thumbnail/public/franklin.png?itok=XoEs7r9u
+
+- name: Powerpoint Karaoke
+  url: http://www.powerpointkaraoke.com
+  image: http://www.bryanbraun.com/sites/default/files/styles/gallery_thumbnail/public/slides-md.png?itok=Frf1j-uj
+
+- name: Template Picker
+  url: https://drupal.org/project/template_picker
+  image: http://www.bryanbraun.com/sites/default/files/styles/gallery_thumbnail/public/template-picker-2.png?itok=3BXu2KXj
+
+- name: "Writer A Blogging Theme for Developers"
+  url: http://drupal.org/project/writer
+  image: http://www.bryanbraun.com/sites/default/files/styles/gallery_thumbnail/public/writer_logo_4.png?itok=RBR1MTxJ

@@ -1,0 +1,15 @@
+---
+layout: default
+title: Projects
+---
+{% if site.data.projects %}
+  <ul class="projects">
+    {% for project in site.data.projects %}
+      <li class="project">
+        <a href="{{ project.url }}" target="_blank">
+          <img src="{{ project.image }}" alt="{{ project.name }}" title="{{ project.name }}" typeof="foaf:Image" />
+        </a>
+      </li>
+    {% endfor %}
+  </ul>
+{% endif %}
