@@ -17,13 +17,39 @@ img {
   max-width: 100%;
 }
 
+code, samp, kbd {
+  font-family: $monospace-stack;
+  font-size: 0.875rem;
+  padding: 0 6px;
+  text-align: left;
+}
+
+pre {
+  font-family: $monospace-stack;
+  font-size: 0.875rem;
+  margin: 1.75rem 0;
+  overflow: auto;
+  padding: 0 0 0 1.5rem;
+}
+
+// Override 'code' css rules if using 'pre > code' markup.
+pre > code {
+  padding: 0px;
+}
+
 .main-nav {
   > ul {
     list-style-type: none;
-    margin: 0;
+    margin-top: 0.75rem;
     padding: 0;
     display: flex;
-    justify-content: flex-end;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+    @media (min-width: $phablet) {
+      justify-content: flex-end;
+      margin: 0;
+    }
   }
 
   a {
@@ -32,8 +58,12 @@ img {
     text-decoration: none;
     text-transform: uppercase;
     color: $bb-off-black;
-    padding: 1.5rem 2rem;
+    padding: 0.375rem 1rem;
     display: block;
+
+    @media (min-width: $phablet) {
+      padding: 1.5rem 2rem;
+    }
 
     &:link    { }
     &:visited { color: $bb-off-black; }
@@ -46,6 +76,7 @@ img {
   display: block;
   margin: auto;
   padding: 2rem 0;
+  max-width: 100%;
 }
 
 .page-content {
@@ -65,8 +96,9 @@ img {
   text-align: center;
 }
 .article-meta {
+  font-family: $sans-serif-stack;
+  font-size: 0.875rem;
   text-align: center;
-  font-size: 0.75rem;
   margin: 1.5rem 0;
 }
 .article-footer {
@@ -126,15 +158,12 @@ img {
   border-bottom: 1px solid #ccc;
   border-top: 1px solid #ccc;
 }
-
 .subscribe-text p {
   margin-top: 0;
 }
-
 .subscribe-form {
   margin: 0 auto;
 }
-
 .subscribe-email {
   background-color: white;
   border-left: 1px solid rgba(100,100,100,0.22);
@@ -148,7 +177,6 @@ img {
   margin-right: 10px;
   height: 32px;
 }
-
 .mc-field-group {
   display: inline-block;
 }
@@ -160,7 +188,6 @@ img {
   display: inline-block;
   vertical-align: top;
 }
-
 .subscribe-button {
   line-height: 34px;
   border: 0;
@@ -172,12 +199,13 @@ img {
   vertical-align: top;
   width: 120px;
   display: inline-block;
+
+  &:hover {
+    background-color: $bb-blue2;
+    cursor: pointer;
+  }
 }
 
-.subscribe-button:hover {
-  background-color: $bb-blue1;
-  cursor: pointer;
-}
 
 .comments {
   text-align: center;

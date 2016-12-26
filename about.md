@@ -3,4 +3,25 @@ layout: default
 title: About
 ---
 
-In ipsum nibh, commodo vel enim et, tristique scelerisque sem. Sed pretium metus et nunc suscipit sollicitudin. Duis et molestie est. Pellentesque mi urna, luctus non tristique vitae, interdum in sem. Vivamus lobortis accumsan odio quis ornare. Duis euismod rutrum tristique. Duis urna massa, pretium eget lorem quis, semper interdum erat. Suspendisse ac dapibus velit. Duis nec ligula sapien. In eget ultricies arcu. In semper diam urna, vitae euismod nisl porta eget. Nullam eu tristique purus. Nunc id tristique lacus, vitae sodales sem. Nam eu nibh ex. Mauris ac ex et augue imperdiet consequat at vitae dui. Duis a augue vel nulla iaculis tempus.
+I'm a web developer and designer, currently based in the American Midwest. I use design and code to inspire, educate, and empower humans.
+
+My work has been [featured](/news) in The Washington Post, Daring Fireball, Smashing Magazine, and the Discovery Channel.
+
+I'm constantly learning and sharing what I learn through [writing](/articles), [speaking](/speaking), and [open-source](https://github.com/bryanbraun). I'm always working on some sort of [side-project](/projects). You should [ask me](/contact) what I'm working on now.
+
+[These are my principles](/principles).
+
+I'm a husband and father. I'm [INTJ](https://www.16personalities.com/intj-personality) and [LDS](https://www.lds.org/?lang=eng). When I'm not writing code or tweaking fonts, you can find me [reading](/books), riding my bicycle, practicing the piano, or building lego worlds with my kids.
+
+## Social
+
+- [Twitter](https://twitter.com/BryanEBraun)
+- [Github](https://github.com/bryanbraun)
+- [Linkedin](https://www.linkedin.com/in/bryanbraun)
+- [Facebook](https://www.facebook.com/bryanbr4un)
+
+## This site
+
+This site is built with [Jekyll](https://jekyllrb.com/) and hosted on [Github Pages](https://pages.github.com/). The main fonts are [PT Sans](https://fonts.google.com/specimen/PT+Sans) and [PT Serif](https://fonts.google.com/specimen/PT+Serif). There's also a [styleguide](/styleguide).
+
+All the code is open-source, and [available on Github](https://github.com/bryanbraun/bryanbraun.github.io), released under the [MIT license](https://github.com/bryanbraun/bryanbraun.github.io/blob/master/license.md). All content is licensed with a [Creative Commons Attribution License (BY 4.0)](https://creativecommons.org/licenses/by/4.0/), unless otherwise noted. If you find anything you can improve about this site, please submit a pull request.

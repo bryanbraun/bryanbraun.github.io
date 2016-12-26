@@ -2,7 +2,7 @@
 
 Hey! You're looking at the codebase for Bryan's personal website.
 
-This site is made with [Jekyll](https://jekyllrb.com) and hosted on [github pages](https://pages.github.com/).
+This site is made with [Jekyll](https://jekyllrb.com) and hosted on [github pages](https://pages.github.com/). It follows the conventions in the [Jekyll Styleguide](http://ben.balter.com/jekyll-style-guide/).
 
 ## Help improve this site
 

@@ -1,3 +1,9 @@
 _site
 .sass-cache
 .jekyll-metadata
+.DS_Store
+
+# We ignore the gem lockfile because we're using the Github pages
+# gem, which does strict versioning of dependencies for us. See:
+# http://ben.balter.com/jekyll-style-guide/gitignore/#gemfilelock
+Gemfile.lock

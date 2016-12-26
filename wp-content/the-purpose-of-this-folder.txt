@@ -1,0 +1,1 @@
+This directory is a relic of my blog's migration from Wordpress to Drupal. It contains all the images, pdfs, and other hosted uploads that were on my site during the wordpress days. By uploading this same file path, my older posts can reference this same material.
