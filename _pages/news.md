@@ -1,5 +1,6 @@
 ---
 title: In the News
+permalink: /news/
 ---
 
 | Article | Source | Year |

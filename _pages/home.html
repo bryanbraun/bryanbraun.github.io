@@ -1,0 +1,32 @@
+---
+layout: default
+permalink: /
+---
+
+{% for post in site.posts limit:1 %}
+
+  {% comment %}
+
+    This is mostly just copied from the post.html layout. I do that because it's not that much
+    duplication and including the post  here (as {{ post }}) causes Jekyll to think of this as
+    a *true* post page, and not a home page with an embedded post. That has side-effects,
+    mostly for metadata.
+
+  {% endcomment %}
+
+  <div class="article">
+    <header class="article-header">
+      <h1 class="article-title">{{ post.title }}</h1>
+      <p class="article-meta">{{ post.date | date: "%b %-d, %Y" }}</p>
+    </header>
+
+    <article class="article-content">
+      {{ post.content | markdownify }}
+    </article>
+
+    <footer class="article-footer">
+      <a class="edit-link" href="https://github.com/{{ site.github.repository_nwo }}/edit/{{ site.branch }}/{{ post.path }}">Edit this article</a>
+    </footer>
+  </div>
+
+{% endfor %}

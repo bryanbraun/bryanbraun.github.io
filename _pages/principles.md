@@ -1,7 +1,13 @@
-These are my 10 principles. They help me make decisions.
+---
+title: Principles
+excerpt: The principles that help me make decisions.
+permalink: /principles/
+---
+
+These are the principles that help me make decisions.
 
 1.  **People are more important than things** - I care about people and I invest in good relationships. It's a small world, so I treat everyone as if I'll be around them for years to come. Family comes first.
-2.  **[Kaizen](http://en.wikipedia.org/wiki/Kiazen) **- Kaizen is a Japanese word that describes the concept of continual improvement. I seek continual improvement. I am a student of life and I embrace a [growth mindset](http://bryanbraun.com/2011/07/18/the-growth-mindset "The Growth Mindset").
+2.  **[Kaizen](http://en.wikipedia.org/wiki/Kiazen)**- Kaizen is a Japanese word that describes the concept of continual improvement. I seek continual improvement. I am a student of life and I embrace a [growth mindset](http://bryanbraun.com/2011/07/18/the-growth-mindset "The Growth Mindset").
 3.  **Seek out critical moments** - A [critical moment](http://bryanbraun.com/2011/02/27/fear-and-the-critical-moment "Fear and the Critical Moment") is when a person does something unfamilar, uncomfortable, or fear invoking. I choose to leave my comfort zone, which enriches my life and increases my capacities. I [push](http://sivers.org/comfort "Push, push, push.") myself.
 4.  **Go big** - I am [bold](http://bryanbraun.com/2012/02/26/be-bold "Be Bold"). I'm not afraid to stand out and take a risk. I take action without waiting to be anointed.
 5.  **Pay it forward** - I recognize where I have been blessed and I return those same opportunities to those who come after me. I seek to serve people. I want to help others succeed.

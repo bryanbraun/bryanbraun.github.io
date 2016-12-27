@@ -1,5 +1,7 @@
 ---
 title: Speaking
+excerpt: A list of events I've spoken at with links to the slides/recordings.
+permalink: /speaking/
 ---
 
 Here's a list of events I've spoken at:

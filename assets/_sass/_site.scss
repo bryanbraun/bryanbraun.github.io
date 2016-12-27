@@ -42,11 +42,19 @@ pre > code {
     list-style-type: none;
     margin-top: 0.75rem;
     padding: 0;
+    display: -webkit-box;
+    display: -ms-flexbox;
     display: flex;
+    display: -ms-flexbox;
+    -ms-flex-wrap: wrap;
     flex-wrap: wrap;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
     justify-content: space-between;
 
     @media (min-width: $phablet) {
+      -webkit-box-pack: end;
+      -ms-flex-pack: end;
       justify-content: flex-end;
       margin: 0;
     }
@@ -125,8 +133,13 @@ pre > code {
 .projects {
   list-style-type: none;
   padding: 0;
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
   justify-content: center;
+  -ms-flex-wrap: wrap;
   flex-wrap: wrap;
 }
 .project {
@@ -159,7 +172,7 @@ pre > code {
   border-top: 1px solid #ccc;
 }
 .subscribe-text p {
-  margin-top: 0;
+  margin: 0 0 0.5rem 0;
 }
 .subscribe-form {
   margin: 0 auto;
@@ -174,7 +187,7 @@ pre > code {
   box-shadow: inset 0px 1px 1px rgba(0,0,0,0.4);
   padding: 3px 0 3px 6px;
   font-size: 14px;
-  margin-right: 10px;
+  margin: 3px 10px;
   height: 32px;
 }
 .mc-field-group {
@@ -192,7 +205,7 @@ pre > code {
   line-height: 34px;
   border: 0;
   border-radius: 3px;
-  margin: 1px 0 0 10px;
+  margin: 4px 10px 3px 10px;
   font-size: 14px;
   color: #FFFFFF;
   background-color: $bb-blue1;

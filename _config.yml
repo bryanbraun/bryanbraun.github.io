@@ -6,6 +6,7 @@ logo: /assets/images/logo.png
 url: http://bryanbraun.com # the base hostname & protocol for your site, e.g. http://example.com
 repository: bryanbraun/bryanbraun.github.io
 timezone: America/New_York
+host: 0.0.0.0 # This lets us test on devices locally. See http://stackoverflow.com/a/16608698/1154642
 github:
   url: http://localhost:4000 # this gets overridden when the site is deployed on github pages
 
@@ -20,7 +21,7 @@ exclude:
 sass:
   sass_dir: assets/_sass
   style: expanded
-
+include: ["_pages"]
 
 # Content settings
 permalink: pretty

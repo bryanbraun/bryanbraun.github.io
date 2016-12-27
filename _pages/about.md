@@ -1,6 +1,7 @@
 ---
 layout: default
 title: About
+permalink: /about/
 ---
 
 I'm a web developer and designer, currently based in the American Midwest. I use design and code to inspire, educate, and empower humans.
