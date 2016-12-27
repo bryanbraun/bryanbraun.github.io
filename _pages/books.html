@@ -13,6 +13,7 @@ permalink: /books/
     <div class="book">
       <h2>{{ book.title }}</h2>
       <div>Author: {{ book.author }}</div>
+      <div>Read: {{ book.date | date: "%b %Y" }}</div>
       <div>Rating: {{ book.rating }}</div>
       {{ book.content }}
     </div>
