@@ -29,19 +29,19 @@ I was on a team with six of these awesome guys. We had:
 Our mission was to build "Buttermilk," the simplest inventory-tracking web application in the world. Check out some of these slick designs by <a href="https://twitter.com/#!/davidscoville" target="_blank">David Scoville</a>:
 
 <p style="text-align: center;">
-  <img alt="" src="http://bryanbraun.com/wp-content/uploads/buttermilk1.jpg" style="width: 780px; height: 525px;" />
+  <img alt="" src="/assets/images/buttermilk1.jpg" style="width: 780px; height: 525px;" />
 </p>
 
 <p style="text-align: center;">
-  <img alt="An inventory screen" src="http://bryanbraun.com/wp-content/uploads/buttermilk2.jpg" style="width: 780px; height: 562px;" />
+  <img alt="An inventory screen" src="/assets/images/buttermilk2.jpg" style="width: 780px; height: 562px;" />
 </p>
 
 <p style="text-align: center;">
-  <img alt="An analytics screen" src="http://bryanbraun.com/wp-content/uploads/buttermilk3.jpg" style="width: 780px; height: 799px;" />
+  <img alt="An analytics screen" src="/assets/images/buttermilk3.jpg" style="width: 780px; height: 799px;" />
 </p>
 
 <p style="text-align: center;">
-  <img alt="Overlay to order more inventory" src="http://bryanbraun.com/wp-content/uploads/buttermilk4.jpg" style="width: 780px; height: 647px;" />
+  <img alt="Overlay to order more inventory" src="/assets/images/buttermilk4.jpg" style="width: 780px; height: 647px;" />
 </p>
 
 Impressive, huh? Our web app is about 90% done. Hit me up if you are interested in seeing the final product in all its glory.

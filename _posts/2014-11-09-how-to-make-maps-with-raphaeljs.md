@@ -61,7 +61,7 @@ Here's where we get our hands dirty. We're going to look at the code in your vec
 
 ![][9]
 
- [9]: /sites/default/files/star.png
+ [9]: /assets/images/star.png
 
 We need to change this information into a javascript format that RaphaelJS can recognize. To do this, I used a tool called [SVG2RaphaelJS][10]. Just open the page, paste in your SVG code, and it will generate the code for a RaphaelJS object you can use. Here's what my star SVG code generates:
 

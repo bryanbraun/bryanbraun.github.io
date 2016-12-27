@@ -13,19 +13,19 @@ Little did I know, that you actually CAN browse through your code on Drupal.org.
 Every project page has a little link at the bottom left called "Repository Viewer"
 
 <p style="text-align: center;">
-  <img alt="" src="http://www.bryanbraun.com/sites/default/files/repository-viewer.png" style="width: 770px; height: 445px;" />
+  <img alt="" src="http://www.bryanbraun.com/assets/images/repository-viewer.png" style="width: 770px; height: 445px;" />
 </p>
 
 This link takes you to *http:// drupalcode.org/project/<your-project>.git*, where you'll find…
 
 <p style="text-align: center;">
-  <img alt="" src="http://www.bryanbraun.com/sites/default/files/git-browser-1.png" style="width: 770px; height: 507px;" />
+  <img alt="" src="http://www.bryanbraun.com/assets/images/git-browser-1.png" style="width: 770px; height: 507px;" />
 </p>
 
 But those are just your commits. To see your files, click the link that says "tree"...
 
 <p style="text-align: center;">
-  <img alt="" src="http://www.bryanbraun.com/sites/default/files/tree-link.png" style="width: 561px; height: 404px;" />
+  <img alt="" src="http://www.bryanbraun.com/assets/images/tree-link.png" style="width: 561px; height: 404px;" />
 </p>
 
 <p style="text-align: center;">
@@ -33,7 +33,7 @@ But those are just your commits. To see your files, click the link that says "tr
 </p>
 
 <p style="text-align: center;">
-  <img alt="" src="http://www.bryanbraun.com/sites/default/files/git-browser-2.png" style="width: 770px; height: 509px;" />
+  <img alt="" src="http://www.bryanbraun.com/assets/images/git-browser-2.png" style="width: 770px; height: 509px;" />
 </p>
 
 Your files were there all along… hidden in plain view.

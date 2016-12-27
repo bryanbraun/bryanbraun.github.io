@@ -26,7 +26,7 @@ So it is without any clear alternative that we will be sending out a newsletter-
 But I want to be clear. If you do not receive one, you are still important to us! Our lives have been influenced by you in so many ways, some that neither you or I will fully recognize. We love you all. Happy holidays!
 
 <p style="text-align: center;">
-  <img alt="" src="/sites/default/files/Pop-art_Family.png" style="width: 770px; height: 770px;" title="Family photo with a modern art twist." />
+  <img alt="" src="/assets/images/Pop-art_Family.png" style="width: 770px; height: 770px;" title="Family photo with a modern art twist." />
 </p>
 
 > What have we been up to this year?

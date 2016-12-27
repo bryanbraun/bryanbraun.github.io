@@ -14,7 +14,7 @@ The way Template Picker works, you drop node templates into your theme for each 
  [3]: http://www.youtube.com/watch?v=nv_WouvjrK8
 
 <p style="text-align: center;">
-  <img alt="" src="http://bryanbraun.com/sites/default/files/template-picker-2.png" />
+  <img alt="" src="/assets/images/template-picker-2.png" />
 </p>
 
 But what I really wanted was to think outside the node and see if we could allow template picking for all sorts of entities. This way, a user could choose a style for their user profile, or a content admin could assign taxonomy term listings to predefined displays. It took some digging into the entity API, but I finally got it coded up and [released][4] over the Christmas holiday. I also depricated the old project on Drupal.org to fix [a renaming issue][5] (kind of a pain, but that's the price of learning).

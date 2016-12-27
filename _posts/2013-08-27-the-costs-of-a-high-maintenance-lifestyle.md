@@ -5,7 +5,7 @@ date: 2013-08-27 06:47:57
 ---
 
 <p class="p1" style="text-align: center;">
-  <img alt="" src="/sites/default/files/wp-content/uploads/malcom_in_the_middle_light_bulb.gif" />
+  <img alt="" src="/assets/images/malcom_in_the_middle_light_bulb.gif" />
 </p>
 
 <p class="p1">

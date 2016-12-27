@@ -17,7 +17,7 @@ date: 2013-09-15 18:47:54
 </p>
 
 <p class="p1">
-  <img alt="" src="/sites/default/files/getting-frustrated-analytics_0.png" />
+  <img alt="" src="/assets/images/getting-frustrated-analytics_0.png" />
 </p>
 
 <p class="p1">

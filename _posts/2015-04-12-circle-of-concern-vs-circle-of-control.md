@@ -9,7 +9,7 @@ Every day we’re faced with issues that threaten to distract us, create anxiety
 When issues like these threaten to overwhelm, it’s useful for me to think of myself as standing inside of two circles. We’ll call the larger one the “Circle of Concern” and the smaller one the “Circle of Control."
 
 <p style="text-align: center;">
-  <img alt="Circle of Concern Diagram" src="/sites/default/files/circles.png" />
+  <img alt="Circle of Concern Diagram" src="/assets/images/circles.png" />
 </p>
 
 **Inside of the circle of concern lies all my concerns.** The toothache, the taxes, and everything else. A small portion of those issues are also inside of the Circle of Control. **Inside of the circle of control are the concerns that are within my control to solve.**

@@ -10,9 +10,9 @@ On December 18th 1995, the Hubble Space Telescope pointed at a tiny dark spot in
 
 A second similar image was taken from the Telescope in late 2003. With improved technology and imaging techniques, this picture (known as the Hubble Ultra Deep Field) became the deepest image of the universe ever taken. This is what they saw.
 
-[<img alt="hubble ultra deep field" class="aligncenter size-full wp-image-154" height="960" src="/sites/default/files/wp-content/uploads/hubble-ultra-deep-field.jpg" title="hubble ultra deep field" width="960" />][1]<a href="http://upload.wikimedia.org/wikipedia/commons/0/0d/Hubble_ultra_deep_field_high_rez_edit1.jpg" target="_blank" title="Hubble Deep Field">Link to the full resolution photo (18 Mb)</a>
+[<img alt="hubble ultra deep field" class="aligncenter size-full wp-image-154" height="960" src="/assets/images/hubble-ultra-deep-field.jpg" title="hubble ultra deep field" width="960" />][1]<a href="http://upload.wikimedia.org/wikipedia/commons/0/0d/Hubble_ultra_deep_field_high_rez_edit1.jpg" target="_blank" title="Hubble Deep Field">Link to the full resolution photo (18 Mb)</a>
 
- [1]: /sites/default/files/wp-content/uploads/hubble-ultra-deep-field.jpg
+ [1]: /assets/images/hubble-ultra-deep-field.jpg
 
 In the image you can see a few stars from our own galaxy. Can you pick them out? These stars are just like seeing bugs smashed on the windshield as we look out into the expanse of space. Every other spot and speck of light is a galaxy. There are an estimated 10,000 galaxies shown in the image. Each galaxy contains millions of stars.
 

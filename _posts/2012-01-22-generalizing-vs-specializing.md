@@ -32,7 +32,7 @@ It sounds simple. It is simple.
 
 You see, if I had to give career advice to today's youth, I'd tell them to try everything. Try writing music, drawing logos, building ramps, selling stuff, driving a boat, fixing a computer, writing news articles, designing a chair, organizing a team, charting positions of planets, babysitting, reading newspapers, keeping a budget, welding, teaching someone math, learning a language, programming, acting, designing a brochure, and anything else you can think of. I'd tell them to take on part-time jobs where they get paid to learn; to work at places like banks, offices, call-centers, government buildings and factories, doing things like tech-support, manufacturing, or secretarial work. I'd tell them to do anything to develop that ultra-broad surface level understanding of many things. Then, I'd tell them to look inward.
 
-<img alt="" src="http://bryanbraun.com/wp-content/uploads/the-perfect-job.png" style="width: 454px; height: 438px;" />
+<img alt="" src="/assets/images/the-perfect-job.png" style="width: 454px; height: 438px;" />
 
 Look at what you enjoy. Look at what you are good at. Finally look at what the world is willing to pay you to do. If any career choice fits all three categories, then point yourself in that direction, and start specializing!
 

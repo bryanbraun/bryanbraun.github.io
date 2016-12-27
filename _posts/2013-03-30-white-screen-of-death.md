@@ -7,7 +7,7 @@ date: 2013-03-30 20:37:24
 I remember the first time I got a "<a href="http://drupal.org/node/158043" target="_blank" title="White Screen of Death, as described on Drupal.org">White Screen of Death</a>" distinctly. I was migrating my personal site over to Drupal from Wordpress. I don't exactly remember where I went wrong, but all of a sudden I saw it. A wall of blinding white light void of meaning. Such sterile, hollow, emptiness.
 
 <p style="text-align: center;">
-  <img alt="" src="http://bryanbraun.com/sites/default/files/drupal-white-screen-of-death.png" style="width: 760px; height: 565px; border: 1px solid rgb(235, 235, 235);" title="The White Screen of Death" />
+  <img alt="" src="/assets/images/drupal-white-screen-of-death.png" style="width: 760px; height: 565px; border: 1px solid rgb(235, 235, 235);" title="The White Screen of Death" />
 </p>
 
 <p class="p1">

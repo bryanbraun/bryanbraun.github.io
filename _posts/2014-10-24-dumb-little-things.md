@@ -12,7 +12,7 @@ I dumped it all into a spreadsheet and put together a bunch of formulas to surfa
 
 ![My Scrabble Dashboard][1]
 
- [1]: /sites/default/files/scrabble_data.png
+ [1]: /assets/images/scrabble_data.png
 
 [Here's the spreadsheet][2] if you want to have a look. It's nice because the first tab serves as a scorecard you can use while playing. If you want something like this for your own Scrabble Games, just let me know and I'll send you a copy.
 

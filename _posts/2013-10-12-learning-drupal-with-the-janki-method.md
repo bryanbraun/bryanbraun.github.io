@@ -27,7 +27,7 @@ date: 2013-10-12 08:39:04
 ## Enter Anki
 
 <p class="p1">
-  <img alt="" src="http://bryanbraun.com/sites/default/files/anki_kl.png" style="float: right;" /><a href="http://ankisrs.net/" target="_blank">Anki</a> is an open-source spaced-repetition tool that you can use to make learning Drupal less random and more efficient. There are other tools out there (paid and unpaid), but I've been using Anki because it syncs across devices and it's free. There's a <a href="https://ankiweb.net/" target="_blank">web version</a>, and <a href="http://ankisrs.net/#download" target="_blank">desktop version</a>, as well as apps for <a href="https://play.google.com/store/apps/details?id=com.ichi2.anki" target="_blank">Android</a> and <a href="https://itunes.apple.com/us/app/ankisrs/id373493387?mt=8" target="_blank">iOS</a>.
+  <img alt="" src="/assets/images/anki_kl.png" style="float: right;" /><a href="http://ankisrs.net/" target="_blank">Anki</a> is an open-source spaced-repetition tool that you can use to make learning Drupal less random and more efficient. There are other tools out there (paid and unpaid), but I've been using Anki because it syncs across devices and it's free. There's a <a href="https://ankiweb.net/" target="_blank">web version</a>, and <a href="http://ankisrs.net/#download" target="_blank">desktop version</a>, as well as apps for <a href="https://play.google.com/store/apps/details?id=com.ichi2.anki" target="_blank">Android</a> and <a href="https://itunes.apple.com/us/app/ankisrs/id373493387?mt=8" target="_blank">iOS</a>.
 </p>
 
 ## How it works
@@ -41,7 +41,7 @@ date: 2013-10-12 08:39:04
 </p>
 
 <p class="p1" style="text-align: center;">
-  <img alt="Convert the following PHP logic into the ternary syntax:" src="http://bryanbraun.com/sites/default/files/anki-1.png" />
+  <img alt="Convert the following PHP logic into the ternary syntax:" src="/assets/images/anki-1.png" />
 </p>
 
 <p class="p1">
@@ -49,7 +49,7 @@ date: 2013-10-12 08:39:04
 </p>
 
 <p class="p1" style="text-align: center;">
-  <img alt="$calories = ($coke == 'diet' ? 'low' : 'high');" src="http://bryanbraun.com/sites/default/files/anki-2.png" />
+  <img alt="$calories = ($coke == 'diet' ? 'low' : 'high');" src="/assets/images/anki-2.png" />
 </p>
 
 <p class="p1">
@@ -109,7 +109,7 @@ date: 2013-10-12 08:39:04
 </p>
 
 <p class="p2" style="text-align: center;">
-  <img alt="True or False: User 1 has all Drupal permissions and none of them can be revoked on the permissions page." src="http://bryanbraun.com/sites/default/files/anki-3.png" />
+  <img alt="True or False: User 1 has all Drupal permissions and none of them can be revoked on the permissions page." src="/assets/images/anki-3.png" />
 </p>
 
 <p class="p1">
@@ -123,7 +123,7 @@ date: 2013-10-12 08:39:04
 </p>
 
 <p class="p1" style="text-align: center;">
-  <img alt="Which Drupal function do you use to determine whether th user has a given privilege? (Include parameters)" src="http://bryanbraun.com/sites/default/files/anki-4.png" />
+  <img alt="Which Drupal function do you use to determine whether th user has a given privilege? (Include parameters)" src="/assets/images/anki-4.png" />
 </p>
 
 <p class="p1">
@@ -131,7 +131,7 @@ date: 2013-10-12 08:39:04
 </p>
 
 <p class="p1" style="text-align: center;">
-  <img alt="Using Drupal APIs, test to see if the current user has access to 'administer views' , and store the result of the test as a boolean in the variable $is_views_admin." src="http://bryanbraun.com/sites/default/files/anki-5.png" />
+  <img alt="Using Drupal APIs, test to see if the current user has access to 'administer views' , and store the result of the test as a boolean in the variable $is_views_admin." src="/assets/images/anki-5.png" />
 </p>
 
 <p class="p1">
@@ -164,5 +164,5 @@ date: 2013-10-12 08:39:04
 </p>
 
 <p class="p1">
-  <a href="http://www.bryanbraun.com/sites/default/files/Bryan%27s%20Programming%20Deck.apkg">Bryan's Programming Deck</a>
+  <a href="http://www.bryanbraun.com/assets/images/Bryan%27s%20Programming%20Deck.apkg">Bryan's Programming Deck</a>
 </p>

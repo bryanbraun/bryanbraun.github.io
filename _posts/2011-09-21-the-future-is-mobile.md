@@ -6,7 +6,7 @@ date: 2011-09-21 18:12:45
 
 There was a time when cell phones were a just a fantasy of Science Fiction.
 
-<a href="http://bryanbraun.com/2011/09/21/the-future-is-mobile/star-trek-communicator/" rel="attachment wp-att-698"><img alt="" class="size-medium wp-image-698 alignleft" height="222" src="http://bryanbraun.com/wp-content/uploads/star-trek-communicator-300x222.jpg" title="star-trek-communicator" width="300" /></a><a href="http://bryanbraun.com/2011/09/21/the-future-is-mobile/get-smart-phone/" rel="attachment wp-att-699"><img alt="" class="aligncenter size-full wp-image-699" height="253" src="/sites/default/files/wp-content/uploads/GET-SMART-phone.jpeg" title="GET-SMART-phone" width="200" /></a>
+<a href="http://bryanbraun.com/2011/09/21/the-future-is-mobile/star-trek-communicator/" rel="attachment wp-att-698"><img alt="" class="size-medium wp-image-698 alignleft" height="222" src="/assets/images/star-trek-communicator.jpg" title="star-trek-communicator" width="300" /></a><a href="http://bryanbraun.com/2011/09/21/the-future-is-mobile/get-smart-phone/" rel="attachment wp-att-699"><img alt="" class="aligncenter size-full wp-image-699" height="253" src="/assets/images/GET-SMART-phone.jpeg" title="GET-SMART-phone" width="200" /></a>
 
 Things have changed.
 
@@ -26,8 +26,5 @@ Wow.
 Now if you are like me, you know people with Smartphones but you look at that price tag and say "yeah, it's cool, but how can I justify the cost?" It's just a clever gadget right? Well, as Dr. Liddle explained, Smartphones win because of their secret sauce: context.
 
 Context is what time it is, and where you are, what you are doing, who you know, where they are and what they are doing. Smartphones know a lot about you, like whats in your calendar, who are your contacts, what do you search online and where are you standing (GPS). By tapping into that information, smartphones become portable brains with access to the sum of human knowledge (aka the internet), only they have the tact to give you only that which is relevant to you at that time. That's context, and it's something that laptops can't give you. Here's a demonstration on how valuable that context actually is (feel free to ignore the mobile advertising promo that shows up near the end).
-
-<p style="text-align: center;">
-</p>
 
 Think about it. 1 out of 3 smartphone users would give up chocolate forever, just to be able to continue to use their smartphone. What other "gadget" would elicit such a response? Think about how much that percent will go up once our phones guide us around traffic jams, find us open parking spots, and take us to the shelf of our library book of choice. Now I admit, we still have a long ways to go (have you ever seen Spock pull out his communicator during a Phaser battle and shout "Oh CRAP! I'm roaming!"). Mobile technology is still in it's infancy, but it is growing quickly. It will be amazing to see where it all goes from here.

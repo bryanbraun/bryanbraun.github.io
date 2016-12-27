@@ -25,7 +25,7 @@ date: 2013-08-30 06:57:38
 </p>
 
 <p class="p3">
-  <img alt="" src="/sites/default/files/wp-content/uploads/dropbox-home.png" />
+  <img alt="" src="/assets/images/dropbox-home.png" />
 </p>
 
 <p class="p1">

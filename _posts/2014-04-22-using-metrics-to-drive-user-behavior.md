@@ -18,7 +18,7 @@ We all know [the importance of metrics][1]. The importance of [choosing the righ
 Often, a website can get a certain behavior from users by giving them a metric for it and making it prominent. For example, Linkedin wants it's users to flesh out their profiles completely. To drive this behavior, they provides users with a "Profile Strength" metric, which tells users, "hey you're profile isn't complete yet… keep adding more information."
 
 <p style="text-align: center;">
-  <img alt="" src="/sites/default/files/linkedin1.jpg" />
+  <img alt="" src="/assets/images/linkedin1.jpg" />
 </p>
 
 Percent completion bars are increasingly common because [they are effective][5] at telling people what they should do next.
@@ -36,7 +36,7 @@ But human psychology is complex, and you can't always just throw up a number and
 We could look at any social network for examples, but lets try Twitter. At the time of this writing, Twitter profiles display three prominent metrics: Tweets, Following, and Followers.
 
 <p style="text-align: center;">
-  <img alt="" src="/sites/default/files/twitter-profile_0.png" />
+  <img alt="" src="/assets/images/twitter-profile_0.png" />
 </p>
 
 As a user, these metrics drive my understanding of what it means to be influential on Twitter. I look at the values displayed on [influential people's twitter profiles][6] and start to build an internal hypothesis. One example might be:
@@ -60,7 +60,7 @@ Is it any wonder that buying fake twitter followers is so common? The metrics dr
 Putting thresholds on the metrics you display have interesting consequences as well. Linkedin, for example, only displays the number of connections you have up to 500, after which, it will display 500+. I once had somebody tell me that their whole goal on Linkedin was to get over 500 connections. Why? Because at that point, you have the same apparent count as the most influential people you know. It's like Linkedin made two categories: Well Connected and Not. This motivation drop-off after a metric threshold, is what I call "The LinkedIn pattern."
 
 <p style="text-align: center;">
-  <img alt="" src="/sites/default/files/500-plus.png" style="width: 90px; height: 60px;" />
+  <img alt="" src="/assets/images/500-plus.png" style="width: 90px; height: 60px;" />
 </p>
 
 Again, whether people who have 500+ connections are actually well-connected or not is irrelevant. If people believe it's an indication, then it will drive behavior.
@@ -70,7 +70,7 @@ I host most of my code projects on two websites these days: Github and Drupal.or
 Github lists your community contributions up to a threshold of 5 projects. Does this threshold result in the "LinkedIn pattern"? I don't know. But when I look someone up on Drupal.org and their profile lists hundreds of community contributions, I can't help but be impressed.
 
 <p style="text-align: center;">
-  <img alt="" src="/sites/default/files/g_and_d_metrics.png" />
+  <img alt="" src="/assets/images/g_and_d_metrics.png" />
 </p>
 
 My guess is that community contributions after the first five hold more social value on Drupal.org than they do on Github.

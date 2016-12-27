@@ -11,7 +11,7 @@ But there are lots of ways you can change the node-save experience for your user
 ## Add another
 
 <p style="text-align: center;">
-  <img alt="" src="http://bryanbraun.com/sites/default/files/add_another.png" />
+  <img alt="" src="/assets/images/add_another.png" />
 </p>
 
 [The Add Another module][1] allows gives users the option to save a node while quickly creating a new one. You can choose to add the option to the admin form itself, or as part of the save confirmation message. It's great for those content types, like "Image" or "Video" for example, where your users find themselves creating a series of nodes in succession.
@@ -27,7 +27,7 @@ Occasionally you'll see an issue where an end user clicks submit on a the node-e
 ## Publish Button
 
 <p style="text-align: center;">
-  <img alt="" src="http://bryanbraun.com/sites/default/files/publish-button.png" />
+  <img alt="" src="/assets/images/publish-button.png" />
 </p>
 
 *"Does the word "Save" mean that I'm saving a draft or does it mean that I'm publishing the content live?"* While it may be obvious for those familiar with Drupal, the intent of the button isn't always clear for new users. [The Publish Button module][3] aims to make it more explicit by splitting up the "Save" button into two buttons: "Save" and "Publish". If a node is published, the publish button is replaced with an "Unpublish" button.
@@ -37,7 +37,7 @@ Occasionally you'll see an issue where an end user clicks submit on a the node-e
 ## Node Buttons Edit
 
 <p style="text-align: center;">
-  <img alt="" src="http://bryanbraun.com/sites/default/files/node_buttons_edit.png" />
+  <img alt="" src="/assets/images/node_buttons_edit.png" />
 </p>
 
 What if you have your own idea on what button text should be used? You could use "string overrides" module for a universal approach to text customization, but [the Node Buttons Edit module][4] gives you a straightforward admin page for customizing the button text specifically. No need to incur the additional overhead if you don't have to.
@@ -47,7 +47,7 @@ What if you have your own idea on what button text should be used? You could use
 ## More Buttons
 
 <p style="text-align: center;">
-  <img alt="" src="http://bryanbraun.com/sites/default/files/more_buttons.png" />
+  <img alt="" src="/assets/images/more_buttons.png" />
 </p>
 
 [The More Buttons module][5] gives you the option of turning on more buttons (shocking, I know), to further customize your content saving experience. For example, you may want a "Save and Continue" button to save the status of the current input while continuing to make changes. Or maybe you'd like a cancel button, to close the form altogether. If so, this module makes these (and other options) available to you.

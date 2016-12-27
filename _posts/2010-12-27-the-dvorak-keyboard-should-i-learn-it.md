@@ -8,11 +8,11 @@ The Dvorak keyboard layout is an alternative to the most common computer keyboar
 
 <div class="clearfix" style="clear:both; margin:30px 0 0 0;">
   <div style="width: 310px;float:right;">
-    <img alt="The QWERTY Keyboard" class="size-medium wp-image-108 " height="100" src="http://bryanbraun.com/wp-content/uploads/800px-KB_United_States-NoAltGr.svg_1-300x100.png" title="800px-KB_United_States-NoAltGr.svg" width="300" /><span>The QWERTY Keyboard</span>
+    <img alt="The QWERTY Keyboard" class="size-medium wp-image-108 " height="100" src="/assets/images/800px-KB_United_States-NoAltGr.svg_.png" title="800px-KB_United_States-NoAltGr.svg" width="300" /><span>The QWERTY Keyboard</span>
   </div>
-  
+
   <div style="width: 310px;float:left;">
-    <img alt="The Dvorak Keyboard" class="size-medium wp-image-109 " height="100" src="http://bryanbraun.com/wp-content/uploads/800px-KB_United_States_Dvorak.svg_-300x100.png" title="800px-KB_United_States_Dvorak.svg" width="300" /><span>The Dvorak Keyboard</span>
+    <img alt="The Dvorak Keyboard" class="size-medium wp-image-109 " height="100" src="/assets/images/800px-KB_United_States_Dvorak.svg_.png" title="800px-KB_United_States_Dvorak.svg" width="300" /><span>The Dvorak Keyboard</span>
   </div>
 </div>
 
@@ -25,7 +25,7 @@ Why the different layouts? The QWERTY layout was designed first for the early ty
 What bugged me the most about the Dvorak story was that it was a better keyboard design but we were too steeped in tradition to accept it. We were too lazy to learn a better way. After my research, I wanted to learn it but I needed to know how long it would take. I was afraid it would slow me down and hurt my performance at school or work. When I couldn’t find any info, I decided to record my own data by and tracking my speeds from day to day. Here is the data I got (see below for my methodology).
 
 <p style="text-align: left;">
-  <img alt="Dvorak vs Qwerty typing speeds" class="aligncenter size-full wp-image-110" height="366" src="/sites/default/files/wp-content/uploads/Dvorak-vs-Qwerty-typing-speeds.jpg" title="Dvorak vs Qwerty typing speeds" width="429" />Basically, it took me about 3 months to go from nothing up to speeds comparable with QWERTY.  My average speed with QWERTY has dropped a bit (you can see the drop in the data but I didn’t notice it as I typed). Now I can type both kinds equally and I am able to easily switch back and forth between them (it takes me a minute or less to reorient myself after switching). I imagine that my speeds will continue to improve as I continue to use them. Learning was challenging at first but became fun as I started to make progress. I know I would have learned it much faster had I not worked to stay sharp in both QWERTY and Dvorak. That was what slowed me down. Ultimately it was worth it though, because knowing them both seems to work best for me.
+  <img alt="Dvorak vs Qwerty typing speeds" class="aligncenter size-full wp-image-110" height="366" src="/assets/images/Dvorak-vs-Qwerty-typing-speeds.jpg" title="Dvorak vs Qwerty typing speeds" width="429" />Basically, it took me about 3 months to go from nothing up to speeds comparable with QWERTY.  My average speed with QWERTY has dropped a bit (you can see the drop in the data but I didn’t notice it as I typed). Now I can type both kinds equally and I am able to easily switch back and forth between them (it takes me a minute or less to reorient myself after switching). I imagine that my speeds will continue to improve as I continue to use them. Learning was challenging at first but became fun as I started to make progress. I know I would have learned it much faster had I not worked to stay sharp in both QWERTY and Dvorak. That was what slowed me down. Ultimately it was worth it though, because knowing them both seems to work best for me.
 </p>
 
 Am I glad I did it? Absolutely. I'd recommend it to anyone. It also feels good to cast my vote. It is a vote for research based design, for making our lives more efficient, and most of all… for mankind to learn better technologies instead of being too stubborn to change. The world is accelerating, and those who are unwilling to embrace change will soon be left in the dust.

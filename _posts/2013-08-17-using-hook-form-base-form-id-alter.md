@@ -13,7 +13,7 @@ date: 2013-08-17 12:47:48
 </p>
 
 <p class="p2" style="text-align: center;">
-  <img alt="All drupal forms can be divided into subsets, like comment forms or node-edit forms." src="http://bryanbraun.com/sites/default/files/wp-content/uploads/drupal-forms-diagram.png" style="width: 375px; height: 355px;" />
+  <img alt="All drupal forms can be divided into subsets, like comment forms or node-edit forms." src="/assets/images/drupal-forms-diagram.png" style="width: 375px; height: 355px;" />
 </p>
 
 <p class="p1">
@@ -35,7 +35,7 @@ date: 2013-08-17 12:47:48
 </p>
 
 <p class="p1" style="text-align: center;">
-  <img alt="The base form id is tucked away in the build_info array." src="http://bryanbraun.com/sites/default/files/wp-content/uploads/drupal_BASE_FORM_ID.png" />
+  <img alt="The base form id is tucked away in the build_info array." src="/assets/images/drupal_BASE_FORM_ID.png" />
 </p>
 
 <p class="p1">

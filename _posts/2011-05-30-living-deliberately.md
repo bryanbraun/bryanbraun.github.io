@@ -23,7 +23,7 @@ Choosing a career is even worse. Lots of people just wait for somebody else to t
 In <a href="http://www.amazon.com/Pathfinder-Choose-Lifetime-Satisfaction-Success/dp/0684823993" target="_blank" title="The Pathfinder">Nicholas Lore's <em>The Pathfinder</em></a>, he talks about building a lifeline, or, a timeline for your life. The timeline ranges from the beginning of your life to the end. It has space for you to fill the past with things you've done and the future with things you want to do (aka goals). Putting these things down on paper brings a certain reality to the fact that you are still going to be doing something 20, 30, 40 years from now. More importantly, the decisions you make today (like the classes you take, or the jobs you choose to apply for) will either take you towards your goals or away from them.
 
 <p style="text-align: center;">
-  <img alt="" class="size-full wp-image-499 aligncenter" height="281" src="/sites/default/files/wp-content/uploads/lifeline.jpg" title="Bryan's Lifeline" width="433" />
+  <img alt="" class="size-full wp-image-499 aligncenter" height="281" src="/assets/images/lifeline.jpg" title="Bryan's Lifeline" width="433" />
 </p>
 
 Working on my lifeline definitely opened my eyes to some interesting thoughts. Like, what do I want to spend my time doing between the age of 70 and 80? I'm not about to spend my life scrimping and saving for retirement so I can waste away the golden years watching daytime reruns of The Price is Right.

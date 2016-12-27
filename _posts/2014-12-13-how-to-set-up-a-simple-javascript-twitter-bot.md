@@ -22,7 +22,7 @@ After you are logged in with this Twitter new account, create a new Twitter list
 You'll need to build a "Twitter application" in order to get the permission needed to tweet on someone's behalf. Don't worry, it's easy. Just browse to <https://apps.twitter.com/app/new>, **log in via your new Twitter account** (if you aren't automatically logged in), and start filling out the forms.
 
 <p style="text-align: center;">
-  <img alt="Twitters screen for creating a new application" src="/sites/default/files/twitter-create-application.png" />
+  <img alt="Twitters screen for creating a new application" src="/assets/images/twitter-create-application.png" />
 </p>
 
 Many options, like *Organization name*, don't matter much, but here are some of the important ones to look out for:
@@ -32,7 +32,7 @@ Many options, like *Organization name*, don't matter much, but here are some of 
 3.  Click "Create my Access Token" to authorize tweeting on behalf of your currently-logged-in Twitter account
 
 <p style="text-align: center;">
-  <img alt="Twitter's screen for generating an access token" src="/sites/default/files/twitter-access-token.png" />
+  <img alt="Twitter's screen for generating an access token" src="/assets/images/twitter-access-token.png" />
 </p>
 
 Now, in the "Keys and Access Tokens" section, copy down the following credentials (you'll need these later in the process):
@@ -119,7 +119,7 @@ Browse to [www.pingdom.com/free][14], and sign up for an account. Once you are l
  [14]: https://www.pingdom.com/free/
 
 <p style="text-align: center;">
-  <img alt="" src="/sites/default/files/pingdom-new-check.png" />
+  <img alt="" src="/assets/images/pingdom-new-check.png" />
 </p>
 
 Fill out all the information, making sure to have it check your new Heroku domain (http://yourappname.herokuapp.com) and set the check interval to something low like 5 minutes. Not only will this keep your bot awake, it will send you an email if your bot ever goes offline for more than 5 minutes.

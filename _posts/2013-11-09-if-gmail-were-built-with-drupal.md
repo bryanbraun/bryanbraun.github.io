@@ -6,7 +6,7 @@ date: 2013-11-09 09:22:11
 
 ![A comparison of the Gmail interface with similar fields in Drupal's interface][1]
 
- [1]: http://bryanbraun.com/sites/default/files/if-gmail-were-built-with-drupal_sml.jpg
+ [1]: /assets/images/if-gmail-were-built-with-drupal_sml.jpg
 
 ## So what are you trying to say?
 

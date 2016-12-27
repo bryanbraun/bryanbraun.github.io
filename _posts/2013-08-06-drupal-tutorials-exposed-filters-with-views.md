@@ -9,7 +9,7 @@ date: 2013-08-06 19:45:02
 </p>
 
 <p class="p1" style="text-align: center;">
-  <img alt="Filtered results for shoes." src="http://bryanbraun.com/sites/default/files/faceted-search-filters-and-sorting-options-for-sitefinity-ecommerce.png" style="width: 590px; height: 410px;" />
+  <img alt="Filtered results for shoes." src="/assets/images/faceted-search-filters-and-sorting-options-for-sitefinity-ecommerce.png" style="width: 590px; height: 410px;" />
 </p>
 
 <p class="p1">
@@ -21,7 +21,7 @@ date: 2013-08-06 19:45:02
 </p>
 
 <p class="p1" style="text-align: center;">
-  <img alt="" src="http://bryanbraun.com/sites/default/files/drupal_views_admin.png" style="width: 803px; height: 508px;" />
+  <img alt="" src="/assets/images/drupal_views_admin.png" style="width: 803px; height: 508px;" />
 </p>
 
 <p class="p1">
@@ -29,7 +29,7 @@ date: 2013-08-06 19:45:02
 </p>
 
 <p class="p1" style="text-align: center;">
-  <img alt="" src="http://bryanbraun.com/sites/default/files/drupal_filter_criteria_2_1.png" style="width: 256px; height: 55px;" />
+  <img alt="" src="/assets/images/drupal_filter_criteria_2_1.png" style="width: 256px; height: 55px;" />
 </p>
 
 <p class="p1">
@@ -37,7 +37,7 @@ date: 2013-08-06 19:45:02
 </p>
 
 <p class="p1" style="text-align: center;">
-  <img alt="" src="http://bryanbraun.com/sites/default/files/drupal_filter_criteria_1.png" style="width: 574px; height: 161px;" />
+  <img alt="" src="/assets/images/drupal_filter_criteria_1.png" style="width: 574px; height: 161px;" />
 </p>
 
 <p class="p1">
@@ -49,7 +49,7 @@ date: 2013-08-06 19:45:02
 </p>
 
 <p class="p1" style="text-align: center;">
-  <img alt="" src="http://bryanbraun.com/sites/default/files/drupal_exposed_views_1.png" style="width: 545px; height: 486px;" />
+  <img alt="" src="/assets/images/drupal_exposed_views_1.png" style="width: 545px; height: 486px;" />
 </p>
 
 <p class="p1">
@@ -57,7 +57,7 @@ date: 2013-08-06 19:45:02
 </p>
 
 <p class="p1" style="text-align: center;">
-  <img alt="" src="http://bryanbraun.com/sites/default/files/drupal_exposed_views_2.png" style="width: 454px; height: 384px;" />
+  <img alt="" src="/assets/images/drupal_exposed_views_2.png" style="width: 454px; height: 384px;" />
 </p>
 
 <p class="p1">
@@ -65,7 +65,7 @@ date: 2013-08-06 19:45:02
 </p>
 
 <p class="p1" style="text-align: center;">
-  <img alt="A basic example of Drupal exposed views." src="http://bryanbraun.com/sites/default/files/drupal_exposed_views_example.png" style="width: 627px; height: 572px;" />
+  <img alt="A basic example of Drupal exposed views." src="/assets/images/drupal_exposed_views_example.png" style="width: 627px; height: 572px;" />
 </p>
 
 <p class="p1">

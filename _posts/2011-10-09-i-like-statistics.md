@@ -20,7 +20,7 @@ By statistics, I'm not referring to the technical discipline. Sure, I had some g
 ### 1. <a href="http://apps.facebook.com/friendwheel/" target="_blank" title="Friend Wheel">Friend Wheel</a>
 
 <p style="text-align: center;">
-  <a href="http://bryanbraun.com/2011/10/09/i-like-statistics/facebook-friend-wheel/" rel="attachment wp-att-742"><img alt="" class="aligncenter size-full wp-image-742" height="500" src="/sites/default/files/wp-content/uploads/facebook-friend-wheel.jpg" title="facebook-friend-wheel" width="500" /></a>
+  <a href="http://bryanbraun.com/2011/10/09/i-like-statistics/facebook-friend-wheel/" rel="attachment wp-att-742"><img alt="" class="aligncenter size-full wp-image-742" height="500" src="/assets/images/facebook-friend-wheel.jpg" title="facebook-friend-wheel" width="500" /></a>
 </p>
 
 I'm usually way skeptical about facebook apps but I'll be the first to admit that <a href="http://apps.facebook.com/friendwheel/" target="_blank" title="Friend Wheel">Friend Wheel</a> is pretty cool. I like it because it's simple: all your facebook friends are arranged into a wheel. Then, a line connects any people within that wheel that are friends. The result: a kaleidoscopic arrangement of lines that brings insights about the structure of your group of friends.
@@ -38,7 +38,7 @@ This is a free (as in $0.00) Ipad app that graphically shows you health related 
 Here you can compare different search terms to see what terms are searched more often than others. It creates a line graph that turns out to be an indirect measure of popularity. Check out <a href="http://www.google.com/trends?q=picasa%2C+flickr%2C+smugmug%2C+iphoto&ctab=0&geo=all&date=all&sort=1" target="_blank" title="Google Trends: Flikr, Picasa, Iphoto, and SmugMug">this comparison</a> of four popular photo management services:
 
 <p style="text-align: center;">
-  <a href="http://bryanbraun.com/2011/10/09/i-like-statistics/google-trends-photo-services/" rel="attachment wp-att-743"><img alt="Flickr vs Picasa vs iphoto vs Smugmug" class="aligncenter size-full wp-image-743" height="293" src="/sites/default/files/wp-content/uploads/Google-Trends-Photo-Services.jpg" title="Google-Trends-Photo-Services" width="592" /></a>
+  <a href="http://bryanbraun.com/2011/10/09/i-like-statistics/google-trends-photo-services/" rel="attachment wp-att-743"><img alt="Flickr vs Picasa vs iphoto vs Smugmug" class="aligncenter size-full wp-image-743" height="293" src="/assets/images/Google-Trends-Photo-Services.jpg" title="Google-Trends-Photo-Services" width="592" /></a>
 </p>
 
 Playing around on Google trends can be a lot of fun. I recommend that you try other comparisons like <a href="http://www.google.com/trends?q=myspace%2C+facebook&ctab=0&geo=all&date=all&sort=1" target="_blank" title="Google Trends: Myspace vs Facebook">myspace vs facebook</a>, <a href="http://www.google.com/trends?q=firefox%2C+internet+explorer%2C+chrome&ctab=0&geo=all&date=all&sort=1" target="_blank" title="Google Trends: Firefox vs Internet Explorer vs Chrome">firefox vs internet explorer vs chrome</a>, or <a href="http://www.google.com/trends?q=BYU%2C+University+of+Utah&ctab=0&geo=all&date=all&sort=1" target="_blank" title="Google Trends: BYU vs University of Utah">BYU vs University of Utah</a> (I especially like that one).
@@ -78,7 +78,7 @@ You can have a lot of fun (and eat up a lot of time), just browsing through this
 ### 6. Browser Statistics
 
 <p style="text-align: center;">
-  <a href="http://bryanbraun.com/2011/10/09/i-like-statistics/w3-browser-statistics/" rel="attachment wp-att-744"><img alt="W3 Browser Statistics" class="aligncenter size-full wp-image-744" height="247" src="/sites/default/files/wp-content/uploads/W3-Browser-Statistics.jpg" title="W3 Browser Statistics" width="641" /></a>
+  <a href="http://bryanbraun.com/2011/10/09/i-like-statistics/w3-browser-statistics/" rel="attachment wp-att-744"><img alt="W3 Browser Statistics" class="aligncenter size-full wp-image-744" height="247" src="/assets/images/W3-Browser-Statistics.jpg" title="W3 Browser Statistics" width="641" /></a>
 </p>
 
 Does it really matter which web browser everybody uses. Probably not. But it's kind of fun to see the ebb and flow of browsers as some sort of indicator for the popularity of the company that built it (Microsoft, Apple, Google, etc). My favorite source for this data is <a href="http://www.w3schools.com/browsers/browsers_stats.asp" target="_blank" title="W3 Browser Stats">W3's Browser Statistics</a> (though there's also <a href="http://en.wikipedia.org/wiki/Browser_statistics" target="_blank" title="Wikipedia Browser Statistics">a lot of info on Wikipedia</a> as well).

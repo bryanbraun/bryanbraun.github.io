@@ -39,7 +39,7 @@ date: 2013-08-31 08:51:13
         </p>
         
         <p class="p1">
-          <img alt="" src="http://bryanbraun.com/sites/default/files/wp-content/uploads/checkboxes-single_0.png" />
+          <img alt="" src="/assets/images/checkboxes-single_0.png" />
         </p>
       </td>
       
@@ -59,7 +59,7 @@ date: 2013-08-31 08:51:13
         </p>
         
         <p class="p1">
-          <img alt="" src="http://bryanbraun.com/sites/default/files/wp-content/uploads/multiple-checkboxes_225.png" />
+          <img alt="" src="/assets/images/multiple-checkboxes_225.png" />
         </p>
       </td>
     </tr>
@@ -71,7 +71,7 @@ date: 2013-08-31 08:51:13
         </p>
         
         <p class="p1">
-          <img alt="" src="http://bryanbraun.com/sites/default/files/wp-content/uploads/Autocomplete_225.png" />
+          <img alt="" src="/assets/images/Autocomplete_225.png" />
         </p>
       </td>
       
@@ -91,7 +91,7 @@ date: 2013-08-31 08:51:13
         </p>
         
         <p class="p5">
-          <img alt="" src="http://bryanbraun.com/sites/default/files/wp-content/uploads/autocomplete-deluxe_225.png" />
+          <img alt="" src="/assets/images/autocomplete-deluxe_225.png" />
         </p>
       </td>
     </tr>
@@ -103,7 +103,7 @@ date: 2013-08-31 08:51:13
         </p>
         
         <p class="p1">
-          <img alt="" src="http://bryanbraun.com/sites/default/files/wp-content/uploads/multi-select-tags_225.png" />
+          <img alt="" src="/assets/images/multi-select-tags_225.png" />
         </p>
       </td>
       
@@ -123,7 +123,7 @@ date: 2013-08-31 08:51:13
         </p>
         
         <p class="p5">
-          <img alt="" src="http://bryanbraun.com/sites/default/files/wp-content/uploads/multiselect_225.png" />
+          <img alt="" src="/assets/images/multiselect_225.png" />
         </p>
       </td>
     </tr>
@@ -161,7 +161,7 @@ date: 2013-08-31 08:51:13
         </p>
         
         <p class="p1">
-          <img alt="" src="http://bryanbraun.com/sites/default/files/wp-content/uploads/key-value_225.png" />
+          <img alt="" src="/assets/images/key-value_225.png" />
         </p>
       </td>
       
@@ -181,7 +181,7 @@ date: 2013-08-31 08:51:13
         </p>
         
         <p class="p5">
-          <img alt="" src="http://bryanbraun.com/sites/default/files/wp-content/uploads/options-element_225.png" />
+          <img alt="" src="/assets/images/options-element_225.png" />
         </p>
       </td>
     </tr>
@@ -193,7 +193,7 @@ date: 2013-08-31 08:51:13
         </p>
         
         <p class="p1">
-          <img alt="" src="http://bryanbraun.com/sites/default/files/wp-content/uploads/webform-select_225.png" />
+          <img alt="" src="/assets/images/webform-select_225.png" />
         </p>
       </td>
       
@@ -213,7 +213,7 @@ date: 2013-08-31 08:51:13
         </p>
         
         <p class="p1">
-          <img alt="" src="http://bryanbraun.com/sites/default/files/wp-content/uploads/webform-select-or-other_225.png" />
+          <img alt="" src="/assets/images/webform-select-or-other_225.png" />
         </p>
       </td>
     </tr>
@@ -225,7 +225,7 @@ date: 2013-08-31 08:51:13
         </p>
         
         <p class="p1">
-          <img alt="" src="http://bryanbraun.com/sites/default/files/wp-content/uploads/webform_ui_225.png" />
+          <img alt="" src="/assets/images/webform_ui_225.png" />
         </p>
       </td>
       
@@ -249,7 +249,7 @@ date: 2013-08-31 08:51:13
         </p>
         
         <p class="p4">
-          <img alt="" src="http://bryanbraun.com/sites/default/files/wp-content/uploads/webform_alt_ui_225.png" />
+          <img alt="" src="/assets/images/webform_alt_ui_225.png" />
         </p>
         
         <p class="p5">
@@ -295,7 +295,7 @@ date: 2013-08-31 08:51:13
         </p>
         
         <p class="p1">
-          <img alt="" src="http://bryanbraun.com/sites/default/files/wp-content/uploads/single-file-select_225.png" />
+          <img alt="" src="/assets/images/single-file-select_225.png" />
         </p>
       </td>
       
@@ -315,7 +315,7 @@ date: 2013-08-31 08:51:13
         </p>
         
         <p class="p5">
-          <img alt="" src="http://bryanbraun.com/sites/default/files/wp-content/uploads/multi-file-select_225.png" />
+          <img alt="" src="/assets/images/multi-file-select_225.png" />
         </p>
       </td>
     </tr>
@@ -327,7 +327,7 @@ date: 2013-08-31 08:51:13
         </p>
         
         <p class="p1">
-          <img alt="" src="http://bryanbraun.com/sites/default/files/wp-content/uploads/mobile-keyboard_225.png" />
+          <img alt="" src="/assets/images/mobile-keyboard_225.png" />
         </p>
       </td>
       
@@ -347,7 +347,7 @@ date: 2013-08-31 08:51:13
         </p>
         
         <p class="p5">
-          <img alt="" src="http://bryanbraun.com/sites/default/files/wp-content/uploads/mobile-keyboard-html5_225.png" />
+          <img alt="" src="/assets/images/mobile-keyboard-html5_225.png" />
         </p>
       </td>
     </tr>

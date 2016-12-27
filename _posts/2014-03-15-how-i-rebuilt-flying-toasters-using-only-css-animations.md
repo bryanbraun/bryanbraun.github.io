@@ -23,13 +23,13 @@ As a front-end developer, I started wondering if you could recreate the magic us
 Getting a character to move isn't new, and one of the classic techniques is to put together a "sprite sheet," which is an image that contains all the individual frames of your animation.
 
 <p style="text-align: center;">
-  <img alt="" src="/sites/default/files/sprites_super_mario.gif" style="width: 247px; height: 328px;" />
+  <img alt="" src="/assets/images/sprites_super_mario.gif" style="width: 247px; height: 328px;" />
 </p>
 
 You may have used sprites to capture the hover and active states of your menu buttons, but you can also use them for animations. In my case, I needed an image with the toaster in different phases of flapping. Here's what I came up with:
 
 <p style="text-align: center;">
-  <img alt="" src="http://bryanbraun.com/sites/default/files/toaster-sprite.gif" style="width: 256px; height: 64px;" />
+  <img alt="" src="/assets/images/toaster-sprite.gif" style="width: 256px; height: 64px;" />
 </p>
 
 To give it the appearance of motion, we need to hop rapidly from one frame to another. We do this by creating a box with a fixed width and height and putting in our image as a background image.
@@ -40,7 +40,7 @@ To give it the appearance of motion, we need to hop rapidly from one frame to an
     /* the CSS */
     .toaster {
       position: absolute;
-      background: url(/sites/default/files/toaster-sprite.gif);
+      background: url(/assets/images/toaster-sprite.gif);
       width: 64px;
       height: 64px;
     }
@@ -118,7 +118,7 @@ Now we have a single flying toaster. Whoo hoo!
 But what's a flying toaster without toast?
 
 <p style="text-align: center;">
-  <img alt="" src="/sites/default/files/toast1.gif" style="width: 64px; height: 64px;" />
+  <img alt="" src="/assets/images/toast1.gif" style="width: 64px; height: 64px;" />
 </p>
 
 Animating the toast is easier because it doesn't need to flap. We just get a single image of toast and move it across the screen. In fact, we can borrow the same position and keyframes we defined for the toaster.
@@ -128,7 +128,7 @@ Animating the toast is easier because it doesn't need to flap. We just get a sin
       position: absolute;
       width: 64px;
       height: 64px;
-      background-image: url("/sites/default/files/toast1.gif");
+      background-image: url("/assets/images/toast1.gif");
     }
 
     /**

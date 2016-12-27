@@ -7,7 +7,7 @@ date: 2013-05-20 07:20:51
 I released a new version of <a href="http://writer.bryanbraun.com/blog/introducing-writer" target="_blank" title="Introducing Writer">Writer</a> (a Drupal blogging theme, for developers) over the weekend.
 
 <p style="text-align: center;">
-  <img alt="" src="/sites/default/files/writer_screenshot.png" style="width: 100%; height: auto;" />
+  <img alt="" src="/assets/images/writer_screenshot.png" style="width: 100%; height: auto;" />
 </p>
 
 Here are some links if you want to learn more:

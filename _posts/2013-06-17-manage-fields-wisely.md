@@ -35,7 +35,7 @@ date: 2013-06-17 17:28:02
 </p>
 
 <p class="p1" style="text-align: center;">
-  <img alt="" src="http://bryanbraun.com/sites/default/files/fields-that-do-nothing.png" style="width: 353px; height: 176px;" />
+  <img alt="" src="/assets/images/fields-that-do-nothing.png" style="width: 353px; height: 176px;" />
 </p>
 
 <p class="p1">

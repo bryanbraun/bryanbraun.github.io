@@ -15,7 +15,7 @@ date: 2013-09-18 17:55:09
 </p>
 
 <p class="p1" style="text-align: center;">
-  <img alt="" src="http://www.bryanbraun.com/sites/default/files/drupal-customize-front-page.png" />
+  <img alt="" src="http://www.bryanbraun.com/assets/images/drupal-customize-front-page.png" />
 </p>
 
 <p class="p1">
@@ -29,7 +29,7 @@ date: 2013-09-18 17:55:09
 </p>
 
 <p class="p1" style="text-align: center;">
-  <img alt="" src="http://www.bryanbraun.com/sites/default/files/drupal-customize-date-types.png" />
+  <img alt="" src="http://www.bryanbraun.com/assets/images/drupal-customize-date-types.png" />
 </p>
 
 <p class="p1">
@@ -43,7 +43,7 @@ date: 2013-09-18 17:55:09
 </p>
 
 <p class="p1" style="text-align: center;">
-  <img alt="" src="http://www.bryanbraun.com/sites/default/files/drupal-customize-default-field.png" />
+  <img alt="" src="http://www.bryanbraun.com/assets/images/drupal-customize-default-field.png" />
 </p>
 
 <p class="p1">
@@ -57,7 +57,7 @@ date: 2013-09-18 17:55:09
 </p>
 
 <p class="p1" style="text-align: center;">
-  <img alt="" src="http://www.bryanbraun.com/sites/default/files/drupal-customize-comments.png" />
+  <img alt="" src="http://www.bryanbraun.com/assets/images/drupal-customize-comments.png" />
 </p>
 
 <p class="p1">
@@ -71,7 +71,7 @@ date: 2013-09-18 17:55:09
 </p>
 
 <p class="p1" style="text-align: center;">
-  <img alt="" src="http://www.bryanbraun.com/sites/default/files/drupal-display-modes-1.png" />
+  <img alt="" src="http://www.bryanbraun.com/assets/images/drupal-display-modes-1.png" />
 </p>
 
 <p class="p1">
@@ -79,7 +79,7 @@ date: 2013-09-18 17:55:09
 </p>
 
 <p class="p1" style="text-align: center;">
-  <img alt="" src="http://www.bryanbraun.com/sites/default/files/drupal-display-modes-2.png" />
+  <img alt="" src="http://www.bryanbraun.com/assets/images/drupal-display-modes-2.png" />
 </p>
 
 <p class="p1">

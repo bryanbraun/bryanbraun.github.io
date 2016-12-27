@@ -17,7 +17,7 @@ Anyone could publish a book like this (indeed, [several of you have][4]), but th
 Enter Bitbooks
 
 <p style="text-align: center;">
-  <a href="http://bitbooks.cc/"><img alt="" src="/sites/default/files/bitbooks-logo-long-sm.png" /></a>
+  <a href="http://bitbooks.cc/"><img alt="" src="/assets/images/bitbooks-logo-long-sm.png" /></a>
 </p>
 
 I'm currently working on a project called [Bitbooks][5], which aims to make that whole process easier. Bitbooks will be a service that allows developers of any experience level to write and publish a copy of their book online.
@@ -35,29 +35,29 @@ You write your book in Markdown, put the files on Github, and point Bitbooks at 
 Like Github pages, Bitbooks will provide you with a choice of themes you can use. Here's an early look at what I have in the works:
 
 <p style="text-align: center;">
-  <a href="/sites/default/files/glide-screenshot.png"><img alt="Glide Theme" src="/sites/default/files/glide-screenshot-sm.png" /></a>
+  <a href="/assets/images/glide-screenshot.png"><img alt="Glide Theme" src="/assets/images/glide-screenshot-sm.png" /></a>
 </p>
 
 <p style="text-align: center;">
-  <a href="/sites/default/files/epsilon screenshot.png"><img alt="Epsilon Theme" src="/sites/default/files/epsilon-screenshot-sm.png" /></a>
+  <a href="/assets/images/epsilon screenshot.png"><img alt="Epsilon Theme" src="/assets/images/epsilon-screenshot-sm.png" /></a>
 </p>
 
 <p style="text-align: center;">
-  <a href="/sites/default/files/epsilon%20screenshot%202.png"><img alt="Epsilon Theme" src="/sites/default/files/epsilon%20screenshot%202.png" /></a>
+  <a href="/assets/images/epsilon%20screenshot%202.png"><img alt="Epsilon Theme" src="/assets/images/epsilon%20screenshot%202.png" /></a>
 </p>
 
 [ ][7]
 
- [7]: /sites/default/files/epsilon%20screenshot%202.png
+ [7]: /assets/images/epsilon%20screenshot%202.png
 
 <p style="text-align: center;">
-  <a href="/sites/default/files/hamilton screenshot.png"><img alt="Hamilton Theme" src="/sites/default/files/hamilton-screenshot-sm.png" /></a>
+  <a href="/assets/images/hamilton screenshot.png"><img alt="Hamilton Theme" src="/assets/images/hamilton-screenshot-sm.png" /></a>
 </p>
 
 Of course, all themes will be fully responsive.
 
 <p style="text-align: center;">
-  <a href="/sites/default/files/bitbooks-mobile-sizes.png"><img alt="Responsive Themes" src="/sites/default/files/bitbooks-mobile-sizes-sm.png" /></a>
+  <a href="/assets/images/bitbooks-mobile-sizes.png"><img alt="Responsive Themes" src="/assets/images/bitbooks-mobile-sizes-sm.png" /></a>
 </p>
 
 From a feature perspective, I'm heavily influenced by what I consider to be the best implementation of an online book: Scott Chacon's [Pro Git][8]. Everything about it, from its SEO awareness to its support for downloads in multiple formats are examples to me of what a well implemented build could produce for you.
@@ -82,7 +82,7 @@ This project is founded on the principle that open source makes everything bette
 So, in the spirit of open source, I'll be releasing the static site framework that runs Bitbooks as an open source project called "Franklin."
 
 <p style="text-align: center;">
-  <img alt="" src="/sites/default/files/franklin_0.png" />
+  <img alt="" src="/assets/images/franklin_0.png" />
 </p>
 
 If [Octopress][12] is a static site framework, optimized for blogs, then Franklin will be a static site framework optimized for books. I'll have more details coming soon, so <a href="http://eepurl.com/ROwbb" target="_blank">subscribe here</a> if you want to stay in the loop.

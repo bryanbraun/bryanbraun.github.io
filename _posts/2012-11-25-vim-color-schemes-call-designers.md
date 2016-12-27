@@ -10,7 +10,7 @@ For background, Vim lets you create and edit text files in a command line, and "
   
 Anyways, there are tons of options for color schemes but this is what you find when you browse them.
 
-<img alt="See the full listing at http://code.google.com/p/vimcolorschemetest/" src="/sites/default/files/vim_color_schemes_sm.png" style="width: 800px; height: 433px;" />
+<img alt="See the full listing at http://code.google.com/p/vimcolorschemetest/" src="/assets/images/vim_color_schemes_sm.png" style="width: 800px; height: 433px;" />
 
 Seriously? I mean, I get that the project is [open source][1], which has the side effect of inviting in the unfinished whims of the hobbyists everywhere but this is just absurd. Just look at the blue one in the top right. It's hard for me to believe that there are people out there who make these designs and aren't too embarrassed to publicly contribute them. I look at these and think that all it would take is for a designer to come in and pop out three or four polished designs in a weekend and just clean up shop. Such a contribution would quickly bubble to the top, since everybody wants a better experience. Right?  
   

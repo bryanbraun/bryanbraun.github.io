@@ -11,7 +11,7 @@ I'm going to be glossing over a lot of details and taking some liberties as I de
 ## What is Docker?
 
 <p style="text-align: center;">
-  <img alt="" src="/sites/default/files/Docker_%28container_engine%29_logo.png" />
+  <img alt="" src="/assets/images/Docker_%28container_engine%29_logo.png" />
 </p>
 
 People keep talking about [Docker][1], and you keep seeing that clever whale graphic. Looks like this is starting to turn into a thing, so what is it all about?
@@ -39,13 +39,13 @@ With Docker, you package up the entire environment into something called a "ligh
  [3]: http://www.slideshare.net/dotCloud/why-docker2bisv4
 
 <p style="text-align: center;">
-  <img alt="An intermodal shipping container." src="/sites/default/files/XSmall_ShippingContainer.jpg" />
+  <img alt="An intermodal shipping container." src="/assets/images/XSmall_ShippingContainer.jpg" />
 </p>
 
 Pre-1960, shipping things was really difficult, because there were many forms of transport (boat, truck, train, etc.) and many kinds of goods (food, fabric, cars, etc), each with their own shipping considerations (temperature, light, fragility, etc). The solution was the intermodal shipping container: a universal sealed container that can be used to move anything. This container could be loaded, unloaded, stacked, and transferred from one mode of transportation to another, and provided a consistent interface for any equipment that needed to handle it.
 
 <p style="text-align: center;">
-  <img alt="Various benefits of an intermodal shipping container." src="/sites/default/files/intermodal-shipping-container.png" />
+  <img alt="Various benefits of an intermodal shipping container." src="/assets/images/intermodal-shipping-container.png" />
 </p>
 
 Normally you move your code from one environment to another, and pray that it works. With Docker, you put your code *and your environment* into one of these containers, and you move the container from place to place. This means it will always work the same, no matter where you run it.

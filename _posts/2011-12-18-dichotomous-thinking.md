@@ -30,13 +30,13 @@ It's the same kind of mental laziness that comes up with all those clever stereo
 
 Of course, we're willing to accept that cost. Humans are easily polarized, and we accept that. For an example, I'll use the following two books:
 
-1.  <a href="http://www.amazon.com/Rush-Limbaugh-Big-Fat-Idiot/dp/0440508649" target="_blank" title="Rush Limbaught is a big Fat Idiot">Rush Limbaugh is a Big Fat Idiot</a>
+1.  <a href="http://www.amazon.com/Rush-Limbaugh-Big-Fat-Idiot/dp/0440508649" target="_blank" title="Rush Limbaugh is a big Fat Idiot">Rush Limbaugh is a Big Fat Idiot</a>
 2.  <a href="http://www.amazon.com/Islam-Is-of-the-Devil/dp/1616381728" target="_blank" title="Islam is of the Devil">Islam is of the Devil</a>
 
 Now, realize that I've never read either of these books, nor do I condone reading them. This is dichotomous thinking in its finest (although, part of it is marketing. How would it affect book sales if Al Franken titled his book "Rush Limbaugh is *Sometimes* a Big Fat Idiot.") It is an interesting exercise to look at the reviews these books have received on Amazon.com. By and large, people react to these authors viewpoints by either strongly agreeing or strongly disagreeing. For both of these books there are more 1-star or 5-star reviews than 2, 3, and 4-star reviews combined.
 
 <div style="width: 130px;float:right;">
-  <a href="http://bryanbraun.com/2011/12/18/dichotomous-thinking/justin_bieber/" rel="attachment wp-att-866"><img alt="" class="size-thumbnail wp-image-866 " height="120" src="http://bryanbraun.com/wp-content/uploads/Justin_Bieber-150x150.jpg" title="Justin_Bieber" width="120" /></a><p>
+  <a href="http://bryanbraun.com/2011/12/18/dichotomous-thinking/justin_bieber/" rel="attachment wp-att-866"><img alt="Justin Bieber" height="120" src="/assets/images/Justin_Bieber" title="Justin_Bieber" width="120" /></a><p>
     The Biebz.
   </p>
 </div>

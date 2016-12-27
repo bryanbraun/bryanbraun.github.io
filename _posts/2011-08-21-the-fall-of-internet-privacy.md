@@ -12,25 +12,25 @@ You may not be aware of it, but person to person interactions happen everyday on
 
 ### 1. <a href="http://www.ebay.com/" target="_blank" title="ebay.com - online shopping and bidding">Ebay.com </a>
 
-<a href="http://bryanbraun.com/2011/08/21/the-fall-of-internet-privacy/ebay_listings/" rel="attachment wp-att-658"><img alt="" class="alignright size-full wp-image-658" src="/sites/default/files/wp-content/uploads/ebay_listings.jpg" style="width: 100%;" title="ebay_listings" /></a>
+<a href="http://bryanbraun.com/2011/08/21/the-fall-of-internet-privacy/ebay_listings/" rel="attachment wp-att-658"><img alt="" class="alignright size-full wp-image-658" src="/assets/images/ebay_listings.jpg" style="width: 100%;" title="ebay_listings" /></a>
 
 Person to person sale for used goods... kind of like an online garage sale. Users know that sellers are trustworthy because previous buyers rate their experience with them out of 5 stars. The more ratings and stars they have, the more you can trust that they won't run off with your money.
 
 ### 2. <a href="http://www.airbnb.com/" target="_blank" title="airbnb.com">Airbnb.com </a>
 
-<a href="http://bryanbraun.com/2011/08/21/the-fall-of-internet-privacy/airbnb_listing/" rel="attachment wp-att-657"><img alt="" class="alignright size-full wp-image-657" src="/sites/default/files/wp-content/uploads/airbnb_listing.jpg" style="width: 100%;" title="airbnb_listing" /></a>
+<a href="http://bryanbraun.com/2011/08/21/the-fall-of-internet-privacy/airbnb_listing/" rel="attachment wp-att-657"><img alt="" class="alignright size-full wp-image-657" src="/assets/images/airbnb_listing.jpg" style="width: 100%;" title="airbnb_listing" /></a>
 
 A site allowing normal people to offer up rooms in their homes as a mini bed-and-breakfast where a traveler can spend the night. User ratings and recommendations from Facebook friends help you know that you can trust the person who is opening up their home to you.
 
 ### 3. <a href="http://www.prosper.com/" target="_blank" title="Prosper.com - Personal Loans and Online Investing">Prosper.com </a>
 
-<a href="http://bryanbraun.com/2011/08/21/the-fall-of-internet-privacy/prosper_ranking/" rel="attachment wp-att-656"><img alt="" class="alignright size-full wp-image-656" src="/sites/default/files/wp-content/uploads/Prosper_Ranking.jpg" style="width: 100%;" title="Prosper_Ranking" /></a>
+<a href="http://bryanbraun.com/2011/08/21/the-fall-of-internet-privacy/prosper_ranking/" rel="attachment wp-att-656"><img alt="" class="alignright size-full wp-image-656" src="/assets/images/Prosper_Ranking.jpg" style="width: 100%;" title="Prosper_Ranking" /></a>
 
 A site for person-to-person money lending which allows both parties to get a better interest rate than the one at the bank. Prosper keeps track of payment history on users and gives them a credit rating, so you know who is most likely to pay you back completely and on time.
 
 ### 4. <a href="http://www.vayable.com/" target="_blank" title="vayable.com - Experience the world differently">Vayable.com </a>
 
-<a href="http://bryanbraun.com/2011/08/21/the-fall-of-internet-privacy/vayable_experiences/" rel="attachment wp-att-655"><img alt="" class="alignright size-full wp-image-655" src="/sites/default/files/wp-content/uploads/vayable_experiences.jpg" style="width: 100%;" title="vayable_experiences" /></a>
+<a href="http://bryanbraun.com/2011/08/21/the-fall-of-internet-privacy/vayable_experiences/" rel="attachment wp-att-655"><img alt="" class="alignright size-full wp-image-655" src="/assets/images/vayable_experiences.jpg" style="width: 100%;" title="vayable_experiences" /></a>
 
 A community where individuals offer to give you an exciting experience for a small price, like a tour of San Francisco by motorcycle, or enjoying the best tastes of Chinatown in NYC. People who have had the experience vote if the loved it and share a blurb about their experience, letting you know that it is safe and enjoyable.
 
@@ -47,7 +47,7 @@ And it doesn't stop there. Everybody is glancing at your Facebook profile, inclu
 Every time you are tagged in a Facebook photo, every time you update your status, every time you post something on Twitter, it is archived away like a rich personal history. If you are like most Facebook users, every one of you Facebook statuses goes out into cyberspace and is findable by anyone on the planet (as <a href="http://youropenbook.org/" target="_blank" title="Your Open Book">demonstrated rather bluntly by the guys at openbook</a>). Even <a href="http://plus.google.com" target="_blank" title="Google Plus">Google+</a> which knocks Facebook's socks off with its sophisticated privacy and filtering features requires users to sign up under their real identity... no pseudonyms here. And it isn't just the social networks. Phonebooks, public listings, maps, real estate records, marketing surveys, and more documents are uploaded every day. And this is just the tip of the iceberg. No matter how stringent you are about your privacy settings, you cannot hide from the rising tide of public, private, information.
 
 <p style="text-align: center;">
-  <a href="http://bryanbraun.com/2011/08/21/the-fall-of-internet-privacy/privacy_graphic/" rel="attachment wp-att-666"><img alt="" class="aligncenter size-full wp-image-666" height="593" src="/sites/default/files/wp-content/uploads/privacy_graphic.jpg" title="privacy_graphic" width="730" /></a>
+  <a href="http://bryanbraun.com/2011/08/21/the-fall-of-internet-privacy/privacy_graphic/" rel="attachment wp-att-666"><img alt="" class="aligncenter size-full wp-image-666" height="593" src="/assets/images/privacy_graphic.jpg" title="privacy_graphic" width="730" /></a>
 </p>
 
 Do you see where this is going? All it will take is someone who can gather all this information together, including your online "reputation", and there will be a searchable and complete digital representation of who you really are. People will then be able to see if they can trust you through a quick internet search.

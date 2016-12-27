@@ -16,4 +16,4 @@ Credibility is more valuable than looking like you know some obscure bit of know
 
 <small>PS: "I don't know. Let me do some research on that and I'll get back to you" is a solid response in any situation. Especially when you follow through consistently and well.</small>
 
-[1]: /sites/default/files/i-dont-know.png
+[1]: /assets/images/i-dont-know.png

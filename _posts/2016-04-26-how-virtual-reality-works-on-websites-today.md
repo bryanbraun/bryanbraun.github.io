@@ -23,7 +23,7 @@ Web Virtual-Reality (or WebVR) allows developers to build contained VR experienc
 This is what a WebVR scene looks like in a supported browser:
 
 <p style="text-align: center;">
-  <img alt="The 'Hello World' example, from Aframe" src="/sites/default/files/aframe-vr-example.png" />
+  <img alt="The 'Hello World' example, from Aframe" src="/assets/images/aframe-vr-example.png" />
 </p>
 
 As you might imagine, this won't provide a good virtual-reality experience unless you are looking at it though VR goggles, like an [Oculus Rift][1] or [Google Cardboard][2].

@@ -18,14 +18,14 @@ How did you do on the quiz question above? States von Oech, "If you chose figure
 
 So I ask myself, why do we pick an answer and assume it is the only right one? Think about it... we go through 12 years of school where we are taught factoids about the world. We take hundreds of exams, all teaching us that there is one correct answer to each problem. The fact is that in the real world this just isn't true. There are thousands of ways to increase profits in a company. I could be happy and successful in a variety of careers. There are many causes of global warming, both natural and unnatural. Indeed, believing in only one correct answer can be debilitating. As Karl Albrecht points out, if we are forever getting down to exclusively brass tacks, then we shall never have the opportunity to consider steel tacks, copper tacks, plastic tacks, sailing tacks, income tax, syntax, or contacts!
 
-Another thing I learned was the importance of play. Do you every wonder why we get our best ideas in the shower? We do our best thinking when we aren't thinking about thinking! [<img alt="" class="size-full wp-image-244 alignright" height="143" src="/sites/default/files/wp-content/uploads/dodecahedron_web.jpg" style="margin-left: 30px; margin-right: 30px;" title="dodecahedron_web" width="180" />][1]In this light, von Oech recommends finding some way to empty your mind, like playing with a small object. Taking his suggestion, I got some cardboard and built a dodecahedron to play with. It is more fun than I could have ever imagined. [<img alt="Bryan Plays 1" class="aligncenter" src="/sites/default/files/wp-content/uploads/1.jpg" />][2] [<img alt="Bryan Plays 2" class="aligncenter" src="/sites/default/files/wp-content/uploads/2.jpg" />][3] [<img alt="Bryan Plays 3" class="aligncenter" src="/sites/default/files/wp-content/uploads/3.jpg" />][4] [<img alt="Bryan Plays 4" class="aligncenter" src="/sites/default/files/wp-content/uploads/4.jpg" />][5] [<img alt="Bryan Plays 5" class="aligncenter" src="/sites/default/files/wp-content/uploads/5.jpg" />][6]
+Another thing I learned was the importance of play. Do you every wonder why we get our best ideas in the shower? We do our best thinking when we aren't thinking about thinking! [<img alt="" class="size-full wp-image-244 alignright" height="143" src="/assets/images/dodecahedron_web.jpg" style="margin-left: 30px; margin-right: 30px;" title="dodecahedron_web" width="180" />][1]In this light, von Oech recommends finding some way to empty your mind, like playing with a small object. Taking his suggestion, I got some cardboard and built a dodecahedron to play with. It is more fun than I could have ever imagined. [<img alt="Bryan Plays 1" class="aligncenter" src="/assets/images/1.jpg" />][2] [<img alt="Bryan Plays 2" class="aligncenter" src="/assets/images/2.jpg" />][3] [<img alt="Bryan Plays 3" class="aligncenter" src="/assets/images/3.jpg" />][4] [<img alt="Bryan Plays 4" class="aligncenter" src="/assets/images/4.jpg" />][5] [<img alt="Bryan Plays 5" class="aligncenter" src="/assets/images/5.jpg" />][6]
 
- [1]: /sites/default/files/wp-content/uploads/dodecahedron_web.jpg
- [2]: /sites/default/files/wp-content/uploads/1.jpg
- [3]: /sites/default/files/wp-content/uploads/2.jpg
- [4]: /sites/default/files/wp-content/uploads/3.jpg
- [5]: /sites/default/files/wp-content/uploads/4.jpg
- [6]: /sites/default/files/wp-content/uploads/5.jpg
+ [1]: /assets/images/dodecahedron_web.jpg
+ [2]: /assets/images/1.jpg
+ [3]: /assets/images/2.jpg
+ [4]: /assets/images/3.jpg
+ [5]: /assets/images/4.jpg
+ [6]: /assets/images/5.jpg
 
 That, my friends, is the face of a man who is about to have a brilliant idea.
 

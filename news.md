@@ -16,7 +16,7 @@ title: In the News
 
 <small>Other projects I can't disclose (due to NDAs) have been featured in publications like The Washington Post, Bloomberg, and Vox.</small>
 
-[1]: http://bryanbraun.com/wp-content/uploads/eagle.pdf
+[1]: http://bryanbraun.com/assets/documents/eagle.pdf
 [2]: http://www.spokesman.com/stories/2005/aug/13/cv-graduate-earns-mcdonalds-scholarship/
 [3]: http://www.spokesman.com/stories/2005/nov/26/city-school-students-learning-bridge/#CVAPStudents
 [4]: http://me.byu.edu/news/modern-nephites-engineering-students-build-steel-bows-shooting-competition

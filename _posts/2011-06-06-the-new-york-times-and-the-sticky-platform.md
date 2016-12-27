@@ -18,10 +18,10 @@ Wait a minute. If this is true, then why is the New York Times so incredibly pop
 
 Clearly, the problem lies with me, not the New York Times. To be honest, I had a hard time understanding it. I mean, seriously. What is a hedge fund? Where on earth is Yemen? And what does the word "subpoenaed" even mean? Heck, I'm used to reading The Daily Universe where every other article is about dating etiquette, or Jimmer Fredette. It's great, but it's not exactly the most intellectually stimulating reading material out there. When you don't understand what you're reading, it is difficult to remember (or enjoy) because it doesn't "stick" (I am suddenly reminded of late nights as a freshman, chugging through my chemistry textbook). It was once explained to me that the mind is like a "sticky platform".
 
-[<img alt="" class="size-medium wp-image-527 alignright" src="http://bryanbraun.com/wp-content/uploads/Sticky11-300x182.png" style="width: 300px; height: 182px; float: left;" title="Sticky Platform 1" />][2][<img alt="" class="size-medium wp-image-528 alignright" src="http://bryanbraun.com/wp-content/uploads/Sticky21-300x174.png" style="width: 300px; height: 174px; float: right;" title="Sticky Platform 2" />][3]
+[<img alt="" class="size-medium wp-image-527 alignright" src="/assets/images/Sticky11.png" style="width: 300px; height: 182px; float: left;" title="Sticky Platform 1" />][2][<img alt="" class="size-medium wp-image-528 alignright" src="/assets/images/Sticky21.png" style="width: 300px; height: 174px; float: right;" title="Sticky Platform 2" />][3]
 
- [2]: /sites/default/files/wp-content/uploads/Sticky11.png
- [3]: /sites/default/files/wp-content/uploads/Sticky21.png
+ [2]: /assets/images/Sticky11.png
+ [3]: /assets/images/Sticky21.png
 
  
 
@@ -38,7 +38,7 @@ The platform is comprised of everything you already know and understand, whereas
 On the other hand, if it is closely related to something you know, it will float close enough to "stick" to the platform. Congratulations! You just learned something new! This concept is pretty intuitive. Consider the way we learn math. We could start teaching calculus to 1st graders, but that box is floating way up there, and there's no way it will stick. Instead, we start with numbers, counting, arithmetic, algebra, and trigonometry. Only then, will we be able to give calculus something to stick to. Maybe. (Calculus can be elusive...)
 
 <p style="text-align: center;">
-  <a href="/sites/default/files/wp-content/uploads/Sticky-Platform-31.png"><img alt="" class="aligncenter size-full wp-image-524" height="271" src="/sites/default/files/wp-content/uploads/Sticky-Platform-31.png" title="Sticky Platform 3" width="710" /></a>
+  <a href="/assets/images/Sticky-Platform-31.png"><img alt="" class="aligncenter size-full wp-image-524" height="271" src="/assets/images/Sticky-Platform-31.png" title="Sticky Platform 3" width="710" /></a>
 </p>
 
 Others would call this learning "line upon line, and precept upon precept" (Does that ring a bell? Cue that <a href="http://www.youtube.com/watch?v=9yQkz77CngI" target="_blank" title="Line upon Line">"Saturday's Warrior" Music</a>).

@@ -14,4 +14,4 @@ One of the Drupal project's greatest strengths is its system of modules, but let
 
 What if it were that difficult to install a Google Chrome plugin? How many of your friends and family would be downloading Chrome plugins?
 
-I'm aware that <a href="http://drupal.org/project/apps" target="_blank" title="Drupal Apps">many</a> <a href="http://bryanbraun.com/sites/default/files/drupal-gardens-extend-ui.png" target="_blank" title=" Drupal Gardens">attempts</a> have been made to simplify this process, but for out-of-the-box Drupal we still have a long way to go.
+I'm aware that <a href="http://drupal.org/project/apps" target="_blank" title="Drupal Apps">many</a> <a href="/assets/images/drupal-gardens-extend-ui.png" target="_blank" title=" Drupal Gardens">attempts</a> have been made to simplify this process, but for out-of-the-box Drupal we still have a long way to go.

@@ -9,7 +9,7 @@ Last week I landed myself a parking citation.
 This is me, clearly upset about the situation.
 
 <p style="text-align: center;">
-  <a href="http://bryanbraun.com/2011/07/06/nothing-bad-ever-happens/feelin-bad/" rel="attachment wp-att-555"><img alt="" class="aligncenter size-full wp-image-555" height="465" src="/sites/default/files/wp-content/uploads/Feelin-Bad.jpg" title="Feelin-Bad" width="446" /></a>
+  <a href="http://bryanbraun.com/2011/07/06/nothing-bad-ever-happens/feelin-bad/" rel="attachment wp-att-555"><img alt="" class="aligncenter size-full wp-image-555" height="465" src="/assets/images/Feelin-Bad.jpg" title="Feelin-Bad" width="446" /></a>
 </p>
 
 If that wasn't enough, over the weekend a truck backed into my car which was parked on the street. Naturally, it left a sizable dent in the passenger door while the truck sustained no damage.

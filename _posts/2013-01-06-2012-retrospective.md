@@ -21,7 +21,7 @@ Our family grew by 33%, if you count number of people, or only by 3.5%, if you a
 It was also the first year I:
 
 <a href="http://alchemist.bryanbraun.com/" target="_blank" title="Lower your expectations.">Programmed a game</a>  
-<a href="http://bryanbraun.com/wp-content/uploads/acquia_ad.JPG" target="_blank" title="If I were 17 again, I'd use Facebook ads to help me run for student body president. It would be the talk of the school... which is important if you are running for student body president.">Put up a Facebook ad</a>  
+<a href="/assets/images/acquia_ad.JPG" target="_blank" title="If I were 17 again, I'd use Facebook ads to help me run for student body president. It would be the talk of the school... which is important if you are running for student body president.">Put up a Facebook ad</a>  
 [Spoke on a radio show][5]  
 <a href="http://bryanbraun.com/2012/09/09/which-i-explain-how-i-got-my-dream-job" target="_blank" title="In which I explain how I got my dream job">Landed a salary</a>  
 Saw <a href="http://www.mnh.si.edu/exhibits/ocean_hall/squid.html" target="_blank" title="That's right. They exist.">a giant squid</a>  

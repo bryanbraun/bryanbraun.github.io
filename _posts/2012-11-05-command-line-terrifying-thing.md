@@ -7,7 +7,7 @@ date: 2012-11-05 05:01:09
 The command line is a terrifying thing.
 
 <p style="text-align: center;">
-  <img alt="" src="/sites/default/files/cmdprompt.gif" style="width: 669px; height: 338px;" />
+  <img alt="" src="/assets/images/cmdprompt.gif" style="width: 669px; height: 338px;" />
 </p>
 
 It sits motionless. Black as a moonless night. Waiting.
@@ -20,6 +20,6 @@ Learning to use a command line after using a graphical interface is like waking 
 
 But you cannot. Like a wanderer without a map, the user sees the command line as uncharted territory. A desert wasteland. Uninhabitable.
 
-<img alt="" src="/sites/default/files/Screen%20Shot%202012-11-06%20at%2011.49.02%20PM.png" style="width: 800px; height: 293px;" />
+<img alt="" src="/assets/images/Screen%20Shot%202012-11-06%20at%2011.49.02%20PM.png" style="width: 800px; height: 293px;" />
 
 See the resemblance?

@@ -16,9 +16,9 @@ Here are a couple ideas I recently put in there.
 
 ### 1. The Moon Mill
 
-### [<img alt="My Book of Impossible Ideas" class="size-full wp-image-428     alignright" height="249" src="http://bryanbraun.com/wp-content/uploads/my-idea-book.jpg" style="margin-left: 20px; margin-bottom: 15px;" width="191" />][1]
+### [<img alt="My Book of Impossible Ideas" class="size-full wp-image-428     alignright" height="249" src="/assets/images/my-idea-book.jpg" style="margin-left: 20px; margin-bottom: 15px;" width="191" />][1]
 
- [1]: http://bryanbraun.com/wp-content/uploads/my-idea-book.jpg
+ [1]: /assets/images/my-idea-book.jpg
 
 I was thinking about solar energy and I realized that almost every kind of energy we use on this planet came from the Sun. The energy in food, hydroelectric power, even fossil fuels can trace their energy back to the Sun. So I started to wonder where we could get energy that didn't come from the Sun. That's when I realized that there is an incredible amount of kinetic energy stored in the momentum of the Moon as it orbits the earth. Maybe we could take some energy from it's motion just like a mill takes energy from moving water (see diagrams).
 

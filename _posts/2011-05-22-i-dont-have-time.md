@@ -21,7 +21,7 @@ The principle is true. Time is not a commodoty like money or soybeans or water. 
 A few years ago I spent a week recording how I used my time each day in my journal. I divided my 24 hour day into a pie chart, and represented the days activities via slices of the pie. The activity was designed to help me better see how I used my time that day. The results were shocking. (this specific image was one of my better days... I don't want to incriminate myself too badly)
 
 <p style="text-align: center;">
-  <img alt="A pie chart of the day's activities." class="size-full wp-image-481" src="/sites/default/files/wp-content/uploads/accounting-for-my-time.jpg" style="width: 727px; height: 656px;" title="I don't have time" />
+  <img alt="A pie chart of the day's activities." class="size-full wp-image-481" src="/assets/images/accounting-for-my-time.jpg" style="width: 727px; height: 656px;" title="I don't have time" />
 </p>
 
 In general, it was hard for me to believe how much time I spent on unnecessary things (me? productive me?!?). After one week of accounting for my days in this manner, I had a much better understanding of how I *really *spent my time. We start each day with an empty pie and fill it up with stuff until it's time to go to bed.

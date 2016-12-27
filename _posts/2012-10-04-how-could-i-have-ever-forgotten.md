@@ -52,4 +52,4 @@ Ultimately, if fame, respect, or importance, ever causes me to be like the man i
 
 Here's looking at you kid.
 
-<img alt="" src="/sites/default/files/wp-content/uploads/felipe2.JPG" style="width: 304px; height: 301px; margin: 0px auto; " />
+<img alt="" src="/assets/images/felipe2.JPG" style="width: 304px; height: 301px; margin: 0px auto; " />

@@ -9,7 +9,7 @@ I'm as guilty as anybody is for wasting time online. Anyone who's spent an 3 hou
 ## 1. Shop to Donate
 
 <p style="text-align: center;">
-  <a href="http://bryanbraun.com/2011/07/24/5-ways-to-do-good-on-the-internet/shop-to-donate/" rel="attachment wp-att-608"><img alt="Shop to Donate" src="/sites/default/files/wp-content/uploads/Shop-to-donate.jpg" style="width: 580px; height: 164px;" title="Shop-to-donate" /></a>
+  <a href="http://bryanbraun.com/2011/07/24/5-ways-to-do-good-on-the-internet/shop-to-donate/" rel="attachment wp-att-608"><img alt="Shop to Donate" src="/assets/images/Shop-to-donate.jpg" style="width: 580px; height: 164px;" title="Shop-to-donate" /></a>
 </p>
 
 If you do any of your shopping online, then try shopping through <a href="http://www.buy4.com" target="_blank" title="buy4.com">buy4.com</a>. There's a good chance that you'll be able to buy the same things at the same price, with 30% of the money going to your favorite cause. Learn more from this video.
@@ -22,7 +22,7 @@ Other sites like <a href="http://www.igive.com" target="_blank" title="iGive">iG
 ## 2. Click to Donate
 
 <p style="text-align: center;">
-  <a href="http://bryanbraun.com/2011/07/24/5-ways-to-do-good-on-the-internet/click-to-donate/" rel="attachment wp-att-609"><img alt="Click to Donate" src="/sites/default/files/wp-content/uploads/Click-to-donate.jpg" style="width: 567px; height: 393px;" title="Click-to-donate" /></a>
+  <a href="http://bryanbraun.com/2011/07/24/5-ways-to-do-good-on-the-internet/click-to-donate/" rel="attachment wp-att-609"><img alt="Click to Donate" src="/assets/images/Click-to-donate.jpg" style="width: 567px; height: 393px;" title="Click-to-donate" /></a>
 </p>
 
 Find a cause you like, click the button, and a third party donates money to the cause. If you think it's too good to be true, check out <a href="http://care2.com/click-to-donate" target="_blank" title="Click-to-donate">www.care2.com/click-to-donate</a>. You can click one time each day for a variety of causes. You don't even need to create an account or give anyone your personal information. It's that easy.
@@ -30,21 +30,21 @@ Find a cause you like, click the button, and a third party donates money to the 
 ## 3. Search to Donate
 
 <p style="text-align: center;">
-  <a href="http://bryanbraun.com/2011/07/24/5-ways-to-do-good-on-the-internet/search-to-donate/" rel="attachment wp-att-610"><img alt="Search to Donate" src="/sites/default/files/wp-content/uploads/Search-to-donate.jpg" style="width: 598px; height: 276px;" title="Search-to-donate" /></a>
+  <a href="http://bryanbraun.com/2011/07/24/5-ways-to-do-good-on-the-internet/search-to-donate/" rel="attachment wp-att-610"><img alt="Search to Donate" src="/assets/images/Search-to-donate.jpg" style="width: 598px; height: 276px;" title="Search-to-donate" /></a>
 </p>
 
 Now you can give to charity just by searching the internet (which you already do all the time anyways). At <a href="http://www.goodsearch.com" target="_blank" title="goodsearch.com">goodsearch.com</a>, you choose a charity and every time you run a search, they will donate money to that charity. While it doesn't trump Google in search result quality (can anyone?), from my test run it did just fine. What's more, if you use Firefox you can download <a href="https://addons.mozilla.org/en-US/firefox/addon/goodsearch-9674/" target="_blank" title="Goodsearch Firefox Add-on">this add-on</a> which adds goodsearch to your search bar in the top right corner of your browser.
 
 ## 4. Give a Microloan
 
-<a href="http://bryanbraun.com/2011/07/24/5-ways-to-do-good-on-the-internet/logo_kiva/" rel="attachment wp-att-611"><img alt="Kiva.org" class="size-full wp-image-611 alignright" height="64" src="/sites/default/files/wp-content/uploads/logo_kiva.png" title="logo_kiva" width="121" /></a>
+<a href="http://bryanbraun.com/2011/07/24/5-ways-to-do-good-on-the-internet/logo_kiva/" rel="attachment wp-att-611"><img alt="Kiva.org" class="size-full wp-image-611 alignright" height="64" src="/assets/images/logo_kiva.png" title="logo_kiva" width="121" /></a>
 
 <a href="http://www.kiva.org" target="_blank" title="Kiva">Kiva.org</a> allows you to loan a small amount of money (starting at $25) to an entrepreneur in an underdeveloped country. It's a small amount of money, and with a repayment rate of nearly 99% you can rest assured that you'll get it back. Plus, the money goes straight to the people who have an idea, only lacking the money to get it started. I can't think of a more painless way to assist developing countries on such a personal level. Kiva's just plain cool (and <a href="http://www.kiva.org/about/stats" target="_blank" title="kiva.org Statistics">their stats</a> are too). Read some bios of the people who are looking for funding at <a href="http://www.kiva.org/lend" target="_blank" title="Kiva Entrepreneurs">www.kiva.org/lend</a>. I think you'll like what you see.
 
 ## 5. Volunteer a Talent
 
 <p style="text-align: center;">
-  <a href="http://bryanbraun.com/2011/07/24/5-ways-to-do-good-on-the-internet/volunteermatch/" rel="attachment wp-att-612"><img alt="" src="/sites/default/files/wp-content/uploads/VolunteerMatch.jpg" style="width: 551px; height: 205px;" title="VolunteerMatch" /></a>
+  <a href="http://bryanbraun.com/2011/07/24/5-ways-to-do-good-on-the-internet/volunteermatch/" rel="attachment wp-att-612"><img alt="" src="/assets/images/VolunteerMatch.jpg" style="width: 551px; height: 205px;" title="VolunteerMatch" /></a>
 </p>
 
 If you have a useful talent, you can volunteer to share it with non-profits with a tight budget. This is great for writers, designers, website builders, and pretty much any other service that can be outsourced. Websites like <a href="http://www.volunteermatch.org/" target="_blank" title="VolunteerMatch">VolunteerMatch</a> and <a href="http://www.smartvolunteer.org/" target="_blank" title="Smart Volunteer">Smart Volunteer</a> make it easy to connect talented professionals to the organizations in need. Pretty slick.
@@ -52,7 +52,7 @@ If you have a useful talent, you can volunteer to share it with non-profits with
 ## 6. Play a Game
 
 <p style="text-align: center;">
-  <a href="http://bryanbraun.com/2011/07/24/5-ways-to-do-good-on-the-internet/free-rice-2/" rel="attachment wp-att-615"><img alt="" src="/sites/default/files/wp-content/uploads/Free-Rice1.jpg" style="width: 578px; height: 349px;" title="Free Rice" /></a>
+  <a href="http://bryanbraun.com/2011/07/24/5-ways-to-do-good-on-the-internet/free-rice-2/" rel="attachment wp-att-615"><img alt="" src="/assets/images/Free-Rice1.jpg" style="width: 578px; height: 349px;" title="Free Rice" /></a>
 </p>
 
 How do you donate food to UN World Food Program while sharpening your vocab at the same time? At <a href="http://www.freerice.com/" target="_blank" title="Free Rice">freerice.com</a>, every quiz question you answer correctly donates 10 grains of rice. It's a fun way to test your knowledge in English, Math, Geography, Chemistry, or any other subject you choose. This and other socially considerate gaming sites (like <a href="http://doubleimpact.com/" target="_blank" title="Double Impact">Double Impact</a> or <a href="http://www.gamesforchange.org/" target="_blank" title="Games for Change">Games for Change</a>) are really making helping others fun. &nbsp; So next time you catch yourself browsing YouTube for the next <a href="http://www.youtube.com/show/songifythis" target="_blank" title="Songify This!">Gregory Brothers song </a>think twice, and take a moment to <a href="http://www.care2.com/click-to-donate/rainforest/" target="_blank" title="Save the Rainforest">click a button</a> or <a href="http://freerice.com/" target="_blank" title="Free Rice">answer a vocab question</a>. That warm fuzzy feeling sure beats that feeling you get after a YouTube binge.

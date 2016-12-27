@@ -25,7 +25,7 @@ What happens if, for some crazy reason, we only get through half of the work don
 Focusing on the Minimum Viable Product means that we start by sprinting towards building something that will do the job, even if poorly. Then we get feedback and iterate, delivering better and better workable versions until we run out of time. It ends up looking like this:
 
 <p style="text-align: center;">
-  <img alt="" src="/sites/default/files/mvp.jpeg" />
+  <img alt="" src="/assets/images/mvp.jpeg" />
 </p>
 
 Since our project was high-profile, failure would have been very visible--the perfect brew for emotions and stress to run rampant. Having an MVP mentality reduced risk for everybody involved and the feedback we got along the way resulted in a better product.

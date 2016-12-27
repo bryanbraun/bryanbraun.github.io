@@ -7,7 +7,7 @@ date: 2012-04-22 08:42:05
 So for the last two semesters a couple of engineering students and I have been working on a problem: How do you safely and easily climb up a wall that has no climbing features. In other words, we want to get up something like this:
 
 <p style="text-align: center;">
-  <img alt="An unfeatured wall." src="http://bryanbraun.com/wp-content/uploads/plain_wall.jpg" style="width: 439px; height: 469px;" />
+  <img alt="An unfeatured wall." src="/assets/images/plain_wall.jpg" style="width: 439px; height: 469px;" />
 </p>
 
 We were given about six months to develop the hardware that would enable us to climb a 90 ft wall just like this one. The constraints on our problem were many. Our solution needed to fit in a backpack (so much for that <a href="http://www.youtube.com/watch?v=U_QOLk1V7sw" target="_blank" title="Go, go, gadget helicopter!">personal helicopter idea</a>). It needed to be fast and effective, allowing four people to climb to the top of the wall in 20 minutes. Most of all, it needed to work, since we would be competing with it at the end of April 2012.
@@ -21,7 +21,7 @@ But we kept trying. We tried everything we possibly could think of (within the c
 What was it? We developed a rocket-shaped projectile that slides over the barrel of a standard US Military rifle. When the trigger is pulled, a bullet gets lodged in our projectile and launches it through the air. The nose of the rocket can be swapped out to accept a variety of different attachment objects: One containing an adhesive-based attachment, one that contains an anchor driver (similar <a href="http://www.youtube.com/watch?v=MD-yAjSPgwU" target="_blank" title="minus the awful techno...">to this</a>), and one that attaches to a grappling hook. By building a modular solution, you can see that we can attach to just about anything.
 
 <p style="text-align: center;">
-  <img alt="" src="http://bryanbraun.com/wp-content/uploads/attachment-comparison.png" style="width: 750px; height: 717px;" />
+  <img alt="" src="/assets/images/attachment-comparison.png" style="width: 750px; height: 717px;" />
 </p>
 
 Even as we are still finalizing the design details, our solution has received a lot of attention.

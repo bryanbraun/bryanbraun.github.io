@@ -8,7 +8,7 @@ I'm happy to introduce <a href="http://drupal.org/project/writer" target="_blank
 
 ![][1]
 
- [1]: /sites/default/files/writer-post-2.png
+ [1]: /assets/images/writer-post-2.png
 
 The story is quite simple. I am a <a href="http://bryanbraun.com/who-is-bryan" target="_blank">front-end developer</a> who blogs. I searched the Drupal theme repository, but I was unable to find a blogging theme designed specifically for developers. So I made one.
 
@@ -66,11 +66,11 @@ If you had 4 hours to dig around through Drupal contributed modules and third pa
 
 ![Image showing theme settings for code snippets][3]
 
- [3]: http://bryanbraun.com/sites/default/files/theme-settings.png
+ [3]: /assets/images/theme-settings.png
 
 This table shows what each style looks like for blocks of code (left) and for inline code (right).
 
-<img alt="Image showing examples of the four code snippet styles" src="http://bryanbraun.com/sites/default/files/writer-style-choices3.png" style="margin: 0px;" width="100%" />
+<img alt="Image showing examples of the four code snippet styles" src="/assets/images/writer-style-choices3.png" style="margin: 0px;" width="100%" />
 
 You can also see the [live demo here][4].
 
@@ -78,7 +78,7 @@ You can also see the [live demo here][4].
 
 To invoke the style when you are blogging, wrap blocks of code in "pre" tags or wrap inline code with "code" tags.
 
-<img alt="Image showing examples of how to render styled code snippets" src="http://bryanbraun.com/sites/default/files/code-snippets.png" style="margin: 0px;" width="100%" />
+<img alt="Image showing examples of how to render styled code snippets" src="/assets/images/code-snippets.png" style="margin: 0px;" width="100%" />
 
 That's all there is to it.
 

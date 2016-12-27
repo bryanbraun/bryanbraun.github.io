@@ -21,7 +21,7 @@ And they are wrong.
 They can understand technology. They could be a 'people person'. One BYU article, <a href="http://ctl.byu.edu/showArchivePage.php?&pageUID=RWE9RzOVdsaW" target="_blank" title="The Growth Mentality">The Growth Mentality</a>, discusses learning from a neuroscience perspective. With each thing we learn, we physically grow new neural pathways in our brain. From a biological perspective, the brain develops like a muscle that grows stronger with exercise. While it is true that some start out with more talent than others, natural talent is only a small part of the equation. Consider the graph below:
 
 <p style="text-align: center;">
-  <a href="http://bryanbraun.com/2011/07/18/the-growth-mindset/skill-time/" rel="attachment wp-att-588"><img alt="Skill as a function of Time" class="size-full wp-image-588 aligncenter" height="360" src="/sites/default/files/wp-content/uploads/Skill-time.gif" title="Skill-time" width="486" /></a>
+  <a href="http://bryanbraun.com/2011/07/18/the-growth-mindset/skill-time/" rel="attachment wp-att-588"><img alt="Skill as a function of Time" class="size-full wp-image-588 aligncenter" height="360" src="/assets/images/Skill-time.gif" title="Skill-time" width="486" /></a>
 </p>
 
 The red line represents somebody initially more talented than the blue line. However, blue (who has a growth-mindset), embraces learning to eventually become more skilled than his red compadre (who has a fixed mindset). Far from a pipe dream, this is a real outcome that has been exemplified by Michael Jordan, Thomas Edison, and other <a href="http://www.youtube.com/watch?v=Y6hz_s2XIAU" target="_blank" title="Famous Failures - YouTube">"famous failures"</a>. Consider the statement made by Heber J. Grant:

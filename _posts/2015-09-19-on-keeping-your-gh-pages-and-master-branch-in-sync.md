@@ -14,11 +14,11 @@ I eventually landed on an approach that's so simple I don't even have to think a
 First, you'll want to make sure you've got both a master and gh-pages branch up on Github. Then, on your project page, click the branches tab to see your branches:
 
 <p style="text-align: center;">
-  <img alt="" src="/sites/default/files/branches.png" />
+  <img alt="" src="/assets/images/branches.png" />
 </p>
 
 <p style="text-align: center;">
-  <img alt="" src="/sites/default/files/default.png" />
+  <img alt="" src="/assets/images/default.png" />
 </p>
 
 Simply click to change the default branch to `gh-pages`, and use the trash icon (like the one circled above) to delete your master branch (you'll want to make sure your gh-pages branch is identical to master before you delete `master`).

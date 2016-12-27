@@ -5,7 +5,7 @@ date: 2014-12-24 20:29:16
 ---
 
 <p style="text-align: center;">
-  <img alt="" src="/sites/default/files/glass-doors.jpg" />
+  <img alt="" src="/assets/images/glass-doors.jpg" />
 </p>
 
 This is the door for an office I do some work at. See the little signs near the handles that say "Push"? The signs weren't there to begin with but so many people were trying to open it by pulling, that the folks installed the signs.
@@ -15,7 +15,7 @@ But we didn't need a sign. We needed a door that didn't need a sign.
 Look around. In *almost every situation you see a sign, there's a design failure. The sign doesn't solve the problem. It treats the symptoms of the problem.
 
 <p style="text-align: center;">
-  <img alt="" src="/sites/default/files/assorted-signs.png" />
+  <img alt="" src="/assets/images/assorted-signs.png" />
 </p>
 
 l'm not saying never put up a sign. Let's be pragmatic. Sometimes, when the problem is temporary or the cost to fix is unjustifiable, putting up a sign is the best choice.

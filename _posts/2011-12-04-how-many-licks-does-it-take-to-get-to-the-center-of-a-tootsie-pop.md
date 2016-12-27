@@ -24,7 +24,7 @@ I know, it's tempting to just say "probably like a million" and move on with you
 
 Now lets take our estimates and see if we can solve the problem:
 
-<a href="http://bryanbraun.com/2011/12/04/how-many-licks-does-it-take-to-get-to-the-center-of-a-tootsie-pop/pizza-math/" rel="attachment wp-att-812"><img alt="" class="size-full wp-image-812 alignleft" height="180" src="/sites/default/files/wp-content/uploads/Pizza-Math.jpg" title="Pizza Math" width="753" /></a>
+<a href="http://bryanbraun.com/2011/12/04/how-many-licks-does-it-take-to-get-to-the-center-of-a-tootsie-pop/pizza-math/" rel="attachment wp-att-812"><img alt="" class="size-full wp-image-812 alignleft" height="180" src="/assets/images/Pizza-Math.jpg" title="Pizza Math" width="753" /></a>
 
 That's a lot of pizza. And as you can see, it isn't complicated math. It's simple unit conversions.
 

@@ -10,7 +10,7 @@ date: 2012-12-03 21:40:58
   </p>
   
   <p style="text-align: center;">
-    <img alt="" src="/sites/default/files/drupal-photo-gallery-with-thumbnails.png" style="width: 740px; height: 510px;" />
+    <img alt="" src="/assets/images/drupal-photo-gallery-with-thumbnails.png" style="width: 740px; height: 510px;" />
   </p>
   
   <p style="text-align: center;">
@@ -133,7 +133,7 @@ date: 2012-12-03 21:40:58
   </p>
   
   <p style="text-align: center;">
-    <img alt="" src="http://bryanbraun.com/sites/default/files/gallery_image.png" style="width: 740px; height: 418px;" />
+    <img alt="" src="/assets/images/gallery_image.png" style="width: 740px; height: 418px;" />
   </p>
   
   <h2>
@@ -219,7 +219,7 @@ date: 2012-12-03 21:40:58
   </p>
   
   <p style="text-align: center;">
-    <img alt="" src="http://bryanbraun.com/sites/default/files/views%20settings.png" style="width: 321px; height: 278px;" />
+    <img alt="" src="/assets/images/views%20settings.png" style="width: 321px; height: 278px;" />
   </p>
   
   <p>

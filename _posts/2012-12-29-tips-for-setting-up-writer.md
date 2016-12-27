@@ -18,7 +18,7 @@ The theme comes with a Primary and Secondary menu built in but you may need to m
 
 1.  In the admin bar, browse to Structure > Menus > Settings (or `/admin/structure/menu/settings` via URL).
 2.  Select which menu will represent the Main links (top navigation) and which will represent the Secondary links (footer links).  
-    <img width="100%" src="http://bryanbraun.com/sites/default/files/menu_setup.png" />
+    <img width="100%" src="/assets/images/menu_setup.png" />
 3.  Note: you can build your own menus at Structure > Menus and use them for these purposes as desired.
 
 While the details are slightly different, it's a similar process for Drupal 6.
@@ -40,13 +40,13 @@ Writer comes with 4 code snippet styles out of the box. Just go to the theme's s
 ![Image showing theme settings for code snippets][1]
 This table shows what each style looks like for blocks of code (left) and for inline code (right).
 
- [1]: http://bryanbraun.com/sites/default/files/theme-settings.png
+ [1]: /assets/images/theme-settings.png
 
-<img width="100%" style="margin: 0px;" src="http://bryanbraun.com/sites/default/files/writer-style-choices3.png" alt="Image showing examples of the four code snippet styles" />
+<img width="100%" style="margin: 0px;" src="/assets/images/writer-style-choices3.png" alt="Image showing examples of the four code snippet styles" />
 
 To invoke the style when you are blogging, wrap blocks of code in "pre" tags or wrap inline code with "code" tags.
 
-<img width="100%" style="margin: 0px;" src="http://bryanbraun.com/sites/default/files/code-snippets.png" alt="Image showing examples of how to render styled code snippets" />
+<img width="100%" style="margin: 0px;" src="/assets/images/code-snippets.png" alt="Image showing examples of how to render styled code snippets" />
 
 ## Fix your Comments Settings
 

@@ -21,7 +21,7 @@ This relates to the concept of sticky platforms. You may want to check out [my e
  [2]: http://www.bryanbraun.com/2011/06/06/the-new-york-times-and-the-sticky-platform
 
 <p style="text-align: center;">
-  <img alt="" src="/sites/default/files/the-sticky-platform.png" />
+  <img alt="" src="/assets/images/the-sticky-platform.png" />
 </p>
 
 When you give an analogy to a person you're deliberately bridging gaps on their sticky platform. For example, here's an analogy comparing the internet to a [series of tubes][3] (a joke, but you get the idea).
@@ -29,7 +29,7 @@ When you give an analogy to a person you're deliberately bridging gaps on their 
  [3]: https://en.wikipedia.org/wiki/Series_of_tubes
 
 <p style="text-align: center;">
-  <img alt="" src="/sites/default/files/analogy-1.png" />
+  <img alt="" src="/assets/images/analogy-1.png" />
 </p>
 
 ## Find the right depth of analogy
@@ -42,7 +42,7 @@ A good analogy is the perfect depth for the audience. To show what I mean, here 
 And visually:
 
 <p style="text-align: center;">
-  <img alt="" src="/sites/default/files/analogy-comparison.png" />
+  <img alt="" src="/assets/images/analogy-comparison.png" />
 </p>
 
 The second analogy is deeper because you'd use it to bridge a larger knowledge gap. But the deeper the analogy, the more detail you lose. In reality, Gemfiles are a lot more similar to package.json dependency lists than recipes.
@@ -50,13 +50,13 @@ The second analogy is deeper because you'd use it to bridge a larger knowledge g
 So we've got a goldilocks situation when choosing an analogy: If the analogy is too shallow for a listener, they won't understand it. If the analogy is too deep, they'll understand but not benefit from the level of detail.
 
 <p style="text-align: center;">
-  <img alt="" src="/sites/default/files/ineffective-analogies.png" />
+  <img alt="" src="/assets/images/ineffective-analogies.png" />
 </p>
 
 If the analogy is just right, it connects to something right on the edge of the listener's existing knowledge. This provides as much detail as possible without losing understanding.
 
 <p style="text-align: center;">
-  <img alt="" src="/sites/default/files/effective-analogies.png" />
+  <img alt="" src="/assets/images/effective-analogies.png" />
 </p>
 
 This concept highlights the difficulty of teaching something to a large, diverse group.

@@ -143,7 +143,7 @@ Finally, we just need to set up a simple "scripts" command in `package.json`.
 Now we can run our tests in the command line with npm test. If all goes well, it'll look something like this:
 
 <p style="text-align: center;">
-  <img alt="" src="/sites/default/files/karma-run.png" />
+  <img alt="" src="/assets/images/karma-run.png" />
 </p>
 
 ## Setting up Github and Travis CI
@@ -160,7 +160,7 @@ Now that we have automated tests, the final step is to connect it to [Travis CI]
 Finally commit your changes and push your project, with it's new `test` folder, `package.json` and `.travis.yml` files, up to Github. With some luck, Travis CI will see the code on your `master` branch and run the tests automatically (if not, you can trigger them manually through the TravisCI interface). Once you see it running, the final test is to submit a pull request against your `master` branch. You will know you are victorious, when you see this:
 
 <p style="text-align: center;">
-  <img alt="" src="/sites/default/files/build-passed.png" />
+  <img alt="" src="/assets/images/build-passed.png" />
 </p>
 
 You can optionally add the [Travis badge][17] to your `README.md`, as a indicator that the tests are all passing.
@@ -168,7 +168,7 @@ You can optionally add the [Travis badge][17] to your `README.md`, as a indicato
  [17]: http://docs.travis-ci.com/user/status-images/
 
 <p style="text-align: center;">
-  <img alt="" src="/sites/default/files/travis-badge.png" />
+  <img alt="" src="/assets/images/travis-badge.png" />
 </p>
 
 ## Conclusion
