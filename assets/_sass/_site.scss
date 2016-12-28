@@ -3,6 +3,7 @@ body {
   margin: 0;
   padding: 0 1rem; // page padding for mobile
   border-top: 7px solid $bb-blue1;
+  color: $bb-off-black;
 }
 h1, h2, h3, h4, h5, h6 {
   font-family: $sans-serif-stack;
@@ -65,7 +66,7 @@ pre > code {
     font-size: 13px;
     text-decoration: none;
     text-transform: uppercase;
-    color: $bb-off-black;
+    color: $nav-gray;
     padding: 0.375rem 1rem;
     display: block;
 
@@ -74,9 +75,11 @@ pre > code {
     }
 
     &:link    { }
-    &:visited { color: $bb-off-black; }
-    &:hover   { background-color: #EEE; }
+    &:visited { color: $nav-gray; }
+    &:hover   { color: $bb-off-black; }
     &:active  { }
+
+    &.is--active { color: $bb-off-black; }
   }
 }
 

@@ -1,3 +1,16 @@
+---
+navigation:
+ - text: Blog
+   url: /
+ - text: Archives
+   url: /archives/
+ - text: Books
+   url: /books/
+ - text: Projects
+   url: /projects/
+ - text: About
+   url: /about/
+---
 <!DOCTYPE html>
 <html>
 
@@ -14,11 +27,13 @@
     <header class="site-header">
       <nav class="main-nav">
         <ul>
-          <li><a href="/">Blog</a></li>
-          <li><a href="/archives">Archives</a></li>
-          <li><a href="/books">Books</a></li>
-          <li><a href="/projects">Projects</a></li>
-          <li><a href="/about">About</a></li>
+          {% for link in layout.navigation %}
+            {% assign class = nil %}
+            {% if page.url == link.url %}
+              {% assign class = 'is--active' %}
+            {% endif %}
+            <li><a class="{{ class }}" href="{{ link.url }}">{{ link.text }}</a></li>
+          {% endfor %}
         </ul>
       </nav>
     </header>

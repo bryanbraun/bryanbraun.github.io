@@ -4,12 +4,14 @@ email: bbraun7@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
 logo: /assets/images/logo.png
 url: http://bryanbraun.com # the base hostname & protocol for your site, e.g. http://example.com
+author: Bryan Braun
 repository: bryanbraun/bryanbraun.github.io
 timezone: America/New_York
 host: 0.0.0.0 # This lets us test on devices locally. See http://stackoverflow.com/a/16608698/1154642
 github:
   url: http://localhost:4000 # this gets overridden when the site is deployed on github pages
-
+feed:
+  path: rss.xml # preserve the name of my Drupal RSS feed b/c I can, and it's possible that some people are still subscribed to it.
 
 # Build settings
 gems:

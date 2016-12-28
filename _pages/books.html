@@ -9,7 +9,7 @@ permalink: /books/
 <p><small>Inspired by the Derek Sivers booklist.</small></p>
 
 <div class="books">
-  {% for book in site.books %}
+  {% for book in site.books reversed %}
     <div class="book">
       <h2>{{ book.title }}</h2>
       <div>Author: {{ book.author }}</div>
