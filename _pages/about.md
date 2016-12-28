@@ -8,7 +8,7 @@ I'm a web developer and designer, currently based in the American Midwest. I use
 
 My work has been [featured](/news) in The Washington Post, Daring Fireball, Smashing Magazine, and the Discovery Channel.
 
-I'm constantly learning and sharing what I learn through [writing](/articles), [speaking](/speaking), and [open-source](https://github.com/bryanbraun). I'm always working on some sort of [side-project](/projects). You should [ask me](/contact) what I'm working on now.
+I'm constantly learning and sharing what I learn through [writing](/archives), [speaking](/speaking), and [open-source](https://github.com/bryanbraun). I'm always working on some sort of [side-project](/projects). You should [ask me](/contact) what I'm working on now.
 
 [These are my principles](/principles).
 

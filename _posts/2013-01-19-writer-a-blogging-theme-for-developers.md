@@ -70,15 +70,11 @@ If you had 4 hours to dig around through Drupal contributed modules and third pa
 
 This table shows what each style looks like for blocks of code (left) and for inline code (right).
 
-<img alt="Image showing examples of the four code snippet styles" src="/assets/images/writer-style-choices3.png" style="margin: 0px;" width="100%" />
-
-You can also see the [live demo here][4].
-
- [4]: http://writer.bryanbraun.com/blog/code-snippets-demo
+<img alt="Image showing examples of the four code snippet styles" src="/assets/images/writer-style-choices3.png" />
 
 To invoke the style when you are blogging, wrap blocks of code in "pre" tags or wrap inline code with "code" tags.
 
-<img alt="Image showing examples of how to render styled code snippets" src="/assets/images/code-snippets.png" style="margin: 0px;" width="100%" />
+<img alt="Image showing examples of how to render styled code snippets" src="/assets/images/code-snippets.png" />
 
 That's all there is to it.
 

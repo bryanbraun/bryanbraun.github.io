@@ -5,7 +5,7 @@ date: 2013-01-06 07:58:47
 ---
 
 I really love the Google Zeitgeist videos for the spirit in which they reflect on each year (see the ones for <a href="http://www.youtube.com/watch?v=F0QXB5pw2qE" target="_blank" title="Zeitgeist 2010: Year in Review">2010</a>, <a href="http://www.youtube.com/watch?v=SAIEamakLoY" target="_blank" title="This is my favorite one.">2011</a>, and <a href="http://www.youtube.com/watch?v=xY_MUB8adEQ" target="_blank" title="Zeitgeist 2012: Year in Review">2012</a>). These are fantastic for looking back at the big events we all experienced throughout the year.  
-  
+
 I also like to put together an annual retrospective (see the ones for [2010][1] and [2011][2]) to consider the things my family and I have experienced and the ways that we have grown. Let's jump in.
 
  [1]: http://bryanbraun.com/2011/02/21/checking-in "Checking in"
@@ -20,7 +20,7 @@ Our family grew by 33%, if you count number of people, or only by 3.5%, if you a
 
 It was also the first year I:
 
-<a href="http://alchemist.bryanbraun.com/" target="_blank" title="Lower your expectations.">Programmed a game</a>  
+[Programmed a game](http://bryanbraun.github.io/alchemist)  
 <a href="/assets/images/acquia_ad.JPG" target="_blank" title="If I were 17 again, I'd use Facebook ads to help me run for student body president. It would be the talk of the school... which is important if you are running for student body president.">Put up a Facebook ad</a>  
 [Spoke on a radio show][5]  
 <a href="http://bryanbraun.com/2012/09/09/which-i-explain-how-i-got-my-dream-job" target="_blank" title="In which I explain how I got my dream job">Landed a salary</a>  

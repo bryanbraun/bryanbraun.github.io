@@ -20,8 +20,8 @@ If you have a 1.x version installed, and you upgrade to this version your standa
 3.  Click save, and see the result at http://yoursite.gov/node
 4.  Repeat steps 2-3 until you are satisfied with the look.
 
-Of course, you can always use Views to have even greater customization of the look and feel of your feeds. If you are interested in that, check out this post: [Customizing the Default Front Page][1].
+Of course, you can always use Views to have even greater customization of the look and feel of your feeds. If you are interested in that, check out this post: [Writer: Customizing the Default Front Page][1].
 
- [1]: http://writer.bryanbraun.com/blog/customizing-default-front-page
+ [1]: http://www.bryanbraun.com/2013/03/16/writer-customizing-default-front-page/
 
 Otherwise, enjoy.
