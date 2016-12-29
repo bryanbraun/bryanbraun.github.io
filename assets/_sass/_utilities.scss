@@ -24,3 +24,9 @@
   position: absolute;
   width: 1px;
 }
+
+// Removes paddings and margins from an element.
+.no-space {
+  padding: 0 !important;
+  margin: 0 !important;
+}

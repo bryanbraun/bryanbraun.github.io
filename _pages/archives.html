@@ -10,10 +10,15 @@ permalink: /archives/
   {% if currentdate != date %}
     {% unless forloop.first %}</ul>{% endunless %}
     <h2 id="y{{ post.date | date: "%Y" }}">{{ currentdate }}</h2>
-    <ul>
+    <ul class="archive-list">
     {% assign date = currentdate %}
   {% endif %}
-      <li><a href="{{ post.url }}">{{ post.date | date: "%b %-d" }} - {{ post.title }}</a></li>
+      <li>
+        <span class="archive-post-date">{{ post.date | date: "%b %-d" }}</span>
+        <a href="{{ post.url }}">
+          <span class="archive-post-title">{{ post.title }}</span>
+        </a>
+      </li>
   {% if forloop.last %}
     </ul>
   {% endif %}

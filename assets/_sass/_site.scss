@@ -10,8 +10,24 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: normal;
 }
 
+// These headings are identical, to discourage unnecessary hierarcy.
+h4, h5, h6 {
+  font-size: 1rem;
+  margin: 1.333rem 0;
+}
+
 a {
   color: $bb-blue2;
+
+  &:link    { }
+  &:visited { }
+  &:hover   { color: $bb-orange }
+  &:active  { }
+}
+
+::selection {
+  color: white;
+  background-color: $bb-blue2;
 }
 
 img {
@@ -66,7 +82,7 @@ pre > code {
     font-size: 13px;
     text-decoration: none;
     text-transform: uppercase;
-    color: $nav-gray;
+    color: $bb-inert-gray;
     padding: 0.375rem 1rem;
     display: block;
 
@@ -75,7 +91,7 @@ pre > code {
     }
 
     &:link    { }
-    &:visited { color: $nav-gray; }
+    &:visited { color: $bb-inert-gray; }
     &:hover   { color: $bb-off-black; }
     &:active  { }
 
@@ -91,9 +107,10 @@ pre > code {
 }
 
 .page-content {
-  // overflow: auto; prevents collapsing margins between this box and the child heading.
-  // see: http://stackoverflow.com/a/19719427/1154642
-  overflow: auto;
+  // padding: 0.1px; prevents collapsing margins between this box and the child heading,
+  // without side-effects (I was seeing some with tables using the overflow: auto technique).
+  // see: http://stackoverflow.com/a/33132624/1154642
+  padding: 0.1px;
   max-width: 40rem; // 16*40 = 640px
   margin: 0 auto;
   line-height: 1.5; // designed to be inherited by all page-content.
@@ -162,6 +179,17 @@ pre > code {
   }
 }
 
+// Archives
+.archive-post-date {
+  display: inline-block;
+  min-width: 3.75rem;
+  color: $bb-inert-gray
+}
+.archive-list {
+  list-style-type: none;
+  padding-left: 0
+}
+
 // Subscribe styles
 // The styles are a bit Janky because I don't want to mess with mailchimp's embed
 // form too much, for fear that I might break AJAX or validation features.
@@ -222,7 +250,34 @@ pre > code {
   }
 }
 
-
 .comments {
   text-align: center;
+}
+
+// TABLES //
+// The default table is mostly browser defaults and basically unstyled (no border, etc).
+table td {
+  // Cancel top-margin for common first elements inside of table cells.
+  > pre:first-child {
+    margin-top: 0;
+  }
+  > p:first-child {
+    margin-top: 0;
+  }
+}
+
+// Alternative tables will have one of these classes applied to the table element.
+.bb-table1 {
+  border-collapse: collapse;
+
+  td {
+    border: solid 1px #ccc;
+    padding: 8px 8px;
+    vertical-align: top;
+  }
+
+  pre {
+    margin: 1rem 0;
+    padding-left: 1rem;
+  }
 }
