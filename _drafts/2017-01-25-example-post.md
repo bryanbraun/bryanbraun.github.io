@@ -1,5 +1,6 @@
 ---
 title: "Bryan vs the Internet"
+date: 2017-01-25 04:27:00
 ---
 
 Reference this post when creating a new post.

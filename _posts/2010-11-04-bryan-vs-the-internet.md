@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Bryan vs the Internet"
 date: 2010-11-04 04:27:00
 ---
