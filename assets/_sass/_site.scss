@@ -54,6 +54,16 @@ pre > code {
   padding: 0px;
 }
 
+// Styles for default (markdown) tables.
+th, td {
+  text-align: left;
+  vertical-align: top;
+  // For tables that don't have enough data to push it to be full width,
+  // this padding provides a small bit of breathing room between columns. It
+  // seemed to be a better solution then forcing 100% width on all markdown tables.
+  padding-right: 5px;
+}
+
 .main-nav {
   > ul {
     list-style-type: none;
@@ -130,11 +140,60 @@ pre > code {
   margin: 1.5rem 0;
 }
 .article-footer {
+}
+.edit-link-wrapper {
   text-align: right;
 }
 .edit-link {
   font-family: $sans-serif-stack;
   font-size: 0.75rem;
+}
+
+.other-posts {
+  display: flex;
+  margin: 2rem 0;
+  padding-top: 2rem;
+  border-top: 1px solid #ccc;
+
+  > div {
+    flex: 1 0 0px;
+    padding-right: 1rem;
+  }
+}
+
+.other-posts--title {
+  margin-top: 0;
+  margin-bottom: 0.75rem;
+}
+.other-posts--list {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  font-size: 0.875rem;
+  line-height: 1.2;
+
+  li {
+    padding: 0.25rem 0;
+  }
+}
+.other-posts--more {
+  font-family: $sans-serif-stack;
+  font-size: 0.75rem;
+  margin-top: 0.5rem;
+  display: block;
+}
+
+.related-inline {
+  font-size: 0.8125rem;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  padding-top: 1.5rem;
+}
+.related-inline--title {
+  -ms-flex-negative: 0;
+  flex-shrink: 0;
+  margin-right: 5px;
 }
 
 .site-footer {

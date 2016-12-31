@@ -2,6 +2,7 @@
 layout: default
 ---
 <div class="article">
+
   <header class="article-header">
     <h1 class="article-title">{{ page.title }}</h1>
     <p class="article-meta">{{ page.date | date: "%b %-d, %Y" }}</p>
@@ -12,8 +13,31 @@ layout: default
   </article>
 
   <footer class="article-footer">
-    <a class="edit-link" href="https://github.com/{{ site.github.repository_nwo }}/edit/{{ site.branch }}/{{ page.path }}">Edit this article</a>
+    <div class="edit-link-wrapper">
+      <a class="edit-link" href="https://github.com/{{ site.github.repository_nwo }}/edit/{{ site.branch }}/{{ page.path }}">Edit this post</a>
+    </div>
+
+    {% if content and page.related %}
+      <div class="related-inline">
+        <span class="related-inline--title">Related posts:</span>
+        <span class="related-inline--posts">
+          {% for related in page.related %}
+            {% if forloop.first == true %}{% elsif forloop.last == true %} and {% else %}, {% endif %}
+
+            {% for post in site.posts %}
+              {% if post.title == related %}
+                  <a href="{{ post.url }}">{{ post.title }}</a>
+              {% endif %}
+            {% endfor %}
+
+            {% if forloop.last == true %}.{% endif %}
+          {% endfor %}
+        </span>
+      </div>
+    {% endif %}
+
   </footer>
+
 </div>
 
 {% include mailchimp-subscribe.html %}

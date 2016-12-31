@@ -1,6 +1,9 @@
 ---
 title: Embedding SVG Logos that Contain Text
 date: 2016-12-30 23:00:00
+related: [
+  "New Year, New Website"
+]
 ---
 
 SVGs are great fit for logos on your website. Logos typically use simple shapes (or paths), few colors, and they need to be available in several sizes... all things that SVG excels at. And logos (as part of your brand) always need to look sharp, and SVGs look great on retina screens and devices of various pixel densities. What's more, browser support for SVG is [really good these days](http://caniuse.com/#feat=svg).
@@ -39,7 +42,7 @@ We can get rid of the font entirely by converting your logo's text to vector pat
 
 This is great! We still have the benefits of SVG (good for retina, styling with CSS, etc), without the weight of the font. What's more, you generally don't need a webfont license in order to use it like this, since you aren't distributing the font. Legally, this is the same territory as including a few letters of the font in a jpg image (now, I'm not a lawyer, and font-licensing is complex, so if you are using a licensed font then then please do your research or [risk being sued](http://www.hollywoodreporter.com/thr-esq/nbcu-sued-harry-potter-font-theft-lawsuit-351823)).
 
-Theres only one problem... by converting the font to paths, the text is no longer machine-readable (and screen reader accessible). 😞
+There's only one problem... by converting the font to paths, the text is no longer machine-readable (and screen reader accessible). 😞
 
 There are lots of options for addressing this, and I highly recommend reading Sitepoint's [Tips for Creating Accessible SVGs](https://www.sitepoint.com/tips-accessible-svg/) to see them all.
 

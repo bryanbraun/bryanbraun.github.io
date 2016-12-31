@@ -1,6 +1,9 @@
 ---
 title: New Year, New Website
 date: 2016-12-29 023:27:00
+related: [
+  "Two Principles for 2014"
+]
 ---
 
 Every Christmas, the hosting for my personal site comes up for annual renewal (fun fact: this is because I first built this site many years ago during the Christmas break between two semesters of college).
@@ -32,7 +35,7 @@ And that's without much optimization. I'd like to see how much faster it gets af
 Other nice things include:
 
 * Comments are back! [I had to disable them](https://twitter.com/BryanEBraun/status/676225178326683648) about a year ago when I got overwhelmed with spam. I've now migrated them to Disqus, so it should be easier for everyone.
-* I've added deep links with [AnchorJS](https://www.bryanbraun.com/anchorjs/) 💪.
+* I've added deep links with [AnchorJS](http://bryanbraun.github.io/anchorjs) 💪.
 * [Everything is served over HTTPS](https://twitter.com/BryanEBraun/status/814652803884974080?lang=en). This makes me feel less like a pretend web developer.
 
 I'm sure there's a lot of broken stuff scattered across the site right now, so if you see anything broken please [submit an issue on Github](https://github.com/bryanbraun/bryanbraun.github.io/issues/new) (or even better, submit a pull request)!

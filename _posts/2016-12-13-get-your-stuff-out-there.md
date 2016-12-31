@@ -2,6 +2,11 @@
 layout: post
 title: "Get your stuff out there"
 date: 2016-12-13 19:46:03
+related: [
+  "No Smarter than You",
+  "Share Everything",
+  "How I rebuilt \"Flying Toasters\" using only CSS animations"
+]
 ---
 
 Last week I received two emails.

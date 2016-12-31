@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "How I Choose a Side Project"
 date: 2016-11-13 18:27:14
 ---
@@ -13,5 +12,5 @@ I've been wanting to articulate the things I think about when I'm choosing a sid
 
 See the rest here: [Joy, Skill, Career, and Money: How I Choose a Side Project][2]
 
-[1]: https://twitter.com/home?status=Nice%20writeup%20on%20chosing%20side-projects%3A%20https%3A//seesparkbox.com/foundry/joy_skill_career_and_money_how_i_choose_a_side_project%20by%20%40BryanEBraun
+[1]: https://twitter.com/home?status=Nice%20writeup%20on%20choosing%20side-projects%3A%20https%3A//seesparkbox.com/foundry/joy_skill_career_and_money_how_i_choose_a_side_project%20by%20%40BryanEBraun
 [2]: https://seesparkbox.com/foundry/joy_skill_career_and_money_how_i_choose_a_side_project

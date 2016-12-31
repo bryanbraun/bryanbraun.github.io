@@ -24,9 +24,38 @@ permalink: /
       {{ post.content | markdownify }}
     </article>
 
-    <footer class="article-footer">
+    <div class="edit-link-wrapper">
       <a class="edit-link" href="https://github.com/{{ site.github.repository_nwo }}/edit/{{ site.branch }}/{{ post.path }}">Edit this article</a>
+    </div>
+
+    <footer class="article-footer">
     </footer>
+
+    <div class="other-posts">
+      <div class="other-posts--recent">
+        <h4 class="other-posts--title no-anchor">Recent Posts</h4>
+        <ul class="other-posts--list">
+          {% for article in site.posts limit:3 offset:2 %}
+            <li><a href="{{ article.url }}">{{ article.title }}</a></li>
+          {% endfor %}
+        </ul>
+        <a class="other-posts--more" href="/archives">See more »</a>
+      </div>
+
+      {% if post.content and post.related %}
+        <div class="other-posts--related">
+          <h4 class="other-posts--title no-anchor">Related Posts</h4>
+          <ul class="other-posts--list">
+            {% for article in site.posts %}
+              {% if post.related contains article.title %}
+                <li><a href="{{ article.url }}">{{ article.title }}</a></li>
+              {% endif %}
+            {% endfor %}
+          </ul>
+        </div>
+      {% endif %}
+    </div>
+
   </div>
 
 {% endfor %}
