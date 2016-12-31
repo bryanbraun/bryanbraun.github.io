@@ -1,13 +1,13 @@
 ---
-title: Using a Font in your SVG Logo
-date: 2016-12-29 16:00:00
+title: Embedding SVG Logos that Contain Text
+date: 2016-12-30 23:00:00
 ---
 
 SVGs are great fit for logos on your website. Logos typically use simple shapes (or paths), few colors, and they need to be available in several sizes... all things that SVG excels at. And logos (as part of your brand) always need to look sharp, and SVGs look great on retina screens and devices of various pixel densities. What's more, browser support for SVG is [really good these days](http://caniuse.com/#feat=svg).
 
 Finally, lots of logos (like the ones below) have text in them, and inline-SVGs are good at exposing machine readable text for accessibility purposes.
 
-![Various logos with text in them](/assets/images/logos-with-text.png)
+![Various logos with text in them]({{ site.url }}/assets/images/logos-with-text.png)
 
 There's only one problem: how do we handle the font for the logo text?
 
@@ -35,7 +35,7 @@ And that's a concern because now we're downloading a big font file and slowing d
 
 We can get rid of the font entirely by converting your logo's text to vector paths. Most vector graphics programs have an option for doing this (like Illustrator's "[Create Outlines](http://www.dummies.com/software/adobe/illustrator/how-to-outline-text-in-illustrator-cc/)", or Sketch's "[Convert to Outlines](https://www.sketchapp.com/learn/documentation/text/convert-to-outlines/)").
 
-![The word "Bryan" displayed as text and paths](/assets/images/text-to-paths.png)
+![The word "Bryan" displayed as text and paths]({{site.url}}/assets/images/text-to-paths.png)
 
 This is great! We still have the benefits of SVG (good for retina, styling with CSS, etc), without the weight of the font. What's more, you generally don't need a webfont license in order to use it like this, since you aren't distributing the font. Legally, this is the same territory as including a few letters of the font in a jpg image (now, I'm not a lawyer, and font-licensing is complex, so if you are using a licensed font then then please do your research or [risk being sued](http://www.hollywoodreporter.com/thr-esq/nbcu-sued-harry-potter-font-theft-lawsuit-351823)).
 

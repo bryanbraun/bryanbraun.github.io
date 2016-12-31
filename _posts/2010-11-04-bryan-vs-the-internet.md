@@ -3,7 +3,7 @@ title: "Bryan vs the Internet"
 date: 2010-11-04 04:27:00
 ---
 
-1995. I was 8 years old. I remember sitting in front of my parents computer and hearing the harsh sound of a modem as I logged on to AOL.
+*1997.* I was 10 years old. I remember sitting in front of my parents computer and hearing the harsh sound of a modem as I logged on to AOL.
 
 > "You've Got Mail."
 It was junk mail... but that didn't matter. It was *E-mail*.

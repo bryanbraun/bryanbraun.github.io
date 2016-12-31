@@ -1,5 +1,5 @@
 ---
-title: "Bryan vs the Internet"
+title: "Example Post"
 date: 2017-01-25 04:27:00
 ---
 
@@ -12,7 +12,20 @@ Items we **don't** need in frontmatter:
 
 Below are some examples of markup you might need:
 
+* * *
+Links for assets should be absolute for rss feeds, emails, etc. Using `site.url`
+makes them work in all environments (notice: liquid tags work in markdown files):
+![Image... made absolute for RSS feeds & github]({{site.url}}/assets/images/logo.png)
 
+Absolute urls are also good for linking *to posts* or *from a post to a page*:
+[My first post!]({{site.url}}/2010/11/04/bryan-vs-the-internet)
+
+Internal links between .md pages can be relative, since they are converted by the
+jekyll-relative-links plugin. This way, they work on github, as well as your site.
+The converter respects permalinks, but only works for pages, not posts (you can't
+link from a page to a post, or vice-versa):
+[Internal link referencing the .md file.](about.md)
+* * *
 
 # Heading 1
 
