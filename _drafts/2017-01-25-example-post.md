@@ -1,6 +1,10 @@
 ---
 title: "Example Post"
 date: 2017-01-25 04:27:00
+related: [
+  "Technical Myopia",
+  "Jargon"
+]
 ---
 
 Reference this post when creating a new post.

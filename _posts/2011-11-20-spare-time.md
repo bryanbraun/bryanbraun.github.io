@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Spare Time"
 date: 2011-11-20 23:19:58
 ---
@@ -12,10 +11,7 @@ First, I would like to say thank you. Thank you for taking some of your spare ti
 
 That's the interesting thing about spare time. It says a lot about you. What do you choose to do when you could be doing anything?
 
-This?
-
-<p style="text-align: center;">
-</p>
+[This](https://www.youtube.com/watch?v=TWfph3iNC-k)?
 
 Or maybe Facebook?
 
@@ -31,7 +27,7 @@ Of course, one response I liked was "What spare time?"
 
 I can relate.
 
-Sometimes I feel like I never have enough time to work on the stuff I really want to work on. That's why I was really interested in <a href="http://sivers.org/hellyeah" target="_blank" title="No more &quot;Yes&quot;">this article</a> by Derek Sivers (entrepreneur and <a href="http://www.ted.com/speakers/derek_sivers.html" target="_blank" title="Derek Sivers">TED speaker extraordinaire</a>). He explains that if somebody comes to him with a new opportunity, he asks himself if he's *really *pumped about it. If he's only kind of pumped, he says no. Why? Because then he'll have more time to do the things he's *really pumped* about. In short, it's a lesson on not over-committing yourself.
+Sometimes I feel like I never have enough time to work on the stuff I really want to work on. That's why I was really interested in <a href="http://sivers.org/hellyeah" title="No more &quot;Yes&quot;">this article</a> by Derek Sivers (entrepreneur and <a href="http://www.ted.com/speakers/derek_sivers.html" title="Derek Sivers">TED speaker extraordinaire</a>). He explains that if somebody comes to him with a new opportunity, he asks himself if he's *really *pumped about it. If he's only kind of pumped, he says no. Why? Because then he'll have more time to do the things he's *really pumped* about. In short, it's a lesson on not over-committing yourself.
 
 Another way to do it is to kill things on your to-do list. I have a to do list with like 37 things on it and let me tell you, there are few things more satisfying then looking at an item and saying "No! Actually, I'm NOT going **to do** this at all! I never wanted **to do** this in the first place, Hasta la vista, baby! (as item is vigorously erased)." It's quite liberating.
 
@@ -49,9 +45,9 @@ Something awesome?
 
 ...
 
-Now, pick a day... one off in the future where nothing has been scheduled. Block out the whole day as busy, as if there was some incredibly important event at that time. Refuse to schedule anything short of shooting hoops with <a href="http://en.wikipedia.org/wiki/Charles_Barkley" target="_blank" title="Sir Charles">Charles Barkley</a> on that day.
+Now, pick a day... one off in the future where nothing has been scheduled. Block out the whole day as busy, as if there was some incredibly important event at that time. Refuse to schedule anything short of shooting hoops with <a href="http://en.wikipedia.org/wiki/Charles_Barkley" title="Sir Charles">Charles Barkley</a> on that day.
 
-Then, just spend the day doing that awesome thing. It could be longboarding or rock climbing or pretty much anything on <a href="http://vayable.com" target="_blank" title="Experience the World Differently">vayable.com</a>. It doesn't matter what it is, as long as it's a phenomenal use of your spare time.
+Then, just spend the day doing that awesome thing. It could be longboarding or rock climbing or pretty much anything on <a href="http://vayable.com" title="Experience the World Differently">vayable.com</a>. It doesn't matter what it is, as long as it's a phenomenal use of your spare time.
 
 Now, I admit that I'm being a bit hypocritical. I don't always use my time wisely (Holly can testify to that). But I have been re-evaluating what I do with my spare time. I'm looking to do better, and with the holidays coming up, I have a few empty days blocked out to do some really awesome things.
 

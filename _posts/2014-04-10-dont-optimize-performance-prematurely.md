@@ -1,7 +1,9 @@
 ---
-layout: post
 title: "Don't Optimize Performance Prematurely"
 date: 2014-04-10 21:20:52
+related: [
+  "Technical Myopia"
+]
 ---
 
 It's not often that you see the words "Don't Optimize Performance" in a sentence on a web developer's blog, but alas, here they are.

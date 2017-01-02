@@ -1,7 +1,13 @@
 ---
-layout: post
 title: "New in Writer 2.1"
 date: 2013-05-18 22:31:41
+related: [
+  "Writer: A Blogging Theme for Developers",
+  "Tips for Setting up Writer",
+  "Writer: Customizing the default front page",
+  "Writer Block Regions",
+  "We're on Drupal 8!"
+]
 ---
 
 Writer 2.1 has been released for Drupal 7 and is <a href="http://drupal.org/project/writer" target="_blank">now up on Drupal.org</a>. Here's what's new:

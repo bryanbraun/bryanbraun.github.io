@@ -1,7 +1,10 @@
 ---
-layout: post
 title: "The relentless increase in opportunity costs"
 date: 2014-07-21 19:28:49
+related: [
+  "Opportunity Costs",
+  "Hamilton and the unsettling sense of urgency"
+]
 ---
 
 Suppose you spent 2 hours watching a movie. Even if the movie was free, there's a cost associated with losing that 2 hour block of time. If you could have spent that time working for $10 an hour, then the cost of that movie is $20. This "cost of other opportunities lost" is known to economists as an [opportunity cost][1].

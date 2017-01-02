@@ -1,7 +1,9 @@
 ---
-layout: post
 title: "Asking Questions"
 date: 2016-03-07 21:03:44
+related: [
+  "Just Ask"
+]
 ---
 
 While I was living in South Africa, I spent 3 weeks being constant companions with a guy I had zero things in common with. I was a white American raised in a middle class home in the suburbs. He was a black South African Zulu, raised in poverty in a government-built township during Apartheid. He had spent all of his life living on the other side of this planet from me, immersed in a language, culture, lifestyle, and religion that was completely foreign to me. Communicating was difficult. One morning, desperate to find some common ground for discussion, I remember asking him what sports he liked. He said, "cricket." I only knew cricket was a sport because you could select it as an option when building a stadium in Sim City 2000.

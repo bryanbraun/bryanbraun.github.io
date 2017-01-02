@@ -1,6 +1,7 @@
 ---
 layout: default
 title: About
+redirect_from: /who-is-bryan
 permalink: /about/
 ---
 

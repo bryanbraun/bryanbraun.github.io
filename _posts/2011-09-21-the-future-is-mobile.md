@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "The Future is Mobile"
 date: 2011-09-21 18:12:45
 ---

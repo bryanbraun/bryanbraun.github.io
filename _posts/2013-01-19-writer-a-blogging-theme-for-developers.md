@@ -1,16 +1,22 @@
 ---
-layout: post
 title: "Writer: A Blogging Theme for Developers"
 date: 2013-01-19 20:30:47
+related: [
+  "Tips for Setting up Writer",
+  "Writer: Customizing the default front page",
+  "Writer Block Regions",
+  "New in Writer 2.1",
+  "We're on Drupal 8!"
+]
 ---
 
-I'm happy to introduce <a href="http://drupal.org/project/writer" target="_blank" title="Writer: A Blogging Theme for Developers">Writer, a Drupal theme</a> designed for developers who blog.
+I'm happy to introduce <a href="http://drupal.org/project/writer" title="Writer: A Blogging Theme for Developers">Writer, a Drupal theme</a> designed for developers who blog.
 
 ![][1]
 
  [1]: /assets/images/writer-post-2.png
 
-The story is quite simple. I am a <a href="http://bryanbraun.com/who-is-bryan" target="_blank">front-end developer</a> who blogs. I searched the Drupal theme repository, but I was unable to find a blogging theme designed specifically for developers. So I made one.
+The story is quite simple. I am a <a href="http://bryanbraun.com/who-is-bryan">front-end developer</a> who blogs. I searched the Drupal theme repository, but I was unable to find a blogging theme designed specifically for developers. So I made one.
 
 This theme was designed using three driving principles:
 
@@ -24,17 +30,17 @@ These principles guided me through the trade-offs and helped me make various des
   Brutally simple design
 </h2>
 
-Developers have different needs than other bloggers. They don't need sponsors or advertisements. They don't need dancing emoticons or <a href="http://wordpress.org/extend/themes/chinese-love" target="_blank" title="Behold... it exists.">pink text on a purple background</a>. They need... well, I wasn't exactly sure what they needed. So I began asking them.
+Developers have different needs than other bloggers. They don't need sponsors or advertisements. They don't need dancing emoticons or <a href="http://wordpress.org/extend/themes/chinese-love" title="Behold... it exists.">pink text on a purple background</a>. They need... well, I wasn't exactly sure what they needed. So I began asking them.
 
 Design-wise, the answer was always "something simple." Basic. Clean. As I continued my research, I looked up the blogs of many prolific developers to see what designs they used. Lo, and behold, the pattern was the same: "something simple."
 
-*   <a href="http://veen.com/jeff/" target="_blank">Blog of Jeffrey Veen</a> - Designer, author, past employee for Google, and Adobe. Founder at Typekit, Adaptive Path, Wired Magazine, and <a href="http://aneventapart.com/speakers/jeffrey-veen?/speakers/jeffveen/" target="_blank">others</a>. Seriously, he invented, like, half the internet.
-*   <a href="http://evhead.com" target="_blank">Blog of Evan Williams</a> - Created two of the Internet's top ten websites (Blogger and Twitter), among other projects. His "something simple" design preference is also evident on the website of his newest startup, <a href="https://medium.com/what-i-learned-building/4191574378" target="_blank">Medium</a>.
-*   <a href="http://www.markboulton.co.uk/journal" target="_blank">Blog of Mark Boulton</a> - Top designer, author, conference speaker, publisher. He founded a <a href="http://www.markboultondesign.com/" target="_blank" title="Mark Boulton Design">design studio in his name</a>. Need I say more?
-*   <a href="http://blog.nickd.org/" target="_blank">Blog of Nick Disabato</a> - An <a href="http://nickd.org/bio/" target="_blank">accomplished</a> designer and publisher
-*   <a href="http://37signals.com/svn" target="_blank">The 37 Signals Blog</a> - Official blog of an influential software company, highly regarded for it's success and <a href="http://37signals.com/rework" target="blank">refreshing attitudes about business</a>.
-*   <a href="http://www.coderholic.com/" target="_blank">Blog of Ben Dowling</a> - Engineer at Facebook, iPhone developer and founder of <a href="http://www.coderholic.com/about/" target="_blank">other projects.</a>
-*   <a href="http://nicolasgallagher.com/" target="_blank">Blog of Nicholas Gallagher</a> - Front-end engineer at <a href="http://twitter.com" target="_blank">Twitter</a> and [open source contributor][2]
+*   <a href="http://veen.com/jeff/">Blog of Jeffrey Veen</a> - Designer, author, past employee for Google, and Adobe. Founder at Typekit, Adaptive Path, Wired Magazine, and <a href="http://aneventapart.com/speakers/jeffrey-veen?/speakers/jeffveen/">others</a>. Seriously, he invented, like, half the internet.
+*   <a href="http://evhead.com">Blog of Evan Williams</a> - Created two of the Internet's top ten websites (Blogger and Twitter), among other projects. His "something simple" design preference is also evident on the website of his newest startup, <a href="https://medium.com/what-i-learned-building/4191574378">Medium</a>.
+*   <a href="http://www.markboulton.co.uk/journal">Blog of Mark Boulton</a> - Top designer, author, conference speaker, publisher. He founded a <a href="http://www.markboultondesign.com/" title="Mark Boulton Design">design studio in his name</a>. Need I say more?
+*   <a href="http://blog.nickd.org/">Blog of Nick Disabato</a> - An <a href="http://nickd.org/bio/">accomplished</a> designer and publisher
+*   <a href="http://37signals.com/svn">The 37 Signals Blog</a> - Official blog of an influential software company, highly regarded for it's success and <a href="http://37signals.com/rework" target="blank">refreshing attitudes about business</a>.
+*   <a href="http://www.coderholic.com/">Blog of Ben Dowling</a> - Engineer at Facebook, iPhone developer and founder of <a href="http://www.coderholic.com/about/">other projects.</a>
+*   <a href="http://nicolasgallagher.com/">Blog of Nicholas Gallagher</a> - Front-end engineer at <a href="http://twitter.com">Twitter</a> and [open source contributor][2]
 
  [2]: http://nicolasgallagher.com/about/
 

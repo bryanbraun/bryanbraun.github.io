@@ -1,7 +1,13 @@
 ---
-layout: post
 title: "Tips for Setting up Writer"
 date: 2012-12-29 00:11:54
+related: [
+  "Writer: A Blogging Theme for Developers",
+  "Writer: Customizing the default front page",
+  "Writer Block Regions",
+  "New in Writer 2.1",
+  "We're on Drupal 8!"
+]
 ---
 
 If I had it my way, this theme would require no setup at all.

@@ -1,10 +1,16 @@
 ---
-layout: post
 title: "Writer: Customizing the default front page"
 date: 2013-03-16 12:49:47
+related: [
+  "Writer: A Blogging Theme for Developers",
+  "Tips for Setting up Writer",
+  "Writer Block Regions",
+  "New in Writer 2.1",
+  "We're on Drupal 8!"
+]
 ---
 
-Tired of [Writer's](http://drupal.org/project/writer) default front page? Don't worry. With the <a href="http://drupal.org/project/views" target="_blank">views module</a>, you can make your blog feed look like whatever you want. Here are a few alternatives:
+Tired of [Writer's](http://drupal.org/project/writer) default front page? Don't worry. With the <a href="http://drupal.org/project/views" >views module</a>, you can make your blog feed look like whatever you want. Here are a few alternatives:
 
 ## Standard style with teaser
 
@@ -43,7 +49,7 @@ Tired of [Writer's](http://drupal.org/project/writer) default front page? Don't 
 
   <div class="fp-links">
     <p>
-      Exported View:<br /><a href="/assets/documents/inline_titles.txt" target="_blank">Get the export</a>
+      Exported View:<br /><a href="/assets/documents/inline_titles.txt">Get the export</a>
     </p>
   </div>
 </div>
@@ -57,7 +63,7 @@ Tired of [Writer's](http://drupal.org/project/writer) default front page? Don't 
 
   <div class="fp-links">
     <p>
-      Exported View:<br /><a href="/assets/documents/full_posts.txt" target="_blank">Get the export</a>
+      Exported View:<br /><a href="/assets/documents/full_posts.txt">Get the export</a>
     </p>
   </div>
 </div>

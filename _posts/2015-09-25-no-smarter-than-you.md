@@ -1,7 +1,9 @@
 ---
-layout: post
 title: "No Smarter than You"
 date: 2015-09-25 06:37:06
+related: [
+  "Gumption"
+]
 ---
 
 I heard [this Steve Jobs quote][1] referenced on a recent podcast and had to go back and replay it a couple times because I found it so interesting:

@@ -1,7 +1,9 @@
 ---
-layout: post
 title: "Publishing Books to Github pages with Bitbooks"
 date: 2014-04-02 21:19:48
+related: [
+  "Bitbooks: Closing Thoughts"
+]
 ---
 
 As a web developer, my education has been strongly influenced by information that was freely shared and published online by those who came before me. I read Mark Pilgram's [Dive into HTML 5][1], Jonathon Snooks [SMACSS][2], and [Why's Poignant Guide to Ruby][3]. Each of these books was written by a developer, and in the spirit of open source, they were published online so everyone in the community could benefit. I thought it was noble and generous, and I wasn't alone. Thousands read these books and the developers went on to become leaders in their respective communities.

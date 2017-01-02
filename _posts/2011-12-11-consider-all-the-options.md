@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Consider ALL the Options"
 date: 2011-12-11 18:25:05
 ---
@@ -7,15 +6,15 @@ date: 2011-12-11 18:25:05
 It's finals week for me. That means that I'm back in the all-too-familiar position between that rock and that hard place I've come to know quite well. I've got limited time and resources to prepare for some quickly approaching and unforgiving final exams. Naturally, the preparation process is going to include some decisions and some trade-offs. Which class can I afford to study the least for? Is it better to forfeit an hour of reading or an hour of sleep? How appropriate it is, then, that my Organizational Behavior book (which I have to study anyway) happens to describe the decision-making process and ways that we can end up making better decisions. Here's how the process works (using my sweet Mario Bros. analogy):
 
 <div style="width: 234px;float:right; padding: 36px 16px 16px 0;">
-  <a href="http://bryanbraun.com/2011/12/11/consider-all-the-options/marios-decision/" rel="attachment wp-att-832"><img alt="" class="size-full wp-image-832 " height="202" src="/assets/images/Marios-Decision.jpg" title="Mario's Decision" width="224" /></a>
+  <a href="http://bryanbraun.com/2011/12/11/consider-all-the-options/marios-decision/"><img alt="" height="202" src="/assets/images/Marios-Decision.jpg" title="Mario's Decision" width="224" /></a>
 </div>
 
-1.  *Identify a goal* - Mario wants the Question Block
-2.  *Recognize the problem* - Koopa Troopa can harm Mario and prevent him from getting the Question Block
-3.  *Develop alternatives* - Jump over the Koopa Troopa, step on the Koopa Troopa, etc.
-4.  *Choose an alternative * - I will step on the Koopa Troopa
-5.  *Implement the decision* - goes and attempts to step on Koopa Troopa
-6.  *Evaluate the Outcome* - I miscalculated my jump, got hit by the Koopa Troopa, died, and lost a life. Maybe next time I should try a different approach.
+1. *Identify a goal* - Mario wants the Question Block
+2. *Recognize the problem* - Koopa Troopa can harm Mario and prevent him from getting the Question Block
+3. *Develop alternatives* - Jump over the Koopa Troopa, step on the Koopa Troopa, etc.
+4. *Choose an alternative* - I will step on the Koopa Troopa
+5. *Implement the decision* - goes and attempts to step on Koopa Troopa
+6. *Evaluate the Outcome* - I miscalculated my jump, got hit by the Koopa Troopa, died, and lost a life. Maybe next time I should try a different approach.
 
 Of course, in reality these steps happen quickly and automatically. Our world tends to dictate that we rush these decisions (If Mario doesn't act in the next 1.5 seconds, it's all over). One of the consequences is that we often end up satisficing (yes, that is a word) instead of maximizing.
 
@@ -27,15 +26,11 @@ To understand satisficing and maximizing, we have to look at steps three and fou
 
 This week I realized that my schedule next semester was going to be too much for me to handle. I've got a legitimate problem on my hands.
 
-<div>
-  <p style="text-align: center;">
-    <img alt="My class schedule is packed." class="size-full wp-image-848 " src="/assets/images/My-Class-Schedule.png" style="width: 800px; height: 446px;" title="My Class Schedule" />
-  </p>
-  
-  <p style="text-align: center;">
-    ...and I'm supposed to eat when?
-  </p>
-</div>
+<img alt="My class schedule is packed." class="size-full wp-image-848 " src="/assets/images/My-Class-Schedule.png" title="My Class Schedule" />
+
+<p style="text-align: center;">
+  ...and I'm supposed to eat when?
+</p>
 
 This is just like the Mario situation, except the Question block is graduation, and the Koopa Troopa is homework. Let's maximize. Here are my options:
 
@@ -54,7 +49,7 @@ This is just like the Mario situation, except the Question block is graduation, 
 13. Postpone graduation.
 14. Study time management practices over the Christmas break.
 15. Study speed reading over the Christmas break.
-16. Buy <a href="http://www.wbshop.com/Harry-Potter-Collectible-Time-Turner-by-Noble-Collection/HPNBTIME,default,pd.html" target="_blank" title="if only it were this easy...">this</a>.
+16. Buy <a href="http://www.wbshop.com/Harry-Potter-Collectible-Time-Turner-by-Noble-Collection/HPNBTIME,default,pd.html" title="if only it were this easy...">this</a>.
 17. Ask other people for advice.
 18. Eliminate extracurricular activities (like Web Start-up Group, dates, family time, Temple trips, church, events, blogging, showering, Facebook, and/or others)
 19. Buy a motorcycle (which probably won't improve the circumstances but it could make me feel more awesome and confident that I can actually do it)

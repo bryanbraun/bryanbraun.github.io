@@ -1,7 +1,9 @@
 ---
-layout: post
 title: "A Drupal 7 Image Gallery Tutorial"
 date: 2012-12-03 21:40:58
+related: [
+  "Drupal Tutorials: Exposed Filters with Views"
+]
 ---
 
 This tutorial describes step-by-step how to build a basic thumbnail based image gallery, based on Views. The result would look something like this:

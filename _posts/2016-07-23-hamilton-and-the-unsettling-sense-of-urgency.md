@@ -1,7 +1,9 @@
 ---
-layout: post
 title: "Hamilton and the unsettling sense of urgency"
 date: 2016-07-23 21:13:17
+related: [
+  "The relentless increase in opportunity costs"
+]
 ---
 
 Last month, out of curiosity, I looked up [the soundtrack][1] for [Hamilton][2], a successful musical that came out last year. It tells the story of Alexander Hamilton and the American Revolution, with a lot of refreshingly modern elements, (for example, replacing monologues with hip-hop riffs and cabinet meetings with [rap-battles][3]). I only expected to listen to a song or two, but got caught away in the story and listened to the whole thing, start to finish.
