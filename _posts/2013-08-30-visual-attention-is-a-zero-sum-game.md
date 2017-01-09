@@ -1,7 +1,10 @@
 ---
-layout: post
 title: "Visual attention is a zero-sum game"
 date: 2013-08-30 06:57:38
+related: [
+  "No Sidebars",
+  "Simplicity Takes Restraint"
+]
 ---
 
 The amount of attention a person allocates to your webpage is fixed, and you decide how that attention is distributed.
@@ -14,7 +17,7 @@ Distributing attention like this can turn into an arms race. More bold! More con
 
 Instead of bolding the word in the first place why not reduce the importance of everything else? It has the same effect on attention, but it drives towards simplicity instead of complexity, like the home page at [dropbox.com](http://dropbox.com).
 
-<img alt="" src="/assets/images/dropbox-home.png" />
+![Dropbox.com homepage, circa 2013](/assets/images/dropbox-home.png)
 
 Visual attention is a zero sum game. If everything is important, than nothing is.
 

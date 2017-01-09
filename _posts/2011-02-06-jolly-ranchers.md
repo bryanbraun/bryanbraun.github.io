@@ -1,7 +1,9 @@
 ---
-layout: post
 title: "Jolly Ranchers"
 date: 2011-02-06 16:43:04
+related: [
+  "Tetris"
+]
 ---
 
 I confess that over the past year or so, I got into a really bad habit of sleeping through my alarm clock. Oh, I usually hear it. It wakes me up but I ignore it or I procrastinate getting out of bed until I drift back to sleep.

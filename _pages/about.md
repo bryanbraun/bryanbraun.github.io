@@ -24,6 +24,6 @@ I'm a husband and father. I'm [INTJ](https://www.16personalities.com/intj-person
 
 ## This site
 
-This site is built with [Jekyll](https://jekyllrb.com/) and hosted on [Github Pages](https://pages.github.com/). The main fonts are [PT Sans](https://fonts.google.com/specimen/PT+Sans) and [PT Serif](https://fonts.google.com/specimen/PT+Serif). There's also a [styleguide](/styleguide/md).
+This site is built with [Jekyll](https://jekyllrb.com/) and hosted on [Github Pages](https://pages.github.com/). The main fonts are [PT Sans](https://fonts.google.com/specimen/PT+Sans) and [PT Serif](https://fonts.google.com/specimen/PT+Serif). There's also a [styleguide](/styleguide).
 
 All the code is open-source, and [available on Github](https://github.com/bryanbraun/bryanbraun.github.io), released under the [MIT license](https://github.com/bryanbraun/bryanbraun.github.io/blob/master/license.md). All content is licensed with a [Creative Commons Attribution License (BY 4.0)](https://creativecommons.org/licenses/by/4.0/), unless otherwise noted. If you find anything you can improve about this site, please submit a pull request.

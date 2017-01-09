@@ -1,7 +1,9 @@
 ---
-layout: post
 title: "The open source community that embraces designers most, wins."
 date: 2012-10-25 05:08:30
+related: [
+  "Vim Color Schemes: A Call for Designers"
+]
 ---
 
 That's my theory. Here's my reasoning:
@@ -22,9 +24,9 @@ If you have tried to use any of this software, I think you'll quickly notice whe
 
 (note: by just glancing at the websites of the projects I've mentioned, the lack of contributing designers is evident. Only one site really outshines these rest... <a href="http://www.mozilla.org" target="_blank" title="If you click the products tab, you'll see that all their products sites are amazingly designed.">Mozilla's</a>. I cannot speak for their contribution processes, but clearly, they got designers involved somewhere along the way. And with designers on board, is it any surprise that they were the ones that got mass market penetration? Not to me.)
 
-Fantastic links from <a href="https://plus.google.com/+ChrisMessina" target="_blank" title="Chris Messina is awesome. You should all follow him on Google+">an expert</a> on these topics:
+Fantastic links from <a href="https://plus.google.com/+ChrisMessina" title="Chris Messina is awesome. You should all follow him on Google+">an expert</a> on these topics:
 
-*   <a href="http:// http://factoryjoe.com/blog/2005/11/21/open-source-design-20/" target="_blank" title="Open Source Design">http://factoryjoe.com/blog/2005/11/21/open-source-design-20/</a>
-*   <a href="http://factoryjoe.com/blog/2008/01/03/the-problem-with-open-source-design/" target="_blank" title="The Problem with Open Source Design">http://factoryjoe.com/blog/2008/01/03/the-problem-with-open-source-design/</a>
-*   <a href="http://factoryjoe.com/blog/2009/08/26/losing-my-religion/" target="_blank" title="Losing My Religion">http://factoryjoe.com/blog/2009/08/26/losing-my-religion/</a>
-*   <a href="http://factoryjoe.com/blog/2009/11/07/open-source-design-and-the-openofficemouse/" target="_blank" title="Open Source Design and the Open Office Mouse">http://factoryjoe.com/blog/2009/11/07/open-source-design-and-the-openofficemouse/</a>
+* <a href="http://factoryjoe.com/blog/2005/11/21/open-source-design-20/" title="Open Source Design">http://factoryjoe.com/blog/2005/11/21/open-source-design-20/</a>
+* <a href="http://factoryjoe.com/blog/2008/01/03/the-problem-with-open-source-design/" title="The Problem with Open Source Design">http://factoryjoe.com/blog/2008/01/03/the-problem-with-open-source-design/</a>
+* <a href="http://factoryjoe.com/blog/2009/08/26/losing-my-religion/" title="Losing My Religion">http://factoryjoe.com/blog/2009/08/26/losing-my-religion/</a>
+* <a href="http://factoryjoe.com/blog/2009/11/07/open-source-design-and-the-openofficemouse/" title="Open Source Design and the Open Office Mouse">http://factoryjoe.com/blog/2009/11/07/open-source-design-and-the-openofficemouse/</a>

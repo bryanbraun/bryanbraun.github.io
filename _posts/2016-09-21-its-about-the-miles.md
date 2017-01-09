@@ -1,7 +1,10 @@
 ---
-layout: post
 title: "It's about the Miles"
 date: 2016-09-21 09:30:42
+related: [
+  "Put the Hours in",
+  "Don Hertzfeldt on Creative Work"
+]
 ---
 
 Last week I ran my 4th marathon.

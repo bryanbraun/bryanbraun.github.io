@@ -1,6 +1,10 @@
 ---
 title: Simplicity Takes Restraint
 date: 2013-07-02 14:43:19
+related: [
+  "Visual attention is a zero-sum game",
+  "No Sidebars"
+]
 ---
 
 If the goal of your site design is simplicity (and it probably is if you are using this theme), then don't forget: Simplicity takes restraint.
