@@ -60,7 +60,19 @@ navigation:
 
     <script src="/assets/js/anchor.min.js"></script>
     <script>
-      anchors.add('h2, h3, h4, h5, h6').remove('.no-anchor');
+      (function() {
+        // AnchorJS script. Our markdown parser adds IDs... AnchorJS just adds the link icons.
+        // Note: we don't want anchors on the homepage because that content is always changing.
+        var isHomePage = !!document.querySelectorAll('body.home').length;
+        if (!isHomePage) {
+          var headings = 'h2:not(.no-anchor),' +
+                         'h3:not(.no-anchor),' +
+                         'h4:not(.no-anchor),' +
+                         'h5:not(.no-anchor),' +
+                         'h6:not(.no-anchor)';
+          anchors.add(headings);
+        }
+      })();
     </script>
     <script>
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
