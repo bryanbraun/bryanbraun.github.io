@@ -34,6 +34,10 @@ img {
   max-width: 100%;
 }
 
+blockquote {
+  font-style: italic;
+}
+
 code, samp, kbd {
   font-family: $monospace-stack;
   font-size: 0.875rem;
@@ -129,7 +133,13 @@ th, td {
 .page-title {
   text-align: center;
 }
-
+.homepage-title-link {
+  color: $bb-off-black;
+  text-decoration: none;
+  &:hover {
+    color: $bb-orange;
+  }
+}
 .article-title {
   text-align: center;
 }

@@ -12,15 +12,17 @@ redirect_from: /node
   {% comment %}
 
     This is mostly just copied from the post.html layout. I do that because it's not that much
-    duplication and including the post  here (as {{ post }}) causes Jekyll to think of this as
-    a *true* post page, and not a home page with an embedded post. That has side-effects,
-    mostly for metadata.
+    duplication, there are some differences (like linked titles), and including the post here
+    (as {{ post }}) causes Jekyll to think of this as a *true* post page, and not a home page
+    with an embedded post (since that has side-effects, mostly for metadata).
 
   {% endcomment %}
 
   <div class="article">
     <header class="article-header">
-      <h1 class="article-title">{{ post.title }}</h1>
+      <h1 class="article-title">
+        <a class="homepage-title-link" href="{{ post.url }}">{{ post.title }}</a>
+      </h1>
       <p class="article-meta">{{ post.date | date: "%b %-d, %Y" }}</p>
     </header>
 
