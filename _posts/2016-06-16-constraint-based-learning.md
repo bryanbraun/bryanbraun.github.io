@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Constraint-based Learning"
 date: 2016-06-16 06:12:16
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Duplos and Constraints"
 date: 2014-07-31 20:08:28
 ---

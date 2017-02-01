@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "On project constraints and immovable deadlines"
 date: 2015-02-09 18:58:34
 ---
@@ -10,7 +9,7 @@ I’ve heard it said about software projects that there are three goals:
 *   Build it fully featured
 *   Build it under budget
 
-I’ve also heard it said *"you can only pick two"* (it’s usually said in jest, like the parallel offered to college students that they can only pick two options: good sleep, good grades, and a good social life). While it’s possible for software projects to successfully hit all three, there are a host of challenges standing in your way. It’s a good idea at the beginning of your project to determine which of these options are flexible and which ones aren’t, so you can plan accordingly.
+I’ve also heard it said *"you can only pick two"*. While it’s possible for software projects to successfully hit all three, there are a host of challenges standing in your way. It’s a good idea at the beginning of your project to determine which of these options are flexible and which ones aren’t, so you can plan accordingly.
 
 I recently worked on a project where *“Build it on time”* was totally non-negotiable, because we were driving towards a large public event that wasn’t going to move for us. Because we knew this, we were able to adjust how we worked in order to meet the deadline. Here are the approaches we took in this instance.
 
@@ -36,6 +35,6 @@ Our work was built on top of production software, so we had another point of pot
 
 Instead, we focused on releasing small pieces functionality to production, every day if possible. This doesn’t guarantee that there won’t be regressions. Rather, it makes it more likely that regressions are minor, and easy to isolate and fix.
 
-## In closing
+## Constraints are Good
 
 Constraints are good. They keep us focused on practical solutions that deliver value. By keeping our process iterative and focusing on reducing risk, we can avoid negative outcomes in highly constrained circumstances (like immovable deadlines).

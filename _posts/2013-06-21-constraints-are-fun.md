@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Constraints are Fun"
 date: 2013-06-21 06:51:29
 ---
