@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Jeqe Recipe"
 date: 2012-05-20 09:24:06
 ---
@@ -16,7 +15,7 @@ The time to prepare is usually around 3 hours for me (including rise time and co
 
 Lets start with the ingredients. Add the following to a large mixing bowl:
 
-*   7 cups flour
+*   7 cups flour (All-purpose or Bread flour)
 *   1 cup sugar
 *   1/4 cup oil
 *   1 packet yeast (2 and 1/4 teaspoons)

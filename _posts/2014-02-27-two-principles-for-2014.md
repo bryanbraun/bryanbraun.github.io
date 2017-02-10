@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Two Principles for 2014"
 date: 2014-02-27 18:49:14
 ---

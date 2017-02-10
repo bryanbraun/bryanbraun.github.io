@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "How could I have ever forgotten"
 date: 2012-10-04 23:00:20
 ---
@@ -48,8 +47,8 @@ The story you just read about me in my pinstriped suit was mostly true. Sure, th
 
 In some situations, for brief moments, I've actually felt that way. It's shocking, really, that I could forget so quickly that I was a struggling student not long ago, with nothing to my name. I'm no different a person today than I was 6 months ago. So why act like I am?
 
-Ultimately, if fame, respect, or importance, ever causes me to be like the man in the pinstriped suit, then I will have made a grave mistake. It's the modern day selling of the proverbial <a href="https://www.lds.org/scriptures/ot/gen/25.33-34?lang=eng" target="_blank" title="Isaac and Esau">birthright for a mess of pottage</a>. "For what shall it profit a man, if he shall gain the whole world, and lose his own soul? [<a href="http://www.lds.org/scriptures/nt/mark/8.36?lang=eng" target="_blank" title="Mark 8:36">1</a>]" I hope to never aspire to such a profit. Because once you meet someone like Felipe Feliciano you begin to realize that the inflated egos of successful CEOs, Wall Street brokers, or superstar athletes doesn't amount to <a href="http://www.imdb.com/title/tt0034583/quotes?qt=qt0429980" target="_blank">a hill of beans</a> when compared to the incredible character of a humble friend.
+Ultimately, if fame, respect, or importance, ever causes me to be like the man in the pinstriped suit, then I will have made a grave mistake. It's the modern day selling of the proverbial <a href="https://www.lds.org/scriptures/ot/gen/25.33-34?lang=eng" title="Isaac and Esau">birthright for a mess of pottage</a>. "For what shall it profit a man, if he shall gain the whole world, and lose his own soul? [<a href="http://www.lds.org/scriptures/nt/mark/8.36?lang=eng" title="Mark 8:36">1</a>]" I hope to never aspire to such a profit. Because once you meet someone like Felipe Feliciano you begin to realize that the inflated egos of successful CEOs, Wall Street brokers, or superstar athletes are nothing to aspire to.
 
-Here's looking at you kid.
+Thanks Felipe, for reminding me of that.
 
-<img alt="" src="/assets/images/felipe2.JPG" style="width: 304px; height: 301px; margin: 0px auto; " />
+<img alt="Photo of Felipe" src="/assets/images/felipe2.JPG" />
