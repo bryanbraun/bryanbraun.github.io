@@ -1,7 +1,9 @@
 ---
-layout: post
 title: "Writing a Letter"
 date: 2012-12-09 12:25:18
+related: [
+  "Help Someone Move"
+]
 ---
 
 Today, I decided to spend an hour writing somebody a letter. You know… that thing with the paper and the envelope and the stamps. I'm aware of the inconveniences of this dated mode of communication but my choice to use physical pen and paper was deliberate.

@@ -1,7 +1,9 @@
 ---
-layout: post
 title: "It's time, again, for our education to move up the stack"
 date: 2014-04-26 07:43:22
+related: [
+  "Do we really need to know all this stuff?"
+]
 ---
 
 Here are some things we don't study in school:

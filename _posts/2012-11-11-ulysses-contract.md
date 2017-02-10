@@ -1,7 +1,10 @@
 ---
-layout: post
 title: "The Ulysses Contract"
 date: 2012-11-11 15:27:26
+related: [
+  "Winning Systems",
+  "Procrastination: The future-you cannot be trusted"
+]
 ---
 
 What do you do when your own worst enemy is yourself?

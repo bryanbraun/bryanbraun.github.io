@@ -1,7 +1,9 @@
 ---
-layout: post
 title: "Do we really need to know all this stuff?"
 date: 2011-10-23 23:26:59
+related: [
+  "It's time, again, for our education to move up the stack"
+]
 ---
 
 The other day I was in my marketing class and the guest lecturer decided to hold a contest.
@@ -32,7 +34,7 @@ We are coming to a point in time where access to the "sum of all human knowledge
    
 </div>
 
-Knowing how to find them is getting incredibly easy. Google images lets you "<a href="http://www.youtube.com/watch?v=t99BfDnBZcI" target="_blank" title="Google &quot;search by image&quot;">search by image</a>" by dragging an image from your desktop to their search bar. Then it finds a bunch of images that look just like it (useful for identifying art, famous locations, flowers, and more). It's not perfect but it's getting better. Apple's Siri (on the iPhone 4S) is voice activated and integrated with Wolfram Alpha, so all you have to do is ask your phone a question and it will <a href="http://www.youtube.com/watch?v=5pg6fho-xb4" target="_blank" title="Siri Demo">literally</a> give you the answer. Sounds too good to be true? It's not perfect but it's getting better.
+Knowing how to find them is getting incredibly easy. Google images lets you "<a href="http://www.youtube.com/watch?v=t99BfDnBZcI" title="Google &quot;search by image&quot;">search by image</a>" by dragging an image from your desktop to their search bar. Then it finds a bunch of images that look just like it (useful for identifying art, famous locations, flowers, and more). It's not perfect but it's getting better. Apple's Siri (on the iPhone 4S) is voice activated and integrated with Wolfram Alpha, so all you have to do is ask your phone a question and it will <a href="http://www.youtube.com/watch?v=5pg6fho-xb4" title="Siri Demo">literally</a> give you the answer. Sounds too good to be true? It's not perfect but it's getting better.
 
 As these things get better and better, it won't be long until everyone will be able to find the answer to anything under every possible circumstances.
 

@@ -1,7 +1,11 @@
 ---
-layout: post
 title: "Good Documentation Delivers Value"
 date: 2014-05-01 07:50:16
+related: [
+  "Jargon",
+  "The Curse of Knowledge",
+  "Analyze, Filter, Deliver"
+]
 ---
 
 I've written a fair amount of poor documentation in my life, but one experience eclipses them all.

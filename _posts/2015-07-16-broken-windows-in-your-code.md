@@ -1,10 +1,9 @@
 ---
-layout: post
 title: "Broken Windows in your Code"
 date: 2015-07-16 18:31:48
 ---
 
-A <a href="https://en.wikipedia.org/wiki/Broken_windows_theory" target="_blank">popular theory</a> on criminal behavior postulates that **a broken window left unfixed, leads to rapid deterioration in a neighborhood**. The reasoning is that the broken window sends signals to anybody who sees it, indicating the degree to which the community tolerates disorder. A community that tolerates disorder becomes a hotbed for other criminal activity.
+A <a href="https://en.wikipedia.org/wiki/Broken_windows_theory" >popular theory</a> on criminal behavior postulates that **a broken window left unfixed, leads to rapid deterioration in a neighborhood**. The reasoning is that the broken window sends signals to anybody who sees it, indicating the degree to which the community tolerates disorder. A community that tolerates disorder becomes a hotbed for other criminal activity.
 
 The solution? Fix broken windows as soon as they are broken! Don't let a small issue escalate until it's out of control. It sounds obvious, but in reality it takes a lot of time and deliberate effort to watch for broken windows and fix them immediately.
 

@@ -1,11 +1,13 @@
 ---
-layout: post
 title: "On Designing Great Systems"
 date: 2015-02-16 14:05:44
+related: [
+  "Broken Windows in your Code"
+]
 ---
 
 > "A good framework or a good architecture makes it hard to do the wrong thing. A lot of people will always go for the easiest way to get something done. So as a systems designer, your job is to make sure that the easiest thing to do is the right thing. And once you get that, the whole system gets more maintainable."
-> 
+>
 > - Nicholas Zakas, [Javascript Jabber 075 - Maintainable Javascript with Nicholas Zakas][1]
 
  [1]: http://devchat.tv/js-jabber/075-jsj-maintainable-javascript-with-nicholas-zakas
