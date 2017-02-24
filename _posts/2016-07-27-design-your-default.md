@@ -1,7 +1,9 @@
 ---
-layout: post
 title: "Design your Default"
 date: 2016-07-27 21:13:37
+related: [
+  "Living Deliberately"
+]
 ---
 
 These mornings I often wake up and go for a run. I wear my BYU T-shirt and make sure to smile and wave to everyone else on the trail, so they can learn how friendly Mormons are.
