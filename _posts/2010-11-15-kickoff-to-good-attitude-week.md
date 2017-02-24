@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Kickoff to \"Good Attitude Week\""
 date: 2010-11-15 19:35:11
 ---

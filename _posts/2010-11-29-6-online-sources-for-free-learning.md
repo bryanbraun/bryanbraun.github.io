@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "6 Online Sources for Free Learning"
 date: 2010-11-29 00:53:57
 ---

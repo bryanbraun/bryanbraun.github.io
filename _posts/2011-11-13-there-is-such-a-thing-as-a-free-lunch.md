@@ -1,7 +1,10 @@
 ---
-layout: post
 title: "There IS such a thing as a free lunch"
 date: 2011-11-13 23:08:16
+related: [
+  "5 Awesome Books (that are FREE online)",
+  "6 Online Sources for Free Learning"
+]
 ---
 
 Free stuff is awesome.

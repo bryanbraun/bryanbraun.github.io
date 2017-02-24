@@ -20,4 +20,4 @@ Your performance tweaks may fulfill your personal desire to express cleverness o
 
 When your users are noticing slowness, then yes, of course, fix it. Solve their problem immediately!
 
-Because solving users problems is the business you're actually in.
+Because solving users' problems is the business you're actually in.

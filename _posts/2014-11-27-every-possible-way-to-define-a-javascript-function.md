@@ -1,7 +1,9 @@
 ---
-layout: post
 title: "Every Possible Way to Define a Javascript Function"
 date: 2014-11-27 14:35:18
+related: [
+  "Every Possible Way"
+]
 ---
 
 One small thing that confused me as I was learning Javascript was the many different kinds of ways to define a Javascript function. I could never seem to find one place that showed all of them, and explained why you might use each one.

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "StartUp Weekend Salt Lake City"
 date: 2012-02-05 17:37:48
 ---

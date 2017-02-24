@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Looking back. Looking forward."
 date: 2012-01-01 20:14:57
 ---

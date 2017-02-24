@@ -1,7 +1,10 @@
 ---
-layout: post
 title: "Every Possible Way"
 date: 2016-09-04 22:40:59
+related: [
+  "Every Possible Way to Define a Javascript Function",
+  "Constraint-based Learning"
+]
 ---
 
 Part of mastering your medium is understanding the tradeoffs you make when you choose one approach over another. For a painter, that's knowing when to use acrylic paints vs oil paints. As a developer, that's how you make good, informed, decisions when you choosing technologies (whether it be a CMS, hosting provider, database, MVC framework, etc).
@@ -10,9 +13,9 @@ But how do you get there? It's hard to understand the tradeoffs unless you have 
 
 One way I've handled this is by taking a small topic, and exploring every possible way to accomplish it. Several of my recent projects have done this:
 
-*   [Logo Experiments][1] is an exercise in finding every possible way to display a logo visually on the web.
-*   [Bouncy Ball][2] attempts to build a bouncing-ball animation using all the major web-animation techniques and libraries.
-*   [Every Possible Way to Define a Javascript Function][3] is an article documenting, well, every possible way to define a JavaScript function.
+* [Logo Experiments][1] is an exercise in finding every possible way to display a logo visually on the web.
+* [Bouncy Ball][2] attempts to build a bouncing-ball animation using all the major web-animation techniques and libraries.
+* [Every Possible Way to Define a Javascript Function][3] is an article documenting, well, every possible way to define a JavaScript function.
 
  [1]: http://sparkbox.github.io/logo-experiments/
  [2]: http://sparkbox.github.io/bouncy-ball

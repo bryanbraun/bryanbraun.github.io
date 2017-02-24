@@ -1,7 +1,9 @@
 ---
-layout: post
-title: "An overview of Javascript's try-catch"
+title: "An Overview of Javascript's try-catch"
 date: 2014-10-19 22:00:59
+related: [
+  "Every Possible Way to Define a Javascript Function"
+]
 ---
 
 Javascript has a pattern called try-catch that can be a bit confusing if you aren't used to it. I just finished a fantastic javascript book, which covered the topic well, so I thought I'd share what I learned.
@@ -11,11 +13,11 @@ Javascript has a pattern called try-catch that can be a bit confusing if you are
 Try-catch is a code block, similar to an if conditional. It looks like this:
 
     try {
-        // put some code here
+      // put some code here
     } catch (err) {
-        // put more code here
+      // put more code here
     finally {
-        // put more code here
+      // put more code here
     }
 
 The purpose of a try-catch block is to handle errors gracefully. And when I say errors, I don't mean bugs or missing semicolons. I mean big, nasty, capital E errors.
@@ -33,10 +35,10 @@ The "finally" braces, contains any code that you want to run "no matter what." I
 We can test this out by creating our own artificial errors using the 'throw' statement, like so:
 
     try {
-    &nbsp;&nbsp;&nbsp; throw new Error("My custom error message");
+      throw new Error("My custom error message");
     } catch (err) {
-    &nbsp;&nbsp;&nbsp; // Print the error message to the console.
-    &nbsp;&nbsp;&nbsp; console.log(err.message);
+      // Print the error message to the console.
+      console.log(err.message);
     }
 
 As you can see the "catch" block references a javascript object that we've named \`err\`. This object contains information about the error that was returned, like the error message (stored in \`err.message\`).
@@ -44,16 +46,16 @@ As you can see the "catch" block references a javascript object that we've named
 Let's make a few changes to our example to bring all these concepts together.
 
     try {
-    &nbsp;&nbsp;&nbsp; console.log(&#39;This is the first "try" message&#39;);
-    &nbsp;&nbsp;&nbsp; throw new Error("My custom error message");
-    &nbsp;&nbsp;&nbsp; console.log(&#39;This is the second "try" message&#39;);
+      console.log("This is the first 'try' message");
+      throw new Error("My custom error message");
+      console.log("This is the second 'try' message");
     } catch (e) {
-    &nbsp;&nbsp;&nbsp; console.log(&#39;This is the "catch" message: &#39; + e.message);
+      console.log("This is the 'catch' message: " + e.message);
     } finally {
-    &nbsp;&nbsp;&nbsp; console.log(&#39;This is the "finally" message&#39;);
+      console.log("This is the 'finally' message");
     }
-    
-    console.log(&#39;This is an additional message, after try-catch-finally&#39;);
+
+    console.log("This is an additional message, after try-catch-finally");
 
 Running this code results in the following messages in the console:
 
@@ -68,10 +70,10 @@ As you can see, the second "try" message is skipped because code execution moves
 
 If you want more information on try-catch (including when and when not to use it) here are a few good links:
 
-*   [Mozilla Reference: try...catch][1]
-*   [Is try-catch a good practice?][2]
-*   [Javascript Exceptions][3]
+* [Mozilla Reference: try...catch][1]
+* [Is try-catch a good practice?][2]
+* [Javascript Exceptions][3]
 
- [1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/try...catch
- [2]: http://programmers.stackexchange.com/questions/144326/try-catch-in-javascript-isnt-it-a-good-practice
- [3]: http://javascript.info/tutorial/exceptions
+[1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/try...catch
+[2]: http://programmers.stackexchange.com/questions/144326/try-catch-in-javascript-isnt-it-a-good-practice
+[3]: http://javascript.info/tutorial/exceptions

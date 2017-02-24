@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Family of Four"
 date: 2012-10-14 20:56:26
 ---

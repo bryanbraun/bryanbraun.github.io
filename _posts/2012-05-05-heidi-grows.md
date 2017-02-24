@@ -1,7 +1,10 @@
 ---
-layout: post
 title: "Heidi Grows"
 date: 2012-05-05 21:18:48
+related: [
+  "Heidi",
+  "Family of Four"
+]
 ---
 
 I confess, I never look at other people's baby pictures on Facebook. I'm not sure why... sometimes it seems like all babies look the same.

@@ -1,7 +1,9 @@
 ---
-layout: post
 title: "5 Awesome Books (that are FREE online)"
 date: 2011-04-25 11:51:37
+related: [
+  "There IS such a thing as a free lunch"
+]
 ---
 
 I love reading and I really love free stuff, so you can imagine the happiness I felt when I stumbled across <a href="http://www.gutenberg.org" target="_blank" title="Project Gutenberg">Project Gutenberg</a>.
