@@ -1,7 +1,9 @@
 ---
-layout: post
 title: "Understanding the Command Line"
 date: 2012-12-29 10:22:24
+related: [
+  "The Command Line is a Terrifying Thing"
+]
 ---
 
 If you have ever watched an experienced computer person use a command line, it is mind-boggling. You instantly have no clue what is going on. They are executing commands faster than you can process what they are typing. It's gives you the impression that they are some sort of super-genius, like they could map out the human genome in their mind or memorize pi to a billion digits. It invites the thought that no normal human should be able to do this.
@@ -20,4 +22,4 @@ And suddenly, I felt a sense of understanding for people of old age, who have no
 
 It's a perspective I hope I don't soon forget.
 
-(by the way, if you are also seeking to understand the command line, <a href="http://wiseheartdesign.com/articles/2010/11/12/the-designers-guide-to-the-osx-command-prompt/" target="_blank" title="It's for Mac OS only. Sorry Windows users.">this is the best tutorial I've ever found on the topic</a>)
+(by the way, if you are also seeking to understand the command line, <a href="http://wiseheartdesign.com/articles/2010/11/12/the-designers-guide-to-the-osx-command-prompt/" title="It's for Mac OS only. Sorry Windows users.">this is the best tutorial I've ever found on the topic</a>)

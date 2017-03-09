@@ -18,7 +18,7 @@ I thought something had broken, but I confirmed it with webpagetest, and yes, I 
 
 So what happened? Digging a bit deeper in the analytics data, I found the answer.
 
-My most popular blog post is a recipe on how to make South African steam bread. This might sound strange for the blog of an American software developer, but I pieced together the recipe back when I was a missionary in Durban, and Google has sent me traffic ever since.
+My most popular blog post is a recipe on how to make South African steam bread. This might sound strange for the blog of an American software developer, but I pieced together the recipe back when I was a missionary in [Durban](https://en.wikipedia.org/wiki/Durban), and Google has sent me traffic ever since.
 
 It turns out, over 93% of traffic to that page comes from Africa. Over 86% of that traffic is on mobile devices. All of this traffic was bringing my average page load up:
 

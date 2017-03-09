@@ -1,7 +1,9 @@
 ---
-layout: post
 title: "The Command Line is a Terrifying Thing"
 date: 2012-11-05 05:01:09
+related: [
+  "Understanding the Command Line"
+]
 ---
 
 The command line is a terrifying thing.

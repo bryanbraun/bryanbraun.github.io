@@ -33,3 +33,11 @@ I ended up fixing it by removing the image entirely. To do that you go to your f
 ![option to remove the tracking images]({{site.url}}/assets/images/blank-space-bug-2.png)
 
 Once I unchecked this option, the image was gone and my problem was solved.
+
+**Update**
+
+I just noticed this Mailchimp setting, found at `Mailchimp > Campaigns > Edit`
+
+![Resize RSS feed images to fit template]({{site.url}}/assets/images/blank-space-bug-3.png)
+
+I don't remember setting that but I'll bet disabling it would also make the blank space go away.
