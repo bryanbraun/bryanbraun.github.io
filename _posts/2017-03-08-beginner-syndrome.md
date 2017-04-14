@@ -23,4 +23,4 @@ The truth is, I still have beginner syndrome. I still look at my code and know i
 
 Maybe one day I'll be an imposter. I'll "arrive" and public opinion of me will become so great that I can't possibly live up to it, ha ha.
 
-In the mean time, I'll do as he he recommends and focus on [the miles]({{site.url}}/2016/09/21/its-about-the-miles/).
+In the mean time, I'll do as he recommends and focus on [the miles]({{site.url}}/2016/09/21/its-about-the-miles/).
