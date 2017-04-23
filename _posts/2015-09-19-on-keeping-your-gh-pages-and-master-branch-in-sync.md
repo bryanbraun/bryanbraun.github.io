@@ -1,7 +1,9 @@
 ---
-layout: post
 title: "On keeping your gh-pages and master branch in sync"
 date: 2015-09-19 15:03:11
+related: [
+ "Linking to your Javascript Library from Inside the Github Pages Docs Folder"
+]
 ---
 
 When I first started using Github pages for projects with static demos, I worried a lot about keeping my master branch in sync with my Github pages branch. I scoured the web for approaches and [found several][1], but [they][2] always seemed like a hassle.
@@ -24,3 +26,7 @@ First, you'll want to make sure you've got both a master and gh-pages branch up 
 Simply click to change the default branch to `gh-pages`, and use the trash icon (like the one circled above) to delete your master branch (you'll want to make sure your gh-pages branch is identical to master before you delete `master`).
 
 In retrospect, it seems so obvious. A branch is a branch, and "master" is just a name. If your repo uses `gh-pages` as **its master** then you'll never have to keep branches in sync again. That's my kind of solution.
+
+**Update:**
+
+This approach is no longer necessary, now that Github lets you use master, or a `/docs` folder for github-pages.

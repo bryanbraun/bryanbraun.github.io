@@ -7,7 +7,7 @@ related: [
 ]
 ---
 
-I was listening to [a podcast](https://devchat.tv/ruby-rogues/rails-5-way-obie-fernandez) recently when I heard the following perspective:
+I was listening to [a podcast](https://devchat.tv/ruby-rogues/rails-5-way-obie-fernandez) recently when I heard the following:
 
 > The way that books actually get finished is you have to work on them, like, every day... and I don't know about anyone else, but... to sit down and get a serious amount of original writing committed to the page every day, I can't do that.
 
