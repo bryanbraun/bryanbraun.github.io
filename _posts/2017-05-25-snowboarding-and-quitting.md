@@ -1,6 +1,6 @@
 ---
 title: "Snowboarding and Quitting"
-date: 2017-01-25 22:27:00
+date: 2017-05-25 22:27:00
 related: [
   "The Best in the World",
   "Don Hertzfeldt on Creative Work"
