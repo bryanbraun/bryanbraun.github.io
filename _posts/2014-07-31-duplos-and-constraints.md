@@ -55,4 +55,4 @@ Since structural integrity was a challenge, I started wondering what else I coul
 
 Brick buildings use arches to support doorways and ceilings because arches put structures in compression where traditional beams require tension. Bricks perform better in compression than tension and that's true for Duplos as well.
 
-I could go on, but here's the point. A whole new world opens up when you look at your situation from the perspective of design constraints. It turn a punishment into a challenge, and places you in a laboratory where the name of the game is pushing the boundaries of what can be done. We live in a world imposing all sorts of constraints on us. Let's charge into them and see what we can do.
+I could go on, but here's the point. A whole new world opens up when you look at your situation from the perspective of design constraints. It turns a punishment into a challenge, and places you in a laboratory where the name of the game is pushing the boundaries of what can be done. We live in a world imposing all sorts of constraints on us. Let's charge into them and see what we can do.

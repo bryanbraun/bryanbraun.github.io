@@ -1,12 +1,11 @@
 ---
-layout: post
 title: "In which I explain how I got my dream job"
 date: 2012-07-07 20:47:01
 ---
 
 I am a recent graduate and I just accepted an offer for my dream job. I'm sharing this story because the process I went through to get to this point was incredible and definitely not typical!
 
-It started earlier this year. In the course of my hobbies, studies, and personal research, I found myself engrossed in web development work and loving every minute of it! Through this work, I learned a lot about the industry and I was particularly interested in the open source web CMS called <a href="http://drupal.org" target="_blank" title="Drupal">Drupal</a>. In short, as I developed a competency with Drupal, I started to look around for opportunities to learn more. In this process, I became very interested in a certain company, <a href="http://acquia.com" target="_blank" title="Acquia.com">Acquia</a>, which led the industry technically and attracted some the smartest people in the Drupal ecosystem.
+It started earlier this year. In the course of my hobbies, studies, and personal research, I found myself engrossed in web development work and loving every minute of it! Through this work, I learned a lot about the industry and I was particularly interested in the open source web CMS called <a href="http://drupal.org" title="Drupal">Drupal</a>. In short, as I developed a competency with Drupal, I started to look around for opportunities to learn more. In this process, I became very interested in a certain company, <a href="http://acquia.com" target="_blank" title="Acquia.com">Acquia</a>, which led the industry technically and attracted some the smartest people in the Drupal ecosystem.
 
 Now I don't know much, but I realized that if I wanted to ever be that smart, I needed to get in the same room as those people.
 
@@ -86,7 +85,7 @@ Then one day, out of the blue, I was asked if I would be interested in a positio
   <img alt="DC street with capitol building in the background" src="/assets/images/DC_capitol.jpg" style="width: 480px; height: 360px;" title="Capitol Building from my cell phone cam" />
 </p>
 
-I learned that the position would get me involved with <a href="https://twitter.com/#!/BryanEBraun/acquia-dc/members" target="_blank">really talented people</a> working on some challenging problems for prestigious projects. It was absolutely perfect! It wasn't much longer before I was made an offer for the job. I am both humbled and grateful for the opportunity to work with these amazing people.
+I learned that the position would get me involved with <a href="https://twitter.com/#!/BryanEBraun/acquia-dc/members">really talented people</a> working on some challenging problems for prestigious projects. It was absolutely perfect! It wasn't much longer before I was made an offer for the job. I am both humbled and grateful for the opportunity to work with these amazing people.
 
 This whole process has been the experience of a lifetime and I couldn't think of a better way to transition out of school and into meaningful work. I know that the greatest challenges lie ahead but I feel ready to take them on with enthusiasm.
 

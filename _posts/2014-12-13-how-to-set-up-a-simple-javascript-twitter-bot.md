@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "How to Set Up a Simple Javascript Twitter Bot"
 date: 2014-12-13 12:35:17
 ---
@@ -62,8 +61,8 @@ You'll want to use [git][5] to pull the twitter-listbot code down from [Github][
 
 You'll need to customize a few settings in the bot in order for it to work for you. Open the file at `twitter-listbot/index.js` in your favorite text editor and substitute these values in the config object with your own:
 
-        me: &#39;XXXXXXXXX&#39;, // Put the name of your new twitter account here (without the @ sign).
-        myList: &#39;cool-people&#39;, // Put the name of your new twitter list here. You can get this from the page url when you are looking at the list on Twitter.
+        me: "XXXXXXXXX", // Put the name of your new twitter account here (without the @ sign).
+        myList: "cool-people", // Put the name of your new twitter list here. You can get this from the page url when you are looking at the list on Twitter.
 
 Now your bot will know to retweet the tweets of people in the cool-people list, using your new Twitter account.
 

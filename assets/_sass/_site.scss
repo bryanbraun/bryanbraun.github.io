@@ -38,6 +38,11 @@ blockquote {
   font-style: italic;
 }
 
+figcaption {
+  text-align: center;
+  font-size: 0.8rem;
+}
+
 code, samp, kbd {
   font-family: $monospace-stack;
   font-size: 0.875rem;

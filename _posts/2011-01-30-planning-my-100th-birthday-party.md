@@ -1,12 +1,11 @@
 ---
-layout: post
 title: "Planning my 100th Birthday Party"
 date: 2011-01-30 17:55:06
 ---
 
 A short while ago, I decided that I wanted to live to be a hundred years old. I could live to be older, and that would be great, but all I really want is to live to be a hundred.
 
-I have a lot of reasons for this goal (my big to-do list, improving the world, my health, becoming a great-great-grandfather, etc), and I'm pretty sure I am going to make it. I've got some really old people in my family tree, and medical technology is getting really good (see <a href="http://www.ted.com/talks/lang/eng/aubrey_de_grey_says_we_can_avoid_aging.html" target="_blank" title="Avoiding Aging">the speech from a Cambridge researcher </a>who explains how the people born today will be the first to live to be 1000 years old!). I'm so convinced that I will see the big one-double-o that I  started planning my 100th birthday party. Now I'm not the kind who loves to throw parties all the time, but there will be a big one coming for the day that I become a <a href="http://en.wikipedia.org/wiki/Centenarian" target="_blank" title="Centenarian">centenarian</a>. This is how it's going down.
+I have a lot of reasons for this goal (my big to-do list, improving the world, my health, becoming a great-great-grandfather, etc), and I'm pretty sure I am going to make it. I've got some really old people in my family tree, and medical technology is getting really good (see <a href="http://www.ted.com/talks/lang/eng/aubrey_de_grey_says_we_can_avoid_aging.html" title="Avoiding Aging">the speech from a Cambridge researcher</a> who explains how the people born today will be the first to live to be 1000 years old!). I'm so convinced that I will see the big one-double-o that I  started planning my 100th birthday party. Now I'm not the kind who loves to throw parties all the time, but there will be a big one coming for the day that I become a <a href="http://en.wikipedia.org/wiki/Centenarian" title="Centenarian">centenarian</a>. This is how it's going down.
 
 First, you're all invited (unless you don't live to see February 7th, 2087... in which case, may you rest in peace). We may need to rent out a gymnasium or a concert hall or something. It's gonna be big.
 
