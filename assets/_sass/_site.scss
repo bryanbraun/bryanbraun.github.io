@@ -238,12 +238,12 @@ th, td {
 }
 .project {
   border: 1px solid #ccc;
-  margin: 2px;
+  margin: 10px;
   float: left;
-  width: 207px;
-  //   207 (width)
+  width: 191px;
+  //   191 (width)
   // +   2 (border on both sides)
-  // +   4 (margin on both sides)
+  // +   20 (margin on both sides)
   // = 213px (per image)
   // *   3 (wide)
   // = 639px (out of a possible total width of 640)

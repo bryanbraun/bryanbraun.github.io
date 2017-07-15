@@ -3,7 +3,8 @@ title: "The relentless increase in opportunity costs"
 date: 2014-07-21 19:28:49
 related: [
   "Opportunity Costs",
-  "Hamilton and the unsettling sense of urgency"
+  "Hamilton and the unsettling sense of urgency",
+  "Our Excuses"
 ]
 ---
 

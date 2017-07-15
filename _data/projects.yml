@@ -1,3 +1,7 @@
+- name: Gridmaster
+  url: https://gridmaster.io
+  image: /assets/images/gridmaster-logo.png
+
 - name: Bouncy Ball
   url: http://sparkbox.github.io/bouncy-ball/
   image: /assets/images/bouncy-ball.png
@@ -8,7 +12,7 @@
 
 - name: After Dark in CSS
   url: http://bryanbraun.github.io/after-dark-css
-  image: /assets/images/flying-toaster_0.gif
+  image: /assets/images/flying-toaster.gif
 
 - name: Poor Man's Styleguide
   url: http://www.poormansstyleguide.com
@@ -28,7 +32,7 @@
 
 - name: Template Picker
   url: https://drupal.org/project/template_picker
-  image: /assets/images/template-picker-2.png
+  image: /assets/images/template-picker-logo.png
 
 - name: Writer A Blogging Theme for Developers
   url: http://drupal.org/project/writer
