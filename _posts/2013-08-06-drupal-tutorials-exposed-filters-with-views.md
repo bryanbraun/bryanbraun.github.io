@@ -64,6 +64,5 @@ And that's it! This is the foundation for all kinds of user defined filtering th
 
 Additional resources:
 
-* See an example of exposed filters in action on <a href="http://bryanbraun.com/blog-archives">my archives page</a>
 * <a href="https://drupal.org/project/better_exposed_filters">Better Exposed Filters</a> - a module for adding more filtering options (here's <a href="http://codekarate.com/daily-dose-of-drupal/drupal-7-better-exposed-filters">a video tutorial on how it works</a>)
 * A post on <a href="http://envisioninteractive.com/drupal/drupal-7-views-with-faceted-filters-without-apachesolr/">how to set up faceted filtering</a>
