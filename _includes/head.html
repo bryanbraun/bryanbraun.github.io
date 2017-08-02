@@ -18,7 +18,17 @@
 
     <link rel="icon" href="/favicon.ico">
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-    <link rel="stylesheet" href="{{ "/assets/stylesheets/main.css" | prepend: site.baseurl }}">
     <link rel="alternate" type="application/rss+xml" href="http://feeds.feedburner.com/bryanbraun" title="BryanBraun.com RSS">
     {% feed_meta %}
+
+  {% comment %}
+    Inline our CSS because it's below 14k (as recommended in https://hackernoon.com/10-things-i-learned-making-the-fastest-site-in-the-world-18a0e1cdf4a7)
+    Technique: http://www.kevinsweet.com/inline-scss-jekyll-github-pages
+  {% endcomment %}
+  <style type="text/css">
+    {% capture include_to_scssify %}
+      {% include main.scss %}
+    {% endcapture %}
+    {{ include_to_scssify | scssify }}
+  </style>
 </head>
