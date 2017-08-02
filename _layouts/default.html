@@ -1,4 +1,5 @@
 ---
+layout: compress
 navigation:
  - text: Blog
    url: /
@@ -61,8 +62,10 @@ navigation:
     <script src="/assets/js/anchor.min.js"></script>
     <script>
       (function() {
-        // AnchorJS script. Our markdown parser adds IDs... AnchorJS just adds the link icons.
-        // Note: we don't want anchors on the homepage because that content is always changing.
+        /*
+         AnchorJS script. Our markdown parser adds IDs... AnchorJS just adds the link icons.
+         Note: we don't want anchors on the homepage because that content is always changing.
+        */
         var isHomePage = !!document.querySelectorAll('body.home').length;
         if (!isHomePage) {
           var headings = 'h2:not(.no-anchor),' +

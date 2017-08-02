@@ -87,8 +87,10 @@
             percentX = Math.round(100 * (svgX / clientRect.width)),
             percentY = Math.round(100 * (svgY / clientRect.height));
 
-        // We set percentages instead of units because that
-        // works best across various SVG scaling scenarios.
+        /**
+         * We set percentages instead of units because that
+         * works best across various SVG scaling scenarios.
+         */
         currentGradientEl.fx.baseVal.valueAsString = '' + percentX + '%';
         currentGradientEl.fy.baseVal.valueAsString = '' + percentY + '%';
         currentGradientEl.cx.baseVal.valueAsString = '' + percentX + '%';
