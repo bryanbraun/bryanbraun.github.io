@@ -1,10 +1,12 @@
 ---
-layout: post
 title: "Never Settle for Being Mediocre"
 date: 2012-03-19 15:45:44
+related: [
+  "Try Hard Things"
+]
 ---
 
-In 7th grade, I performed in a middle school choir with a phenomenal choir director. He ran a tight ship. He expected professionalism and skill from all of his students and he got it without any class auditions or talent screening. He managed to get 12-14 year old kids to sing <a href="http://www.youtube.com/watch?v=OwqqfbinUDY" target="_blank" title="Here's an example of one we sang">classical music masterpieces </a>in strict four-part harmony without batting an eye. Our district superintendent attended every one of our concerts. He was nowhere to be found at our school wrestling matches.
+In 7th grade, I performed in a middle school choir with a phenomenal choir director. He ran a tight ship. He expected professionalism and skill from all of his students and he got it without any class auditions or talent screening. He managed to get 12-14 year old kids to sing <a href="http://www.youtube.com/watch?v=OwqqfbinUDY" title="Here's an example of one we sang">classical music masterpieces </a>in strict four-part harmony without batting an eye. Our district superintendent attended every one of our concerts. He was nowhere to be found at our school wrestling matches.
 
 This choir director was a perfectionist. He once stopped our entire choir in the middle a concert performance of Dansi na Kuimba because our singing wasn't meeting his expectations. He had us start the song over again in front of the audience.
 
