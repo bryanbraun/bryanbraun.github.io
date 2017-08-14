@@ -1,7 +1,7 @@
 # Site settings
 title: Bryan Braun - Student of Life
 email: bbraun7@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
+description: # Not currently using this.
 logo: /assets/images/logo.png
 url: https://www.bryanbraun.com # the base hostname & protocol for your site, e.g. http://example.com
 author: Bryan Braun
@@ -55,4 +55,29 @@ defaults:
 
 
 # Custom Vars
-branch: master      # the branch my live site is deployed to.
+branch: master  # the branch my live site is deployed to.
+
+# When I first set up my site, I used full URLs as disqus page identifiers, which
+# was kind of a mistake:
+#
+#   What I should have done:
+#     this.page.identifier = "/2016/05/14/underdogs"
+#
+#   What I did:
+#     this.page.identifier = "http://www.bryanbraun.com/2016/05/14/underdogs"
+#
+# The page identifier has to stay the same, or you'll lose your comments, which is
+# what happened when I changed my site.url variable from `http://` to `https://`
+# (to include images appropriately inside https pages). It looks like it's possible
+# to update page identifiers but it's through an API and looks like a process.
+# Here's some details if I want to try it in the future:
+# https://disqus.com/home/channel/discussdisqus/discussion/channel-discussdisqus/migration_new_identifiers_same_urls/
+#
+# In the mean time, I maintain the older form of the site url as `disqus_url`, which has
+# no purpose but to provide consistant page identifiers so comments can be preserved.
+#
+# For more details on how identifiers work, see:
+#  - https://help.disqus.com/customer/portal/articles/472099-what-is-a-disqus-identifier-
+#  - https://help.disqus.com/customer/portal/articles/472098-javascript-configuration-variables
+#  - https://help.disqus.com/customer/en/portal/articles/2158629-use-configuration-variables-to-avoid-split-threads-and-missing-comments
+disqus_url: http://www.bryanbraun.com
