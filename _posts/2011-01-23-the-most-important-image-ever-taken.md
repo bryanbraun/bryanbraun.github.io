@@ -1,16 +1,17 @@
 ---
-layout: post
 title: "The Most Important Image ever Taken"
 date: 2011-01-23 22:33:41
 ---
 
 That's what they call it.
 
-On December 18th 1995, the Hubble Space Telescope pointed at a tiny dark spot in the night sky. Over the course of 10 consecutive days, the telescope gathered light from a region so small that it is comparable to the amount of the sky seen through the eye of a needle held at arms length. Named the "<a href="http://hubblesite.org/hubble_discoveries/10th/photos/graphics/slide40high.jpg" target="_blank" title="Hubble Deep Field">Hubble Deep Field</a>", this was the first of what became known as the Hubble Deep Field images.
+On December 18th 1995, the Hubble Space Telescope pointed at a tiny dark spot in the night sky. Over the course of 10 consecutive days, the telescope gathered light from a region so small that it is comparable to the amount of the sky seen through the eye of a needle held at arms length. Named the "[Hubble Deep Field](http://hubblesite.org/hubble_discoveries/10th/photos/graphics/slide40high.jpg)", this was the first of what became known as the Hubble Deep Field images.
 
 A second similar image was taken from the Telescope in late 2003. With improved technology and imaging techniques, this picture (known as the Hubble Ultra Deep Field) became the deepest image of the universe ever taken. This is what they saw.
 
-[<img alt="hubble ultra deep field" class="aligncenter size-full wp-image-154" height="960" src="/assets/images/hubble-ultra-deep-field.jpg" title="hubble ultra deep field" width="960" />][1]<a href="http://upload.wikimedia.org/wikipedia/commons/0/0d/Hubble_ultra_deep_field_high_rez_edit1.jpg" target="_blank" title="Hubble Deep Field">Link to the full resolution photo (18 Mb)</a>
+[<img alt="hubble ultra deep field" src="/assets/images/hubble-ultra-deep-field.jpg" />][1]
+
+<a href="http://upload.wikimedia.org/wikipedia/commons/0/0d/Hubble_ultra_deep_field_high_rez_edit1.jpg" target="_blank" title="Hubble Deep Field">Link to the full resolution photo (18 Mb)</a>
 
  [1]: /assets/images/hubble-ultra-deep-field.jpg
 

@@ -11,11 +11,14 @@ A month ago, I posted this noticed onto [the homepage at bitbooks.cc][1].
  [1]: https://web.archive.org/web/20150915034729/http://bitbooks.cc/
 
 > All good things must come to an end, and so it is with this.
-> On October 8th 2015, I'll be shutting down Bitbooks for good. The Why.
+> On October 8th 2015, I'll be shutting down Bitbooks for good.
 >
-> When I began working on Bitbooks, there were basically no options for developers to publish online books with Developer tools like Markdown and Github. Since then, many existing options (like [LeanPub][2] and [Liberio][3]) have matured while new ones (like [Gitbook][4] & [OReily Atlas][5]) have sprung up. As these options grew, I realized that their funding and ability to iterate would provide users with a better result than I could. As a result, my motivation fell, and I began to divide my attention between competing priorities. Honestly, Bitbooks has been in a sort of maintenance mode for several months, faithfully providing it's services without receiving any updates. That isn't fair for to you. Rather than delay the inevitable, I feel it's best to close it down now, allowing me give my full attention to other projects.
+> **The Why.**
 >
-> What does this mean for users?  
+> When I began working on Bitbooks, there were basically no options for developers to publish online books with Developer tools like Markdown and Github. Since then, many existing options (like [LeanPub][2] and [Liberio][3]) have matured while new ones (like [Gitbook][4] & [OReily Atlas][5]) have sprung up. As these options grew, I realized that their funding and ability to iterate would provide users with a better result than I could. As a result, my motivation fell, and I began to divide my attention between competing priorities. Honestly, Bitbooks has been in a sort of maintenance mode for several months, faithfully providing it's services without receiving any updates. That isn't fair for to you. Rather than delay the inevitable, I feel it's best to close it down now, allowing me to give my full attention to other projects.
+>
+> **What does this mean for users?**  
+>
 > All books created with Bitbooks will remain safely hosted in your Github repositories. However, Bitbooks will no longer  update your online book websites in response to text updates in your repo.
 >
 > You have options though. With Markdown becoming ubiquitous, you can use your repo to launch your book on a different service (like [Gitbook][4] or [LeanPub][6]). You may also know that the site-building tool behind Bitbooks was released as the open source project Franklin. If you have some ruby experience, you can still use Franklin to create local builds of your books and put together your own publishing workflow.
@@ -53,7 +56,7 @@ Bitbooks forced me to learn Ruby, evaluate static sites, develop against Github 
 
 And that right there, is really the valuable part. Knowing Ruby is nice, but more important is knowing through experience that I can take a problem outside of my current technical skillset, and fight my way to a solution.
 
-Doing these things, making it through [the dip][10], and shipping a live useful service, helped my cross an invisible barrier. I was no longer in the group of people who talk about ideas, nor was I in the group who start working on projects, only to have them end up collecting dust, half-finished on the shelf. I was among the shippers. And if I can do it once, then I can do it, really, whenever I really want to. That's an empowering thought.
+Doing these things, making it through [the dip][10], and shipping a live useful service, helped me cross an invisible barrier. I was no longer in the group of people who talk about ideas, nor was I in the group who start working on projects, only to have them end up collecting dust, half-finished on the shelf. I was among the shippers. And if I can do it once, then I can do it, really, whenever I really want to. That's an empowering thought.
 
  [10]: https://en.wikipedia.org/wiki/The_Dip
 
