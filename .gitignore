@@ -3,6 +3,11 @@ _site
 .jekyll-metadata
 .DS_Store
 
+# This file is only in the project to assist with gem installs. We
+# don't check it in because it won't actually control anything on
+# Github's servers.
+.ruby-version
+
 # We ignore the gem lockfile because we're using the Github pages
 # gem, which does strict versioning of dependencies for us. See:
 # http://ben.balter.com/jekyll-style-guide/gitignore/#gemfilelock

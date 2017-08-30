@@ -14,7 +14,7 @@ feed:
   path: rss.xml # preserve the name of my Drupal RSS feed b/c I can, and it's possible that some people are still subscribed to it.
 
 # Build settings
-gems:
+plugins:
   - jekyll-feed
   - jekyll-redirect-from
   - jekyll-sitemap
