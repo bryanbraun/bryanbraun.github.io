@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "5 Takeaways from 5 Years of Teaching Myself Web Programming"
 date: 2016-04-29 09:11:07
 ---
