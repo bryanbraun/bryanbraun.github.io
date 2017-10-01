@@ -28,6 +28,7 @@ Many of these things, like financial investments, are best established early in 
  [4]: http://www.mrmoneymustache.com/2014/11/11/are-you-giving-the-shaft-to-your-future-self/
 
 > "By the time you get to my age, almost all of the features of your daily life, both the jewels and the turds, gifts and shaftings, are things deposited on the Conveyor Belt of Time by earlier versions of you. You have your Past Self to thank for all of this. But until you acknowledge that, you can never become the generous benefactor that your Future Self deserves."
+
 It not all about the big choices either. I recently listened to [a podcast][5] where  [Tim Ferriss][6] describes the most important questions he asks himself. I found his answer relevant:
 
  [5]: http://fourhourworkweek.com/2015/05/28/how-to-build-a-large-audience-from-scratch-and-more/

@@ -74,7 +74,7 @@ This system works great, but I've found a couple of weaknesses:
 
     Currently I prefer to keep just one project on my machine, under the original owner, and setup multiple git remotes on that project. This doesn't really match Github's concept of forks, but it's practical.
 
-2. Namespace conflicts are technically possible if an user on one platform (like github.com) uses the same name as one on another platform (Github Enterprise, BitBucket, etc) _and I'm working on projects with both users_. In practice, I've never run into a conflict like this.
+2. Namespace conflicts are technically possible if a user on one platform (like github.com) uses the same name as one on another platform (Github Enterprise, BitBucket, etc) _and I'm working on projects with both users_. In practice, I've never run into a conflict like this.
 
 3. Design files often need to be shared with others. We could remove them from `.gitignore` and check it in, but that's not as accessible to Designers as something like Dropbox. We could also rely on a 3rd-party design collaboration tool like [InVision](https://www.invisionapp.com/).
 
