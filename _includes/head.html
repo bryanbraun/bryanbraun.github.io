@@ -31,4 +31,6 @@
     {% endcapture %}
     {{ include_to_scssify | scssify }}
   </style>
+    
+  <link rel="alternate" title="{{ site.title }}" type="application/json" href="{{ '/feed.json' | prepend: site.baseurl | prepend: site.url }}" />
 </head>
