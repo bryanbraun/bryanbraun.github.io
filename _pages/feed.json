@@ -1,7 +1,7 @@
 ---
 title: JSON Feed
 layout: null
-permalink: /feed/
+permalink: /feed.json
 ---
 {
   "version": "https://jsonfeed.org/version/1",
@@ -20,8 +20,8 @@ permalink: /feed/
       "date_published": "{{ post.date | date_to_xmlschema }}",
       "title": {{ post.title | jsonify }},
       "author" : {{ site.author | jsonify }},
-      "summary": {{ post.excerpt | strip_html | jsonify }},
-      "content_html": {{ post.content | strip_html | jsonify }}
+      "summary": {{ post.excerpt | strip_html | strip_newlines | jsonify }},
+      "content_html": {{ post.content | strip_newlines | jsonify }}
     }{% unless forloop.last == true %},{% endunless %}
     {% endfor %}
   ]

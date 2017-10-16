@@ -18,7 +18,10 @@
 
     <link rel="icon" href="/favicon.ico">
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.url }}">
-    <link rel="alternate" type="application/rss+xml" href="http://feeds.feedburner.com/bryanbraun" title="BryanBraun.com RSS">
+
+    <!-- Now we have meta tags for rss+xml (feedburner), JSONFeed (/feed.json), and atom+xml (/rss.xml), which is a lot but oh well. -->
+    <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="http://feeds.feedburner.com/bryanbraun" />
+    <link rel="alternate" type="application/json" title="{{ site.title }}" href="{{ '/feed.json' | prepend: site.baseurl | prepend: site.url }}" />
     {% feed_meta %}
 
   {% comment %}
@@ -31,6 +34,5 @@
     {% endcapture %}
     {{ include_to_scssify | scssify }}
   </style>
-    
-  <link rel="alternate" title="{{ site.title }}" type="application/json" href="{{ '/feed.json' | prepend: site.baseurl | prepend: site.url }}" />
+
 </head>
