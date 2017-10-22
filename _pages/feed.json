@@ -6,13 +6,10 @@ permalink: /feed.json
 {
   "version": "https://jsonfeed.org/version/1",
   "home_page_url": "{{ site.url }}",
+  "title": "bryonbraun JSON feed",
   "description": {{ site.description | jsonify }},
   "feed_url": "{{ site.url }}/feed.json",
   "favicon": "{{ site.url }}/favicon.png",
-  "author" : {
-      "url" : "{{ site.url }}",
-      "name" : {{ site.author | jsonify }}
-  },
   "items": [{% for post in site.posts limit: 10 %}
     {
       "id": "{{ post.id }}",
