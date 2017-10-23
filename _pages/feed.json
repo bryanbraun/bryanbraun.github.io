@@ -6,7 +6,7 @@ permalink: /feed.json
 {
   "version": "https://jsonfeed.org/version/1",
   "home_page_url": "{{ site.url }}",
-  "title": "bryonbraun JSON feed",
+  "title": "{{ site.title }}",
   "description": {{ site.description | jsonify }},
   "feed_url": "{{ site.url }}/feed.json",
   "favicon": "{{ site.url }}/favicon.png",
@@ -16,7 +16,9 @@ permalink: /feed.json
       "url": "{{ site.url }}{{ post.url }}",
       "date_published": "{{ post.date | date_to_xmlschema }}",
       "title": {{ post.title | jsonify }},
-      "author" : {{ site.author | jsonify }},
+      "author": {
+        "name": {{ site.author | jsonify }}
+      },
       "summary": {{ post.excerpt | strip_html | strip_newlines | jsonify }},
       "content_html": {{ post.content | strip_newlines | jsonify }}
     }{% unless forloop.last == true %},{% endunless %}
