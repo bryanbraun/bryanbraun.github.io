@@ -37,18 +37,22 @@ We can use the [NPM package manager][6] to do several important things for us, l
 
 To start, we'll use NPM to download Jasmine. Create and save a file called `package.json`, that looks like this:
 
-    {
-    "name": "project-name",
-      "description": "My Project&#39;s Description",
-      "version": "0.0.1",
-      "devDependencies": {
-        "jasmine-core": "*"
-      }
-    }
+```json
+{
+"name": "project-name",
+  "description": "My Project&#39;s Description",
+  "version": "0.0.1",
+  "devDependencies": {
+    "jasmine-core": "*"
+  }
+}
+```
 
 Then install the modules referenced by `package.json`:
 
-    npm install
+```bash
+npm install
+```
 
 This installs jasmine-core into a newly created directory in your project called `node_modules`. You'll want to [.gitignore][8] this directory.
 
@@ -56,46 +60,52 @@ This installs jasmine-core into a newly created directory in your project called
 
 Now we're going to set up minimum viable Jasmine testing. I like to keep all my testing stuff in a `test` folder that we can start out looking like this:
 
-    myproject
-      |&nbsp;
-      |--test
-          |-- mySpec.js&nbsp; <----- We&#39;ll write our tests here
-          |-- SpecRunner.html <--- We&#39;ll Run our tests here
+```bash
+myproject
+  |&nbsp;
+  |--test
+      |-- mySpec.js&nbsp; <----- We&#39;ll write our tests here
+      |-- SpecRunner.html <--- We&#39;ll Run our tests here
+```
 
 In mySpec.js, just put a Hello World jasmine test in there, like this one found in Jasmine's Documentation:
 
-    describe("A suite", function() {
-      it("contains spec with an expectation", function() {
-        expect(true).toBe(true);
-      });
-    });
+```javascript
+describe("A suite", function() {
+  it("contains spec with an expectation", function() {
+    expect(true).toBe(true);
+  });
+});
+```
 
 Then, in `SpecRunner.html` (we could name it anything, but this is the name used in some Jasmine packages), we just make a basic html document that links in Jasmine's core files via script tags (as [mentioned in their README][9]).
 
  [9]: https://github.com/jasmine/jasmine#installation
 
-    <!DOCTYPE html>
-    <html lang="en">
-    <head>
-        <meta charset="UTF-8" />
-        <title>Document</title>
-    
-        <link rel="shortcut icon" type="image/png" href="../node_modules/jasmine-core/lib/jasmine-core/jasmine_favicon.png">
-        <link rel="stylesheet" href="../node_modules/jasmine-core/lib/jasmine-core/jasmine.css">
-    
-        <script src="../node_modules/jasmine-core/lib/jasmine-core/jasmine.js"></script>
-        <script src="../node_modules/jasmine-core/lib/jasmine-core/jasmine-html.js"></script>
-        <script src="../node_modules/jasmine-core/lib/jasmine-core/boot.js"></script>
-    
-        <!-- include the library you want to test here... -->
-        <script src="../anchor.js"></script>
-    
-        <!-- include your test files here... -->
-        <script src="mySpec.js"></script>
-    </head>
-    <body>
-    </body>
-    </html>
+```html
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+      <meta charset="UTF-8" />
+      <title>Document</title>
+
+      <link rel="shortcut icon" type="image/png" href="../node_modules/jasmine-core/lib/jasmine-core/jasmine_favicon.png">
+      <link rel="stylesheet" href="../node_modules/jasmine-core/lib/jasmine-core/jasmine.css">
+
+      <script src="../node_modules/jasmine-core/lib/jasmine-core/jasmine.js"></script>
+      <script src="../node_modules/jasmine-core/lib/jasmine-core/jasmine-html.js"></script>
+      <script src="../node_modules/jasmine-core/lib/jasmine-core/boot.js"></script>
+
+      <!-- include the library you want to test here... -->
+      <script src="../anchor.js"></script>
+
+      <!-- include your test files here... -->
+      <script src="mySpec.js"></script>
+  </head>
+  <body>
+  </body>
+</html>
+```
 
 Now you should be able to open `SpecRunner.html` in any browser, and the act of loading the page will run the tests in `mySpec.js`, and display the results. This is sufficient setup for you to read through Jasmine's docs and write tests for features in your library. One note: You could add html in the body tag to test against, but since we'll be automating this process, it's better to dynamically create and delete markup in Jasmine's `beforeEach` and `afterEach` functions. If your library works with the DOM a lot, you may want to look into a tool like [jasmine-fixture][10].
 
@@ -111,9 +121,11 @@ To automate tests, we need to be able to execute a command that runs our tests a
 
  [12]: http://phantomjs.org
 
-    # We install it globally because thats what we do with browsers.
-    # If you don&#39;t have homebrew installed, then see http://phantomjs.org/download.html. Otherwise:
-    brew install phantomjs
+```bash
+# We install it globally because thats what we do with browsers.
+# If you don’t have homebrew installed, then see http://phantomjs.org/download.html. Otherwise:
+brew install phantomjs
+```
 
 Now we need a Test Runner... basically a command-line version of that `SpecRunner.html` file that will load the right files, run the tests, and report back the results. There are a few options out there. If you are already using grunt or gulp, then check out the integrations for those tools. Otherwise, we can save some complexity and go with a dedicated test runner like [Karma][13] (again, I'll leave out the comparisons here, but it suffices to say that Karma is modern, popular, robust, and actively maintained).
 
@@ -121,8 +133,10 @@ Now we need a Test Runner... basically a command-line version of that `SpecRunne
 
 We can bring in Karma with npm:
 
-    # This will add the modules to your package.json and install them.
-    npm install --save-dev karma karma-cli karma-jasmine karma-phantomjs-launcher
+```bash
+# This will add the modules to your package.json and install them.
+npm install --save-dev karma karma-cli karma-jasmine karma-phantomjs-launcher
+```
 
 Note: Karma is highly decoupled, which is why we are downloading several small packages instead of a massive one. This architecture allows it to interface with many possible environments, browsers, and frameworks.
 
@@ -132,11 +146,13 @@ Karma setup is easy, just browse to our tests folder in your terminal and run [`
 
 Finally, we just need to set up a simple "scripts" command in `package.json`.
 
-    "version": "0.0.1",
-    "scripts": {
-        "test": "karma start test/karma.conf.js --single-run"
-    },
-    "devDependencies": {
+```json
+"version": "0.0.1",
+"scripts": {
+    "test": "karma start test/karma.conf.js --single-run"
+},
+"devDependencies": {
+```
 
 <small>Note: this is the last addition to <code>package.json</code>. I've <a href="https://gist.github.com/bryanbraun/4a955cc30c394f137b0d">saved the completed file as a gist</a> for reference.</small>
 
@@ -153,9 +169,11 @@ Now that we have automated tests, the final step is to connect it to [Travis CI]
  [15]: https://travis-ci.org/
  [16]: http://docs.travis-ci.com/user/languages/javascript-with-nodejs/
 
-    language: node_js
-    node_js:
-     - "stable"
+```yaml
+language: node_js
+node_js:
+ - "stable"
+```
 
 Finally commit your changes and push your project, with it's new `test` folder, `package.json` and `.travis.yml` files, up to Github. With some luck, Travis CI will see the code on your `master` branch and run the tests automatically (if not, you can trigger them manually through the TravisCI interface). Once you see it running, the final test is to submit a pull request against your `master` branch. You will know you are victorious, when you see this:
 

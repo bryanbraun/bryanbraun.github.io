@@ -8,6 +8,7 @@ Sometimes I want to stop scripts from running in the browser at a specific momen
 
 Just open the browser console and paste this in.
 
-    debugger;
-
+```javascript
+debugger;
+```
 When the time is right, hit 'return' to execute the command and stop the browser. Now you can inspect the DOM and style in the browser to your heart's content.

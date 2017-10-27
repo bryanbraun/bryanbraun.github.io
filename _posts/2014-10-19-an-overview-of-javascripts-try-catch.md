@@ -12,13 +12,15 @@ Javascript has a pattern called try-catch that can be a bit confusing if you are
 
 Try-catch is a code block, similar to an if conditional. It looks like this:
 
-    try {
-      // put some code here
-    } catch (err) {
-      // put more code here
-    finally {
-      // put more code here
-    }
+```javascript
+try {
+  // put some code here
+} catch (err) {
+  // put more code here
+finally {
+  // put more code here
+}
+```
 
 The purpose of a try-catch block is to handle errors gracefully. And when I say errors, I don't mean bugs or missing semicolons. I mean big, nasty, capital E errors.
 
@@ -34,35 +36,41 @@ The "finally" braces, contains any code that you want to run "no matter what." I
 
 We can test this out by creating our own artificial errors using the 'throw' statement, like so:
 
-    try {
-      throw new Error("My custom error message");
-    } catch (err) {
-      // Print the error message to the console.
-      console.log(err.message);
-    }
+```javascript
+try {
+  throw new Error("My custom error message");
+} catch (err) {
+  // Print the error message to the console.
+  console.log(err.message);
+}
+```
 
 As you can see the "catch" block references a javascript object that we've named \`err\`. This object contains information about the error that was returned, like the error message (stored in \`err.message\`).
 
 Let's make a few changes to our example to bring all these concepts together.
 
-    try {
-      console.log("This is the first 'try' message");
-      throw new Error("My custom error message");
-      console.log("This is the second 'try' message");
-    } catch (e) {
-      console.log("This is the 'catch' message: " + e.message);
-    } finally {
-      console.log("This is the 'finally' message");
-    }
+```javascript
+try {
+  console.log("This is the first 'try' message");
+  throw new Error("My custom error message");
+  console.log("This is the second 'try' message");
+} catch (e) {
+  console.log("This is the 'catch' message: " + e.message);
+} finally {
+  console.log("This is the 'finally' message");
+}
 
-    console.log("This is an additional message, after try-catch-finally");
+console.log("This is an additional message, after try-catch-finally");
+```
 
 Running this code results in the following messages in the console:
 
-    This is the first "try" message
-    This is the "catch" message: My custom error message
-    This is the "finally" message
-    This is an additional message, after try-catch-finally
+```bash
+This is the first "try" message
+This is the "catch" message: My custom error message
+This is the "finally" message
+This is an additional message, after try-catch-finally
+```
 
 As you can see, the second "try" message is skipped because code execution moves to the catch block as soon as our error is encountered. You can also see that our additional message (placed after the try-catch-finally block) runs as well. By "catching" our error, the program can continue running even if it would have otherwise fatally stopped.
 
