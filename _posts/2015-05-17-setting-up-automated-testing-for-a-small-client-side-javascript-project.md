@@ -40,7 +40,7 @@ To start, we'll use NPM to download Jasmine. Create and save a file called `pack
 ```json
 {
 "name": "project-name",
-  "description": "My Project&#39;s Description",
+  "description": "My Project's Description",
   "version": "0.0.1",
   "devDependencies": {
     "jasmine-core": "*"
@@ -60,12 +60,12 @@ This installs jasmine-core into a newly created directory in your project called
 
 Now we're going to set up minimum viable Jasmine testing. I like to keep all my testing stuff in a `test` folder that we can start out looking like this:
 
-```bash
+```
 myproject
-  |&nbsp;
+  |
   |--test
-      |-- mySpec.js&nbsp; <----- We&#39;ll write our tests here
-      |-- SpecRunner.html <--- We&#39;ll Run our tests here
+      |-- mySpec.js <----- We'll write our tests here
+      |-- SpecRunner.html <--- We'll Run our tests here
 ```
 
 In mySpec.js, just put a Hello World jasmine test in there, like this one found in Jasmine's Documentation:
@@ -146,7 +146,7 @@ Karma setup is easy, just browse to our tests folder in your terminal and run [`
 
 Finally, we just need to set up a simple "scripts" command in `package.json`.
 
-```json
+```
 "version": "0.0.1",
 "scripts": {
     "test": "karma start test/karma.conf.js --single-run"
