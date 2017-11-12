@@ -1,7 +1,9 @@
 ---
-layout: post
 title: "Exformation"
 date: 2013-02-23 21:25:05
+related: [
+  "Moved"
+]
 ---
 
 In Tor Nørretranders book, *<a href="http://www.amazon.com/User-Illusion-Cutting-Consciousness-Penguin/dp/0140230122" target="_blank" title="The User Illusion">The User Illusion</a>*, he coins the term exformation, which represents information that is explicitly discarded when a message is transferred from one place to another. When I think of discarded information, I think about mp3 audio, a format which intentionally deletes data at many places including highest and lowest frequencies. You probably don't hear the difference, but with that data removed the file size is smaller, which means more space on your device.
