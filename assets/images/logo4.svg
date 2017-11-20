@@ -1,5 +1,6 @@
 <svg width="220px" height="220px" viewBox="0 0 240 240"
-     aria-labelledby="title desc" role="img" class="logo">
+     aria-labelledby="title desc" role="img"
+     version="1.1" xmlns="http://www.w3.org/2000/svg">
     <!-- follows accessibility recommendations at https://www.sitepoint.com/tips-accessible-svg/ -->
     <title id="title">Bryan Braun</title>
     <desc id="desc">Logo</desc>
