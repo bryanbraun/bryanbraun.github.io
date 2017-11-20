@@ -78,7 +78,16 @@
       logoMaskBox.addEventListener('mousemove', positionHoverGradient);
       logoMaskBox.addEventListener('mouseleave', setDefaultGradient);
       logoMaskBox.addEventListener('click', toggleGradient);
+      logoMaskBox.addEventListener('mouseenter', quakeSet);
       logoMaskBox.addEventListener('mousemove', quake);
+      logoMaskBox.addEventListener('mouseleave', quakeUnset);
+
+      function quakeSet() {
+        letters.forEach(function (letter) {
+          letter.style.transition = "";
+          letter.style.transformOrigin = "center";
+        });
+      }
 
       function quake() {
         letters.forEach(function (letter) {
@@ -90,7 +99,13 @@
             var r = parseFloat(rt[1]), tx = parseFloat(rt[3]), ty = parseFloat(rt[5]);
           }
           letter.style.transform = 'rotate(' + (r+Math.random()/5-0.1) + 'rad) translateX(' + (tx + Math.random()*4-2) + 'px) translateY(' + (ty + Math.random()*4-2) + 'px)';
-          letter.style.transformOrigin = "center";
+        });
+      }
+
+      function quakeUnset() {
+        letters.forEach(function (letter) {
+          letter.style.transition = "transform 1s";
+          letter.style.transform = "";
         });
       }
 
