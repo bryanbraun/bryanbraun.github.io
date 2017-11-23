@@ -1,8 +1,11 @@
 ---
-layout: post
 title: "Modern web project learnings"
-date: 2017-10-27 18:37:00
+date: 2017-11-22 23:37:00
 ---
+
+*Note: This is a guest post written by [@thibautvs](https://github.com/thibautvs) and [contributed during Hacktoberfest](http://0.0.0.0:4000/2017/11/19/hacktoberfest-2017/#write-a-guest-post). I appreciate his reflection on lessons learned and agree with his sentiment on the power of small, highly skilled teams.*
+
+***
 
 I'm working as a freelance JavaScript developer and I had the opportunity to create the web department, including
 designing the web stack and hiring the web team for an international, market leader company.
