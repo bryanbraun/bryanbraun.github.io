@@ -1,6 +1,9 @@
 ---
 title: "Modern web project learnings"
 date: 2017-11-22 23:37:00
+related: [
+  "Hacktoberfesting my Personal Website"
+]
 ---
 
 *Note: This is a guest post written by [@thibautvs](https://github.com/thibautvs) and [contributed during Hacktoberfest](http://0.0.0.0:4000/2017/11/19/hacktoberfest-2017/#write-a-guest-post). I appreciate his reflection on lessons learned and agree with his sentiment on the power of small, highly skilled teams.*
