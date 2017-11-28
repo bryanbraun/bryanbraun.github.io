@@ -1,7 +1,9 @@
 ---
-layout: post
 title: "The Fall of Internet Privacy"
 date: 2011-08-21 22:34:58
+related: [
+  "Takedown requests, and the right to privacy"
+]
 ---
 
 This is the information age. If you have access to an internet connection today, you have access to the all the information learned from every college degree that existed 25 years ago. But the next step is one that makes some people a little uncomfortable: accessing information about individuals.

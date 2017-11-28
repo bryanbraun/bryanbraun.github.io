@@ -6,7 +6,7 @@ related: [
 ]
 ---
 
-*Note: This is a guest post written by [@thibautvs](https://github.com/thibautvs) and [contributed during Hacktoberfest](http://0.0.0.0:4000/2017/11/19/hacktoberfest-2017/#write-a-guest-post). I appreciate his reflection on lessons learned and agree with his sentiment on the power of small, highly skilled teams.*
+*Note: This is a guest post written by [@thibautvs](https://github.com/thibautvs) and [contributed during Hacktoberfest](/2017/11/19/hacktoberfest-2017/#write-a-guest-post). I appreciate his reflection on lessons learned and agree with his sentiment on the power of small, highly skilled teams.*
 
 ***
 

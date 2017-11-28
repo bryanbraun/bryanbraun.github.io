@@ -1,15 +1,18 @@
 ---
 title: "What Websites Know About You"
-date: 2017-10-30 5:35:00
+date: 2017-11-28 17:45:00
 ---
 
+*Note: This is a guest post written by [@gooca](https://github.com/gooca) and [contributed during Hacktoberfest](/2017/11/19/hacktoberfest-2017/#write-a-guest-post).*
 
-## The internet:
-a beacon of freedom, the home of anonymity, a safe haven for privacy. 
+***
+
+## The Internet:
+A beacon of freedom, the home of anonymity, a safe haven for privacy. 
 
 You may think that unless you hand over your anonymity to the internet giants such as Facebook or Google, your privacy would be intact. You would be wrong.
 
-Just kidding (mostly). However, you may be surprised at some information that your browser tracks that can be accessed by any website. Most of the “features” to be discussed are extremely useful to web developers, whether for statistical purposes or customizing the user experience. However, this doesn’t mean that this data can’t be used for more nefarious purposes, like tracking. Here are a few things every website knows about you.
+Just kidding (mostly). However, you may be surprised at some information that your browser tracks that can be accessed by any website. Most of the "features" to be discussed are extremely useful to web developers, whether for statistical purposes or customizing the user experience. However, this doesn’t mean that this data can’t be used for more nefarious purposes, like tracking. Here are a few things every website knows about you.
 
 ## ♪  Where did you come from, where did you go? ♪ 
 Websites have access to the previous page you visited before you accessed the current website. For example, if you clicked on a link on reddit.com, the website knows the link you visited on reddit before you clicked on their website.

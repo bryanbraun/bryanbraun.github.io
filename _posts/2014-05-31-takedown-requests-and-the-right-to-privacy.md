@@ -1,7 +1,9 @@
 ---
-layout: post
 title: "Takedown requests, and the right to privacy"
 date: 2014-05-31 22:50:13
+related: [
+  "The Fall of Internet Privacy"
+]
 ---
 
 Two weeks I got an email from a company asking me to remove part of an old blog post that they found unfavorable. They could persuade, guilt-trip, or even pay me to take it down, but if I chose not to comply, there was legally nothing they could do about it. We call that free speech.
