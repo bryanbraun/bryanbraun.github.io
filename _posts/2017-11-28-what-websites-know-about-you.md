@@ -1,9 +1,12 @@
 ---
 title: "What Websites Know About You"
 date: 2017-11-28 17:45:00
+related: [
+  "Hacktoberfesting my Personal Website"
+]
 ---
 
-*Note: This is a guest post written by [@gooca](https://github.com/gooca) and [contributed during Hacktoberfest](/2017/11/19/hacktoberfest-2017/#write-a-guest-post).*
+*Note: This is a guest post written by [@gooca](https://github.com/gooca) and [contributed during Hacktoberfest]({{site.url}}/2017/11/19/hacktoberfest-2017/#write-a-guest-post).*
 
 ***
 
