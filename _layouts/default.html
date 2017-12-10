@@ -40,6 +40,15 @@ navigation:
     </header>
 
     {% include logo.html %}
+    <script>
+      (function(d) {
+        var HIGHEST_SCRIPT_NUMBER = 5;
+        var logoNum = Math.ceil(Math.random() * HIGHEST_SCRIPT_NUMBER);
+        var scriptEl = d.createElement('script');
+        scriptEl.src = '/assets/images/logo' + logoNum + '.js';
+        d.querySelector('.logo-wrapper').appendChild(scriptEl);
+      })(document);
+    </script>
 
     <div class="page-content">
       {% if page.is_post %}

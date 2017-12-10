@@ -1,0 +1,42 @@
+{% include logo.html %}
+
+<script id="script-to-execute"></script>
+
+<form id="test-form">
+  <p>
+    <label>Script to test:
+      <input id="script-filename" name="script-filename"
+        type="url" required
+        value="/assets/js/logo/logo-script1.js" list="known-scripts">
+
+        <datalist id="known-scripts">
+          <option value="/assets/js/logo/logo-script1.js">
+          <option value="/assets/js/logo/logo-script2.js">
+          <option value="/assets/js/logo/logo-script3.js">
+          <option value="/assets/js/logo/logo-script4.js">
+        </datalist>
+    </label>
+
+    <button>Run Code</button>
+  </p>
+
+  <p>
+    <output name="status-message"></output>
+  </p>
+</form>
+
+<script>
+  (function(d) {
+    var formEl = d.getElementById('test-form'),
+      urlInput = d.getElementById('script-filename').value,
+      scriptEl = d.getElementById('script-to-execute');
+
+    function executeScript(event) {
+      scriptEl.src = urlInput.trim();
+      event.preventDefault();
+      return false;
+    }
+
+    formEl.addEventListener('submit', executeScript);
+  })(document);
+</script>
