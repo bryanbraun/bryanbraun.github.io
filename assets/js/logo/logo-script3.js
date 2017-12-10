@@ -79,8 +79,6 @@
      * We set unitless numbers because that
      * works best across various SVG scaling scenarios.
      */
-    currentGradientEl.fx.baseVal.value = percentX;
-    currentGradientEl.fy.baseVal.value = percentY;
     currentGradientEl.cx.baseVal.value = percentX;
     currentGradientEl.cy.baseVal.value = percentY;
   }
