@@ -17,8 +17,8 @@ permalink: /logo-dev/
     {% for script in logo_scripts %}
     <p>
       <label>
-        <input type="radio" name="script-filename" value="{{ script.filename }}">
-        <code>{{ script.filename }}</code>
+        <input type="radio" name="script-filename" value="{{ script.name }}">
+        <code>{{ script.name }}</code>
       </label>
     </p>
     {% endfor %}
