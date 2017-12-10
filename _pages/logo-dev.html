@@ -13,7 +13,8 @@ permalink: /logo-dev/
   <fieldset>
     <legend>Script to test:</legend>
 
-    {% for script in site.static_files | where_exp: 'script', 'script.path contains "/assets/js/logo/"' %}
+    {% assign logo_scripts = site.static_files | where_exp: 'script', 'script.path contains "/assets/js/logo/"' %}
+    {% for script in logo_scripts %}
     <p>
       <label>
         <input type="radio" name="script-filename" value="{{ script.filename }}">
