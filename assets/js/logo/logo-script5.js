@@ -1,3 +1,7 @@
+/* Scatter:
+  On hover, each letter moves away from the center. They return on mouseout.
+*/
+
 (function() {
     var hoverGradients = ['logo-radial-gradient0', 'logo-radial-gradient1', 'logo-radial-gradient2'];
     var hoverGradientEls = {

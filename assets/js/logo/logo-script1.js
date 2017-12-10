@@ -1,3 +1,8 @@
+/* Hoverglow:
+  This script has a "halo" fill the logo, with its focal point following the
+  mouse.
+*/
+
 (function() {
   var hoverGradients = ['logo-radial-gradient0', 'logo-radial-gradient1', 'logo-radial-gradient2'];
   var hoverGradientEls = {

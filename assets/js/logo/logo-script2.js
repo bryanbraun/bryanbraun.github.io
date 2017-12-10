@@ -1,3 +1,8 @@
+/* Quake:
+  This script jitters the letters for every movement of the mouse, then puts
+  them back on mouseout.
+*/
+
 (function() {
   var hoverGradients = ['logo-radial-gradient0', 'logo-radial-gradient1', 'logo-radial-gradient2'];
   var hoverGradientEls = {

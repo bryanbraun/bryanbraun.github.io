@@ -1,3 +1,7 @@
+/* Growshrink:
+  On hover, causes each letter to randomly grow or shrink in size.
+*/
+
 (function() {
   var hoverGradients = ['logo-radial-gradient0', 'logo-radial-gradient1', 'logo-radial-gradient2'];
   var hoverGradientEls = {
@@ -21,6 +25,10 @@
   logoMaskBox.addEventListener('click', toggleGradient);
   logoMaskBox.addEventListener('mouseenter', startSizeAnimation);
   logoMaskBox.addEventListener('mouseleave', stopSizeAnimation);
+
+  letters.forEach(function (letter) {
+    letter.style.transition = 'transform 1.5s';
+  });
 
   function startSizeAnimation() {
     sizeAnimationAllowed = true;

@@ -1,3 +1,7 @@
+/* Expand:
+  On hover, each letter will grow until the entire logo is filled.
+*/
+
 (function() {
     var hoverGradients = ['logo-radial-gradient0', 'logo-radial-gradient1', 'logo-radial-gradient2'];
     var hoverGradientEls = {
