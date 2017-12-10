@@ -32,12 +32,10 @@ permalink: /logo-dev/
       svgEl = d.querySelector('svg');
 
     function executeScript(event) {
-      var chosenValue = formEl['script-filename'].value;
-
-      if (chosenValue) {
-        scriptEl.src = '/assets/js/logo/' + chosenValue;
-        svgEl.innerHTML
-      }
+      var newScriptEl = d.createElement('script');
+      scriptEl.parentNode.replaceChild(newScriptEl, scriptEl);
+      newScriptEl.src = '/assets/js/logo/' + formEl['script-filename'].value;
+      scriptEl = newScriptEl;
     }
 
     function cleanEventListeners() {
