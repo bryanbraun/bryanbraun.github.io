@@ -18,8 +18,8 @@
     var DEFAULT_FILL_VALUE = 'url(#logo-linear-gradient)';
     var activeGradientNum = 0;
 
-    var xDestination = ['-20vw', '-10vw', '0', '10vw', '20vw'];
-    var yDestination = ['15vh', '37.5vh', '50vh', '37.5vh', '15vh'];
+    var xDestination = ['-20%', '-10%', '0', '10%', '20%'];
+    var yDestination = ['15%', '37.5%', '50%', '37.5%', '15%'];
 
     logoMaskBox.addEventListener('mouseenter', setHoverGradient);
     logoMaskBox.addEventListener('mousemove', positionHoverGradient);

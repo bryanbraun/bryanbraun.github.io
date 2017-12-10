@@ -42,7 +42,7 @@
       else {
         var r = parseFloat(rt[1]), tx = parseFloat(rt[3]), ty = parseFloat(rt[5]);
       }
-      letter.style.transform = 'rotate(' + (r+Math.random()/5-0.1) + 'rad) translateX(' + (tx + Math.random()*4-2) + 'px) translateY(' + (ty + Math.random()*4-2) + 'px)';
+      letter.style.transform = 'rotate(' + (r+Math.random()/5-0.1) + 'rad) translateX(' + (tx + Math.random()*40-2) + 'px) translateY(' + (ty + Math.random()*40-2) + 'px)';
     });
   }
 
