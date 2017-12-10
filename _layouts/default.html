@@ -40,9 +40,10 @@ navigation:
     </header>
 
     {% include logo.html %}
+    {% assign logo_scripts = site.static_files | where_exp: 'script', 'script.path contains "/assets/js/logo/"' %}
     <script>
       (function(d) {
-        var HIGHEST_SCRIPT_NUMBER = 5;
+        var HIGHEST_SCRIPT_NUMBER = {{ logo_scripts.size }};
         var logoNum = Math.ceil(Math.random() * HIGHEST_SCRIPT_NUMBER);
         var scriptEl = d.createElement('script');
         scriptEl.src = '/assets/js/logo/logo-script' + logoNum + '.js';
