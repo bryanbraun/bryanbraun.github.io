@@ -10,15 +10,15 @@
     'logo-radial-gradient1': document.getElementById('logo-radial-gradient1'),
     'logo-radial-gradient2': document.getElementById('logo-radial-gradient2')
   };
+  var logoBox = document.querySelector('.logo');
   var logoMaskBox = document.getElementById('logo-mask-box');
-  var logoStrokeBox = document.getElementById('logo-stroke-box');
   var DEFAULT_FILL_VALUE = 'url(#logo-linear-gradient)';
   var activeGradientNum = 0;
 
-  logoMaskBox.addEventListener('mouseenter', setHoverGradient);
-  logoMaskBox.addEventListener('mousemove', positionHoverGradient);
-  logoMaskBox.addEventListener('mouseleave', setDefaultGradient);
-  logoMaskBox.addEventListener('click', toggleGradient);
+  logoBox.addEventListener('mouseenter', setHoverGradient);
+  logoBox.addEventListener('mousemove', positionHoverGradient);
+  logoBox.addEventListener('mouseleave', setDefaultGradient);
+  logoBox.addEventListener('click', toggleGradient);
 
   function getHoverFillValue() {
     return 'url(#' + hoverGradients[activeGradientNum] + ')';
@@ -42,12 +42,10 @@
 
   function setHoverGradient() {
     logoMaskBox.style.fill = getHoverFillValue();
-    logoStrokeBox.style.stroke = getHoverFillValue();
   }
 
   function setDefaultGradient(event) {
     logoMaskBox.style.fill = DEFAULT_FILL_VALUE;
-    logoStrokeBox.style.stroke = DEFAULT_FILL_VALUE;
   }
 
   function toggleGradient(event) {

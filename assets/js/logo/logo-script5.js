@@ -10,23 +10,21 @@
         'logo-radial-gradient2': document.getElementById('logo-radial-gradient2')
     };
     var logoMaskBox = document.getElementById('logo-mask-box');
-    var logoStrokeBox = document.getElementById('logo-stroke-box');
-    var bryan = document.getElementById('Bryan');
-    var braun = document.getElementById('Braun');
-    var lettersBryan = Array.from(bryan.children);
-    var lettersBraun = Array.from(braun.children);
+    var logoBox = document.querySelector('.logo');
+    var lettersBryan = Array.from(document.getElementsByClassName('Bryan'));
+    var lettersBraun = Array.from(document.getElementsByClassName('Braun'));
     var DEFAULT_FILL_VALUE = 'url(#logo-linear-gradient)';
     var activeGradientNum = 0;
 
-    var xDestination = ['-20%', '-10%', '0', '10%', '20%'];
-    var yDestination = ['15%', '37.5%', '50%', '37.5%', '15%'];
+    var xDestination = ['-200%', '-100%', '0', '100%', '200%'];
+    var yDestination = ['150%', '375%', '500%', '375%', '150%'];
 
-    logoMaskBox.addEventListener('mouseenter', setHoverGradient);
-    logoMaskBox.addEventListener('mousemove', positionHoverGradient);
-    logoMaskBox.addEventListener('mouseleave', setDefaultGradient);
-    logoMaskBox.addEventListener('click', toggleGradient);
-    logoMaskBox.addEventListener('mouseenter', startSizeAnimation);
-    logoMaskBox.addEventListener('mouseleave', stopSizeAnimation);
+    logoBox.addEventListener('mouseenter', setHoverGradient);
+    logoBox.addEventListener('mousemove', positionHoverGradient);
+    logoBox.addEventListener('mouseleave', setDefaultGradient);
+    logoBox.addEventListener('click', toggleGradient);
+    logoBox.addEventListener('mouseenter', startSizeAnimation);
+    logoBox.addEventListener('mouseleave', stopSizeAnimation);
 
     function startSizeAnimation() {
         lettersBryan.forEach(function (letter, key) {
@@ -72,12 +70,10 @@
 
     function setHoverGradient() {
         logoMaskBox.style.fill = getHoverFillValue();
-        logoStrokeBox.style.stroke = getHoverFillValue();
     }
 
     function setDefaultGradient(event) {
         logoMaskBox.style.fill = DEFAULT_FILL_VALUE;
-        logoStrokeBox.style.stroke = DEFAULT_FILL_VALUE;
     }
 
     function toggleGradient(event) {

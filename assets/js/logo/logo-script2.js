@@ -10,26 +10,27 @@
     'logo-radial-gradient1': document.getElementById('logo-radial-gradient1'),
     'logo-radial-gradient2': document.getElementById('logo-radial-gradient2')
   };
+  var logoBox = document.querySelector('.logo');
   var logoMaskBox = document.getElementById('logo-mask-box');
-  var logoStrokeBox = document.getElementById('logo-stroke-box');
-  var bryan = document.getElementById('Bryan');
-  var braun = document.getElementById('Braun');
-  var letters = Array.from(bryan.children).concat(Array.from(braun.children));
+  var letters = Array.from(document.querySelectorAll('.Bryan, .Braun'));
   var DEFAULT_FILL_VALUE = 'url(#logo-linear-gradient)';
   var activeGradientNum = 0;
 
-  logoMaskBox.addEventListener('mouseenter', setHoverGradient);
-  logoMaskBox.addEventListener('mousemove', positionHoverGradient);
-  logoMaskBox.addEventListener('mouseleave', setDefaultGradient);
-  logoMaskBox.addEventListener('click', toggleGradient);
-  logoMaskBox.addEventListener('mouseenter', quakeSet);
-  logoMaskBox.addEventListener('mousemove', quake);
-  logoMaskBox.addEventListener('mouseleave', quakeUnset);
+  logoBox.addEventListener('mouseenter', setHoverGradient);
+  logoBox.addEventListener('mousemove', positionHoverGradient);
+  logoBox.addEventListener('mouseleave', setDefaultGradient);
+  logoBox.addEventListener('click', toggleGradient);
+  logoBox.addEventListener('mouseenter', quakeSet);
+  logoBox.addEventListener('mousemove', quake);
+  logoBox.addEventListener('mouseleave', quakeUnset);
+
+  letters.forEach(function (letter) {
+    letter.style.transformOrigin = "center";
+  });
 
   function quakeSet() {
     letters.forEach(function (letter) {
       letter.style.transition = "";
-      letter.style.transformOrigin = "center";
     });
   }
 
@@ -42,7 +43,7 @@
       else {
         var r = parseFloat(rt[1]), tx = parseFloat(rt[3]), ty = parseFloat(rt[5]);
       }
-      letter.style.transform = 'rotate(' + (r+Math.random()/5-0.1) + 'rad) translateX(' + (tx + Math.random()*40-2) + 'px) translateY(' + (ty + Math.random()*40-2) + 'px)';
+      letter.style.transform = 'rotate(' + (r+Math.random()/5-0.1) + 'rad) translateX(' + (tx + Math.random()*40-20) + 'px) translateY(' + (ty + Math.random()*40-20) + 'px)';
     });
   }
 
@@ -75,12 +76,10 @@
 
   function setHoverGradient() {
     logoMaskBox.style.fill = getHoverFillValue();
-    logoStrokeBox.style.stroke = getHoverFillValue();
   }
 
   function setDefaultGradient(event) {
     logoMaskBox.style.fill = DEFAULT_FILL_VALUE;
-    logoStrokeBox.style.stroke = DEFAULT_FILL_VALUE;
   }
 
   function toggleGradient(event) {
