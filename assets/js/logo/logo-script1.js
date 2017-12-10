@@ -24,17 +24,17 @@
         clientRect = logoMaskBox.getBoundingClientRect(),
         svgX = event.x - clientRect.left,
         svgY = event.y - clientRect.top,
-        percentX = Math.round(100 * (svgX / clientRect.width)),
-        percentY = Math.round(100 * (svgY / clientRect.height));
+        percentX = svgX / clientRect.width,
+        percentY = svgY / clientRect.height;
 
     /**
-     * We set percentages instead of units because that
+     * We set unitless numbers because that
      * works best across various SVG scaling scenarios.
      */
-    currentGradientEl.fx.baseVal.valueAsString = '' + percentX + '%';
-    currentGradientEl.fy.baseVal.valueAsString = '' + percentY + '%';
-    currentGradientEl.cx.baseVal.valueAsString = '' + percentX + '%';
-    currentGradientEl.cy.baseVal.valueAsString = '' + percentY + '%';
+    currentGradientEl.fx.baseVal.value = percentX;
+    currentGradientEl.fy.baseVal.value = percentY;
+    currentGradientEl.cx.baseVal.value = percentX;
+    currentGradientEl.cy.baseVal.value = percentY;
   }
 
   function setHoverGradient() {
