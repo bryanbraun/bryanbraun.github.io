@@ -10,40 +10,49 @@ permalink: /logo-dev/
 <script id="script-to-execute"></script>
 
 <form id="test-form">
+  <fieldset>
+    <legend>Script to test:</legend>
+
+    {% for script in site.static_files | where_exp: 'script', 'script.path contains "/assets/js/logo/"' %}
+    <p>
+      <label>
+        <input type="radio" name="script-filename" value="{{ script.filename }}">
+        <code>{{ script.filename }}</code>
+      </label>
+    </p>
+    {% endfor %}
+  </fieldset>
+
   <p>
-    <label>Script to test:
-      <input id="script-filename" name="script-filename"
-        type="url" required
-        value="/assets/js/logo/logo-script1.js" list="known-scripts">
-
-        <datalist id="known-scripts">
-          <option value="/assets/js/logo/logo-script1.js">
-          <option value="/assets/js/logo/logo-script2.js">
-          <option value="/assets/js/logo/logo-script3.js">
-          <option value="/assets/js/logo/logo-script4.js">
-        </datalist>
-    </label>
-
     <button>Run Code</button>
-  </p>
-
-  <p>
-    <output name="status-message"></output>
   </p>
 </form>
 
 <script>
   (function(d) {
     var formEl = d.getElementById('test-form'),
-      urlInput = d.getElementById('script-filename').value,
-      scriptEl = d.getElementById('script-to-execute');
+      scriptEl = d.getElementById('script-to-execute'),
+      svgEl = d.querySelector('svg');
 
     function executeScript(event) {
-      scriptEl.src = urlInput.trim();
-      event.preventDefault();
-      return false;
+      var chosenValue = formEl['script-filename'];
+
+      if (chosenValue) {
+        scriptEl.src = '/assets/js/logo/' + chosenValue;
+        svgEl.innerHTML
+      }
     }
 
-    formEl.addEventListener('submit', executeScript);
+    function cleanEventListeners() {
+      var temp = svgEl.innerHTML;
+      svgEl.innerHTML = '';
+      svgEl.innerHTML = temp;
+    }
+
+    formEl.addEventListener('submit', function (event) {
+      cleanEventListeners();
+      executeScript();
+      event.preventDefault();
+    });
   })(document);
 </script>
