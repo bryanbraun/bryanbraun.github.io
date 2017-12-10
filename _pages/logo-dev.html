@@ -36,7 +36,7 @@ permalink: /logo-dev/
       svgEl = d.querySelector('svg');
 
     function executeScript(event) {
-      var chosenValue = formEl['script-filename'];
+      var chosenValue = formEl['script-filename'].value;
 
       if (chosenValue) {
         scriptEl.src = '/assets/js/logo/' + chosenValue;
