@@ -23,10 +23,6 @@ permalink: /logo-dev/
     </p>
     {% endfor %}
   </fieldset>
-
-  <p>
-    <button>Run Code</button>
-  </p>
 </form>
 
 <script>
@@ -50,10 +46,11 @@ permalink: /logo-dev/
       svgEl.innerHTML = temp;
     }
 
-    formEl.addEventListener('submit', function (event) {
+    formEl.addEventListener('change', function (event) {
       cleanEventListeners();
       executeScript();
-      event.preventDefault();
     });
+
+    executeScript();
   })(document);
 </script>
