@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Github's opportunity to increase open-source collaboration"
 date: 2016-08-26 19:51:08
 ---

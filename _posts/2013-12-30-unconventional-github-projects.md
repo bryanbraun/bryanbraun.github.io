@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Unconventional Github Projects"
 date: 2013-12-30 21:04:11
 ---
