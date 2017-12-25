@@ -53,9 +53,9 @@ permalink: /logo-dev/
     }
 
     function cleanEventListeners() {
-      var temp = svgEl.innerHTML;
-      svgEl.innerHTML = '';
-      svgEl.innerHTML = temp;
+      var clonedSvg = svgEl.cloneNode(true);
+      svgEl.parentNode.replaceChild(clonedSvg, svgEl);
+      svgEl = clonedSvg;
     }
 
     formEl.addEventListener('change', function (event) {
