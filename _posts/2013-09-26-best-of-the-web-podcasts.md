@@ -9,7 +9,7 @@ date: 2013-09-26 20:59:36
 </p>
 
 <p class="p2">
-  So without further adieu, here is my short-list of winners:
+  So without further ado, here is my short-list of winners:
 </p>
 
 <li class="p1">

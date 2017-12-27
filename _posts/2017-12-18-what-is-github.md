@@ -9,6 +9,7 @@ related: [
 
 *Note: This is a guest post written by [@scriptonist](https://github.com/scriptonist) and [contributed during Hacktoberfest]({{site.url}}/2017/11/19/hacktoberfest-2017/#write-a-guest-post). It's nice and approachable. Thanks @scriptionist!*
 
+***
 
 ## What is Github?
 
