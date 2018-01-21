@@ -30,7 +30,7 @@ The point is, learning Rails was a **force multiplier** because it gave me menta
 
 You may be just starting your backend journey, but a whole generation of backend developers grew up building rails apps. Many of those developers are now senior developers, technical directors, and team leads—people you need to be able to communicate with. I can't count how many times in the last year I've relied on "Rails-y" terminology (words like "actions," "associations," "resources," and "helpers") to explain something or ask a question of my team. 
 
-## Conclusion
+<hr class="section-divider">
 
 Your time is precious. It shouldn't be poured into technologies and tools that won't develop you in your career. In a field that changes so rapidly, it makes a lot of sense to get really good at the things that don't change, which is why I tend to like ["core" web technologies]({{site.url}}/2017/10/01/why-i-like-to-spend-my-time-in-core-web-technologies).
 

@@ -68,6 +68,6 @@ I didn't want to mention this one because it's boring but it's made such an impa
 
 Set goals. There are lots of approaches. Find one that works for you.
 
- 
+<hr class="section-divider">
 
 And now, for the big secret: **these strategies always apply**. It doesn't matter what field you're in, or whether you already have a formal education in that field. Teaching yourself is a way of life, not a last resort for career changers.

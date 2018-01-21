@@ -16,7 +16,8 @@ Items we **don't** need in frontmatter:
 
 Below are some examples of markup you might need:
 
-* * *
+<hr class="section-divider">
+
 Links for assets should be absolute for rss feeds, emails, etc. Using `site.url`
 makes them work in all environments (notice: liquid tags work in markdown files):
 ![Image... made absolute for RSS feeds & github]({{site.url}}/assets/images/logo.png)

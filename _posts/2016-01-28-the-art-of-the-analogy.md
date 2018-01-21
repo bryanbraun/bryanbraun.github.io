@@ -70,6 +70,7 @@ I have a very curious 4-year old, and she's always asking me what a word means, 
 > Me: I'm working on a website.  
 > Her: What's a website.  
 > Me: Well, it's a computer project, but it's tricky to make. I have to move the pieces around like a puzzle.
+
 This is a terrible description of a website, but given the situation it's arguably pretty helpful. She knows puzzles. She knows they can be fun, but also challenging, and that it's hard to work on them when there are distractions (like her little brothers). The things that matter to her, like where I will be, why I need to focus, how long it will take, why I am doing it, are starting to make sense. The things that she doesn't care about, like the technology stack, or how adults use websites, don't need to be mentioned yet. The analogy isn't bulletproof, but it doesn't matter. It's a good-enough description not because it's bulletproof, but because it closes the current understanding gap. It helps answer the questions behind the question.
 
 This results in an insight: there is no perfect analogy, just perfect analogies for a given situation. This is why some old analogies (like New Testament Parables) fall flat without the cultural and historical context.

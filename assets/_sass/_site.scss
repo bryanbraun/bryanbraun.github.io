@@ -73,6 +73,31 @@ th, td {
   padding-right: 5px;
 }
 
+hr {
+  display: block;
+  height: 1px;
+  border: 0;
+  border-top: 1px solid #ccc;
+  margin: 2.5rem 0;
+  padding: 0;
+}
+
+.section-divider {
+  text-align: center;
+  border: none;
+  overflow: visible;
+  position: relative;
+
+  &::before {
+    content: "...";
+    color: #bbb;
+    font-size: 1.25rem;
+    letter-spacing: 8px;
+    position: absolute;
+    top: -20px;
+  }
+}
+
 .main-nav {
   > ul {
     list-style-type: none;
