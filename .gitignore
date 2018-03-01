@@ -2,6 +2,7 @@ _site
 .sass-cache
 .jekyll-metadata
 .DS_Store
+.vscode
 
 # This file is only in the project to assist with gem installs. We
 # don't check it in because it won't actually control anything on
