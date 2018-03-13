@@ -32,7 +32,7 @@ It's like he knew that his life would be tragically cut short.
 
 These things affect us, especially those of us who have lost friends and family early. I've mostly been fortunate in that regard, but last year when I learned that one of my missionary companions had been killed at age 28, I couldn't help but think of all the things he didn't get a chance to do, and how easily it could have been me.
 
-Even Eliza, Hamilton's wife... the one person who could be satisfied with the simple things in her life, can't help but be affected by the untimely death of her husband and son. "I stopped wasting time on tears," she says, and carries on his legacy, working with that same sense of urgency he had. She writes, she raises money, she starts an orphanage, and through all this asks, "what would [he] do if [he] had more time?", and wondering, as he once did, "when my time is up, [will] have I done enough?"
+Even Eliza, Hamilton's wife... the one person who could be satisfied with the simple things in her life, can't help but be affected by the untimely death of her husband and son. "I stopped wasting time on tears," she says, and carries on his legacy, working with that same sense of urgency he had. She writes, she raises money, she starts an orphanage, and through all this asks, "what would [he] do if [he] had more time?", and wondering, as he once did, "when my time is up, have I done enough?"
 
 I think that's what gets me the most. Life is so short, and [we have so much potential][5], that there's a constant tension between being satisfied with what we have, and anxious about what we still want to do. That tension ebbs and flows but it never goes away. And Hamilton's story communicates that better than any other I've seen.
 
