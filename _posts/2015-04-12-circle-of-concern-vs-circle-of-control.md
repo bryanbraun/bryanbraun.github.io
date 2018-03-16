@@ -1,7 +1,9 @@
 ---
-layout: post
 title: "Circle of Concern vs Circle of Control"
 date: 2015-04-12 14:03:08
+related: [
+  "Locus of Control"
+]
 ---
 
 Every day we’re faced with issues that threaten to distract us, create anxiety, and weigh down our conscience. Tax season is approaching. Your project is running behind schedule. It’s been 2 weeks since you last exercised. Your sports team is losing. You have a toothache.
