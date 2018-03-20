@@ -15,11 +15,7 @@ As I gather my things, my eyes fall on a photograph.
 
 It belonged to me, but it seemed unfamiliar. I hadn't seen it for a long time. I turn my head slightly to one side as I lift it up and examine it more closely.
 
-\- - -|
-
 <img alt="Felipe Feliciano" src="https://lh5.googleusercontent.com/-e0e6cLrwz2w/UG5dYPpqnQI/AAAAAAAABCQ/xu8oou_9m4s/s721/20121005_000614.jpg" style="width: 721px; height: 541px; " />
-
-\- - -|
 
 His name was Felipe Evaristo Feliciano. We were friends once. Good friends. In another life. He didn't speak English very well, but he tried his best. We would go grocery shopping together, and he would point to a fruit and ask, "What is this one?"
 

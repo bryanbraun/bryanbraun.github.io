@@ -5,24 +5,25 @@ date: 2010-12-27 11:43:02
 
 The Dvorak keyboard layout is an alternative to the most common computer keyboard design, the QWERTY keyboard. You know that you are using the qwerty keyboard if the first six letters on the upper row of your keyboard spells Q-W-E-R-T-Y.
 
-<div class="clearfix" style="clear:both; margin:30px 0 0 0;">
-  <div style="width: 310px;float:right;">
-    <img alt="The QWERTY Keyboard" height="100" src="/assets/images/800px-KB_United_States-NoAltGr.svg_.png" title="800px-KB_United_States-NoAltGr.svg" width="300" /><span>The QWERTY Keyboard</span>
+<div style="display: flex;">
+  <div style="margin-right: 16px;">
+    <img alt="The QWERTY Keyboard" src="/assets/images/800px-KB_United_States-NoAltGr.svg_.png" />
+    <span>The QWERTY Keyboard</span>
   </div>
 
-  <div style="width: 310px;float:left;">
-    <img alt="The Dvorak Keyboard" height="100" src="/assets/images/800px-KB_United_States_Dvorak.svg_.png" title="800px-KB_United_States_Dvorak.svg" width="300" /><span>The Dvorak Keyboard</span>
+  <div>
+    <img alt="The Dvorak Keyboard" src="/assets/images/800px-KB_United_States_Dvorak.svg_.png" />
+    <span>The Dvorak Keyboard</span>
   </div>
 </div>
 
-<br/>
-<br/>
+<br />
 
 Why the different layouts? The QWERTY layout was designed first for the early typewriters. The Dvorak layout was designed to increase typing speed, decrease finger strain, and simplify typing. It is called the Dvorak Simplified Keyboard after Dr. August Dvorak, its inventor. While the Dvorak layout seems better suited to the needs of today, QWERTY remains most common. I won't go into depth because several other great articles cover the history:
 
-*   <a href="http://www.dvzine.org/" title="The Dvorak Zine">The Dvorak Zine</a> – a fun and short read that tells the story of both keyboards using illustrations and graphics like a comic book.
-*   <a href="http://www.wired.com/thisdayintech/2010/05/0512dvorak-keyboard-patent/" title="Dvorak Keyboard Summary">Wired.com Summary</a> - A short and sweet summary from wired.com on the invention and use of the Dvorak keyboard.
-*   <a href="http://en.wikipedia.org/wiki/Dvorak_Simplified_Keyboard" title="Dvorak Simplified Keyboard Article">Dvorak Wikipedia Article</a> – The full scoop
+* <a href="http://www.dvzine.org/" title="The Dvorak Zine">The Dvorak Zine</a> – a fun and short read that tells the story of both keyboards using illustrations and graphics like a comic book.
+* <a href="http://www.wired.com/thisdayintech/2010/05/0512dvorak-keyboard-patent/" title="Dvorak Keyboard Summary">Wired.com Summary</a> - A short and sweet summary from wired.com on the invention and use of the Dvorak keyboard.
+* <a href="http://en.wikipedia.org/wiki/Dvorak_Simplified_Keyboard" title="Dvorak Simplified Keyboard Article">Dvorak Wikipedia Article</a> – The full scoop
 
 What bugged me the most about the Dvorak story was that it was a better keyboard design but we were too steeped in tradition to accept it. We were too lazy to learn a better way. After my research, I wanted to learn it but I needed to know how long it would take. I was afraid it would slow me down and hurt my performance at school or work. When I couldn’t find any info, I decided to record my own data by and tracking my speeds from day to day. Here is the data I got (see below for my methodology).
 
