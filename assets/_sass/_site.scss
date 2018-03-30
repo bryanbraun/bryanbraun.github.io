@@ -2,16 +2,23 @@ body {
   font-family: $serif-stack;
   margin: 0;
   padding: 0 1rem; // page padding for mobile
-  border-top: 7px solid $bb-blue1;
+  border-top: $page-top-border solid $bb-blue1;
   color: $bb-off-black;
 }
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   font-family: $sans-serif-stack;
   font-weight: normal;
 }
 
 // These headings are identical, to discourage unnecessary hierarcy.
-h4, h5, h6 {
+h4,
+h5,
+h6 {
   font-size: 1rem;
   margin: 1.333rem 0;
 }
@@ -19,10 +26,15 @@ h4, h5, h6 {
 a {
   color: $bb-blue2;
 
-  &:link    { }
-  &:visited { }
-  &:hover   { color: $bb-orange }
-  &:active  { }
+  &:link {
+  }
+  &:visited {
+  }
+  &:hover {
+    color: $bb-orange;
+  }
+  &:active {
+  }
 }
 
 ::selection {
@@ -43,7 +55,9 @@ figcaption {
   font-size: 0.8rem;
 }
 
-code, samp, kbd {
+code,
+samp,
+kbd {
   font-family: $monospace-stack;
   font-size: 0.875rem;
   padding: 0 6px;
@@ -64,7 +78,8 @@ pre > code {
 }
 
 // Styles for default (markdown) tables.
-th, td {
+th,
+td {
   text-align: left;
   vertical-align: top;
   // For tables that don't have enough data to push it to be full width,
@@ -98,6 +113,11 @@ hr {
   }
 }
 
+.site-header {
+  // cancel out page padding for navigation
+  margin-left: -1rem;
+  margin-right: -1rem;
+}
 .main-nav {
   > ul {
     list-style-type: none;
@@ -131,15 +151,48 @@ hr {
     display: block;
 
     @media (min-width: $phablet) {
-      padding: 1.5rem 2rem;
+      padding: 1.5rem 1.75rem;
     }
 
-    &:link    { }
-    &:visited { color: $bb-inert-gray; }
-    &:hover   { color: $bb-off-black; }
-    &:active  { }
+    &:link {
+    }
+    &:visited {
+      color: $bb-inert-gray;
+    }
+    &:hover {
+      color: $bb-off-black;
+      path {
+        fill: $bb-off-black;
+      }
+    }
+    &:active {
+    }
 
-    &.is--active { color: $bb-off-black; }
+    &.is--active {
+      color: $bb-off-black;
+    }
+  }
+}
+
+.main-nav__home {
+  @media (min-width: $phablet) {
+    position: absolute;
+    top: $page-top-border;
+    left: 0;
+  }
+
+  svg {
+    width: 16px;
+  }
+
+  path {
+    fill: $bb-inert-gray;
+  }
+
+  .is--active {
+    path {
+      fill: $bb-off-black;
+    }
   }
 }
 
@@ -293,11 +346,11 @@ hr {
 .archive-post-date {
   display: inline-block;
   min-width: 3.75rem;
-  color: $bb-inert-gray
+  color: $bb-inert-gray;
 }
 .archive-list {
   list-style-type: none;
-  padding-left: 0
+  padding-left: 0;
 }
 
 // Subscribe styles
@@ -320,12 +373,12 @@ hr {
 }
 .subscribe-email {
   background-color: white;
-  border-left: 1px solid rgba(100,100,100,0.22);
-  border-right: 1px solid rgba(100,100,100,0.22);
-  border-bottom: 1px solid rgba(100,100,100,0.22);
+  border-left: 1px solid rgba(100, 100, 100, 0.22);
+  border-right: 1px solid rgba(100, 100, 100, 0.22);
+  border-bottom: 1px solid rgba(100, 100, 100, 0.22);
   border-top: 1px solid transparent;
   border-radius: 3px;
-  box-shadow: inset 0px 1px 1px rgba(0,0,0,0.4);
+  box-shadow: inset 0px 1px 1px rgba(0, 0, 0, 0.4);
   padding: 3px 0 3px 6px;
   font-size: 14px;
   margin: 3px 10px;
@@ -336,7 +389,7 @@ hr {
 }
 .mce_inline_error {
   display: inline-block;
-  vertical-align:top;
+  vertical-align: top;
 }
 .subscribe-button-wrap {
   display: inline-block;
@@ -348,7 +401,7 @@ hr {
   border-radius: 3px;
   margin: 4px 10px 3px 10px;
   font-size: 14px;
-  color: #FFFFFF;
+  color: #ffffff;
   background-color: $bb-blue1;
   vertical-align: top;
   width: 120px;
@@ -390,4 +443,16 @@ table td {
     margin: 1rem 0;
     padding-left: 1rem;
   }
+}
+
+// Utilities
+.visuallyhidden {
+  position: absolute;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  height: 1px;
+  width: 1px;
+  margin: -1px;
+  padding: 0;
+  border: 0;
 }

@@ -1,22 +1,21 @@
 ---
-layout: post
 title: "Setting up automated testing for a small client-side Javascript project"
 date: 2015-05-17 15:01:51
 ---
 
-The frontend community has released open source client-side code for years<span style="color: rgb(84, 84, 84); font-family: arial, sans-serif; font-size: small; line-height: 18.2000007629395px;">—</span>jQuery plugins, modals, tooltips, carousels, and other libraries for web interfaces. But it wasn't until recently that we've seen robust tools and workflows for testing these kinds of projects.
+The frontend community has released open source client-side code for years—jQuery plugins, modals, tooltips, carousels, and other libraries for web interfaces. But it wasn't until recently that we've seen robust tools and workflows for testing these kinds of projects.
 
 The purpose of this article is to describe how to set up automated testing for your small client-side JS project (like I recently did for [AnchorJS][1]). Since there are dozens of ways to approach testing, here's what I'd consider the key criteria for the setup we want:
 
  [1]: https://github.com/bryanbraun/anchorjs
 
-*   **Written in Javascript** - Javascript is what we know, so let's write tests in Javascript using a framework written in Javascript.
-*   **Behavioral testing in the browser** - You'll need more than just unit tests if your project interfaces with the Browser UI.
-*   **Minimal dependencies** - Grunt, Gulp, (etc) have a place, but if you're maintaining a small library, then it's [probably overkill][2].
-*   **Dependencies are easy to manage** - [Avoid installing tools globally][3], so the setup works the same on different machines.
-*   **Uses modern testing tools** - Our tools should be tried-and-true, well-supported, dependable, and robust.
-*   **Open source workflow friendly** - We want a solution that optimized for open source contribution workflows. Specifically, we want to automatically run tests for Github Pull Requests, using Travis CI (free for open source projects).
-*   **Minimal viable infrastructure** - Start the testing infrastructure out small, with the ability to grow it as needed.
+* **Written in Javascript** - Javascript is what we know, so let's write tests in Javascript using a framework written in Javascript.
+* **Behavioral testing in the browser** - You'll need more than just unit tests if your project interfaces with the Browser UI.
+* **Minimal dependencies** - Grunt, Gulp, (etc) have a place, but if you're maintaining a small library, then it's [probably overkill][2].
+* **Dependencies are easy to manage** - [Avoid installing tools globally][3], so the setup works the same on different machines.
+* **Uses modern testing tools** - Our tools should be tried-and-true, well-supported, dependable, and robust.
+* **Open source workflow friendly** - We want a solution that optimized for open source contribution workflows. Specifically, we want to automatically run tests for Github Pull Requests, using Travis CI (free for open source projects).
+* **Minimal viable infrastructure** - Start the testing infrastructure out small, with the ability to grow it as needed.
 
  [2]: http://blog.keithcirkel.co.uk/why-we-should-stop-using-grunt/
  [3]: http://blog.millermedeiros.com/node-js-protip-avoid-global-test-runners/
@@ -39,7 +38,7 @@ To start, we'll use NPM to download Jasmine. Create and save a file called `pack
 
 ```json
 {
-"name": "project-name",
+  "name": "project-name",
   "description": "My Project's Description",
   "version": "0.0.1",
   "devDependencies": {
@@ -122,10 +121,10 @@ To automate tests, we need to be able to execute a command that runs our tests a
  [12]: http://phantomjs.org
 
 ```bash
-# We install it globally because thats what we do with browsers.
-# If you don’t have homebrew installed, then see http://phantomjs.org/download.html. Otherwise:
-brew install phantomjs
+npm install --save-dev phantomjs-prebuilt
 ```
+
+<small>*Update: it looks like [the PhantomJS project will soon be unmaintained](https://github.com/ariya/phantomjs/issues/15344). While existing versions will probably still work for a while, you may want to look into [headless Chrome](https://developers.google.com/web/updates/2017/06/headless-karma-mocha-chai) or other options for UI testing.*</small>
 
 Now we need a Test Runner... basically a command-line version of that `SpecRunner.html` file that will load the right files, run the tests, and report back the results. There are a few options out there. If you are already using grunt or gulp, then check out the integrations for those tools. Otherwise, we can save some complexity and go with a dedicated test runner like [Karma][13] (again, I'll leave out the comparisons here, but it suffices to say that Karma is modern, popular, robust, and actively maintained).
 

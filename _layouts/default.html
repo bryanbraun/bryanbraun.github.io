@@ -28,6 +28,17 @@ navigation:
     <header class="site-header">
       <nav class="main-nav">
         <ul>
+          <li class="main-nav__home">
+            {% if page.url == '/' %}
+              {% assign class = 'is--active' %}
+            {% endif %}
+            <a href="/" class="{{ class }}">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+                <path d="M75.2 14.3h-9v10L50.1 9.9 5.9 49.4l6 6.7 6.8-6.1v40.5h62.7V50l6.8 6.1 6-6.7-19-17.1v-18zm-2.7 67.3H27.7V42l22.4-20 22.4 20v39.6z" />
+              </svg>
+              <span class="visuallyhidden">Home</span>
+            </a>
+          </li>
           {% for link in layout.navigation %}
             {% assign class = nil %}
             {% if page.url == link.url %}
