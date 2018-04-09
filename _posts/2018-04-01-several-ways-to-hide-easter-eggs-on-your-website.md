@@ -23,7 +23,7 @@ In addition to leaving messages in the source code, you can also print messages 
 
 <figure style="text-align: center">
   <img src="{{site.url}}/assets/images/TNW-console-message.png" alt="Image of a message in the console at thenextweb.com" />
-  <figcaption>Here, <a href="https://thenextweb.com/">The Next Web</a>) prints a brief message to their console welcoming anybody who happens to be looking.</figcaption>
+  <figcaption>Here, <a href="https://thenextweb.com/">The Next Web</a> prints a brief message to their console welcoming anybody who happens to be looking.</figcaption>
 </figure>
 
 ## 3. The Konami code (or other keystrokes)

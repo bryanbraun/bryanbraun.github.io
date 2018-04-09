@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Technology isn't the thing…"
 date: 2014-11-09 21:34:14
 ---

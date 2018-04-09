@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Using !important for good, not evil"
 date: 2014-08-30 12:01:21
 ---
@@ -18,9 +17,9 @@ Of course, you know how this story ends. The more you use `!important`, the more
 
 **That was phase one: Apply `!important` willy-nilly and learn the hard way**
 
-Of course, the problem with `!important` is that it masks an underlying issue, which is a lack of understanding about [CSS specificitiy][1]. So you begin learning about specificity and it starts to make sense. You realize that with proper specificity rules, you don't need to use important at all. So you don't. Ever.
+Of course, the problem with `!important` is that it masks an underlying issue, which is a lack of understanding about [CSS specificity][1]. So you begin learning about specificity and it starts to make sense. You realize that with proper specificity rules, you don't need to use important at all. So you don't. Ever.
 
- [1]: http://css-tricks.com/specifics-on-css-specificity/
+[1]: http://css-tricks.com/specifics-on-css-specificity/
 
 **Welcome to phase two: Rigidly adhering to the "never-ever use it" rule**
 
@@ -32,13 +31,13 @@ That code snippet I showed you got called out by a tech lead who was reviewing m
 
 It was only afterward when I was researched the issue some more that I found that exact same piece of code in [Twitter Bootstrap][2], [HTML5 Boilerplate][3], and [Zurb Foundation][4]. Throwing an !important on all images in this way ensures flexible media and prevents content authors from unwittingly including fixed width images on a responsively themed site.
 
- [2]: https://github.com/twbs/bootstrap/blob/783e001786e21659a63aae2513a71bb73667c974/dist/css/bootstrap.css#L225
- [3]: https://github.com/h5bp/html5-boilerplate/blob/master/src/css/main.css#L251
- [4]: https://github.com/zurb/foundation/blob/1f7efae3658caefc6752c47187bcae14276043fa/scss/foundation/components/_global.scss#L407
+[2]: https://github.com/twbs/bootstrap/blob/783e001786e21659a63aae2513a71bb73667c974/dist/css/bootstrap.css#L225
+[3]: https://github.com/h5bp/html5-boilerplate/blob/master/src/css/main.css#L251
+[4]: https://github.com/zurb/foundation/blob/1f7efae3658caefc6752c47187bcae14276043fa/scss/foundation/components/_global.scss#L407
 
 But it's not just for responsive images. You can look through open-source CSS frameworks and find [other situations when using `!important` is appropriate][5]. They aren't common, but they exist. `!important` is in the spec for a reason.
 
- [5]: https://groups.google.com/forum/#!msg/compass-users/9A5fy6DdBLA/em91Qn7TBfIJ "If John Albin says it's appropriate, it's appropriate."
+[5]: https://groups.google.com/forum/#!msg/compass-users/9A5fy6DdBLA/em91Qn7TBfIJ "If John Albin says it's appropriate, it's appropriate."
 
 And while this is a story about the !important flag, the pattern repeats itself everywhere. It seems like everything I learn, whether it's web-related or not, starts with ignorance, progresses to absolutes, and ends in nuanced understanding. The proud front-end developer in me likes to believe that I've ascended to nuanced understanding in many (if not most) areas in my field, but the truth is that I haven't. Neither have you. Nobody is an expert in everything.
 

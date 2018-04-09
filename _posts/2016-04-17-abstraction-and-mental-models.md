@@ -1,12 +1,11 @@
 ---
-layout: post
 title: "Abstraction and Mental Models"
 date: 2016-04-17 13:24:58
 ---
 
 Us programmers are familiar with the concept of abstraction. When we see redundancies in our code, we gather the redundancies into a single thing, and reuse that thing over and over. It's a simple idea, and [one that programmers LOVE][1].
 
- [1]: https://xkcd.com/974/
+[1]: https://xkcd.com/974/
 
 But this isn't a post on the techniques or value of abstraction in computing. It's on recognizing the power of abstraction as a general-purpose tool, and its superpower-like ability to make us smarter.
 
@@ -24,7 +23,7 @@ My four-year-old is learning to read. One word that sometimes comes up in her ch
 
 > Fade
 
-She knows the sounds that F and D makes, but A and E are tricky. They each have "long" and "short" sounds, not to mention that E could make a U (schwa) sound or be silent* (as it is in this case). That gives us at least 8 possible pronunciations of this word.
+She knows the sounds that F and D makes, but A and E are tricky. They each have "long" and "short" sounds, not to mention that E could make a U (schwa) sound or be silent\* (as it is in this case). That gives us at least 8 possible pronunciations of this word.
 
 You might recommend just memorizing the word, given how common it is. But that's only a temporary solution. Soon enough, she'll come across a similar word:
 
@@ -38,52 +37,52 @@ There's another word with even more combinations!
 
 We've now memorized 3 one-off words and it's clear that continuing down this road will take a lot of effort. But there's an easier way. If we are perceptive, we can recognize the pattern here: For words ending in E, the E makes the A say it's name:
 
-*   Fade
-*   Male
-*   Cane
+* Fade
+* Male
+* Cane
 
 Yep, "a" says its name every time. And the E doesn't make a sound, because that's not its job. Its job is to tell the "a" what to say.
 
 This abstraction gives us a superpower: Instead of memorizing one fact for one word, we memorize one fact that gives us the ability to pronounce new words we've never seen:
 
-*   Hate
-*   Bane
-*   Pale
+* Hate
+* Bane
+* Pale
 
 By applying the contrapositive (if there's no E then it doesn't make the A say it's name), we can use the same rule to say even more words:
 
-*   Fade - Fad
-*   Male - Mal
-*   Cane - Can
-*   Hate - Hat
-*   Bane - Ban
-*   Pale - Pal
+* Fade - Fad
+* Male - Mal
+* Cane - Can
+* Hate - Hat
+* Bane - Ban
+* Pale - Pal
 
 And by extrapolating into new vowels, we can expand our rule (to The E makes the vowel say it's name), giving us the power to pronounce dozens of unfamiliar words:
 
 With I:
 
-*   Site - Sit
-*   Fire - Fir
-*   Wine - Win
+* Site - Sit
+* Fire - Fir
+* Wine - Win
 
 With O:
 
-*   Pope - Pop
-*   Note - Not
-*   Code - Cod
+* Pope - Pop
+* Note - Not
+* Code - Cod
 
 With U:
 
-*   Rune - Run
-*   Huge - Hug
-*   Cute - Cut
+* Rune - Run
+* Huge - Hug
+* Cute - Cut
 
 With E:
 
-*   Pete - Pet
-*   Mete - Met
-*   Here - Her
+* Pete - Pet
+* Mete - Met
+* Here - Her
 
 What a superpower we have now!
 
@@ -97,19 +96,19 @@ This pronunciation example is instructive. It shows us how to go about gaining w
 
 Some other powerful mental models include:
 
-*   Evolutionary Psychology
-*   Feedback Loops
-*   Thermodynamics
-*   Cognitive Biases
-*   Compounding
-*   Externalities
-*   Sunk Costs
-*   and [lots more][2].
+* Evolutionary Psychology
+* Feedback Loops
+* Thermodynamics
+* Cognitive Biases
+* Compounding
+* Externalities
+* Sunk Costs
+* and [lots more][2].
 
- [2]: https://www.farnamstreetblog.com/mental-models/
+[2]: https://www.farnamstreetblog.com/mental-models/
 
 To me this is perhaps the biggest benefit of a general core education. Introductory courses in fields like psychology, biology, and economics would do well to surface these models early, so students can extrapolate them out and see the forces that are shaping the world.
 
 And yeah, I think that's a superpower. Understanding yourself and the world you live in gives you the knowledge you need to thrive. And thriving is good.
 
-<small>*the whole idea of silent letters is ridiculous, but that's another discussion altogether</small>
+<small>\*the whole idea of silent letters is ridiculous, but that's another discussion altogether</small>
