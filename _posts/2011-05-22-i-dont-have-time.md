@@ -16,7 +16,7 @@ Now, lest I come off as a super harsh and insubordinate, you've gotta understand
 
 No, the priorities stunt was nothing more than a reminder to move along on the letter of recommendation, which wasn't due for a few more months. (by the way, I did get the letter, it was well written, and I got the scholarship... boo-yah!)
 
-The principle is true. Time is not a commodoty like money or soybeans or water. We receive free time every morning when we wake up, with which to do whatever we want. We cannot give it to one person, or take it from another. All are given an equal measure, rich and poor, black and white, male and female. It is the most fairly distributed commodoty on the planet. And because it is so consistent, how we use our time is a perfect indication of our priorities.
+The principle is true. Time is not a commodity like money or soybeans or water. We receive free time every morning when we wake up, with which to do whatever we want. We cannot give it to one person, or take it from another. All are given an equal measure, rich and poor, black and white, male and female. It is the most fairly distributed commodity on the planet. And because it is so consistent, how we use our time is a perfect indication of our priorities.
 
 A few years ago I spent a week recording how I used my time each day in my journal. I divided my 24 hour day into a pie chart, and represented the days activities via slices of the pie. The activity was designed to help me better see how I used my time that day. The results were shocking. (this specific image was one of my better days... I don't want to incriminate myself too badly)
 
