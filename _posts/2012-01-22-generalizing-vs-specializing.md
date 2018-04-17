@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Generalizing vs Specializing"
 date: 2012-01-22 20:46:20
 ---
@@ -14,9 +13,9 @@ I remember working at McDonalds in high school, washing dishes for 2+ hours afte
 
 But I've picked up a rather unfortunate truth over the last few years: Nobody wants a generalist (unless you're [Ken Jennings][1]).
 
- [1]: http://en.wikipedia.org/wiki/Ken_Jennings
+[1]: http://en.wikipedia.org/wiki/Ken_Jennings
 
-In the business world, specilization is king. Adam Smith got it started when he demonstrated the economic value of <a href="http://www.econlib.org/library/Smith/smWN1.html#B.I,%20Ch.1,%20Of%20the%20Division%20of%20Labor" target="_blank" title="On the Division of Labor">specializing tasks in a pin factory</a>. Henry Ford mastered the concept, using specialization to build a new Ford Model-T <a href="http://entrepreneurs.about.com/od/famousentrepreneurs/p/henryford.htm" target="_blank" title="Henry Ford Bio">every 24 seconds</a>. McDonalds (where I received my first lessons in specialization) basically invented fast food by specializing their process of making burgers and fries.
+In the business world, specialization is king. Adam Smith got it started when he demonstrated the economic value of <a href="http://www.econlib.org/library/Smith/smWN1.html#B.I,%20Ch.1,%20Of%20the%20Division%20of%20Labor" target="_blank" title="On the Division of Labor">specializing tasks in a pin factory</a>. Henry Ford mastered the concept, using specialization to build a new Ford Model-T <a href="http://entrepreneurs.about.com/od/famousentrepreneurs/p/henryford.htm" target="_blank" title="Henry Ford Bio">every 24 seconds</a>. McDonalds (where I received my first lessons in specialization) basically invented fast food by specializing their process of making burgers and fries.
 
 But it doesn't take a business guru to understand why specialization makes the business world turn. When you take your car in for repairs, would you rather have a dedicated mechanic work on it or a part-time mechanic, part-time trombone player, part-time scuba instructor?
 
@@ -32,7 +31,9 @@ It sounds simple. It is simple.
 
 You see, if I had to give career advice to today's youth, I'd tell them to try everything. Try writing music, drawing logos, building ramps, selling stuff, driving a boat, fixing a computer, writing news articles, designing a chair, organizing a team, charting positions of planets, babysitting, reading newspapers, keeping a budget, welding, teaching someone math, learning a language, programming, acting, designing a brochure, and anything else you can think of. I'd tell them to take on part-time jobs where they get paid to learn; to work at places like banks, offices, call-centers, government buildings and factories, doing things like tech-support, manufacturing, or secretarial work. I'd tell them to do anything to develop that ultra-broad surface level understanding of many things. Then, I'd tell them to look inward.
 
-<img alt="" src="/assets/images/the-perfect-job.png" style="width: 454px; height: 438px;" />
+<p style="text-align: center;">
+  <img alt="" src="/assets/images/the-perfect-job.png" />
+</p>
 
 Look at what you enjoy. Look at what you are good at. Finally look at what the world is willing to pay you to do. If any career choice fits all three categories, then point yourself in that direction, and start specializing!
 
