@@ -7,20 +7,20 @@ related: [
 ]
 ---
 
-I've been keeping an eye on CSS Grid for a while, but now that [browser support is getting pretty good](https://caniuse.com/#feat=css-grid), I thought it would be a good time to jump in and learn it.
+I've been keeping an eye on CSS grid for a while, but now that [browser support is getting pretty good](https://caniuse.com/#feat=css-grid), I thought it would be a good time to jump in and learn it.
 
-So while I was at [ng-conf](https://www.ng-conf.org/), I attended a workshop on CSS Grid run by [Dave Geddes](https://twitter.com/geddski). It was great.
+So while I was at [ng-conf](https://www.ng-conf.org/), I attended a workshop on CSS grid run by [Dave Geddes](https://twitter.com/geddski). It was great.
 
 <figure style="text-align: center;">
   <img src="{{site.url}}/assets/images/css-grid.gif" alt="Me assembling a grid out of grid-shaped candy pieces." />
   <figcaption>We even got to pretend we were web browsers, rendering grids with grid-shaped candy:</figcaption>
 </figure>
 
-So without getting too much in the weeds, I thought I'd share 5 of my biggest takeaways from learning CSS Grid at the workshop:
+So without getting too much in the weeds, I thought I'd share 5 of my biggest takeaways from learning CSS grid at the workshop:
 
 ## 1. Don't be afraid of the FR unit
 
-CSS Grid includes a new unit (like `px` or `em`), called `fr`, which is only designed to be used in CSS grids. It stands for "fraction," but all you really need to know is that it's for sizing grid rows/columns relative to each other. So if column 1 is `1fr` and column 2 is `2fr`, column 2 will be twice as big as column 1 (kind of like the flexbox numbers for `flex-shrink` and `flex-grow`). It's new and unfamiliar but don't be afraid of it! It's kind of the CSS-grid way of doing things, so I'd encourage you to make it your default grid-sizing method.
+CSS grid includes a new unit (like `px` or `em`), called `fr`, which is only designed to be used in CSS grids. It stands for "fraction," but all you really need to know is that it's for sizing grid rows/columns relative to each other. So if column 1 is `1fr` and column 2 is `2fr`, column 2 will be twice as big as column 1 (kind of like the flexbox numbers for `flex-shrink` and `flex-grow`). It's new and unfamiliar but don't be afraid of it! It's kind of the CSS grid way of doing things, so I'd encourage you to make it your default grid-sizing method.
 
 ## 2. Build your grid one step at a time
 
