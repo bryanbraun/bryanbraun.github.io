@@ -104,7 +104,7 @@ hr {
   position: relative;
 
   &::before {
-    content: "...";
+    content: '...';
     color: #bbb;
     font-size: 1.25rem;
     letter-spacing: 8px;
@@ -442,6 +442,16 @@ table td {
   pre {
     margin: 1rem 0;
     padding-left: 1rem;
+  }
+}
+
+.social-icons {
+  display: flex;
+  justify-content: center;
+
+  img {
+    width: 2rem;
+    margin: 0 0.75rem;
   }
 }
 

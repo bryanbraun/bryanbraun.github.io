@@ -1,10 +1,9 @@
 ---
-layout: post
 title: "This is an Amazing World"
 date: 2013-01-19 20:56:18
 ---
 
-Last month I made <a href="http://drupal.org/project/writer" title="Writer: A Blogging Theme for Developers">my first open source contribution</a>. You can read about the project in detail <a href="/2012/12/01/introducing-writer/" title="Introducing Writer">here</a>, but I just wanted to point out something amazing.
+Last month I made <a href="http://drupal.org/project/writer" title="Writer: A Blogging Theme for Developers">my first open source contribution</a>. You can read about the project in detail <a href="/2013/01/19/writer-a-blogging-theme-for-developers/" title="Introducing Writer">here</a>, but I just wanted to point out something amazing.
 
 I wrote most of the code in November and [submitted it for review][1] in December. It was first tested by [a guy in Pakistan][2], and with his feedback I made changes. Then it was tested by [a guy in Boston][3]. Once again, feedback and changes. Finally, it was tested and approved by [a guy in Austria][4], and promoted to full project status by [a guy in Germany][5].
 

@@ -17,13 +17,15 @@ I'm a husband and father. I'm [INTJ](https://www.16personalities.com/intj-person
 
 ## Social
 
-- [Twitter](https://twitter.com/BryanEBraun)
-- [Github](https://github.com/bryanbraun)
-- [Linkedin](https://www.linkedin.com/in/bryanbraun)
-- [Facebook](https://www.facebook.com/bryanbr4un)
+<div class="social-icons">
+  <a href="https://twitter.com/BryanEBraun"><img src="{{site.url}}/assets/images/line-icon-twitter.svg" /></a>
+  <a href="https://github.com/bryanbraun"><img src="{{site.url}}/assets/images/line-icon-github.svg" /></a>
+  <a href="https://www.linkedin.com/in/bryanbraun"><img src="{{site.url}}/assets/images/line-icon-linkedin.svg" /></a>
+  <a href="https://www.facebook.com/bryanbr4un"><img src="{{site.url}}/assets/images/line-icon-facebook.svg" /></a>
+</div>
 
 ## This site
 
-This site is built with [Jekyll](https://jekyllrb.com/) and hosted on [Github Pages](https://pages.github.com/). The main fonts are [PT Sans](https://fonts.google.com/specimen/PT+Sans) and [PT Serif](https://fonts.google.com/specimen/PT+Serif). There's also a [styleguide](/styleguide).
+This site is built with [Jekyll](https://jekyllrb.com/) and hosted on [Github Pages](https://pages.github.com/). The main fonts are [PT Sans](https://fonts.google.com/specimen/PT+Sans) and [PT Serif](https://fonts.google.com/specimen/PT+Serif). The social media icons were made by [Swifticons](https://www.swifticons.com). There's also a [styleguide](/styleguide).
 
 All the code is open-source, and [available on Github](https://github.com/bryanbraun/bryanbraun.github.io), released under the [MIT license](https://github.com/bryanbraun/bryanbraun.github.io/blob/master/license.md). All content is licensed with a [Creative Commons Attribution License (BY 4.0)](https://creativecommons.org/licenses/by/4.0/), unless otherwise noted. If you find anything you can improve about this site, please submit a pull request.
