@@ -11,7 +11,7 @@ I've been keeping an eye on CSS grid for a while, but now that [browser support 
 
 So while I was at [ng-conf](https://www.ng-conf.org/), I attended a workshop on CSS grid run by [Dave Geddes](https://twitter.com/geddski). It was great.
 
-<figure style="text-align: center;">
+<figure class="center">
   <img src="{{site.url}}/assets/images/css-grid.gif" alt="Me assembling a grid out of grid-shaped candy pieces." />
   <figcaption>We even got to pretend we were web browsers, rendering grids with grid-shaped candy:</figcaption>
 </figure>
@@ -47,7 +47,7 @@ Like [Flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box
 
 I could go into much more detail about grid, but there are already a [bunch](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Basic_Concepts_of_Grid_Layout) of [great](https://css-tricks.com/snippets/css/complete-guide-grid/) [resources](https://gridbyexample.com/video/) out there that do that. I got to try some of the challenges from [Dave's Grid Critters course](http://www.gridcritters.com/), and I was way impressed with how everything worked (and how challenging it got). So if you want to learn CSS grid in a fun and comprehensive way, go <a href="http://www.gridcritters.com">check it out</a>.
 
-<figure style="text-align: center;">
+<figure class="center">
   <a href="http://www.gridcritters.com"><img src="{{site.url}}/assets/images/grid-critters.png" alt="A screenshot from Dave's 'Grid Critters' course" /></a>
   <figcaption>A screenshot from Dave's "Grid Critters" course</figcaption>
 </figure>

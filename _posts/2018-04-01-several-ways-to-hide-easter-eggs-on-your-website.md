@@ -21,7 +21,7 @@ All the major web browsers allow users to "View Source" and see the website's so
 
 In addition to leaving messages in the source code, you can also print messages to the browser console (which can usually be found by pressing Cmd + Option + i). The most basic form of this is leaving a `console.log("My message")` in your javascript file, thus printing "My message" to the console. To make things more interesting [some browsers allow you to style your console messages with CSS rules](https://stackoverflow.com/a/13017382/1154642).
 
-<figure style="text-align: center">
+<figure class="center">
   <img src="{{site.url}}/assets/images/TNW-console-message.png" alt="Image of a message in the console at thenextweb.com" />
   <figcaption>Here, <a href="https://thenextweb.com/">The Next Web</a> prints a brief message to their console welcoming anybody who happens to be looking.</figcaption>
 </figure>

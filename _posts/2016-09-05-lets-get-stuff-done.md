@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Let's Get. Stuff. Done."
 date: 2016-09-05 19:37:21
 ---
