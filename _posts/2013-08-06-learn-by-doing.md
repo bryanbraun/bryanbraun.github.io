@@ -12,3 +12,7 @@ No doubt, it's been good for me to look, read, and listen. But at some point I j
 So I am, and I am, and I will.
 
 And if my pride takes a hit, then that's good for me. If I'm uncomfortable being up to my armpits in command line, then that's good for me too. And if, by taking those hits, I'm more competent tomorrow than I am today, then that's really good for me.
+
+<hr class="section-divider" />
+
+<small>(by the way, there's a ton of great resources that help you learn by doing, like <a href="https://www.codecademy.com">websites for learning programming</a>, <a href="https://gridmaster.io">Excel addins for learning spreadsheets</a>, and <a href="https://www.brit.co/learn-to-draw-apps/">apps that teach you how to draw</a>)
