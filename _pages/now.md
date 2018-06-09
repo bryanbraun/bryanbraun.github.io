@@ -13,7 +13,7 @@ I commute 14 miles each day by bicycle, and I recently started listening to audi
 
 ## At Home
 
-Most of my personal time is spent working on [Gridmaster](https://gridmaster.io). It's a real, income-producing business. I'm trying to figure out how to grow it.
+Most of my personal time is spent working on [Gridmaster](https://gridmaster.io), which is [an Excel addin for learning Excel](https://gridmaster.io/). It's a real, income-producing business. I'm trying to figure out how to grow it.
 
 I'm serving as an Assistant Scoutmaster and I work with the 12-13 year old boys at church. Sundays I spend all day with my family.
 
@@ -21,4 +21,4 @@ I'm serving as an Assistant Scoutmaster and I work with the 12-13 year old boys 
 
 _This page was inspired by Derek Sivers and [his /now page](https://sivers.org/now)._
 
-_This page was last updated: February 24th, 2018_
+_This page was last updated: June 9th, 2018_

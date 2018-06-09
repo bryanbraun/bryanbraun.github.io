@@ -1,43 +1,43 @@
-- name: Gridmaster
+- name: "Gridmaster: Learn Excel by Doing"
   url: https://gridmaster.io
   image: /assets/images/gridmaster-logo.png
 
-- name: Custom Formats Builder
+- name: "Excel Custom Formats Builder"
   url: https://customformats.com
   image: /assets/images/custom-formats.png
 
-- name: Bouncy Ball
+- name: "Bouncy Ball - Compare Web Animations Techniques"
   url: http://sparkbox.github.io/bouncy-ball/
   image: /assets/images/bouncy-ball.png
 
-- name: AnchorJS
+- name: "AnchorJS - Add Deep Anchor Links to your Docs"
   url: https://github.com/bryanbraun/anchorjs
   image: /assets/images/anchorjs_logo.png
 
-- name: After Dark in CSS
+- name: "After Dark in CSS"
   url: http://bryanbraun.github.io/after-dark-css
   image: /assets/images/flying-toaster.gif
 
-- name: Poor Man's Styleguide
+- name: "Poor Man's Styleguide"
   url: https://www.poormansstyleguide.com
   image: /assets/images/frontend-styleguide-template_0.png
 
-- name: Bitbooks
+- name: "Bitbooks"
   url: https://www.bryanbraun.com/2015/10/20/bitbooks-closing-thoughts
   image: /assets/images/bitbooks_b2.png
 
-- name: Franklin
+- name: "Franklin"
   url: https://github.com/bryanbraun/franklin
   image: /assets/images/franklin.png
 
-- name: Powerpoint Karaoke
+- name: "Powerpoint Karaoke"
   url: https://www.powerpointkaraoke.com
   image: /assets/images/slides-md.png
 
-- name: Template Picker
+- name: "Template Picker"
   url: https://www.drupal.org/project/template_picker
   image: /assets/images/template-picker-logo.png
 
-- name: Writer A Blogging Theme for Developers
+- name: "Writer: A Blogging Theme for Developers"
   url: https://www.drupal.org/project/writer
   image: /assets/images/writer_logo_4.png

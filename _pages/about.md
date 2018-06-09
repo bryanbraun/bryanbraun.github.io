@@ -9,7 +9,7 @@ I'm a web developer and designer, currently based in the American Midwest. I use
 
 My work has been [featured](/news.md) in The Washington Post, Daring Fireball, Smashing Magazine, and the Discovery Channel.
 
-I'm constantly learning and sharing what I learn through [writing](/archives), [speaking](/speaking.md), and [open-source](https://github.com/bryanbraun). I'm always working on some sort of [side-project](/projects). You should [ask me](/contact.md) what I'm working on now.
+I'm constantly learning and sharing what I learn through [writing](/archives), [speaking](/speaking.md), and [open-source](https://github.com/bryanbraun). I'm always working on some sort of [side-project](/projects). This is what I'm working on [now](/now).
 
 [These are my principles](/principles.md).
 
@@ -23,6 +23,8 @@ I'm a husband and father. I'm [INTJ](https://www.16personalities.com/intj-person
   <a href="https://www.linkedin.com/in/bryanbraun"><img src="{{site.url}}/assets/images/line-icon-linkedin.svg" /></a>
   <a href="https://www.facebook.com/bryanbr4un"><img src="{{site.url}}/assets/images/line-icon-facebook.svg" /></a>
 </div>
+
+If I don't already know you, you should [email me](mailto:bbraun7@gmail.com) and introduce yourself. We can be friends. It'll be great.
 
 ## This site
 
