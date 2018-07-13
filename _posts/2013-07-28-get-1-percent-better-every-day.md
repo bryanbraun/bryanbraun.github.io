@@ -1,6 +1,9 @@
 ---
 title: "Get 1 percent better, every day"
 date: 2013-07-28 19:36:32
+related: [
+  "Underdogs"
+]
 ---
 
 I work with really smart people tackling really tough problems, and sometimes I feel totally intimidated. Some of these guys are working on their Masters in Computer Science degrees. Others have a rich education from a prestigious school.

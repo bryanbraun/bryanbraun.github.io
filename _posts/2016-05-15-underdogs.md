@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Underdogs"
 date: 2016-05-15 03:40:35
 ---
