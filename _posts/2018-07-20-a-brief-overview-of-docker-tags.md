@@ -80,8 +80,8 @@ docker tag 78a85c484f71 registry.gitlab.com/bryanbraun/gridmaster:1.0.0
 Now it looks like this:
 
 ```
-REPOSITORY                                 TAG         IMAGE ID          CREATED           SIZE
-registry.gitlab.com/bryanbraun/gridmaster  1.0.0       78a85c484f71      19 hours ago      193 MB
+REPOSITORY                                  TAG     IMAGE ID       CREATED        SIZE
+registry.gitlab.com/bryanbraun/gridmaster   1.0.0   78a85c484f71   19 hours ago   193 MB
 ```
 
 As you can see, everything except the version number field is considered repository data, and displayed in the repository field.
