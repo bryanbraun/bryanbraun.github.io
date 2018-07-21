@@ -1,7 +1,9 @@
 ---
-layout: post
 title: "The Frontend Developer's Guide to Docker"
 date: 2014-07-15 20:56:56
+related: [
+  "A Brief Overview of Docker Tags"
+]
 ---
 
 I decided to use Docker for a recent project and I learned a lot in the process. This is an attempt to explain what Docker is, in plain English, from the perspective of a frontend developer.
@@ -24,11 +26,11 @@ Docker is an open-source tool you can use to build and run application environme
 
 Docker is designed to solve a bunch of sysadmin problems, but some of those problems impact you. Your application has to run somewhere… maybe its on your local computer, or on a staging server, or in Amazon's Cloud. Even as a frontend developer, there are a lot of things Docker can help you with:
 
-* If you care about your code working identically when you move it between these environments, then Docker can help you with that.
-* If somebody makes changes to these environments (notice I said environments, not code) and you want those changes to be quick to deploy, easy to roll back, and under version control, then Docker can help you with that as well.
-* If you want to be able to scale your application horizontally without too much fuss, than Docker can help you with that.
-* If you are trying to get your application architecture and environment in line with [the 12-factor App][2], then Docker can help you with that. (It helped out with 4 of the 12 factors for me).
-* Finally, if you wish your deployments were easier, then there's a good chance that Docker can help you with that too.
+- If you care about your code working identically when you move it between these environments, then Docker can help you with that.
+- If somebody makes changes to these environments (notice I said environments, not code) and you want those changes to be quick to deploy, easy to roll back, and under version control, then Docker can help you with that as well.
+- If you want to be able to scale your application horizontally without too much fuss, than Docker can help you with that.
+- If you are trying to get your application architecture and environment in line with [the 12-factor App][2], then Docker can help you with that. (It helped out with 4 of the 12 factors for me).
+- Finally, if you wish your deployments were easier, then there's a good chance that Docker can help you with that too.
 
 [2]: http://12factor.net/
 
@@ -66,11 +68,11 @@ The closest thing to Docker that you are familiar with, is probably [Git][6], so
 
 [6]: http://git-scm.com/
 
-* It is a program that runs in the command line.
-* You can use it for applications written in any language.
-* It borrows a lot of the same terminology. With Docker, you can Pull, Push, Commit, and Diff linux containers, just like Git can perform those operations on codebases.
-* Docker makes it a lot easier for sysadmins to share their work and collaborate.
-* [Docker Hub](https://hub.docker.com/explore/) is similar to Github in that it hosts public Docker projects that people can look at and try out. There is a monthly fee to host private Docker projects.
+- It is a program that runs in the command line.
+- You can use it for applications written in any language.
+- It borrows a lot of the same terminology. With Docker, you can Pull, Push, Commit, and Diff linux containers, just like Git can perform those operations on codebases.
+- Docker makes it a lot easier for sysadmins to share their work and collaborate.
+- [Docker Hub](https://hub.docker.com/explore/) is similar to Github in that it hosts public Docker projects that people can look at and try out. There is a monthly fee to host private Docker projects.
 
 Like Git, the way to learn Docker is to just start using it. This is easy because the folks at Docker.io have set up a [great series of tutorials][7] online. If you want to learn this stuff, I recommend just doing them all, one after the other, in succession. After a while, things will start clicking.
 
@@ -105,7 +107,7 @@ For other, more complex, docker-based deployment tools, you may want to check ou
 Docker was created by a hosting company called [dotCloud][13], which was using a version of it internally for managing environments. After releasing the project as open-source and seeing how well it was received, they "[bet the farm][14]" by transitioning much of their company's resources away from hosting and towards Docker support. With the power of the dotCloud's resources behind it, the project has an [active codebase][15], [great documentation][16], a [large community][17], and growing momentum. All signs show that the project has a bright future ahead of it.
 
 [13]: https://web.archive.org/web/20140517031011/https://www.dotcloud.com/
-[14]: http://5by5.tv/changelog/89 "Their words... not mine."
+[14]: http://5by5.tv/changelog/89 'Their words... not mine.'
 [15]: https://github.com/dotcloud/docker/commits/master
 [16]: https://docs.docker.com/
 [17]: https://github.com/dotcloud/docker/stargazers
