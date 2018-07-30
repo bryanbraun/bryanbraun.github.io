@@ -54,11 +54,11 @@ Some of these parts are optional. For example, these are all valid tag names:
 - `bryanbraun/ruby`
   - _This has no version number, which is allowed._
 - `bryanbraun/ruby:latest`
-  - _This references `:latest`, a special nickname assigned to some tags. More on this&nbsp;later._
+  - _This references `:latest`, a special nickname assigned to some tags. More on this&nbsp;[below](#what-about-latest)._
 - `ruby:4.4.0`
   - _This has no user defined because it is from an "official repository" (ruby) in Docker's own registry._
 
-As you can see, one of the main reasons to tag images is to associate them with an image registry (like [hub.docker.com](https://hub.docker.com/) or registry.gitlab.com). This gives our images the metadata needed to store our images in the cloud.
+As you can see, one of the main reasons to tag images is to associate them with an image registry (like [hub.docker.com](https://hub.docker.com/) or registry.gitlab.com). This gives our images the metadata needed to store them in the cloud.
 
 Some registries support other tag name formats, like [Gitlab](http://gitlab.com/), which [provides a namespace so you can store multiple images per Gitlab repo](https://gitlab.com/gitlab-org/gitlab-ce/issues/17801).
 
