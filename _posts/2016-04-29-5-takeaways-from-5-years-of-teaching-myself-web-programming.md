@@ -1,17 +1,20 @@
 ---
 title: "5 Takeaways from 5 Years of Teaching Myself Web Programming"
 date: 2016-04-29 09:11:07
+related: [
+  "Is this an investment?",
+  "Compounding Benefits",
+  "Learn by Doing"
+]
 ---
 
 When I changed careers, I was afraid that I'd struggle to compete with others in my field who had a formal programming education. Teaching myself a new field wasn't part of "the plan." I didn't know what would happen.
 
 Now, nearly 5 years later, I'm more confident in my ability to teach myself whatever I'll need to know. I've learned that [there's no magic in having a degree][1]. There's just learning, and there's a lot of ways to learn.
 
- [1]: http://www.bryanbraun.com/2016/01/17/a-degree-is-an-abstraction
+[1]: http://www.bryanbraun.com/2016/01/17/a-degree-is-an-abstraction
 
 Learning as you go requires different strategies than the ones I used in college. My lifestyle is different than the one I had in school. I have new constraints (like work and family responsibilities) and new advantages (like more money). Looking back, these are the 5 strategies that have helped me the most over the years:
-
- 
 
 ## 1. Get paid to learn
 
@@ -27,7 +30,7 @@ There are tons of good books and resources out there for learning web programmin
 
 Experience is the best teacher, so don't settle for a second-rate education. ([FYI, I've written more on this topic here][2])
 
- [2]: http://www.bryanbraun.com/2013/08/06/learn-by-doing
+[2]: http://www.bryanbraun.com/2013/08/06/learn-by-doing
 
 ## 3. Win either way
 
@@ -35,12 +38,12 @@ Whenever I'm deciding to take on a side-project, I ask myself: what will happen 
 
 Case in point: when I decided to work on [Bitbooks][3], I determined that if it was a bust then I would still walk away from it with experience in ruby, docker, web-services, [12 factor apps][4], and authentication systems. In addition I'd work to release some open-sourced components that could be helpful to others.
 
- [3]: http://www.bryanbraun.com/2015/10/20/bitbooks-closing-thoughts
- [4]: http://12factor.net/
+[3]: http://www.bryanbraun.com/2015/10/20/bitbooks-closing-thoughts
+[4]: http://12factor.net/
 
 By the time I shut it down, those new skills qualified me to take [a new position][5], and those open-sourced components represented 4 out of my top 5 Github repos. There's no way I'd consider that a failure.
 
- [5]: http://www.bryanbraun.com/2015/04/17/git-checkout-b-sparkbox
+[5]: http://www.bryanbraun.com/2015/04/17/git-checkout-b-sparkbox
 
 In a world where outcomes aren't guaranteed, your best bet is to focus on activities where you'll walk away a winner, no matter the outcome.
 
@@ -50,17 +53,17 @@ My wife and I budget our spending, and we try to keep our expenses low. But we h
 
 To elaborate:
 
-*   Financial investments are when you spend money and get more money in return.
-*   Personal investments are when you spend money and you get knowledge, skills, and connections in return.
+- Financial investments are when you spend money and get more money in return.
+- Personal investments are when you spend money and you get knowledge, skills, and connections in return.
 
 Examples of these expenses might include an online course, a [code-school][6] subscription, a non-fiction book, a conference ticket, or software that empowers you to create things.
 
- [6]: https://www.codeschool.com/
+[6]: https://www.codeschool.com/
 
 These kinds of investments make you into a smarter, more useful human, and provide [compounding benefits][7] over time, giving you more more autonomy, more opportunities, and more earning potential. ([FYI, I've written more on this topic here][8])
 
- [7]: http://www.bryanbraun.com/2015/11/17/compounding-benefits
- [8]: http://www.bryanbraun.com/2013/06/27/is-this-an-investment
+[7]: http://www.bryanbraun.com/2015/11/17/compounding-benefits
+[8]: http://www.bryanbraun.com/2013/06/27/is-this-an-investment
 
 ## 5. Set goals
 

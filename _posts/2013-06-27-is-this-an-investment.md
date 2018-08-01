@@ -1,7 +1,9 @@
 ---
-layout: post
 title: "Is this an investment?"
 date: 2013-06-27 06:42:00
+related: [
+  "5 Takeaways from 5 Years of Teaching Myself Web Programming"
+]
 ---
 
 I'm a minimalist at heart, so when I consider buying something, I ask myself "is this an investment?"

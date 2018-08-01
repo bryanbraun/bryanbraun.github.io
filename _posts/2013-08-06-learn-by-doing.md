@@ -1,6 +1,10 @@
 ---
 title: "Learn by Doing"
 date: 2013-08-06 06:51:56
+related: [
+  "5 Takeaways from 5 Years of Teaching Myself Web Programming",
+  "We are just seeing the beginning of interactive online learning"
+]
 ---
 
 It can be hard to learn how to do something technical, like repair a wheel bearing, use formulas in Excel, or (you guessed it) adopt some new technology on the web. But in my experience, it's nearly impossible to learn these kinds of things from a distance. I've tried to pick up stuff like this by just reading about it, or listening to other people talk about it, and I always just end up spinning my wheels.
