@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "I Like Statistics"
 date: 2011-10-09 22:01:24
 ---
@@ -61,11 +60,9 @@ No attempt for me to describe it can do it justice. Just go <a href="http://www.
 
 If you research different religions on Wikipedia, you'll soon realize that you can find some really interesting membership and geolocation statistics for <a href="http://en.wikipedia.org/wiki/Category:Religious_demographics" target="_blank" title="Religious Demographics">many major religions</a>, including <a href="http://en.wikipedia.org/wiki/Demographics_of_atheism" target="_blank" title="Demographics of Atheism">atheism</a>. Consider looking at these:
 
-*   <a href="http://en.wikipedia.org/wiki/Catholicism_by_country" target="_blank" title="Catholicism Membership Data">Catholic Membership Data</a>
-*   <a href="http://en.wikipedia.org/wiki/List_of_countries_by_Muslim_population" target="_blank" title="Islamic Membership Data">Islamic Membership Data</a>
-*   <a href="http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints_membership_statistics" target="_blank" title="The Church of Jesus Christ of Latter-day Saints Membership Data">The Church of Jesus Christ of Latter-Day Saints Membership Data</a>
-
-&nbsp;
+* <a href="http://en.wikipedia.org/wiki/Catholicism_by_country" target="_blank" title="Catholicism Membership Data">Catholic Membership Data</a>
+* <a href="http://en.wikipedia.org/wiki/List_of_countries_by_Muslim_population" target="_blank" title="Islamic Membership Data">Islamic Membership Data</a>
+* <a href="http://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints_membership_statistics" target="_blank" title="The Church of Jesus Christ of Latter-day Saints Membership Data">The Church of Jesus Christ of Latter-Day Saints Membership Data</a>
 
 ### 6. <a href="http://www.informationisbeautiful.net/" target="_blank" title="Information is Beautiful">Information is Beautiful</a>
 
@@ -87,8 +84,8 @@ Does it really matter which web browser everybody uses. Probably not. But it's k
 
 Last but not least is the wealth of public data collected by governments and independent researchers all over the world. Most of the time, they <a href="http://www.youtube.com/watch?v=cMDqP0oy7_4" target="_blank" title="2010 Census: A Difficult Process">work their buns off</a> to get this data and then they just throw this stuff up on the internet for the public (aka "me") benefit. They've got everything from data sheets to reports to interactive maps. I love it. Here are the goods:
 
-*   <a href="http://2010.census.gov/2010census/data/" target="_blank" title="The 2010 US Census">The 2010 US Census</a>
-*   <a href="https://www.prb.org/Publications/Datasheets/2011/world-population-data-sheet/#/map/population" target="_blank" title="The World Population Data Sheet">The World Population Data Sheet</a>
-*   <a href="http://people-press.org/" target="_blank" title="The Pew Research Center">The Pew Research Center</a>
+* <a href="http://2010.census.gov/2010census/data/" target="_blank" title="The 2010 US Census">The 2010 US Census</a>
+* <a href="https://www.prb.org/Publications/Datasheets/2011/world-population-data-sheet/#/map/population" target="_blank" title="The World Population Data Sheet">The World Population Data Sheet</a>
+* <a href="http://people-press.org/" target="_blank" title="The Pew Research Center">The Pew Research Center</a>
 
 So you can call me crazy if you like but I love this kind of stuff. And don't hold out on me! Tell me if I'm missing any great websites on this list. It's all about sharing the wealth.

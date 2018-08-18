@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The eBook Enigma"
+title: 'The eBook Enigma'
 date: 2011-11-27 20:41:54
 ---
 
@@ -8,26 +8,28 @@ I like to read. I always have.
 
 These days I am particularly fond of non-fiction (I never thought that would happen. I still remember how thick the dust settled in the non-fiction section of my high school library).
 
-I own a few books now and I'd like to get some more. But I have a conundrum.  As I start to collect books I want to organize them in such a way that they bring me the most value over the years to come. Specifically, I want to make sure my books are in the best format possible, so they will remain relevant and useful to me. This is especially important because I'm just starting out my independent life and I'd like to take the time to develop a good system that works for years to come. <img alt="" class="alignright" height="240" src="http://www.kindleebooksonline.com/wp-content/uploads/2011/01/Kindle2-best-image-of-kindle-ebooks-online-with-hand.jpg" title="Kindle" width="240" />Unfortunately, the eBook revolution has made this significantly more difficult. Of the formats available today, we have physical books (the 575 year old technology that is still going strong), audio-books (tapes, cds, and mp3s), and eBooks. Of course, eBooks are available in a variety of formats, including .azw (for Kindle), PDF (Adobe's baby), and at least <a href="http://en.wikipedia.org/wiki/Comparison_of_e-book_formats" target="_blank" title="Comparison of e-book formats">25 other digital file formats</a> with several that are only <a href="http://en.wikipedia.org/wiki/Comparison_of_e-book_formats#Supporting_Platforms" target="_blank" title="Ebook compatibility table">compatible with a handful of devices</a>.
+I own a few books now and I'd like to get some more. But I have a conundrum.  As I start to collect books I want to organize them in such a way that they bring me the most value over the years to come. Specifically, I want to make sure my books are in the best format possible, so they will remain relevant and useful to me. This is especially important because I'm just starting out my independent life and I'd like to take the time to develop a good system that works for years to come.
+
+Unfortunately, the eBook revolution has made this significantly more difficult. Of the formats available today, we have physical books (the 575 year old technology that is still going strong), audio-books (tapes, cds, and mp3s), and eBooks. Of course, eBooks are available in a variety of formats, including .azw (for Kindle), PDF (Adobe's baby), and at least <a href="http://en.wikipedia.org/wiki/Comparison_of_e-book_formats" target="_blank" title="Comparison of e-book formats">25 other digital file formats</a> with several that are only <a href="http://en.wikipedia.org/wiki/Comparison_of_e-book_formats#Supporting_Platforms" target="_blank" title="Ebook compatibility table">compatible with a handful of devices</a>.
 
 There are many reasons to move over to eBooks:
 
-*   Size. You can easily pack thousands of eBooks on to one device.
-*   Annotation tools make highlighting, bookmarking, and adding comments a breeze.
-*   "Smart" features like video clips and hyperlinks enhance reading (especially for magazines).
-*   Free access to a huge library of <a href="http://bryanbraun.com/2011/04/25/5-awesome-books-that-are-free-online/" target="_blank" title="5 Awesome Books (that are FREE online)">public domain books</a>.
-*   No light source? No problem.
-*   They don't degrade over time (imagine the value of passing your huge library of "good-as-the-day-they-were-purchased" books on to your descendents when you die).
-*   They are environmentally friendly.
+- Size. You can easily pack thousands of eBooks on to one device.
+- Annotation tools make highlighting, bookmarking, and adding comments a breeze.
+- "Smart" features like video clips and hyperlinks enhance reading (especially for magazines).
+- Free access to a huge library of <a href="http://bryanbraun.com/2011/04/25/5-awesome-books-that-are-free-online/" target="_blank" title="5 Awesome Books (that are FREE online)">public domain books</a>.
+- No light source? No problem.
+- They don't degrade over time (imagine the value of passing your huge library of "good-as-the-day-they-were-purchased" books on to your descendents when you die).
+- They are environmentally friendly.
 
 Here are the arguments for physical books:
 
-*   It's the only format guaranteed to last (more on this later).
-*   Easy to give, take, share, and borrow.
-*   Used books give you all the content for a fraction of the price.
-*   Infinite battery life.
-*   No software bugs.
-*   Robust. Drop a book from 40 ft, dust it off, be on your way. Drop an eBook reader from 40 ft and it's all gone.
+- It's the only format guaranteed to last (more on this later).
+- Easy to give, take, share, and borrow.
+- Used books give you all the content for a fraction of the price.
+- Infinite battery life.
+- No software bugs.
+- Robust. Drop a book from 40 ft, dust it off, be on your way. Drop an eBook reader from 40 ft and it's all gone.
 
 <small>(see this <a href="http://img.labnol.org/files/ebook-print-books.png" target="_blank" title="ebooks vs print books">ebooks vs print books infographic</a> for an even better depiction of the pros and cons)</small>
 

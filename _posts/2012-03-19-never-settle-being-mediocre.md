@@ -10,7 +10,7 @@ In 7th grade, I performed in a middle school choir with a phenomenal choir direc
 
 This choir director was a perfectionist. He once stopped our entire choir in the middle a concert performance of Dansi na Kuimba because our singing wasn't meeting his expectations. He had us start the song over again in front of the audience.
 
-This choir director often repeated a phrase::
+This choir director often repeated a phrase:
 
 > Never settle for being mediocre.
 
