@@ -3,17 +3,17 @@ title: What I'm doing now
 permalink: /now/
 ---
 
-I'm at home in Dayton Ohio. The weather is getting warmer every day.
+I'm at home in Dayton Ohio. The weather is getting cooler every day.
 
 ## At Work
 
-I'm working at [Sparkbox](https://seesparkbox.com/). Most of my time coding is spent writing Javascript. I've worked a lot in React and Angular recently, specifically on design systems.
+I'm working part-time at [Sparkbox](https://seesparkbox.com/), building web applications. I do little bit of everything but recently I've spent a lot of time working in PHP and Javascript.
 
-I commute 14 miles each day by bicycle, and I recently started listening to audiobooks during my ride. I'm trying some biographies right now, which is kind of new for me.
+The rest of my time is spent working on [Gridmaster](https://gridmaster.io), which is [an Excel addin for learning Excel](https://gridmaster.io/). It's a real, income-producing business and I'm trying to figure out how to grow it. Right now I'm focusing my efforts on marketing.
 
 ## At Home
 
-Most of my personal time is spent working on [Gridmaster](https://gridmaster.io), which is [an Excel addin for learning Excel](https://gridmaster.io/). It's a real, income-producing business. I'm trying to figure out how to grow it.
+I commute 14 miles each day by bicycle, and I recently started listening to audiobooks during my ride. I'm trying some biographies right now, which is kind of new for me.
 
 I'm serving as an Assistant Scoutmaster and I work with the 12-13 year old boys at church. Sundays I spend all day with my family.
 
