@@ -21,4 +21,4 @@ I'm serving as an Assistant Scoutmaster and I work with the 12-13 year old boys 
 
 _This page was inspired by Derek Sivers and [his /now page](https://sivers.org/now)._
 
-_This page was last updated: June 9th, 2018_
+_This page was last updated: September 7th, 2018_

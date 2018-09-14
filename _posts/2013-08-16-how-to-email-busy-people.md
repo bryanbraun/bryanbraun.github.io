@@ -1,7 +1,10 @@
 ---
-layout: post
 title: "How to Email Busy People"
 date: 2013-08-16 07:00:06
+related: [
+  "Just Ask",
+  "How to ask for help"
+]
 ---
 
 <p class="p1">
@@ -47,29 +50,29 @@ date: 2013-08-16 07:00:06
 </p>
 
 <p class="p1">
-  Now that we know what to do, let's write an example email using these principles.:
+  Now that we know what to do, let's write an example email using these principles:
 </p>
 
 > <p class="p1">
 >   <em>To:</em> Brad Doe <brad.doe@company.com>
 > </p>
-> 
+>
 > <p class="p1">
 >   <em>Title:</em> Brad, awesome job at SXSW
 > </p>
-> 
+>
 > <p class="p1">
 >   Brad,
 > </p>
-> 
+>
 > <p class="p1">
 >   I <a href="https://twitter.com/BryanEBraun/status/368371088771665920" target="_blank" title="It's an example tweet. Not my best work.">really enjoyed</a> your SXSW talk (I was the guy in the front row with the yellow shirt and bow-tie). My team and I are interested in doing more research about a topic you discussed, internet connectivity via low orbit satellites. <strong>Could you point me to any good resources where I could learn more?</strong> Maybe there's a subject matter expert you know who I could talk to?
 > </p>
-> 
+>
 > <p class="p1">
 >   Thanks, and keep rocking it!
 > </p>
-> 
+>
 > <p class="p1">
 >   Bryan
 > </p>
