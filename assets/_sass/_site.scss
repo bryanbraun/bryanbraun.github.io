@@ -243,6 +243,13 @@ hr {
 .article-content img {
   padding: 2rem 0;
 }
+.article-content figure > img {
+  padding: 1rem 0;
+}
+.article-content figcaption {
+  padding-bottom: 1rem;
+}
+
 .article-footer {
 }
 .edit-link-wrapper {
