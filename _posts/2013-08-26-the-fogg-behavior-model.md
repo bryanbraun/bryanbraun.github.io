@@ -53,5 +53,5 @@ date: 2013-08-26 06:54:31
 </p>
 
 <p class="p1">
-  <small>This rough overview is just scratching the surface. To learn more about the Fogg Behavior model, check out <a href="http://www.behaviormodel.org/" target="_blank" title="Fogg Behavior Model">behaviormodel.org</a></small>
+  <small>This rough overview is just scratching the surface. To learn more about the Fogg Behavior model, check out <a href="http://www.behaviormodel.org/" target="_blank" rel="noopener noreferrer" title="Fogg Behavior Model">behaviormodel.org</a></small>
 </p>

@@ -14,9 +14,9 @@ But sometimes it would be nice to provide a way for the content creators themsel
   (...personally, I like option 2)
 </p>
 
-You could probably do this with <a href="http://drupal.org/project/panels" target="_blank" title="Panels">Panels</a> or <a href="http://drupal.org/project/ds" target="_blank" title="Display Suite">Display Suite</a>, but those tools may be overwhelming for content creators. You could do custom development by adding some fields and custom logic, but it takes some Drupal development chops, and if you aren't careful, you'll end up with code spread across modules and themes, or dependencies on configuration that may or may not be in version control.
+You could probably do this with <a href="http://drupal.org/project/panels" target="_blank" rel="noopener noreferrer" title="Panels">Panels</a> or <a href="http://drupal.org/project/ds" target="_blank" rel="noopener noreferrer" title="Display Suite">Display Suite</a>, but those tools may be overwhelming for content creators. You could do custom development by adding some fields and custom logic, but it takes some Drupal development chops, and if you aren't careful, you'll end up with code spread across modules and themes, or dependencies on configuration that may or may not be in version control.
 
-Enter <a href="http://drupal.org/project/template-picker" target="_blank" title="Template Picker">Template Picker</a>.
+Enter <a href="http://drupal.org/project/template-picker" target="_blank" rel="noopener noreferrer" title="Template Picker">Template Picker</a>.
 
 I built Template Picker to give content creators a choice over which template to use for a piece of content, using a simple select box (shown in the image below, on the right). The box contains a "default" option, which uses the standard template suggestion, or you can add additional options by naming your new templates (shown below, on the left) according the the template picker naming convention: **node--content-type--tp*.tpl.php**.
 

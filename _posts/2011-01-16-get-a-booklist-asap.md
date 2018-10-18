@@ -21,10 +21,10 @@ That's why I like to keep a running booklist. Mine started with the Engineering 
 
 After all, Emmerson said: "I cannot remember the books I've read any more than the meals I have eaten; even so, they have made me." I read while I eat breakfast, so I get to check both boxes at the same time.
 
-You can start your book list today and it only takes 15 seconds. Try this experiment. Go on <a href="http://www.facebook.com" target="_blank" title="Facebook">facebook</a> and for your status, ask the question: What are some good books to read?
+You can start your book list today and it only takes 15 seconds. Try this experiment. Go on <a href="http://www.facebook.com" target="_blank" rel="noopener noreferrer" title="Facebook">facebook</a> and for your status, ask the question: What are some good books to read?
 
 Just do it and see what happens!
 
-Then write them all down. It doesn't matter if it is fiction or non-fiction. You could also get some ideas from the <a href="http://www.nytimes.com/best-sellers-books/overview.html" target="_blank" title="New York Times Bestsellers">New York Times Bestsellers list</a>, the <a href="http://artofmanliness.com/2008/05/14/100-must-read-books-the-essential-mans-library/" target="_blank" title="The Essential Man's Library">Essential Man's Library</a>, or <a href="http://www.amazon.com/gp/bestsellers/books" target="_blank" title="amazon.com bestsellers">the amazon.com bestsellers list</a>. Start today! You never know how it will affect you, and life is too short to put it off 'till later. Once you get started, you won't be the same again.
+Then write them all down. It doesn't matter if it is fiction or non-fiction. You could also get some ideas from the <a href="http://www.nytimes.com/best-sellers-books/overview.html" target="_blank" rel="noopener noreferrer" title="New York Times Bestsellers">New York Times Bestsellers list</a>, the <a href="http://artofmanliness.com/2008/05/14/100-must-read-books-the-essential-mans-library/" target="_blank" rel="noopener noreferrer" title="The Essential Man's Library">Essential Man's Library</a>, or <a href="http://www.amazon.com/gp/bestsellers/books" target="_blank" rel="noopener noreferrer" title="amazon.com bestsellers">the amazon.com bestsellers list</a>. Start today! You never know how it will affect you, and life is too short to put it off 'till later. Once you get started, you won't be the same again.
 
 And that's a good thing.

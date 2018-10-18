@@ -44,7 +44,7 @@ Design-wise, the answer was always "something simple." Basic. Clean. As I contin
 
  [2]: http://nicolasgallagher.com/about/
 
-... and others like the blogs for <a href="http://lucumr.pocoo.org/" target="_blank">Armin Ronacher</a>, <a href="http://bclennox.com/" target="_blank">Brandan Lennox</a>, <a href="http://wynnnetherland.com/archives" target="_blank">Wynn Netherland</a>, <a href="http://daneden.me/blog/" target="_blank">Daniel Eden</a>, <a href="http://opensoul.org/" target="_blank">Brandon Keepers</a>, <a href="http://frankchimero.com/blog/" target="_blank">Frank Chimero</a>, and <a href="http://geoff.greer.fm/" target="_blank">Geoff Greer</a>.
+... and others like the blogs for <a href="http://lucumr.pocoo.org/" target="_blank" rel="noopener noreferrer">Armin Ronacher</a>, <a href="http://bclennox.com/" target="_blank" rel="noopener noreferrer">Brandan Lennox</a>, <a href="http://wynnnetherland.com/archives" target="_blank" rel="noopener noreferrer">Wynn Netherland</a>, <a href="http://daneden.me/blog/" target="_blank" rel="noopener noreferrer">Daniel Eden</a>, <a href="http://opensoul.org/" target="_blank" rel="noopener noreferrer">Brandon Keepers</a>, <a href="http://frankchimero.com/blog/" target="_blank" rel="noopener noreferrer">Frank Chimero</a>, and <a href="http://geoff.greer.fm/" target="_blank" rel="noopener noreferrer">Geoff Greer</a>.
 
 After checking out those designs and being sufficiently inspired, I brought my favorite attributes from all of them into Writer. Some of those attributes were:
 
@@ -58,9 +58,9 @@ After checking out those designs and being sufficiently inspired, I brought my f
 
 On a design this simple, the typography is extremely important. This theme uses three fantastic fonts:
 
-*   <a href="http://www.google.com/webfonts/specimen/Merriweather" target="_blank">Merriweather</a> - slab serif (titles and body text), by <a href="https://plus.google.com/106288796449831139244" target="_blank">Eben Sorkin</a>
-*   <a href="http://www.google.com/webfonts/specimen/Lato" target="_blank">Lato</a> - sans serif (header, footer, and dates), by <a href="https://plus.google.com/106163021290874968147" target="_blank">Lukasz Dziedzic</a>
-*   <a href="http://www.google.com/webfonts/specimen/Inconsolata" target="_blank">Inconsolata</a> - monospace (code snippets), by <a href="http://levien.com" target="_blank">Raph Levien</a>
+*   <a href="http://www.google.com/webfonts/specimen/Merriweather" target="_blank" rel="noopener noreferrer">Merriweather</a> - slab serif (titles and body text), by <a href="https://plus.google.com/106288796449831139244" target="_blank" rel="noopener noreferrer">Eben Sorkin</a>
+*   <a href="http://www.google.com/webfonts/specimen/Lato" target="_blank" rel="noopener noreferrer">Lato</a> - sans serif (header, footer, and dates), by <a href="https://plus.google.com/106163021290874968147" target="_blank" rel="noopener noreferrer">Lukasz Dziedzic</a>
+*   <a href="http://www.google.com/webfonts/specimen/Inconsolata" target="_blank" rel="noopener noreferrer">Inconsolata</a> - monospace (code snippets), by <a href="http://levien.com" target="_blank" rel="noopener noreferrer">Raph Levien</a>
 
 These fonts are all hosted by Google Fonts and it's almost embarrassing how much time I put into finding and selecting them. Huge thanks to these font builders who chose to share their craft free of charge. I'm really pleased with the result.
 
@@ -86,6 +86,6 @@ That's all there is to it.
 
 ## A higher purpose.
 
-There are <a href="http://www.garfieldtech.com" target="_blank">many</a> <a href="http://www.davereid.net/taxonomy/term/6/0" target="_blank">great</a> <a href="http://www.dave-cohen.com/node" target="_blank">Drupal</a> <a href="http://ca.tchpole.net/" target="_blank">developers</a> who continue to use Garland or Bartik (the default Drupal themes) as the theme for their blog. These themes are fine but they were never designed to be used for a blog (not to mention that some would say their overuse has made them tacky). I don't blame them too much... their alternative options are <a href="http://drupal.org/files/images/Screenshot%202009-04-25%2010h%2024m%2037s.png" target="_blank">often bleak</a>. Sometimes when I browse themes at Drupal.org, I feel like I'm browsing the web in 1994.
+There are <a href="http://www.garfieldtech.com" target="_blank" rel="noopener noreferrer">many</a> <a href="http://www.davereid.net/taxonomy/term/6/0" target="_blank" rel="noopener noreferrer">great</a> <a href="http://www.dave-cohen.com/node" target="_blank" rel="noopener noreferrer">Drupal</a> <a href="http://ca.tchpole.net/" target="_blank" rel="noopener noreferrer">developers</a> who continue to use Garland or Bartik (the default Drupal themes) as the theme for their blog. These themes are fine but they were never designed to be used for a blog (not to mention that some would say their overuse has made them tacky). I don't blame them too much... their alternative options are <a href="http://drupal.org/files/images/Screenshot%202009-04-25%2010h%2024m%2037s.png" target="_blank" rel="noopener noreferrer">often bleak</a>. Sometimes when I browse themes at Drupal.org, I feel like I'm browsing the web in 1994.
 
 We developers deserve better.

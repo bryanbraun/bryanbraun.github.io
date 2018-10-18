@@ -9,7 +9,7 @@ date: 2013-09-19 18:54:17
 </p>
 
 <p class="p1">
-  There are tradeoffs for each choice, so while some have said that exposing customizable features is lazy and irresponsible, I'd argue that it really depends on your audience. <a href="http://en.wikipedia.org/wiki/Raspberry_Pi" target="_blank" title="Raspberry Pi">Raspberry Pi</a> isn't "smart" because it isn't designed to serve a specific use case. That's intentional, and it's a model that works fantastic for it's audience. 
+  There are tradeoffs for each choice, so while some have said that exposing customizable features is lazy and irresponsible, I'd argue that it really depends on your audience. <a href="http://en.wikipedia.org/wiki/Raspberry_Pi" target="_blank" rel="noopener noreferrer" title="Raspberry Pi">Raspberry Pi</a> isn't "smart" because it isn't designed to serve a specific use case. That's intentional, and it's a model that works fantastic for it's audience. 
 </p>
 
 <p class="p1">

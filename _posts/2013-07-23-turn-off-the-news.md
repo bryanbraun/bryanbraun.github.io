@@ -13,7 +13,7 @@ date: 2013-07-23 06:38:33
 </p>
 
 <p class="p1">
-  Very little. I'm sure that these things influenced me in various ways. I may have picked up a vocab word here or there. But how does knowing the summer 2012 Romney vs Obama popularity polls, or the latest results from the monthly jobs report actually benefit me? Do I actually <i>need</i> to watch the Olympics, or the Superbowl commercials, or the Grammys? Do I need to know <a href="http://www.cnn.com/2013/07/22/world/europe/uk-royal-baby" target="_blank" title="It's a boy.">the gender of the royal baby</a> the instant it is public information, or can I wait 60 years until he's a political figure?
+  Very little. I'm sure that these things influenced me in various ways. I may have picked up a vocab word here or there. But how does knowing the summer 2012 Romney vs Obama popularity polls, or the latest results from the monthly jobs report actually benefit me? Do I actually <i>need</i> to watch the Olympics, or the Superbowl commercials, or the Grammys? Do I need to know <a href="http://www.cnn.com/2013/07/22/world/europe/uk-royal-baby" target="_blank" rel="noopener noreferrer" title="It's a boy.">the gender of the royal baby</a> the instant it is public information, or can I wait 60 years until he's a political figure?
 </p>
 
 <p class="p1">

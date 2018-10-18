@@ -4,7 +4,7 @@ title: "White Screen of Death"
 date: 2013-03-30 20:37:24
 ---
 
-I remember the first time I got a "<a href="http://drupal.org/node/158043" target="_blank" title="White Screen of Death, as described on Drupal.org">White Screen of Death</a>" distinctly. I was migrating my personal site over to Drupal from Wordpress. I don't exactly remember where I went wrong, but all of a sudden I saw it. A wall of blinding white light void of meaning. Such sterile, hollow, emptiness.
+I remember the first time I got a "<a href="http://drupal.org/node/158043" target="_blank" rel="noopener noreferrer" title="White Screen of Death, as described on Drupal.org">White Screen of Death</a>" distinctly. I was migrating my personal site over to Drupal from Wordpress. I don't exactly remember where I went wrong, but all of a sudden I saw it. A wall of blinding white light void of meaning. Such sterile, hollow, emptiness.
 
 <p style="text-align: center;">
   <img alt="" src="/assets/images/drupal-white-screen-of-death.png" style="width: 760px; height: 565px; border: 1px solid rgb(235, 235, 235);" title="The White Screen of Death" />
@@ -23,5 +23,5 @@ I remember the first time I got a "<a href="http://drupal.org/node/158043" targe
 </p>
 
 <p class="p1">
-  To the brand new Drupal Developer, the White Screen of Death is <a href="http://drupal.org/node/499290" target="_blank" title="Case in point: the comment with the title 'WSOD is almost literally killing me...'">absolutely devastating</a>. I don't know how, but there has got to be a way to prevent it. But only if we are willing to reject the status quo.
+  To the brand new Drupal Developer, the White Screen of Death is <a href="http://drupal.org/node/499290" target="_blank" rel="noopener noreferrer" title="Case in point: the comment with the title 'WSOD is almost literally killing me...'">absolutely devastating</a>. I don't know how, but there has got to be a way to prevent it. But only if we are willing to reject the status quo.
 </p>

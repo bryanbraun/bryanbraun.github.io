@@ -11,7 +11,7 @@ A second similar image was taken from the Telescope in late 2003. With improved 
 
 [<img alt="hubble ultra deep field" src="/assets/images/hubble-ultra-deep-field.jpg" />][1]
 
-<a href="http://upload.wikimedia.org/wikipedia/commons/0/0d/Hubble_ultra_deep_field_high_rez_edit1.jpg" target="_blank" title="Hubble Deep Field">Link to the full resolution photo (18 Mb)</a>
+<a href="http://upload.wikimedia.org/wikipedia/commons/0/0d/Hubble_ultra_deep_field_high_rez_edit1.jpg" target="_blank" rel="noopener noreferrer" title="Hubble Deep Field">Link to the full resolution photo (18 Mb)</a>
 
  [1]: /assets/images/hubble-ultra-deep-field.jpg
 
@@ -27,4 +27,4 @@ It is humbling to know that all of that is out there. And still, we believe that
 
 If nothing else, we should take this as an opportunity to realize that the grudges we hold, the prejudices we keep, and the pains we feel are really less important than we consider them to be.
 
-<small><a href="http://www.youtube.com/watch?v=fgg2tpUVbXQ" target="_blank" title="Hubble Deep Field Images">See an incredible video explaining the story of the Hubble Deep Field images</a><br /><a href="http://en.wikipedia.org/wiki/Hubble_deep_field" target="_blank" title="Hubble Deep Field Wikipedia">Wikipedia: Hubble Deep Field</a><br /><a href="http://en.wikipedia.org/wiki/Hubble_Ultra_Deep_Field" target="_blank" title="Hubble Ultra Deep Field">Wikipedia: Hubble Ultra Deep Field</a></small>
+<small><a href="http://www.youtube.com/watch?v=fgg2tpUVbXQ" target="_blank" rel="noopener noreferrer" title="Hubble Deep Field Images">See an incredible video explaining the story of the Hubble Deep Field images</a><br /><a href="http://en.wikipedia.org/wiki/Hubble_deep_field" target="_blank" rel="noopener noreferrer" title="Hubble Deep Field Wikipedia">Wikipedia: Hubble Deep Field</a><br /><a href="http://en.wikipedia.org/wiki/Hubble_Ultra_Deep_Field" target="_blank" rel="noopener noreferrer" title="Hubble Ultra Deep Field">Wikipedia: Hubble Ultra Deep Field</a></small>

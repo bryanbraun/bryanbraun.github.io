@@ -10,7 +10,7 @@ Think about it. Is that really justified? 
 
 Is it so wrong that his wisdom and prudence in spending is suddenly unpopular in the holiday season? Is it so wrong that he suffers personal discomfort in an attempt to conserve scarce resources like fuel for his lamps and coal for his fire?
 
-According to <a href="http://en.wikipedia.org/wiki/Steven_Landsburg" target="_blank" title="Steven Landsburg">economist Steven Landsburg</a>, the anwer is NO! Here is an exerpt from an awesome article he wrote about our good old friend Ebenezer Scrooge:
+According to <a href="http://en.wikipedia.org/wiki/Steven_Landsburg" target="_blank" rel="noopener noreferrer" title="Steven Landsburg">economist Steven Landsburg</a>, the anwer is NO! Here is an exerpt from an awesome article he wrote about our good old friend Ebenezer Scrooge:
 
 > Here's what I like about Ebenezer Scrooge: His meager lodgings were dark because darkness is cheap, and barely heated because coal is not free. His dinner was gruel, which he prepared himself. Scrooge paid no man to wait on him. Scrooge has been called ungenerous. I say that's a bum rap...
 > 
@@ -18,6 +18,6 @@ According to <a href="http://en.wikipedia.org/wiki/Steven_Landsburg" target="_bl
 
 Check out the link for the rest of the article: 
 
-<a href="http://www.slate.com/articles/life/holidays/2004/12/what_i_like_about_scrooge.single.html" target="_blank" title="What it doesn't address, however, is whether Scrooge or the Grinch would win in a cage fight. Jury's out on this one.">http://www.slate.com/articles/life/holidays/2004/12/what_i_like_ab...</a>
+<a href="http://www.slate.com/articles/life/holidays/2004/12/what_i_like_about_scrooge.single.html" target="_blank" rel="noopener noreferrer" title="What it doesn't address, however, is whether Scrooge or the Grinch would win in a cage fight. Jury's out on this one.">http://www.slate.com/articles/life/holidays/2004/12/what_i_like_ab...</a>
 
 Merry Christmas, everyone.

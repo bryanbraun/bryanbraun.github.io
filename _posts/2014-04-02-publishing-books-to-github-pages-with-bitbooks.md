@@ -87,7 +87,7 @@ So, in the spirit of open source, I'll be releasing the static site framework th
   <img alt="" src="/assets/images/franklin_0.png" />
 </p>
 
-If [Octopress][12] is a static site framework, optimized for blogs, then Franklin will be a static site framework optimized for books. I'll have more details coming soon, so <a href="http://eepurl.com/ROwbb" target="_blank">subscribe here</a> if you want to stay in the loop.
+If [Octopress][12] is a static site framework, optimized for blogs, then Franklin will be a static site framework optimized for books. I'll have more details coming soon, so <a href="http://eepurl.com/ROwbb" target="_blank" rel="noopener noreferrer">subscribe here</a> if you want to stay in the loop.
 
 [12]: http://octopress.org/
 
@@ -100,6 +100,6 @@ I don't believe in [The Big Reveal][13], and that's why I'm talking about this n
 
 If you're still reading then you probably have some interest in a project like this, so in closing, I have a favor to ask of you: **Tell me what you think**
 
-Would you use something like this? Is it missing something? [Shoot me an email][14], and help me know if I'm on the right track. You could also <a href="https://twitter.com/share?text=%40BryanEBraun%2C%20&url=" target="_blank">tweet at me</a> or leave comments below. However you do it, just say what you're thinking. The more good feedback I get on where this ought to go, the better it will turn out.
+Would you use something like this? Is it missing something? [Shoot me an email][14], and help me know if I'm on the right track. You could also <a href="https://twitter.com/share?text=%40BryanEBraun%2C%20&url=" target="_blank" rel="noopener noreferrer">tweet at me</a> or leave comments below. However you do it, just say what you're thinking. The more good feedback I get on where this ought to go, the better it will turn out.
 
 And with that, I'll get back to work. With the right tools in place, I believe we can kick off a whole new series of great books and documentation to the benefit of our various technical communities. Let's build something cool, together.

@@ -9,7 +9,7 @@ date: 2013-06-20 07:03:30
 </p>
 
 <p class="p1">
-  And as we do so, we fall victim to a classic psychological folly known as '<a href="http://en.wikipedia.org/wiki/Fundamental_attribution_error" target="_blank" title="More specifically, I'm talking about the actor-observer bias aspect of fundamental attribution error.">fundamental attribution error</a>'. As we build narratives in our minds for why things happen, <b>we attribute the failures of others to their nature, but we attribute our own failures to our circumstance</b>. It's a part of the stream of justifications we make to soothe our fragile self-image. It's a human psychological pattern that crops up again and again.
+  And as we do so, we fall victim to a classic psychological folly known as '<a href="http://en.wikipedia.org/wiki/Fundamental_attribution_error" target="_blank" rel="noopener noreferrer" title="More specifically, I'm talking about the actor-observer bias aspect of fundamental attribution error.">fundamental attribution error</a>'. As we build narratives in our minds for why things happen, <b>we attribute the failures of others to their nature, but we attribute our own failures to our circumstance</b>. It's a part of the stream of justifications we make to soothe our fragile self-image. It's a human psychological pattern that crops up again and again.
 </p>
 
 <p class="p1">

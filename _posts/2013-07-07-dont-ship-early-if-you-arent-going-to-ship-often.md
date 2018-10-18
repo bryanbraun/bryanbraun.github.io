@@ -5,7 +5,7 @@ date: 2013-07-07 05:54:07
 ---
 
 <p class="p1">
-  The funny thing about "<a href="http://ma.tt/2010/11/one-point-oh/" target="_blank" title="The topic has been discussed in a lot of ways, but this is a good overview post">ship early, ship often</a>"...
+  The funny thing about "<a href="http://ma.tt/2010/11/one-point-oh/" target="_blank" rel="noopener noreferrer" title="The topic has been discussed in a lot of ways, but this is a good overview post">ship early, ship often</a>"...
 </p>
 
 <p class="p2">
@@ -17,5 +17,5 @@ date: 2013-07-07 05:54:07
 </p>
 
 <p class="p1">
-  So yes, ship. <a href="http://www.busybuildingthings.com/products/real-artists-ship-print" target="_blank" title="Real artists ship">Please ship</a>! But, if you are planning on shipping early, <a href="https://www.lds.org/scriptures/nt/luke/14.28?lang=eng#27"><span class="s1">count the cost</span></a> and make sure your committed to shipping often. If you aren't committed to shipping often, then finish the job now. Do a clean launch and move on.
+  So yes, ship. <a href="http://www.busybuildingthings.com/products/real-artists-ship-print" target="_blank" rel="noopener noreferrer" title="Real artists ship">Please ship</a>! But, if you are planning on shipping early, <a href="https://www.lds.org/scriptures/nt/luke/14.28?lang=eng#27"><span class="s1">count the cost</span></a> and make sure your committed to shipping often. If you aren't committed to shipping often, then finish the job now. Do a clean launch and move on.
 </p>

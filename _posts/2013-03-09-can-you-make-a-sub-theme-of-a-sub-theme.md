@@ -4,7 +4,7 @@ title: "Can you make a sub-theme of a sub-theme?"
 date: 2013-03-09 22:31:02
 ---
 
-Drupal has this concept of "sub-themes" where you can take an existing Drupal theme and override it in a clean way. How does it work? Well, instead of altering the original theme files, you create new theme files that are automatically discovered and called in the place of the original ones. This allows you to continue using the original theme (and keep it easy to upgrade) while adding stylistic customizations of your own. For more details, checkout this <a href="http://drupal.org/node/225125" target="_blank" title="Creating a sub-theme">explanation on how Drupal sub-themes work</a>.
+Drupal has this concept of "sub-themes" where you can take an existing Drupal theme and override it in a clean way. How does it work? Well, instead of altering the original theme files, you create new theme files that are automatically discovered and called in the place of the original ones. This allows you to continue using the original theme (and keep it easy to upgrade) while adding stylistic customizations of your own. For more details, checkout this <a href="http://drupal.org/node/225125" target="_blank" rel="noopener noreferrer" title="Creating a sub-theme">explanation on how Drupal sub-themes work</a>.
 
 So, can you make a sub-theme of a sub-theme?
 

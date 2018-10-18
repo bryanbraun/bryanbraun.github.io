@@ -9,7 +9,7 @@ At this risk of this only being funny to a few, I decided to share it anyway. Bu
 Here at Brigham Young University, there is a culture of dating that is unparalleled by anywhere else in the world. I don't know all the reasons why it is... but it certainly is. And with everybody trying their best to impress that special someone, there are a few patterns that are easily recognizable to the observing bystander. And this is what they are:
 
 1.  Every girl finds one excuse after another to cook delicious treats or meals for that boy they adore, demonstrating just how domestically fabulous they are.
-2.  Every guy teaches himself just enough guitar to be able to play "<a href="http://www.youtube.com/watch?v=EbJtYqBYCV8" target="_blank" title="Hey There Delilah - YouTube">Hey there Delilah</a>" and watch that lovely lady just melt into a pile of swooning admiration.
+2.  Every guy teaches himself just enough guitar to be able to play "<a href="http://www.youtube.com/watch?v=EbJtYqBYCV8" target="_blank" rel="noopener noreferrer" title="Hey There Delilah - YouTube">Hey there Delilah</a>" and watch that lovely lady just melt into a pile of swooning admiration.
 
 It makes sense right? The most direct pathway to a man's heart is through his stomach. And nothing says, "I'm sensitive" quite like the line "Times Square can't shine as bright as you... I swear it's true." Now don't get me wrong, the song is great! And so is free food. But if you are a BYU student and you were planning on pulling one of these stunts, then just forget about it... the novelty has already worn thin.
 
@@ -56,5 +56,5 @@ And that is why this amazing Parody was written (appropriately to the tune of He
  
 
 <p style="text-align: center;">
-  Source: <a href="http://theboard.byu.edu/aliases/7769/" target="_blank">Phaedrus</a>, at <a href="http://theboard.byu.edu/questions/65922/" target="_blank" title="Questions about girls... Questions about guys">the 100 hour board</a>
+  Source: <a href="http://theboard.byu.edu/aliases/7769/" target="_blank" rel="noopener noreferrer">Phaedrus</a>, at <a href="http://theboard.byu.edu/questions/65922/" target="_blank" rel="noopener noreferrer" title="Questions about girls... Questions about guys">the 100 hour board</a>
 </p>

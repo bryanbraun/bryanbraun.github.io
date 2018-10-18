@@ -8,7 +8,7 @@ I am an adult but it wasn't long ago that I was a child. Now I am a father, and 
 
 ### Adult development is static
 
-It always seemed to me that kids were the only ones growing. I now know that adults grow too. The difference is that kids are forced to grow, as their bodies change and their responsibilities expand. Adults must choose to grow, by <a href="http://sivers.org/comfort" target="_blank" title="Hands down, my favorite blog post ever.">intentionally placing themselves in situations outside their comfort zone</a>. For the adults that make that choice, they can look forward to a lifetime of growth.
+It always seemed to me that kids were the only ones growing. I now know that adults grow too. The difference is that kids are forced to grow, as their bodies change and their responsibilities expand. Adults must choose to grow, by <a href="http://sivers.org/comfort" target="_blank" rel="noopener noreferrer" title="Hands down, my favorite blog post ever.">intentionally placing themselves in situations outside their comfort zone</a>. For the adults that make that choice, they can look forward to a lifetime of growth.
 
 ### Adults are patient
 
@@ -20,7 +20,7 @@ This is the biggest lie of them all. An adult's lack of self-control doesn't usu
 
 ### Hypocrites
 
-All in all it seems that parents tend to be hypocrites… scolding their children for the very behaviors they fail to correct in themselves. Christ had several teachings around this topic (he had a way of calling out hypocrites). He called the pharisees "whited sepulchers" who looked respectable on the outside, but on the inside were filled with "dead men's bones" <a href="http://www.lds.org/scriptures/nt/matt/23.27?lang=eng" target="_blank" title="The whole chapter is filled with slams like this one. A great read.">[1]</a>. He commanded them to clean the inner vessel first <a href="http://www.lds.org/scriptures/nt/matt/23.25-26?lang=eng" target="_blank" title="This place uses the word 'cup' but I think it's called a 'vessel' in one of the other gospels">[2]</a>, and to cast the beam out of their own eye, before searching for motes in the eyes of others <a href="https://www.lds.org/scriptures/nt/matt/7.3-5?lang=eng" target="_blank">[3]</a>. These teachings take on new meanings when applied to the parent reproving a child.
+All in all it seems that parents tend to be hypocrites… scolding their children for the very behaviors they fail to correct in themselves. Christ had several teachings around this topic (he had a way of calling out hypocrites). He called the pharisees "whited sepulchers" who looked respectable on the outside, but on the inside were filled with "dead men's bones" <a href="http://www.lds.org/scriptures/nt/matt/23.27?lang=eng" target="_blank" rel="noopener noreferrer" title="The whole chapter is filled with slams like this one. A great read.">[1]</a>. He commanded them to clean the inner vessel first <a href="http://www.lds.org/scriptures/nt/matt/23.25-26?lang=eng" target="_blank" rel="noopener noreferrer" title="This place uses the word 'cup' but I think it's called a 'vessel' in one of the other gospels">[2]</a>, and to cast the beam out of their own eye, before searching for motes in the eyes of others <a href="https://www.lds.org/scriptures/nt/matt/7.3-5?lang=eng" target="_blank" rel="noopener noreferrer">[3]</a>. These teachings take on new meanings when applied to the parent reproving a child.
 
 However, a few of my childhood assumptions were actually correct. I'll leave you with just one.
 

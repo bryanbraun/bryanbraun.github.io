@@ -27,7 +27,7 @@ date: 2013-10-12 08:39:04
 ## Enter Anki
 
 <p class="p1">
-  <img alt="" src="/assets/images/anki_kl.png" style="float: right;" /><a href="http://ankisrs.net/" target="_blank">Anki</a> is an open-source spaced-repetition tool that you can use to make learning Drupal less random and more efficient. There are other tools out there (paid and unpaid), but I've been using Anki because it syncs across devices and it's free. There's a <a href="https://ankiweb.net/" target="_blank">web version</a>, and <a href="http://ankisrs.net/#download" target="_blank">desktop version</a>, as well as apps for <a href="https://play.google.com/store/apps/details?id=com.ichi2.anki" target="_blank">Android</a> and <a href="https://itunes.apple.com/us/app/ankisrs/id373493387?mt=8" target="_blank">iOS</a>.
+  <img alt="" src="/assets/images/anki_kl.png" style="float: right;" /><a href="http://ankisrs.net/" target="_blank" rel="noopener noreferrer">Anki</a> is an open-source spaced-repetition tool that you can use to make learning Drupal less random and more efficient. There are other tools out there (paid and unpaid), but I've been using Anki because it syncs across devices and it's free. There's a <a href="https://ankiweb.net/" target="_blank" rel="noopener noreferrer">web version</a>, and <a href="http://ankisrs.net/#download" target="_blank" rel="noopener noreferrer">desktop version</a>, as well as apps for <a href="https://play.google.com/store/apps/details?id=com.ichi2.anki" target="_blank" rel="noopener noreferrer">Android</a> and <a href="https://itunes.apple.com/us/app/ankisrs/id373493387?mt=8" target="_blank" rel="noopener noreferrer">iOS</a>.
 </p>
 
 ## How it works
@@ -57,13 +57,13 @@ date: 2013-10-12 08:39:04
 </p>
 
 <p class="p1">
-  As you can see, the lengths of time on this card are pretty long (4.6 months, if the question was easy). That's because I've answered this question many times before. When a card is first created, reminders happen often because the knowledge is fresh and more likely to be forgotten without frequent reminders. Reminders decrease in frequency over time, and adjust as Anki learns which cards are easy or difficult for you (according to <a href="http://ankisrs.net/docs/manual.html#_what_spaced_repetition_algorithm_does_anki_use" target="_blank"><span class="s1">its learning algorithm</span></a>).
+  As you can see, the lengths of time on this card are pretty long (4.6 months, if the question was easy). That's because I've answered this question many times before. When a card is first created, reminders happen often because the knowledge is fresh and more likely to be forgotten without frequent reminders. Reminders decrease in frequency over time, and adjust as Anki learns which cards are easy or difficult for you (according to <a href="http://ankisrs.net/docs/manual.html#_what_spaced_repetition_algorithm_does_anki_use" target="_blank" rel="noopener noreferrer"><span class="s1">its learning algorithm</span></a>).
 </p>
 
 ## Using this to learn Drupal
 
 <p class="p1">
-  Lets be honest, you can't completely learn Drupal just by answering flashcards. You need to be working on a Drupal instance, trying to build stuff with it, in order to get any kind of comprehensive understanding. But the Janki method shines at taking those discrete pieces of knowledge that you come across in the process, and ensuring that you remember them. That means fewer Google searches, less trips to api.drupal.org, and less <a href="http://www.bryanbraun.com/2012/06/25/multitasking-and-context-switching"><span class="s1">context switching</span></a>. If you've ever secretly wondered whether you were really a good Drupal developer, or <a href="http://www.hanselman.com/blog/AmIReallyADeveloperOrJustAGoodGoogler.aspx" target="_blank"><span class="s1">just a good "Googler"</span></a>, then the Janki method is one way to help you become the former.
+  Lets be honest, you can't completely learn Drupal just by answering flashcards. You need to be working on a Drupal instance, trying to build stuff with it, in order to get any kind of comprehensive understanding. But the Janki method shines at taking those discrete pieces of knowledge that you come across in the process, and ensuring that you remember them. That means fewer Google searches, less trips to api.drupal.org, and less <a href="http://www.bryanbraun.com/2012/06/25/multitasking-and-context-switching"><span class="s1">context switching</span></a>. If you've ever secretly wondered whether you were really a good Drupal developer, or <a href="http://www.hanselman.com/blog/AmIReallyADeveloperOrJustAGoodGoogler.aspx" target="_blank" rel="noopener noreferrer"><span class="s1">just a good "Googler"</span></a>, then the Janki method is one way to help you become the former.
 </p>
 
 <p class="p1">

@@ -17,7 +17,7 @@ date: 2013-08-17 12:47:48
 </p>
 
 <p class="p1">
-  hook_form_alter() fires on all Drupal forms (the big circle). With hook_form_BASE_FORM_ID_alter(), you can restrict it to firing on a subset of forms (one of the smaller circles), which can save Drupal some processing. (to get even more specific, you could target a single form by using <a href="https://api.drupal.org/api/drupal/modules!system!system.api.php/function/hook_form_FORM_ID_alter/7" target="_blank" title="Drupal API: hook_form_FORM_ID_alter()">hook_form_FORM_ID_alter(),</a> but I'll leave that discussion for another day).
+  hook_form_alter() fires on all Drupal forms (the big circle). With hook_form_BASE_FORM_ID_alter(), you can restrict it to firing on a subset of forms (one of the smaller circles), which can save Drupal some processing. (to get even more specific, you could target a single form by using <a href="https://api.drupal.org/api/drupal/modules!system!system.api.php/function/hook_form_FORM_ID_alter/7" target="_blank" rel="noopener noreferrer" title="Drupal API: hook_form_FORM_ID_alter()">hook_form_FORM_ID_alter(),</a> but I'll leave that discussion for another day).
 </p>
 
 <p class="p1">

@@ -9,7 +9,7 @@ date: 2013-07-12 16:16:05
 </p>
 
 <p class="p1">
-  Every unfamiliar situation could bring threats. Every <a href="http://bryanbraun.com/2012/02/26/be-bold" target="_blank" title="Be Bold">bold</a> choice could bring unintended consequences. With every major decision you make, you are inevitably restricting your future opportunities.
+  Every unfamiliar situation could bring threats. Every <a href="http://bryanbraun.com/2012/02/26/be-bold" target="_blank" rel="noopener noreferrer" title="Be Bold">bold</a> choice could bring unintended consequences. With every major decision you make, you are inevitably restricting your future opportunities.
 </p>
 
 <p class="p1">

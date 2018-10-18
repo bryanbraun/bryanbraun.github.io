@@ -30,7 +30,7 @@ There are several ways to trigger a transition. The most common way is with the 
 *   device orientation
 *   class changes (Triggered via javascript)
 
-<small>(By the way, <a href="http://www.impressivewebs.com/css3-transitions-without-hover/" target="_blank" title="CSS3 Transitions without :hover">there's a great article by Louis Lazaris</a> demonstrating some examples of these techniques)</small>
+<small>(By the way, <a href="http://www.impressivewebs.com/css3-transitions-without-hover/" target="_blank" rel="noopener noreferrer" title="CSS3 Transitions without :hover">there's a great article by Louis Lazaris</a> demonstrating some examples of these techniques)</small>
 
 In all cases, a user performs some action, which sets our transition in motion. You can adjust many properties of the transition, like the delay or timing, but all transitions must have a beginning and an end.
 

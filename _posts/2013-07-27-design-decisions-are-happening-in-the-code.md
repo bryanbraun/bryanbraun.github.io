@@ -9,7 +9,7 @@ date: 2013-07-27 11:08:45
 </p>
 
 <p class="p1">
-  The <a href="http://gettingreal.37signals.com/" target="_blank" title="Getting Real">37 signals book, Getting Real</a>, highlights this fact as it outlines one of their design principles:
+  The <a href="http://gettingreal.37signals.com/" target="_blank" rel="noopener noreferrer" title="Getting Real">37 signals book, Getting Real</a>, highlights this fact as it outlines one of their design principles:
 </p>
 
 > <p class="p1">
