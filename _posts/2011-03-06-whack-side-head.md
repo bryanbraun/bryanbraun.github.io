@@ -29,4 +29,4 @@ Another thing I learned was the importance of play. Do you every wonder why we g
 
 That, my friends, is the face of a man who is about to have a brilliant idea.
 
-<small>To learn more about A Whack on the Side of the Head, read an excerpt of the book <a href="http://www.hachettebookgroup.com/740C88C72CC74D3086D87EC6643D5478.htm" target="_blank" title="Excerpt of a Whack on the Side of the Head">here</a>, or look up <a href="http://www.amazon.com/Whack-Side-Head-Roger-Oech/dp/0911121005/ref=sr_1_2?ie=UTF8&qid=1299439160&sr=8-2" target="_blank" title="A Whack on the Side of the Head">the book on Amazon</a>.</small>
+<small>To learn more about A Whack on the Side of the Head, read an excerpt of the book <a href="http://www.hachettebookgroup.com/740C88C72CC74D3086D87EC6643D5478.htm" target="_blank" rel="noopener noreferrer" title="Excerpt of a Whack on the Side of the Head">here</a>, or look up <a href="http://www.amazon.com/Whack-Side-Head-Roger-Oech/dp/0911121005/ref=sr_1_2?ie=UTF8&qid=1299439160&sr=8-2" target="_blank" rel="noopener noreferrer" title="A Whack on the Side of the Head">the book on Amazon</a>.</small>
