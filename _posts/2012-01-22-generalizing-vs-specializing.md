@@ -15,7 +15,7 @@ But I've picked up a rather unfortunate truth over the last few years: Nobody wa
 
 [1]: http://en.wikipedia.org/wiki/Ken_Jennings
 
-In the business world, specialization is king. Adam Smith got it started when he demonstrated the economic value of <a href="http://www.econlib.org/library/Smith/smWN1.html#B.I,%20Ch.1,%20Of%20the%20Division%20of%20Labor" target="_blank" title="On the Division of Labor">specializing tasks in a pin factory</a>. Henry Ford mastered the concept, using specialization to build a new Ford Model-T <a href="http://entrepreneurs.about.com/od/famousentrepreneurs/p/henryford.htm" target="_blank" title="Henry Ford Bio">every 24 seconds</a>. McDonalds (where I received my first lessons in specialization) basically invented fast food by specializing their process of making burgers and fries.
+In the business world, specialization is king. Adam Smith got it started when he demonstrated the economic value of <a href="http://www.econlib.org/library/Smith/smWN1.html#B.I,%20Ch.1,%20Of%20the%20Division%20of%20Labor" target="_blank" rel="noopener noreferrer" title="On the Division of Labor">specializing tasks in a pin factory</a>. Henry Ford mastered the concept, using specialization to build a new Ford Model-T <a href="http://entrepreneurs.about.com/od/famousentrepreneurs/p/henryford.htm" target="_blank" rel="noopener noreferrer" title="Henry Ford Bio">every 24 seconds</a>. McDonalds (where I received my first lessons in specialization) basically invented fast food by specializing their process of making burgers and fries.
 
 But it doesn't take a business guru to understand why specialization makes the business world turn. When you take your car in for repairs, would you rather have a dedicated mechanic work on it or a part-time mechanic, part-time trombone player, part-time scuba instructor?
 
@@ -23,7 +23,7 @@ Specialization wins.
 
 So what are we variety-loving career-pursuing humans to do?
 
-I asked this question to Steve Liddle, a computer science professor, mobile app developer, and the man responsible for <a href="http://scriptures.byu.edu/" target="_blank">scriptures.byu.edu</a>. I've <a href="http://bryanbraun.com/2011/09/21/the-future-is-mobile" target="_blank" title="The Future is Mobile">mentioned him before</a>; he's a tech-entrepreneurship enthusiast who's always encouraging students to develop programming skills and follow tech trends.
+I asked this question to Steve Liddle, a computer science professor, mobile app developer, and the man responsible for <a href="http://scriptures.byu.edu/" target="_blank" rel="noopener noreferrer">scriptures.byu.edu</a>. I've <a href="http://bryanbraun.com/2011/09/21/the-future-is-mobile" target="_blank" rel="noopener noreferrer" title="The Future is Mobile">mentioned him before</a>; he's a tech-entrepreneurship enthusiast who's always encouraging students to develop programming skills and follow tech trends.
 
 He said that you can't learn everything... you don't have the time. Rather, he suggested that we ought to develop a surface level understanding of many things. Then, from that understanding, choose a few things that we really want to focus on.
 

@@ -9,7 +9,7 @@ date: 2013-12-18 18:25:06
 </p>
 
 <p class="p1">
-  <a href="http://www.bryanbraun.com/2012/02/05/startup-weekend-salt-lake-city" target="_blank">I was at Startup Weekend</a> a year or two ago, and I heard a lot of people pitching their ideas. One person was talking about his idea to aggregate data from Twitter to chart information in real time. The idea was ok, at best. But the way he explained it, he wanted to build a mashup between <a href="http://twitter.com" target="_blank">Twitter</a> and <a href="http://www.wolframalpha.com/" target="_blank" title="Wolfram Alpha">Wolfram Alpha</a>. Anybody who was familiar with Twitter and had used Wolfram Alpha instantly understood. That description was good packaging.
+  <a href="http://www.bryanbraun.com/2012/02/05/startup-weekend-salt-lake-city" target="_blank" rel="noopener noreferrer">I was at Startup Weekend</a> a year or two ago, and I heard a lot of people pitching their ideas. One person was talking about his idea to aggregate data from Twitter to chart information in real time. The idea was ok, at best. But the way he explained it, he wanted to build a mashup between <a href="http://twitter.com" target="_blank" rel="noopener noreferrer">Twitter</a> and <a href="http://www.wolframalpha.com/" target="_blank" rel="noopener noreferrer" title="Wolfram Alpha">Wolfram Alpha</a>. Anybody who was familiar with Twitter and had used Wolfram Alpha instantly understood. That description was good packaging.
 </p>
 
 <p class="p1">
@@ -17,11 +17,11 @@ date: 2013-12-18 18:25:06
 </p>
 
 <p class="p1">
-  Good packaging uses the right combination of words, images, colors, video, and whatever else it takes to make somebody "get it." It shows them where their new knowledge belongs in their brain. It delivers a message that <a href="http://bryanbraun.com/2011/06/06/the-new-york-times-and-the-sticky-platform" target="_blank" title="Something I like to refer to as &quot;The Sticky Platform&quot;">fits together with what they already know</a>. It's the essence of a valuable brand, a persuasive sales pitch, or an good TED Talk.
+  Good packaging uses the right combination of words, images, colors, video, and whatever else it takes to make somebody "get it." It shows them where their new knowledge belongs in their brain. It delivers a message that <a href="http://bryanbraun.com/2011/06/06/the-new-york-times-and-the-sticky-platform" target="_blank" rel="noopener noreferrer" title="Something I like to refer to as &quot;The Sticky Platform&quot;">fits together with what they already know</a>. It's the essence of a valuable brand, a persuasive sales pitch, or an good TED Talk.
 </p>
 
 <p class="p1">
-  Olympic curling has a packaging problem. App.net has a packaging problem. You want to know some examples of great packaging? <a href="http://en.wikipedia.org/wiki/Teach_For_America#Function" target="_blank">Teach for America</a>. <a href="http://www.youtube.com/watch?v=Y4MnpzG5Sqc">Kony 2012</a>. <a href="http://en.wikipedia.org/wiki/Anonymous_(group)" target="_blank" title="There's something about seeing a crowd wearing those V for Vendetta masks that makes it difficult to forget.">Anonymous</a>.
+  Olympic curling has a packaging problem. App.net has a packaging problem. You want to know some examples of great packaging? <a href="http://en.wikipedia.org/wiki/Teach_For_America#Function" tatarget="_blank" rel="noopener noreferrer"each for America</a>. <a href="http://www.youtube.com/watch?v=Y4MnpzG5Sqc">Kony 2012</a>. <a href="http://en.wikipedia.org/wiki/Anonymous_(group)" tartarget="_blank" rel="noopener noreferrer"tle="There's something about seeing a crowd wearing those V for Vendetta masks that makes it difficult to forget.">Anonymous</a>.
 </p>
 
 <p class="p1">

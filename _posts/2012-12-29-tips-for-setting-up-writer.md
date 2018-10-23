@@ -58,15 +58,15 @@ To invoke the style when you are blogging, wrap blocks of code in "pre" tags or 
 
 It's pretty ridiculous to force anybody who wants to comment on your blog to create a username and password just for your site. Unfortunately, the default permissions only allow comments to be created by authenticated users. My recommendations are to 1) open this up to anonymous users or 2) allow people to login with a more common third party account, like Google, Facebook, or Disqus.
 
-To open up commenting to anonymous users, change the commenting permissions at People > Permissions. If you'd prefer to use a third party login service, check out modules like <a href="http://drupal.org/project/fbconnect" target="_blank">Facebook Connect</a>, <a href="http://drupal.org/project/rpx" target="_blank">Janrain Engage</a>, or <a href="http://drupal.org/project/disqus" target="_blank">Disqus</a> (...and I'm sure you'll find others if you dig around yourself).
+To open up commenting to anonymous users, change the commenting permissions at People > Permissions. If you'd prefer to use a third party login service, check out modules like <a href="http://drupal.org/project/fbconnect" target="_blank" rel="noopener noreferrer">Facebook Connect</a>, <a href="http://drupal.org/project/rpx" target="_blank" rel="noopener noreferrer">Janrain Engage</a>, or <a href="http://drupal.org/project/disqus" target="_blank" rel="noopener noreferrer">Disqus</a> (...and I'm sure you'll find others if you dig around yourself).
 
 ## Extend it with Modules
 
 Several contributed Drupal 7 modules have functionality that I would consider critical for blogging:
 
-*   <a href="http://drupal.org/project/wysiwyg" target="_blank">WYSIWYG</a>: Seriously... you can probably write HTML but that doesn't mean you have to. Don't suffer in silence. Say no to building bulleted lists and anchor links by hand.
-*   Spam will eat you alive, especially if you've opened up commenting to anonymous contributors. I recommend the [Mollom module][3] for spam filtering, but you may also have success with the <a href="http://drupal.org/project/captcha" target="_blank">CAPTCHA</a>, or <a href="http://drupal.org/project/antispam" target="_blank">AntiSpam</a> modules.
-*   <a href="http://drupal.org/project/pathauto" target="_blank">Pathauto</a>: This will help you make your URLs look a lot cleaner and search engine friendly.
+*   <a href="http://drupal.org/project/wysiwyg" target="_blank" rel="noopener noreferrer">WYSIWYG</a>: Seriously... you can probably write HTML but that doesn't mean you have to. Don't suffer in silence. Say no to building bulleted lists and anchor links by hand.
+*   Spam will eat you alive, especially if you've opened up commenting to anonymous contributors. I recommend the [Mollom module][3] for spam filtering, but you may also have success with the <a href="http://drupal.org/project/captcha" target="_blank" rel="noopener noreferrer">CAPTCHA</a>, or <a href="http://drupal.org/project/antispam" target="_blank" rel="noopener noreferrer">AntiSpam</a> modules.
+*   <a href="http://drupal.org/project/pathauto" target="_blank" rel="noopener noreferrer">Pathauto</a>: This will help you make your URLs look a lot cleaner and search engine friendly.
 
  [3]: http://drupal.org/project/mollom
 

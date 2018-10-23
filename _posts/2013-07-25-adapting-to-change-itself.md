@@ -5,7 +5,7 @@ date: 2013-07-25 06:53:07
 ---
 
 <p class="p1">
-  <a href="http://www.amazon.com/Brain-Rules-Principles-Surviving-Thriving/dp/0979777747" target="_blank" title="Brain Rules">This book I'm reading</a> brought up an interesting concept. It describes an evolutionary turning point in the human brain… a moment, when pre-modern humans experienced an explosion of creative behaviors and adaptations. The details get a bit complicated, discussing various environmental factors and capacity for symbolic reasoning, but here's the gist.
+  <a href="http://www.amazon.com/Brain-Rules-Principles-Surviving-Thriving/dp/0979777747" target="_blank" rel="noopener noreferrer" title="Brain Rules">This book I'm reading</a> brought up an interesting concept. It describes an evolutionary turning point in the human brain… a moment, when pre-modern humans experienced an explosion of creative behaviors and adaptations. The details get a bit complicated, discussing various environmental factors and capacity for symbolic reasoning, but here's the gist.
 </p>
 
 <p class="p1">

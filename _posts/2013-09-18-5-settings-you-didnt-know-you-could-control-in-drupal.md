@@ -33,13 +33,13 @@ date: 2013-09-18 17:55:09
 </p>
 
 <p class="p1">
-  You'll see several "date types" which is just a date format with a nickname. You can point to these date types in various places in Drupal and they'll adopt the formats. <a href="http://webwash.net/tutorials/handling-date-and-time-drupal-7" target="_blank" title="Create Custom Date formats in Drupal">Here's a great article</a> if you want to learn more about creating and customizing your own date formats in the admin UI.
+  You'll see several "date types" which is just a date format with a nickname. You can point to these date types in various places in Drupal and they'll adopt the formats. <a href="http://webwash.net/tutorials/handling-date-and-time-drupal-7" target="_blank" rel="noopener noreferrer" title="Create Custom Date formats in Drupal">Here's a great article</a> if you want to learn more about creating and customizing your own date formats in the admin UI.
 </p>
 
 ## 3. Default Field Values
 
 <p class="p1">
-  When you're defining your content types, you're probably aware that you can add your own fields. What you may not know is that you can also pre-populate those fields with default values that make sense to your users. For example, if you user doesn't upload a profile image, you can define a default generic image to represent them (like <a href="http://confluencemedia.com/wp-content/uploads/2011/03/2011-03-12-twitter-egg.png" target="_blank">that egg</a> you see on twitter profiles). To do this, just browse to Content Type, click "manage fields" and edit the field in question. There you'll see a section for default values.
+  When you're defining your content types, you're probably aware that you can add your own fields. What you may not know is that you can also pre-populate those fields with default values that make sense to your users. For example, if you user doesn't upload a profile image, you can define a default generic image to represent them (like <a href="http://confluencemedia.com/wp-content/uploads/2011/03/2011-03-12-twitter-egg.png" target="_blank" rel="noopener noreferrer">that egg</a> you see on twitter profiles). To do this, just browse to Content Type, click "manage fields" and edit the field in question. There you'll see a section for default values.
 </p>
 
 <p class="p1" style="text-align: center;">

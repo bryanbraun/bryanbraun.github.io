@@ -5,7 +5,7 @@ date: 2013-08-04 16:10:11
 ---
 
 <p class="p1">
-  I wrote yesterday about <a href="http://bryanbraun.com/2013/08/03/technical-myopia" title="Technical Myopia">technical myopia</a>, and I wanted to point out how the <a href="http://37signals.com/" target="_blank" title="37 Signals">37 signals</a> team gets their priorities right. Here's a quote from their book "Getting Real":
+  I wrote yesterday about <a href="http://bryanbraun.com/2013/08/03/technical-myopia" title="Technical Myopia">technical myopia</a>, and I wanted to point out how the <a href="http://37signals.com/" target="_blank" rel="noopener noreferrer" title="37 Signals">37 signals</a> team gets their priorities right. Here's a quote from their book "Getting Real":
 </p>
 
 > <p class="p1">

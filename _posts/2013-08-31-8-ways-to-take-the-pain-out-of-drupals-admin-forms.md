@@ -211,7 +211,7 @@ related: [
 
       <td class="td3" valign="top">
         <p class="p1">
-          <span class="s1"><a href="https://drupal.org/project/select_or_other">Select or other</a></span>, <a href="https://drupal.org/project/conditional_fields" target="_blank" title="Conditional Fields">Conditional Fields</a>, <a href="https://drupal.org/project/field-conditional-state" target="_blank" title="An alternative to conditional fields that looks pretty promising">Field Conditional State</a>
+          <span class="s1"><a href="https://drupal.org/project/select_or_other">Select or other</a></span>, <a href="https://drupal.org/project/conditional_fields" target="_blank" rel="noopener noreferrer" title="Conditional Fields">Conditional Fields</a>, <a href="https://drupal.org/project/field-conditional-state" target="_blank" rel="noopener noreferrer" title="An alternative to conditional fields that looks pretty promising">Field Conditional State</a>
         </p>
 
         <p class="p1">

@@ -10,13 +10,13 @@ related: [
 ]
 ---
 
-Writer 2.1 has been released for Drupal 7 and is <a href="http://drupal.org/project/writer" target="_blank">now up on Drupal.org</a>. Here's what's new:
+Writer 2.1 has been released for Drupal 7 and is <a href="http://drupal.org/project/writer" target="_blank" rel="noopener noreferrer">now up on Drupal.org</a>. Here's what's new:
 
 *   Now supports a site logo (this looks best if the logo is 64x64 px or smaller).
-*   Fixes one bug where Drupal system messages would not display, and another where content display types didn't behave as expected properly. See also <a href="http://drupal.org/node/1951474" target="_blank">Messages and fields not displayed [1951474]</a>.
+*   Fixes one bug where Drupal system messages would not display, and another where content display types didn't behave as expected properly. See also <a href="http://drupal.org/node/1951474" target="_blank" rel="noopener noreferrer">Messages and fields not displayed [1951474]</a>.
 *   Enables menus by default.
 *   Includes *fastclick.js*, for improving user experience on touch devices (see https://github.com/ftlabs/fastclick).
-*   Added various improvements based off of <a href="http://html5boilerplate.com/" target="_blank">HTML5 Boilerplate.</a>
+*   Added various improvements based off of <a href="http://html5boilerplate.com/" target="_blank" rel="noopener noreferrer">HTML5 Boilerplate.</a>
 *   CSS improvements, including table styling, rule styling, content centering when dates aren't displayed, and other various fixes.
 
 If you have a 1.x version installed, and you upgrade to this version your standard Drupal content feeds will probably change from just displaying titles, to displaying the settings in your Teaser display modes. You may want to adjust your display modes after upgrading to achieve the look and feel you want. Here is how:

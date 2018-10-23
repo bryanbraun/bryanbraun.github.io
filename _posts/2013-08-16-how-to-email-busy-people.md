@@ -66,7 +66,7 @@ related: [
 > </p>
 >
 > <p class="p1">
->   I <a href="https://twitter.com/BryanEBraun/status/368371088771665920" target="_blank" title="It's an example tweet. Not my best work.">really enjoyed</a> your SXSW talk (I was the guy in the front row with the yellow shirt and bow-tie). My team and I are interested in doing more research about a topic you discussed, internet connectivity via low orbit satellites. <strong>Could you point me to any good resources where I could learn more?</strong> Maybe there's a subject matter expert you know who I could talk to?
+>   I <a href="https://twitter.com/BryanEBraun/status/368371088771665920" target="_blank" rel="noopener noreferrer" title="It's an example tweet. Not my best work.">really enjoyed</a> your SXSW talk (I was the guy in the front row with the yellow shirt and bow-tie). My team and I are interested in doing more research about a topic you discussed, internet connectivity via low orbit satellites. <strong>Could you point me to any good resources where I could learn more?</strong> Maybe there's a subject matter expert you know who I could talk to?
 > </p>
 >
 > <p class="p1">

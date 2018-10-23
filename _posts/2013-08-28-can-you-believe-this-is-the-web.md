@@ -9,19 +9,19 @@ date: 2013-08-28 15:03:38
 </p>
 
 <li class="p1">
-  <a href="http://lab.sehsucht.de/" target="_blank">http://lab.sehsucht.de/</a>
+  <a href="http://lab.sehsucht.de/" target="_blank" rel="noopener noreferrer">http://lab.sehsucht.de/</a>
 </li>
 <li class="p1">
-  <a href="http://workshop.chromeexperiments.com/globe/" target="_blank">http://workshop.chromeexperiments.com/globe/</a>
+  <a href="http://workshop.chromeexperiments.com/globe/" target="_blank" rel="noopener noreferrer">http://workshop.chromeexperiments.com/globe/</a>
 </li>
 <li class="p1">
-  <a href="http://acko.net/" target="_blank">http://acko.net/</a>
+  <a href="http://acko.net/" target="_blank" rel="noopener noreferrer">http://acko.net/</a>
 </li>
 <li class="p1">
-  <a href="http://carvisualizer.plus360degrees.com/threejs/" target="_blank">http://carvisualizer.plus360degrees.com/threejs/</a>
+  <a href="http://carvisualizer.plus360degrees.com/threejs/" target="_blank" rel="noopener noreferrer">http://carvisualizer.plus360degrees.com/threejs/</a>
 </li>
 <li class="p1">
-  <a href="http://lightgraffiti.littlesun.com/" target="_blank">http://lightgraffiti.littlesun.com/</a>
+  <a href="http://lightgraffiti.littlesun.com/" target="_blank" rel="noopener noreferrer">http://lightgraffiti.littlesun.com/</a>
 </li>
 
 <p class="p1">

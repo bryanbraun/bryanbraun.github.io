@@ -21,7 +21,7 @@ date: 2013-07-18 06:59:56
 </p>
 
 <p class="p1">
-  This behavior has been <span class="s1">researched and documented</span>. Only <a href="http://www.slate.com/articles/technology/technology/2013/06/how_people_read_online_why_you_won_t_finish_this_article.single.html" target="_blank" title="How People Read Online: Why you won't Finish this Article">a small percent of visitors read online articles to completion</a>. Maybe it has something to do with the intangibility of it all. In the physical world, the fundamental unit of content is a book. You can hold it in your hands, keep on your shelf, or give to a friend. Indeed, many who write on web topics (like <a href="http://alwaysreadthemanual.com" target="_blank" title="The Manual">these guys</a>) have taken their writing off-line in an attempt to make it more tangible (and more profitable).
+  This behavior has been <span class="s1">researched and documented</span>. Only <a href="http://www.slate.com/articles/technology/technology/2013/06/how_people_read_online_why_you_won_t_finish_this_article.single.html" ttarget="_blank" rel="noopener noreferrer"title="How People Read Online: Why you won't Finish this Article">a small percent of visitors read online articles to completion</a>. Maybe it has something to do with the intangibility of it all. In the physical world, the fundamental unit of content is a book. You can hold it in your hands, keep on your shelf, or give to a friend. Indeed, many who write on web topics (like <a href="http://alwaysreadthemanual.com" ttarget="_blank" rel="noopener noreferrer"title="The Manual">these guys</a>) have taken their writing off-line in an attempt to make it more tangible (and more profitable).
 </p>
 
 <p class="p1">
