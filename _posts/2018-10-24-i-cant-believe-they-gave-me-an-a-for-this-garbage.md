@@ -9,7 +9,7 @@ related: [
 ]
 ---
 
-I was searching Gmail for something when I discovered an old email I sent when I was in college. The attachment included [a paper I had written in a statistics class]({{site.url}}/assets/documents/experiment-writeup.pdf). I was curious, so I read through it.
+I was searching Gmail for something when I found an old email I sent when I was in college. The attachment included [a paper I had written in a statistics class]({{site.url}}/assets/documents/experiment-writeup.pdf). I was curious, so I read through it.
 
 It was awful. I can't believe they gave me an "A" for this garbage.
 
