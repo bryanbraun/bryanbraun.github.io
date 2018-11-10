@@ -13,7 +13,7 @@ I was searching Gmail for something when I found an old email I sent when I was 
 
 It was awful. I can't believe they gave me an "A" for this garbage.
 
-If I wrote **anything** like this outside of school, it would be pretty much useless. Emails, a book, a flyer, an instruction manual, a conference proposal, a blog post... you name it! Even [highly technical writing](https://www.bryanbraun.com/2013/07/11/jargon/) must be less insufferable.
+If I wrote anything like this outside of school, it would be pretty much useless. Emails, a book, a flyer, an instruction manual, a conference proposal, a blog post... you name it. Even [highly technical writing](https://www.bryanbraun.com/2013/07/11/jargon/) has to be less insufferable.
 
 I mean, let's just look at the first sentence:
 

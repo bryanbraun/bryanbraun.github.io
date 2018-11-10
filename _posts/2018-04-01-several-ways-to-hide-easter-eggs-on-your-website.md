@@ -26,6 +26,8 @@ In addition to leaving messages in the source code, you can also print messages 
   <figcaption>Here, <a href="https://thenextweb.com/">The Next Web</a> prints a brief message to their console welcoming anybody who happens to be looking.</figcaption>
 </figure>
 
+_Note: you can see a collection of console easter eggs over at [www.console.love](https://www.console.love/)_
+
 ## 3. The Konami code (or other keystrokes)
 
 The [Konami Code](https://en.wikipedia.org/wiki/Konami_Code) was a cheat code originally found in Konami video games where you could unlock a secret by pressing a series of buttons (` ↑``↑``↓``↓``←``→``←``→``B``A `). In a similar vein, you can set up your website to [listen for keystrokes](https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent#Example) and trigger some behavior when the right sequence is pressed. There are even [plugins](https://github.com/tommcfarlin/konami-code) you can use to listen specifically for the Konami code.
