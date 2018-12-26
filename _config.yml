@@ -1,7 +1,7 @@
 # Site settings
-title: Bryan Braun - Student of Life
+title: Bryan Braun
 email: bbraun7@gmail.com
-description: # Not currently using this.
+description: Making things and sharing what I learn. # Not currently using this.
 logo: /assets/images/logo.png
 url: https://www.bryanbraun.com # the base hostname & protocol for your site, e.g. http://example.com
 author: Bryan Braun
@@ -25,7 +25,7 @@ exclude:
 sass:
   sass_dir: assets/_sass
   style: compressed
-include: ["_pages"]
+include: ['_pages']
 # See HTML compression settings at http://jch.penibelst.de/#configuration
 #   Don't use inline javascript slash-comments with this enabled (`//`), or you'll
 #   see JS errors. See other caveauts here: http://jch.penibelst.de/#restrictions
@@ -42,20 +42,18 @@ compress_html:
 # Content settings
 permalink: pretty
 collections:
-- books
+  - books
 defaults:
-  -
-    scope:
-      path: ""      # all files
-      type: posts   # limit to posts
+  - scope:
+      path: '' # all files
+      type: posts # limit to posts
     values:
       is_post: true # automatically set is_post=true for all posts
       comments: true
       layout: post
 
-
 # Custom Vars
-branch: master  # the branch my live site is deployed to.
+branch: master # the branch my live site is deployed to.
 
 # When I first set up my site, I used full URLs as disqus page identifiers, which
 # was kind of a mistake:
