@@ -30,11 +30,10 @@ redirect_from: /node
       {{ post.content | markdownify }}
     </article>
 
-    <div class="edit-link-wrapper">
-      <a class="edit-link" href="https://github.com/{{ site.github.repository_nwo }}/edit/{{ site.branch }}/{{ post.path }}">Edit this article</a>
-    </div>
-
     <footer class="article-footer">
+      <div class="edit-link-wrapper">
+        <a class="edit-link" href="https://github.com/{{ site.github.repository_nwo }}/edit/{{ site.branch }}/{{ post.path }}">Edit this article</a>
+      </div>
     </footer>
 
     <div class="other-posts">

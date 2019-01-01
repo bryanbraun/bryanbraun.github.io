@@ -84,18 +84,19 @@ navigation:
     <script>
       (function() {
         /*
-         AnchorJS script. Our markdown parser adds IDs... AnchorJS just adds the link icons.
-         Note: we don't want anchors on the homepage because that content is always changing.
+          AnchorJS script. Our markdown parser adds IDs... AnchorJS just adds the link icons.
+          Note: we add a base-url on for homepage anchors, so they point to the permalink location.
         */
-        var isHomePage = !!document.querySelectorAll('body.home').length;
-        if (!isHomePage) {
-          var headings = 'h2:not(.no-anchor),' +
-                         'h3:not(.no-anchor),' +
-                         'h4:not(.no-anchor),' +
-                         'h5:not(.no-anchor),' +
-                         'h6:not(.no-anchor)';
-          anchors.add(headings);
-        }
+        {% if page.url == "/" %}
+          anchors.options.base = '{{ site.posts.first.url }}';
+        {% endif %}
+
+        var headings = 'h2:not(.no-anchor),' +
+                        'h3:not(.no-anchor),' +
+                        'h4:not(.no-anchor),' +
+                        'h5:not(.no-anchor),' +
+                        'h6:not(.no-anchor)';
+        anchors.add(headings);
       })();
     </script>
     <script>
