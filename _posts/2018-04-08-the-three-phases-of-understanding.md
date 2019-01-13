@@ -12,3 +12,10 @@ related: [
 3.  Discover nuance. Realize that the heuristic fails in some scenarios. Realize that there's a time and a place for all things.
 
 Know that whenever you read one of those unnuanced, opinionated, ranty blog posts that seem to be so common in our industry, you can safely assume that the author is still on phase two.
+
+<figure class="center">
+  <img src="{{site.url}}/assets/images/knowledge-over-time.jpg" alt="Graph of knowledge and perceived knowledge over time" />
+  <figcaption>
+    <a href="https://twitter.com/georgejjones/status/993592765639426050/photo/1">Source: @georgejjones</a>
+  </figcaption>
+</figure>

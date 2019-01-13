@@ -79,3 +79,7 @@ This system works great, but I've found a couple of weaknesses:
 3. Design files often need to be shared with others. We could remove them from `.gitignore` and check it in, but that's not as accessible to Designers as something like Dropbox. We could also rely on a 3rd-party design collaboration tool like [InVision](https://www.invisionapp.com/).
 
 All and all, these are pretty minor issues. I'm pretty happy with this setup, so if you're looking for some more organization here, then give it a try.
+
+<hr class="section-divider" />
+
+<small><em>Note: Thanks to Jesse Beach, who shared many of these ideas with me when I was just starting out.</em></small>

@@ -1,10 +1,7 @@
 ---
-layout: post
-title: "Commitments"
+title: 'Commitments'
 date: 2012-05-13 20:54:14
 ---
-
-I'd like to take this opportunity to wax eloquent on one of the principles that is important to me.
 
 I am part of what has been called the "<a href="http://en.wikipedia.org/wiki/Generation_Y#Peter_Pan_Generation" target="_blank" rel="noopener noreferrer">Peter Pan Generation</a>." We have been named such because as a group we tend to delay our passage into adulthood. Throughout our 20's, we continue to live at home with our parents. We bounce around from job to job. We postpone the traditional rites of passage such as beginning a career, getting married, or having children. We want all the privileges that come with adulthood without any of the responsibilities. To our parents, we look like Peter Pan and his lost boys... determined to never grow old.
 
@@ -16,7 +13,7 @@ Committing to a path means focusing your efforts and not deviating when obstacle
 
 But as far as I am concerned, the benefits to committing far outweighs the costs. First of all, flexibility is overrated. Sure, I could drift through life, sampling a little bit of everything, being free of responsibility... but what kind of impact could I make? Being a Jack-of-all-trades inevitably makes you a Master-of-none, and being somebody who wants to make a significant contribution somewhere, I cannot afford to be a generalist. I'd rather do three things very well than twenty things poorly. There's an abundance of [mediocrity][1] in the world... I don't need to add to that.
 
- [1]: http://bryanbraun.com/2012/03/19/never-settle-being-mediocre "Never Settle for being Mediocre"
+[1]: http://bryanbraun.com/2012/03/19/never-settle-being-mediocre 'Never Settle for being Mediocre'
 
 Committing also leads to more meaningful interactions with people. My friendships are stronger because I don't blow off my friends. My family is stronger because I take my marriage vows and religious commitments seriously. I strive to be a person who keeps my promises, despite the costs. These costs are heavy sometimes but I'd rather accept the costs than suffer from the absence of meaningful relationships in my life.
 
@@ -24,6 +21,6 @@ I'll be the first to admit that making commitments can be scary. I am currently 
 
 I don't profess to know the road to success. I'm not sure if I even know how to [define success][2]. But as short as my life has been, this much is true: **Every good thing I have in my life is a result of my decision to make and keep a commitment.**
 
- [2]: http://bryanbraun.com/2011/01/02/uccess
+[2]: http://bryanbraun.com/2011/01/02/uccess
 
 And with that kind track record, I'd be a fool to stop now.
