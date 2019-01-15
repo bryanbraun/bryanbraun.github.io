@@ -1,5 +1,6 @@
 ---
 title: Contact
+excerpt: You should email me. I like meeting new people.
 permalink: /contact/
 ---
 

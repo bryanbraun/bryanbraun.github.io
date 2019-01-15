@@ -22,6 +22,9 @@ plugins:
 exclude:
   - Gemfile
   - Gemfile.lock
+  - readme.md
+  - license.md
+  - CNAME
 sass:
   sass_dir: assets/_sass
   style: compressed

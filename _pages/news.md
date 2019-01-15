@@ -1,5 +1,6 @@
 ---
 title: In the News
+excerpt: My work has been featured in The Washington Post, Daring Fireball, the Discovery Channel, and several other news sources.
 permalink: /news/
 ---
 

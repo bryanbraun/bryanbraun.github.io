@@ -1,9 +1,10 @@
 ---
 title: What I'm doing now
+excerpt: A brief description of what I'm doing now. Freshly updated for 2019!
 permalink: /now/
 ---
 
-I'm at home in Dayton Ohio. The weather is getting colder every day.
+I'm at home in Dayton Ohio. It's cold outside. I recently built a few snowmen with the kids.
 
 ## At Work
 
@@ -21,4 +22,4 @@ I'm serving as an Assistant Scoutmaster and I work with the 12-13 year old boys 
 
 _This page was inspired by Derek Sivers and [his /now page](https://sivers.org/now)._
 
-_This page was last updated: October 28th, 2018_
+_This page was last updated: January 14th, 2019_
