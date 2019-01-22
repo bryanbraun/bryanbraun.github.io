@@ -9,9 +9,10 @@ repository: bryanbraun/bryanbraun.github.io
 timezone: America/New_York
 host: 0.0.0.0 # This lets us test on devices locally. See http://stackoverflow.com/a/16608698/1154642
 github:
-  url: http://localhost:4000 # this gets overridden when the site is deployed on github pages
+  url: http://localhost:4000 # This gets overridden when the site is deployed on github pages
 feed:
   path: rss.xml # preserve the name of my Drupal RSS feed b/c I can, and it's possible that some people are still subscribed to it.
+theme: null # Hack to prevent external styles from leaking in. For details, see https://github.com/jekyll/jekyll/issues/7478#issuecomment-454346783.
 
 # Build settings
 plugins:
