@@ -31,7 +31,7 @@ It's habits. Habits are how you develop identified motivation.
 
 And that totally makes sense. The whole premise of habits is that if you do something long enough, then it becomes easy to keep it going. Identified motivation explains _why_ it gets easy.
 
-The best part is that it's scalable. Once a new behavior is [on autopilot]({{site.url}}/2018/06/04/putting-your-learning-on-autopilot/), you can move onto the next change you want to make without losing the progress you made. You're rebuilding your identity into whatever you want it to be, one incremental step at a time.
+The best part is that it's scalable. Once you developed a habit, that new behavior is [on autopilot]({{site.url}}/2018/06/04/putting-your-learning-on-autopilot/) and you can move on to the next change without losing the progress you made. You're rebuilding your identity into whatever you want it to be, one incremental step at a time.
 
 So I'm going to work on habits in 2019. I'll do it similar to how [Nicky Case did it last year](https://blog.ncase.me/habits-i-tried-to-make-in-2018). I'll choose one habit per month and track it daily with a streak-building tool (I'm using [Habit Streak Pro](https://play.google.com/store/apps/details?id=uk.amimetic.habitspro&hl=en)).
 
