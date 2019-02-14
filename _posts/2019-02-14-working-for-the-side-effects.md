@@ -6,7 +6,7 @@ related: [
 ]
 ---
 
-When I was 18, I spent a summer working on the factory floor of a metal parts manufacturer. My job was to use a CNC punch machine to cut shapes out of large sheets of metal like a cookie cutter. I worked 10 hour night shifts with frequent overtime. It was loud, repetitive, and physically taxing.
+When I was 18, I spent a summer working on the factory floor of a metal parts manufacturer. My job was to use a CNC punch machine to cut shapes out of large sheets of metal like a cookie cutter. I worked ten-hour night shifts with frequent overtime. It was loud, repetitive, and physically taxing.
 
 But the work had a side-effect: carrying around the heavy plate-metal was building my upper-body strength. By the end of the summer, I was able to do 80 consecutive pushups. I'd be lucky to do half that now.
 
