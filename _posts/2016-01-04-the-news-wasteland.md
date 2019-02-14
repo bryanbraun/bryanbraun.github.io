@@ -1,6 +1,9 @@
 ---
 title: "The News Wasteland"
 date: 2016-01-04 20:25:29
+related: [
+  "Turn off the News"
+]
 ---
 
 When I was an LDS missionary, I spent two years completely disconnected from basically all news sources.
@@ -9,7 +12,7 @@ No newspapers, no TV, no internet.
 
 So when I returned, I started asking people "what did I miss?" I could summarize it all in a couple sentences:
 
-"The economy is doing badly because of a housing crisis. Nintendo came out with a game system called the Wii which is pretty revolutionary. The US Presidential candidates are Barack Obama and John McCain.
+"The economy is doing badly because of a housing crisis. Nintendo came out with a game system called the Wii which is pretty revolutionary. The US Presidential candidates are Barack Obama and John McCain."
 
 Two years of news and that was it. Sure, other things were happening but they simply weren't meaningful to me. Maybe they would be at some day, but until then, I didn't need to know about them.
 
