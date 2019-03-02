@@ -6,6 +6,7 @@ permalink: /news/
 
 | Article | Source | Year |
 | --- | --- | --- |
+| [Five Interactive Designers Share Their Treasured Finds][10] | Communcation Arts | 2019 |
 | [A Comparison of Web Animation Techniques][9] | Smashing Magazine | 2016 |
 | [After Dark in CSS][8]| Daring Fireball | 2015 |
 | [Flying Toaster screen savers return on GitHub][7] | The Register | 2014 |
@@ -27,3 +28,4 @@ permalink: /news/
 [7]: http://www.theregister.co.uk/2014/03/17/flying_toaster_screen_savers_return_on_github/
 [8]: http://daringfireball.net/linked/2015/06/07/after-dark
 [9]: https://www.smashingmagazine.com/smashing-newsletter-issue-165/#a3
+[10]: https://www.commarts.com/favorites/five-interactive-designers-share-their-treasured-finds-3

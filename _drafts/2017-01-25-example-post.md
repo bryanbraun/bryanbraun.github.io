@@ -1,6 +1,6 @@
 ---
 title: "Example Post"
-date: 2017-01-25 04:27:00
+date: 2017-01-25
 related: [
   "Technical Myopia",
   "Jargon"

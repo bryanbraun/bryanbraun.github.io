@@ -1,6 +1,9 @@
 ---
 title: 'Compounding Benefits'
 date: 2015-11-17 22:53:02
+related: [
+  "Get 1 percent better, every day"
+]
 ---
 
 Compounding interest is a powerful thing. Understanding it can make you a wealthy person over the course of your lifetime.

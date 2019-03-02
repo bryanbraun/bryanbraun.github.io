@@ -7,9 +7,9 @@ I needed to edit a commit in my Git history recently and I couldn't find a clear
 
 ## The situation
 
-Let's say you accidentally committed a sensitive password into your git history, several commits back. All your commits are fine except for the one with the password.
+Let's say you accidentally committed a sensitive password into your git history, several commits back (all hypothetical, of course ). All your commits are fine except for the one with the password.
 
-We can use an interactive rebase to fix this. I'm going to assume you're familiar with interactive rebases but you can check out [this article](https://hackernoon.com/beginners-guide-to-interactive-rebasing-346a3f9c3a6d) if you need a refresher.
+We can use the "edit" option in an interactive rebase to fix this. I'm going to assume you're familiar with interactive rebases but you can check out [this article](https://hackernoon.com/beginners-guide-to-interactive-rebasing-346a3f9c3a6d) if you need a refresher.
 
 ## The interactive rebase
 
@@ -78,7 +78,7 @@ In this option we step back into the previous commit to make the changes we want
 git reset --soft HEAD~
 ```
 
-Now if we do a `git status` we can see where we are:
+Now if we do a `git status`, we can see where we are:
 
 ```
 $ git status
@@ -87,9 +87,9 @@ interactive rebase in progress; onto 15b337e
 Changes to be committed:
   (use "git reset HEAD <file>..." to unstage)
 
-	modified:   Rakefile
-	modified:   lib/tasks/deploy.rake
-	modified:   lib/tasks/database.rake
+  modified:   Rakefile
+  modified:   lib/tasks/deploy.rake
+  modified:   lib/tasks/database.rake
   modified:   config/database.yml
 ```
 
