@@ -7,7 +7,7 @@ I needed to edit a commit in my Git history recently and I couldn't find a clear
 
 ## The situation
 
-Let's say you accidentally committed a sensitive password into your git history, several commits back (all hypothetical, of course ). All your commits are fine except for the one with the password.
+Let's say you accidentally committed a sensitive password into your git history, several commits back (all hypothetical, of course). All your commits are fine except for the one with the password.
 
 We can use the "edit" option in an interactive rebase to fix this. I'm going to assume you're familiar with interactive rebases but you can check out [this article](https://hackernoon.com/beginners-guide-to-interactive-rebasing-346a3f9c3a6d) if you need a refresher.
 

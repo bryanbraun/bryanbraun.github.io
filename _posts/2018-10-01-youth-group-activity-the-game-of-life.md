@@ -28,7 +28,7 @@ While the main goal of the game was to have fun, we were hopeful that our adapta
 
 - Decisions are about tradeoffs. You must often give up something to get something.
 - Ultimately, you are responsible for your own decisions. A decision that's right for you may not be right for someone else, and vice-versa.
-- Good decisions don't guarantee good outcomes and bad decisions don't guarantee bad outcomes. The right decisions simply improve our chances of getting the outcomes we want.
+- Good decisions don't guarantee good outcomes and bad decisions don't guarantee bad outcomes. The best decisions simply improve our chances of getting the outcomes we want.
 - At the end of the day, money isn't the only (nor is it the best) way to measure your success.
 
 <hr class="section-divider">
