@@ -1,8 +1,8 @@
-/* Expand:
-  On hover, each letter will grow until the entire logo is filled.
+/* Rotate:
+  On hover, start rotating the letters.
 */
 
-(function() {
+(function () {
   var hoverGradients = [
     'logo-radial-gradient0',
     'logo-radial-gradient1',
@@ -15,7 +15,10 @@
   };
   var logoMaskBox = document.getElementById('logo-mask-box');
   var logoBox = document.querySelector('.logo');
-  var letters = Array.from(document.querySelectorAll('.Bryan, .Braun'));
+  var nameLetters = [].concat(
+    Array.from(document.getElementsByClassName('Bryan')),
+    Array.from(document.getElementsByClassName('Braun'))
+  );
   var DEFAULT_FILL_VALUE = 'url(#logo-linear-gradient)';
   var activeGradientNum = 0;
 
@@ -23,31 +26,26 @@
   logoBox.addEventListener('mousemove', positionHoverGradient);
   logoBox.addEventListener('mouseleave', setDefaultGradient);
   logoBox.addEventListener('click', toggleGradient);
-  logoBox.addEventListener('mouseenter', startSizeAnimation);
-  logoBox.addEventListener('mouseleave', stopSizeAnimation);
+  logoBox.addEventListener("mouseenter", startRotations);
+  logoBox.addEventListener('mouseleave', restoreLetterRotations);
 
-  letters.forEach(function(letter) {
-    letter.style.transformOrigin = 'center';
-    letter.style.transformBox = 'fill-box';
-    letter.style.transitionProperty = 'transform';
+  // set rotation origin
+  nameLetters.forEach(function (letter) {
+    letter.style.transformOrigin = '50% 50%';
   });
 
-  function startSizeAnimation() {
-    letters.forEach(function(letter) {
-      letter.style.transform = 'scale(11)';
-      letter.style.transitionDuration = '2.5s';
+  function startRotations() {
+    nameLetters.forEach(function (letter) {
+      letter.style.transform = 'rotate(360deg)';
+      letter.style.transitionDuration = '1.5s';
     });
   }
 
-  function stopSizeAnimation() {
-    letters.forEach(function(letter) {
-      letter.style.transform = '';
-      letter.style.transitionDuration = '0.75s';
+  function restoreLetterRotations() {
+    nameLetters.forEach(function (letter) {
+      letter.style.transform = 'rotate(0deg)';
+      letter.style.transitionDuration = '1.5s';
     });
-  }
-
-  function getHoverFillValue() {
-    return 'url(#' + hoverGradients[activeGradientNum] + ')';
   }
 
   function positionHoverGradient(event) {
@@ -67,7 +65,7 @@
   }
 
   function setHoverGradient() {
-    logoMaskBox.style.fill = getHoverFillValue();
+    logoMaskBox.style.fill = 'url(#' + hoverGradients[activeGradientNum] + ')';
   }
 
   function setDefaultGradient(event) {
