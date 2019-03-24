@@ -21,15 +21,15 @@ Everything went well until one caller got in my face.
 
 <img src="/assets/images/angrybryanradio.jpg" />
 
-Just Kidding! There would be nothing of the sort on <a href="http://www.byuradio.org/about" title="BYU Radio - Talk About Good">BYU radio</a>.
+Just kidding!
 
 <img src="/assets/images/teamradio.jpg" />
 
 If you missed the program, there will be a rebroadcast on Monday, April 30th at 4pm Mountain Time. I'll also try to get a copy the the recording for my "[In the News][2]" page.
 
- [2]: http://bryanbraun.com/news "I stole this page idea from www.justinhyatt.com/in-the-news"
+ [2]: https://bryanbraun.com/news
 
-But it didn't stop there! We got called up by a program that runs on Discovery Channel Canada called [Daily Planet](http://www.discoverychannel.ca/Showpage.aspx?sid=13287) which covers breakthroughs in science and technology from around the world. I volunteered to be interviewed for the show and put BYU in the national spotlight. How <a href="https://twitter.com/#!/dailyplanetshow/status/195296047327752193">cool</a> is that? One of the guys at BYU Media told me that it isn't often that <a href="http://watch.discoverychannel.ca/#clip666404" title="Our footage starts at about 4:45.">BYU gets to be featured on Discovery Channel</a>. It was an opportunity I couldn't pass up!
+But it didn't stop there! We got called up by a program that runs on Discovery Channel Canada called [Daily Planet](http://www.discoverychannel.ca/Showpage.aspx?sid=13287) which covers breakthroughs in science and technology from around the world. I volunteered to be interviewed for the show and put BYU in the national spotlight. How <a href="https://twitter.com/DailyPlanet/status/195296047327752193">cool</a> is that? One of the guys at BYU Media told me that it isn't often that <a href="http://watch.discoverychannel.ca/#clip666404" title="Our footage starts at about 4:45.">BYU gets to be featured on Discovery Channel</a>. It was an opportunity I couldn't pass up!
 
 <a href="http://watch.discoverychannel.ca/#clip666404"><img alt="" src="/assets/images/Discovery2.jpg" title="Our footage starts at about 4:45." /></a>
 
