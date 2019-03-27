@@ -11,7 +11,7 @@
   image: /assets/images/bouncy-ball.png
 
 - name: "AnchorJS - Add Deep Anchor Links to your Docs"
-  url: https://github.com/bryanbraun/anchorjs
+  url: http://bryanbraun.github.io/anchorjs
   image: /assets/images/anchorjs_logo.png
 
 - name: "After Dark in CSS"
