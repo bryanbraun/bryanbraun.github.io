@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Get your stuff out there"
 date: 2016-12-13 19:46:03
 related: [

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "The New York Times and The Sticky Platform"
 date: 2011-06-06 01:56:36
 ---
