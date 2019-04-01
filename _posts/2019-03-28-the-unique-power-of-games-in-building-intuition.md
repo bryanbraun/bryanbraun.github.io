@@ -14,9 +14,9 @@ How can this even be possible? [The demo videos](https://www.youtube.com/watch?v
 
 > “Flipping through dimensions is remarkably intuitive... I shifted dimensions, messing about with this strange toy until I quickly understood most of the problems that I faced.”
 
-I remember sitting in my college linear algebra class while my professor tried to explain four-dimensional objects. She used several approaches, like math and various analogies. She even brought in a physical model of a hypercube. It wasn't until months later, after [I read Flatland]({{site.url}}/books/#flatland-a-romance-of-many-dimensions), that I started to get a feel for it.
+Just the fact that a four-dimensional game can be “intuitive” is remarkable to me. I remember taking a math class where my professor tried to explain four-dimensional objects. She used several approaches, like math and various analogies. She even brought in a physical model of a hypercube. It wasn't until months later, after [I read Flatland]({{site.url}}/books/#flatland-a-romance-of-many-dimensions), that I started to get a feel for it.
 
-This Miegakure reviewer got a feel for it after a few minutes of playing with a video game. I think this is pretty remarkable.
+This Miegakure reviewer got a feel for it after a few minutes of playing with a video game.
 
 Did he have a rich and detailed understanding after just a few minutes? Of course not. It was just the start of an intuition. But it was something that he could build upon in further levels of the game as he was required to navigate that world, explore its corners, and push its constraints.
 
@@ -51,12 +51,12 @@ Lets look at two children's games and see how their design leads to different le
 
 ### Game 1: Multiplication.com
 
-In Multiplication.com's [Rooftop Ride](https://www.multiplication.com/games/play/rooftop-ride-multiplication), you control a skateboarder who skates across rooftops avoiding obstacles and collecting coins. Periodically, the game will stop and give you a math problem which you must solve before you can continue. That's really all there is to it.
+In multiplication.com's [Rooftop Ride](https://www.multiplication.com/games/play/rooftop-ride-multiplication), you control a skateboarder who skates across rooftops avoiding obstacles and collecting coins. Periodically, the game will stop and give you a math problem which you must solve before you can continue. That's really all there is to it.
 
 
 <figure class="center">
   <img src="{{site.url}}/assets/images/rooftop-ride.png" alt="Gameplay screenshot of Rooftop Ride." />
-  <figcaption>A gameplay screenshot of Rooftop Ride, from <a href="http://multiplication.com" target="_blank" rel="noopener noreferrer">Multiplication.com</a></figcaption>
+  <figcaption>A gameplay screenshot of Rooftop Ride, from <a href="http://multiplication.com" target="_blank" rel="noopener noreferrer">multiplication.com</a></figcaption>
 </figure>
 
 It's a platformer game with flash-cards bolted onto it. The cards have no real connection to the game's story. They're like the quarters you have to insert into the arcade game to keep playing.
