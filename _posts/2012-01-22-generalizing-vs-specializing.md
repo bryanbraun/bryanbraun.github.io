@@ -1,11 +1,16 @@
 ---
 title: "Generalizing vs Specializing"
 date: 2012-01-22 20:46:20
+related: [
+  "The unfairness of doing what you love",
+  "Loving What I Do",
+  "Selective Ignorance in the Name of Specialization"
+]
 ---
 
 Do you ever feel like you are interested in everything? Like you can't possibly settle down and pick one thing that you'll end up doing for the rest of your life?
 
-<img alt="Major in &quot;The Universe&quot;" src="http://imgs.xkcd.com/comics/major_in_the_universe.png" style="width: 740px; height: 289px;" />
+<img alt="Major in &quot;The Universe&quot;" src="http://imgs.xkcd.com/comics/major_in_the_universe.png" />
 
 A lot of people do.
 

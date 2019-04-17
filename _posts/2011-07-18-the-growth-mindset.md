@@ -32,7 +32,7 @@ This quote lines right up with the concept of <a href="{{site.url}}/2011/06/06/t
 
 - Anyone can learn computer programming; not just the uber-nerds who love to use Linux and collect Star Wars cards.
 - Anyone can learn to sing with skill and confidence. In fact, after several years of high school choir, my buddy (who originally couldn't hold a tune in a bucket), became one of the top singers in our Symphonic Choir.
-- Anyone can be good at math! You don't need a <a href="https://education.ti.com/en/products/calculators/graphing-calculators/voyage-200" target="_blank" rel="noopener noreferrer" title="Voyage 200">Voyage 200</a> to rise to the top of your trig class. You don't even need <a href="{{site.url}}/assets/images/casio-calculator-watch.png" target="_blank" rel="noopener noreferrer" title="So, so, sweet...">this bad boy</a> (although it may help you attract the ladies).
+- Anyone can be good at math! You don't need a <a href="https://education.ti.com/en/products/calculators/graphing-calculators/voyage-200" target="_blank" rel="noopener noreferrer" title="Voyage 200">Voyage 200</a> to rise to the top of your trig class. You don't even need <a href="{{site.url}}/assets/images/casio-calculator-watch.jpg" target="_blank" rel="noopener noreferrer" title="So, so, sweet...">this bad boy</a> (although it may help you attract the ladies).
 
 Carol Dweck, who I mentioned above, takes her growth mindset to break other preconceived notions. Practicing what she preached, she took up piano as an adult and learned to speak Italian in her 50's. This stands as a lesson to all adults who push away opportunities, assuming the old dog is unable to learn new tricks. Perhaps one reason that the growth mindset is hard to digest is the fact that it ultimately makes us accountable for our inabilities. It is far easier to ascribe them to a lack of God-given gift than confess that we have chosen to remain incapable. It's a tough pill to swallow but it is one that will do us a world of good. With increasing technology the world is evolving and changing faster than ever before. Futurist Alvin Toffler is quoted saying,
 
@@ -40,6 +40,6 @@ Carol Dweck, who I mentioned above, takes her growth mindset to break other prec
 
 Having a growth mindset is more important than it has ever been before. For fear of being left in the dust, I decided that for my "30 days of trying something new" I would learn how to use <a href="http://en.wikipedia.org/wiki/Drupal" target="_blank" rel="noopener noreferrer" title="Drupal">Drupal</a>. And I'm excited about it! I mean, it's no Mt. Kilimanjaro, but it's a start.
 
-<hr class="section-divider />
+<hr class="section-divider" />
 
 <small>\* Will you try something new for 30 days? If so, then I commend you! Please leave a comment and let me know what you want to do.</small>
