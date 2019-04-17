@@ -1,0 +1,83 @@
+---
+title: "My number one requirement for choosing a technology"
+date: 2019-04-16
+related: [
+  "Technical Myopia",
+  "Technology isn't the thing…",
+  "Don't Optimize Performance Prematurely"
+]
+---
+
+There's a lot of things to balance when you're choosing a technology for your next project. Cost, scalability, learning-curve, maintainability, support, security, etc.
+
+But for me, it all comes down to one requirement: **No nonsense**
+
+If you've been a developer for a while, then you know what nonsense is:
+
+  * Nonsense is chasing a torturous upgrade path when you don't even benefit from the changes.
+  * Nonsense is downstream dependencies putting Jira cards on your board at random times.
+  * Nonsense is too many unnecessary abstractions.
+  * Nonsense is poor documentation.
+  * Nonsense is design choices that take a long time for new developers to wrap their head around.
+  * Nonsense is trying to fit a popular technology into an awkward use-case just because someone wants to use it.
+  * Nonsense is when the surface area for security issues is larger than it needs to be.
+  * Nonsense is using a lot of tech to do something simple.
+  * Nonsense is time spent maintaining existing code that could be spent on other things.
+  * Nonsense is time spent building features that customers don't use or want.
+  * Nonsense is doing constant maintenance on your build and deployment process when you could be providing value to your users.
+
+I always get the same feeling when I run into nonsense. It's this frustration that I can't do my job because I have to  keep dealing with problems that shouldn't be problems in the first place. You know they shouldn't be problems because you've worked on other projects where they weren't problems.
+
+  * You've worked on projects where you don't have to constantly make updates for security issues in your dependencies.
+  * You've worked on projects where you can Google common errors and find help.
+  * You've worked on other projects where “things just work.”
+
+So how do you go about choosing technologies where “things just work?” Are some frameworks just inherently better? Do you just choose React, and call it a day?
+
+At Sparkbox we see a lot of different projects using a variety of technologies. After working for years in this environment, one thing starts to become clear: *avoiding nonsense is less about choosing the best framework, and more about making sure the shape of your technology fits the shape of the problem.*
+
+![Using a shape-fitting game to represent the shape of problems and the technologies that fit them]({{site.url}}/assets/images/shape-of-technology-and-problem.png)
+
+
+This makes sense but doing it well is non-trivial, mainly because:
+
+  1. We need to accurately know the shape of the technology.
+  2. We need to accurately know the shape of the problem.
+
+## The shape of the problem
+
+Knowing the shape of the problem means knowing the domain. It's knowing your users, and understanding what problems they hope to solve by using your software. It's knowing your industry and your company's place in it.
+
+> “You can't creatively help a business until you know how it works.”
+>
+> Chad Fowler, [The Passionate Programmer](https://www.amazon.com/Passionate-Programmer-Remarkable-Development-Pragmatic-ebook/dp/B00AYQNR5U)
+
+You can do this by being endlessly curious about the business, always asking questions about how things work. Doing this, even when there's no apparent benefit in the short term, is how you become a domain expert in the long term.
+
+## The shape of the technology
+
+Knowing the shape of the technology means knowing the strengths and weaknesses of a framework, library, or tool. It's knowing which contexts it was designed for and how far it can be stretched beyond those contexts.
+
+We have a problem though: It's risky to use a technology if you don't know it's shape, but it's hard to accurately know the shape of a technology if you haven't used it. Maybe React would be perfect for this project but how do we know if we've never used it before?
+
+We can visualize this as a risk spectrum:
+
+![A risk spectrum with known technologies on one side and unknown technologies on the other]({{site.url}}/assets/images/risk-spectrum.png)
+
+On one side, we're super-conservative (and very productive), working only with proven, well-known technologies.
+
+On the other side, we're taking risks by trying new technologies, and learning as we go.
+
+Being too risky means you'll likely choose the wrong shape somewhere in the stack and spend your development time dealing with nonsense. But being too conservative means you won't learn the shapes of new technologies knowledge that could be useful for future projects. You have to choose where you want to sit on this spectrum.
+
+If you look at the most innovative products out there (Tesla, etc.), you'll often find that they're using relatively boring technology behind the scenes. I'll bet that's intentional. You have to choose which layer you want to innovate on so they use off-the-shelf tech on the inconsequential layers so they can innovate on product. This is why the [Indie Hackers](https://www.indiehackers.com/) community is always saying [the best tech stack is the one you know](https://www.indiehackers.com/forum/best-tech-stack-2018-602cbc6dbf?commentId=-L9HUtmx9GQ898sd1qHy).
+
+Now, we can't always be super-conservative about our tech choices. Learning the shape of new technologies is [an investment](https://www.bryanbraun.com/2013/06/27/is-this-an-investment/) that helps us make future decisions. Certain projects lend themselves well to trying unfamiliar tech, like internal tools or websites with a short lifespan. Some people use their blogs as a playground, [intentionally over-engineering them](https://jlongster.com/Presenting-The-Most-Over-Engineered-Blog-Ever) as an excuse to learn some new tech. That's totally fine! There's a time for nonsense.
+
+## A perfect fit
+
+We have to make sure the shape of the problem drives the shape of our technology and not vice-versa. A lot of developer-built startups fail because they understand the tech well and their users poorly (which is how we get products like [Google Glass](https://en.wikipedia.org/wiki/Google_Glass)). It's better to start with the problem first and then choose the technology that fits it best.
+
+A lot of great things happen when you get a perfect fit. You build features more quickly and with less refactoring. Your team works together more effectively, with fewer necessary meetings. Developer on-boarding is easier. Codebase maintenance is easier. Everyone feels more productive because they are more productive.
+
+Nonsense can still happen, but it's much less likely.

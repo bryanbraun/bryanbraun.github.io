@@ -8,7 +8,7 @@ related: [
 ---
 
 
-Miegakure is a four-dimensional video game*. To win, you must solve problems that would normally be impossible in three dimensions... like using the fourth spatial dimension to walk through walls.
+[Miegakure](https://en.wikipedia.org/wiki/Miegakure) is a four-dimensional video game*. To win, you must solve problems that would normally be impossible in three dimensions... like using the fourth spatial dimension to walk through walls.
 
 How can this even be possible? [The demo videos](https://www.youtube.com/watch?v=9yW--eQaA2I) show how it works but it's not until you play it that things start to click, at least [according to one reviewer](https://www.rockpapershotgun.com/2014/03/18/miegakure-preview/):
 

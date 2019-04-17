@@ -1,5 +1,5 @@
 ---
-title: "How I Choose a Side Project"
+title: "How I choose a side project"
 date: 2016-11-13 18:27:14
 ---
 

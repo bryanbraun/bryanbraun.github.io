@@ -13,3 +13,7 @@ _site
 # gem, which does strict versioning of dependencies for us. See:
 # http://ben.balter.com/jekyll-style-guide/gitignore/#gemfilelock
 Gemfile.lock
+
+# I'm going to ignore drafts because I can't think of a reason I'd
+# want to push unfisnished posts up to github.
+_drafts

@@ -13,4 +13,4 @@ All, except for one, that is. I realize that it has been over a year since I las
 
 If you are the type that does look at baby pictures, then I hope these are as precious to you as they are to me (unlikely).
 
-<img alt="" src="/assets/images/Heidi-Grows.jpg" style="width: 800px; height: 4670px;" />
+<img alt="" src="/assets/images/Heidi-Grows.jpg" />
