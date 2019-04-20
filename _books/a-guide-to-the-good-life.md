@@ -1,7 +1,7 @@
 ---
 title: "A Guide to the Good Life"
 author: William B. Irvine
-date: 2015-06-25 21:53:21
+date: 2015-06-25
 categories: non-fiction
 rating: 4/5
 ---
