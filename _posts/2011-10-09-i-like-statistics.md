@@ -1,6 +1,7 @@
 ---
 title: "I Like Statistics"
 date: 2011-10-09 22:01:24
+redirect_from: /2012/09/09/i-statistics?page=3
 ---
 
 I like a lot of things... like Tetris, Newspapers, BYU Football, Ultimate Frisbee, and Jimmy Eat World.

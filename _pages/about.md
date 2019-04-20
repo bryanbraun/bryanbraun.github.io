@@ -4,6 +4,7 @@ title: About
 excerpt: I'm a web developer and designer, currently based in the American Midwest. I use design and code to inspire, educate, and empower humans.
 redirect_from: /who-is-bryan
 permalink: /about/
+redirect_from: /about/young-bryan/
 ---
 
 I'm a web developer and designer, currently based in the American Midwest. I use design and code to inspire, educate, and empower humans.

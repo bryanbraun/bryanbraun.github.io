@@ -1,6 +1,7 @@
 ---
 title: "How Big is the Internet?"
 date: 2010-12-18 23:49:34
+redirect_from: /2012/09/09/how-big-internet
 related: [
   "The Power of Infographics"
 ]

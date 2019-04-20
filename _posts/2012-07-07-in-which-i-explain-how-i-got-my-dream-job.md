@@ -1,6 +1,7 @@
 ---
 title: "In which I explain how I got my dream job"
 date: 2012-07-07 20:47:01
+redirect_from: /2012/09/09/which-i-explain-how-i-got-my-dream-job
 ---
 
 I am a recent graduate and I just accepted an offer for my dream job. I'm sharing this story because the process I went through to get to this point was incredible and definitely not typical!
