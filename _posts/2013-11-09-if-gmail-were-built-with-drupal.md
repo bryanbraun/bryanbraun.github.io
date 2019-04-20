@@ -1,9 +1,9 @@
 ---
 title: "If Gmail were built with Drupal"
 date: 2013-11-09 09:22:11
-redirect_from: /sites/default/files/if-gmail-were-
-redirect_from: /sites/default/files/if-gmail-were-built-with-drupal_sml.jpg
-
+redirect_from:
+  - /sites/default/files/if-gmail-were-built-with-drupal_sml.jpg
+  - /sites/default/files/if-gmail-were-
 related: [
   "Five basic principles for Drupal UIs that anyone can follow"
 ]

@@ -26,7 +26,7 @@ Marathons are 26.2 miles. Why on earth would anyone want to run so far?
 
 So here I am, wondering if this 2nd marathon will be my last... and then I got an idea. An awful idea. I got a wonderful, awful idea. I am going to run a very long race. Races longer than a marathon are called "Ultra-marathons" or "Ultra-distance races." It just so happens that the biggest "Ultra" in the world is in Durban, South Africa... and I'm dying for an excuse to get back to Durban.
 
-Known as "The Ultimate Human Race," The Comrades Ultra-Marathon is a 56 mile race, and the biggest (or most popular) such race in the world. These days, it is common for them to have between 18,000-24,000 participants. And I will be one of them. I haven't nailed down a specific year, but it is on <a href="http://bryanbraun.com/my-wish-list/" target="_blank" rel="noopener noreferrer" title="Bryan Braun's Wish List">my wish list</a>, and when the time is right, you will find me there.
+Known as "The Ultimate Human Race," The Comrades Ultra-Marathon is a 56 mile race, and the biggest (or most popular) such race in the world. These days, it is common for them to have between 18,000-24,000 participants. And I will be one of them. I haven't nailed down a specific year, but it is on my wish list, and when the time is right, you will find me there.
 
 Why?
 
