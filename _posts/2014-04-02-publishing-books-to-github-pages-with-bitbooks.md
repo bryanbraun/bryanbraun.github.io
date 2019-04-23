@@ -19,7 +19,7 @@ Anyone could publish a book like this (indeed, [several of you have][4]), but th
 Enter Bitbooks
 
 <p style="text-align: center;">
-  <a href="http://bitbooks.cc/"><img alt="" src="/assets/images/bitbooks-logo-long-sm.png" /></a>
+  <a href="https://web.archive.org/web/20150915034729/http://bitbooks.cc/"><img alt="" src="/assets/images/bitbooks-logo-long-sm.png" /></a>
 </p>
 
 I'm currently working on a project called [Bitbooks][5], which aims to make that whole process easier. Bitbooks will be a service that allows developers of any experience level to write and publish a copy of their book online.

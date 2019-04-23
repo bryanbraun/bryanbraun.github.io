@@ -9,7 +9,7 @@ related: [
 ]
 ---
 
-A while back I kept a blog called "<a href="http://windermeremarathon.blogspot.com/" title="The Spokountdown">The Spokountdown</a>," which I used to track my workouts as I prepared for <a href="http://winderthon.com/" title="The Spokane Marathon">the Spokane Marathon</a>. With each training run, I would post an image of the route I ran and briefly describe some of the more eventful things that happened.
+A while back I kept a blog called "<a href="http://windermeremarathon.blogspot.com/" title="The Spokountdown">The Spokountdown</a>," which I used to track my workouts as I prepared for <a href="http://thespokanemarathon.com/" title="The Spokane Marathon">the Spokane Marathon</a>. With each training run, I would post an image of the route I ran and briefly describe some of the more eventful things that happened.
 
 It never had a big following but I didn't care. That wasn't the point.
 

@@ -14,12 +14,12 @@ Yet, if you search for "how does X work" online, (whether X is a volcano, solar 
 
 > The future is already here — it's just not very evenly distributed - William Gibson
 
-But I've seen the future. It's how Lewis Lehe describes common transportation issues from [bus bunching][1] to [traffic waves][2]. It's how [the New York Times teaches whether is better to rent or buy][3]. It's structured courses like [Code Academy's Ruby track][4] and [Khan Academy's SQL course][5]. It's how [Mike Bostocks teaches about algorithms][6] and [Steven Witten's teaches about pixels][7]. It's this [series of explanations about advanced mathematical principles][8], [this essay on teaching with abstractions][9], and [this game][10] describing the forces influencing diversity and segregation.
+But I've seen the future. It's how Lewis Lehe describes common transportation issues from [bus bunching][1] to [traffic waves][2]. It's how [the New York Times teaches whether is better to rent or buy][3]. It's structured courses like Code Academy's Ruby track (RIP) and [Khan Academy's SQL course][5]. It's how [Mike Bostocks teaches about algorithms][6] and [Steven Witten's teaches about pixels][7]. It's this [series of explanations about advanced mathematical principles][8], [this essay on teaching with abstractions][9], and [this game][10] describing the forces influencing diversity and segregation.
 
 [1]: http://setosa.io/bus/
 [2]: http://ww2.kqed.org/lowdown/2013/11/12/traffic-waves/
 [3]: http://www.nytimes.com/interactive/2014/upshot/buy-rent-calculator.html?_r=0
-[4]: https://www.codecademy.com/tracks/ruby
+
 [5]: https://www.khanacademy.org/computing/computer-programming/sql
 [6]: http://bost.ocks.org/mike/algorithms/
 [7]: http://acko.net/files/gltalks/pixelfactory/online.html#0

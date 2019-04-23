@@ -42,7 +42,7 @@ Here's a couple rough thoughts.
  [8]: https://petitions.whitehouse.gov/
  [9]: https://archive.org/donate/index.php
  [10]: https://donate.creativecommons.org/
- [11]: http://nerdplusart.com/markdown-is-the-future/
+ [11]: https://en.wikipedia.org/wiki/Markdown
  [12]: https://www.kickstarter.com/
 
 Many of these ideas aren't new. There are success stories like [Wikipedia Zero][13], [Stack Overflow][14], [ReCaptcha][15], and [Google Summer of Code][16]. But we need more and better implementations. Each one is step towards a future where information is evenly distributed and available to all who need it.

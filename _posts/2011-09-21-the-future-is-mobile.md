@@ -5,11 +5,14 @@ date: 2011-09-21 18:12:45
 
 There was a time when cell phones were a just a fantasy of Science Fiction.
 
-<a href="http://bryanbraun.com/2011/09/21/the-future-is-mobile/star-trek-communicator/" rel="attachment wp-att-698"><img alt="" class="size-medium wp-image-698 alignleft" height="222" src="/assets/images/star-trek-communicator.jpg" title="star-trek-communicator" width="300" /></a><a href="http://bryanbraun.com/2011/09/21/the-future-is-mobile/get-smart-phone/" rel="attachment wp-att-699"><img alt="" class="aligncenter size-full wp-image-699" height="253" src="/assets/images/GET-SMART-phone.jpeg" title="GET-SMART-phone" width="200" /></a>
+<p style="text-align: center;">
+  <img alt="" src="/assets/images/star-trek-communicator.jpg" title="star-trek-communicator" />
+  <img alt="" src="/assets/images/GET-SMART-phone.jpeg" title="GET-SMART-phone" />
+</p>
 
 Things have changed.
 
-We've used cell phones for about 15 years now and in those 15 years we've seen the powerful grip that they have on modern life. They've changed from a luxury, to a convenience, and then to a necessity. I got my first cell phone in 2008, at age 21. Today, <a href="http://www.csu.nisra.gov.uk/Mobile_phone_ownership_by_sex_and_age_Trend.htm" target="_blank" rel="noopener noreferrer" title="Mobile phone stats">only 2% of 21 yr olds</a> don't have a cell phone. Living without a cell phone today is like living off-the-grid.
+We've used cell phones for about 15 years now and in those 15 years we've seen the powerful grip that they have on modern life. They've changed from a luxury, to a convenience, and then to a necessity. I got my first cell phone in 2008, at age 21. Today, <a href="https://www.pewinternet.org/fact-sheet/mobile/" target="_blank" rel="noopener noreferrer" title="Mobile phone stats">only 2% of 21 yr olds</a> don't have a cell phone. Living without a cell phone today is like living off-the-grid.
 
 To illustrate how powerful the incentive to go mobile is, I quote <a href="http://www.amazon.com/Business-Model-Generation-Visionaries-Challengers/dp/0470876417" target="_blank" rel="noopener noreferrer" title="Business Model Generation">a sweet book</a>.
 

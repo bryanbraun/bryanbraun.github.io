@@ -8,11 +8,13 @@ related: [
 
 One of the most potent trends today is to help us understand data by representing it graphically in a compelling way. The more compelling it is, the easier it is to remember. Decoding and redesigning the data can be challenging and time-consuming. It requires a rare combination of artistic and technical skill. However, the results are very rewarding.
 
-Consider how much you learn from this simple diagram of <a href="http://www.andrewkelsall.com/christiangraphicdesign/the-muslim-population" title="Muslim Population Article">the Muslim population</a>: [<img alt="Muslim Population Infographic" class="aligncenter size-full wp-image-120" height="403" src="/assets/images/muslim-infographic.jpg" title="muslim-infographic" width="490" />][1]
+Consider how much you learn from this simple diagram of the Muslim population:
+
+<a href="/assets/images/muslim-infographic.jpg">
+  <img alt="Muslim Population Infographic" src="/assets/images/muslim-infographic.jpg" title="muslim-infographic" />
+</a>
 
 What did you learn in the last 5 seconds? Maybe that Al Qaeda doesn't represent even a tiny fraction of Muslims. Or perhaps that the Muslim population is much larger than you previously thought. I am sure that I will not remember the numbers in this image, but there is something about the diagram that changes my perspective and makes the concept memorable. Here are some other infographics and visualizations that you will never forget:
-
-[1]: /assets/images/muslim-infographic.jpg
 
 ## 1. Did You Know
 
@@ -22,13 +24,17 @@ What did you learn in the last 5 seconds? Maybe that Al Qaeda doesn't represent 
 
 A neat infographic that compares the billion dollar sums we hear about in the news and scales them accordingly (click for full image).
 
-<a href="http://www.informationisbeautiful.net/visualizations/the-billion-dollar-o-gram-2009/"><img alt="Billion dollar infographic" src="/assets/images/billion.jpg" /></a>
+<a href="http://www.informationisbeautiful.net/visualizations/the-billion-dollar-o-gram-2009/">
+  <img alt="Billion dollar infographic" src="/assets/images/billion.jpg" />
+</a>
 
 ## 3. US Debt Clock
 
 A running clock that is calculating various aspects of the US national debt (click to see it run in real time).
 
-<a href="http://www.usdebtclock.org/"><img alt="US Debt Clock" src="/assets/images/debt_clock.jpg" /></a>
+<a href="http://www.usdebtclock.org/">
+  <img alt="US Debt Clock" src="/assets/images/debt_clock.jpg" />
+</a>
 
 ## 4. 200 Countries, 200 Years, 4 Minutes
 

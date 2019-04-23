@@ -1,7 +1,9 @@
 ---
 title: "You don't have to be amazing… you just have to be consistent"
 date: 2013-06-25 06:44:38
-redirect_from: /2013/06/25/you-dont-have-to-be-amazing…-you-just-have-to-be-consistent
+redirect_from:
+ - /2013/06/25/you-dont-have-to-be-amazing…-you-just-have-to-be-consistent
+ - /2013/06/25/you-dont-have-to-be-amazing%E2%80%A6-you-just-have-to-be-consistent
 related: [
   "Snowboarding and Quitting"
 ]

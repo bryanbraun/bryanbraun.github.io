@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "On Students Solving \"Real World\" Problems"
 date: 2014-09-10 21:37:36
 ---

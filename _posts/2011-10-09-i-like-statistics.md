@@ -85,8 +85,8 @@ Does it really matter which web browser everybody uses. Probably not. But it's k
 
 Last but not least is the wealth of public data collected by governments and independent researchers all over the world. Most of the time, they <a href="http://www.youtube.com/watch?v=cMDqP0oy7_4" target="_blank" rel="noopener noreferrer" title="2010 Census: A Difficult Process">work their buns off</a> to get this data and then they just throw this stuff up on the internet for the public (aka "me") benefit. They've got everything from data sheets to reports to interactive maps. I love it. Here are the goods:
 
-* <a href="http://2010.census.gov/2010census/data/" target="_blank" rel="noopener noreferrer" title="The 2010 US Census">The 2010 US Census</a>
-* <a href="https://www.prb.org/Publications/Datasheets/2011/world-population-data-sheet/#/map/population" target="_blank" rel="noopener noreferrer" title="The World Population Data Sheet">The World Population Data Sheet</a>
+* <a href="https://www.census.gov/programs-surveys/decennial-census/data/datasets.2010.html" target="_blank" rel="noopener noreferrer" title="The 2010 US Census">The 2010 US Census</a>
+* <a href="https://www.prb.org/2011-world-population-data-sheet-2/" target="_blank" rel="noopener noreferrer" title="The World Population Data Sheet">The World Population Data Sheet</a>
 * <a href="http://people-press.org/" target="_blank" rel="noopener noreferrer" title="The Pew Research Center">The Pew Research Center</a>
 
 So you can call me crazy if you like but I love this kind of stuff. And don't hold out on me! Tell me if I'm missing any great websites on this list. It's all about sharing the wealth.

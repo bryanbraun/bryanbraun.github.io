@@ -17,7 +17,7 @@ The purpose of this article is to describe how to set up automated testing for y
 * **Open source workflow friendly** - We want a solution that optimized for open source contribution workflows. Specifically, we want to automatically run tests for Github Pull Requests, using Travis CI (free for open source projects).
 * **Minimal viable infrastructure** - Start the testing infrastructure out small, with the ability to grow it as needed.
 
- [2]: http://blog.keithcirkel.co.uk/why-we-should-stop-using-grunt/
+ [2]: https://www.keithcirkel.co.uk/why-we-should-stop-using-grunt/
  [3]: http://blog.millermedeiros.com/node-js-protip-avoid-global-test-runners/
 
 Is this too much to ask? Not at all. Let's get it set up.
@@ -29,10 +29,9 @@ There are many Javascript-specific testing frameworks out there and I won't do a
  [4]: http://stackoverflow.com/a/680713/1154642
  [5]: https://coderwall.com/p/ntbixw/javascript-test-framework-comparison
 
-We can use the [NPM package manager][6] to do several important things for us, like manage our testing dependencies and run our test commands. It's also nice to [make your library available for download on npm][7].
+We can use the [NPM package manager][6] to do several important things for us, like manage our testing dependencies and run our test commands. It's also nice to make your library available for download on npm.
 
  [6]: https://docs.npmjs.com/
- [7]: https://gist.github.com/coolaj86/1318304
 
 To start, we'll use NPM to download Jasmine. Create and save a file called `package.json`, that looks like this:
 
@@ -53,9 +52,9 @@ Then install the modules referenced by `package.json`:
 npm install
 ```
 
-This installs jasmine-core into a newly created directory in your project called `node_modules`. You'll want to [.gitignore][8] this directory.
+This installs jasmine-core into a newly created directory in your project called `node_modules`. You'll want to [.gitignore][7] this directory.
 
- [8]: http://git-scm.com/docs/gitignore
+ [7]: http://git-scm.com/docs/gitignore
 
 Now we're going to set up minimum viable Jasmine testing. I like to keep all my testing stuff in a `test` folder that we can start out looking like this:
 
@@ -77,9 +76,9 @@ describe("A suite", function() {
 });
 ```
 
-Then, in `SpecRunner.html` (we could name it anything, but this is the name used in some Jasmine packages), we just make a basic html document that links in Jasmine's core files via script tags (as [mentioned in their README][9]).
+Then, in `SpecRunner.html` (we could name it anything, but this is the name used in some Jasmine packages), we just make a basic html document that links in Jasmine's core files via script tags (as [mentioned in their README][8]).
 
- [9]: https://github.com/jasmine/jasmine#installation
+ [8]: https://github.com/jasmine/jasmine#installation
 
 ```html
 <!DOCTYPE html>
@@ -106,19 +105,19 @@ Then, in `SpecRunner.html` (we could name it anything, but this is the name used
 </html>
 ```
 
-Now you should be able to open `SpecRunner.html` in any browser, and the act of loading the page will run the tests in `mySpec.js`, and display the results. This is sufficient setup for you to read through Jasmine's docs and write tests for features in your library. One note: You could add html in the body tag to test against, but since we'll be automating this process, it's better to dynamically create and delete markup in Jasmine's `beforeEach` and `afterEach` functions. If your library works with the DOM a lot, you may want to look into a tool like [jasmine-fixture][10].
+Now you should be able to open `SpecRunner.html` in any browser, and the act of loading the page will run the tests in `mySpec.js`, and display the results. This is sufficient setup for you to read through Jasmine's docs and write tests for features in your library. One note: You could add html in the body tag to test against, but since we'll be automating this process, it's better to dynamically create and delete markup in Jasmine's `beforeEach` and `afterEach` functions. If your library works with the DOM a lot, you may want to look into a tool like [jasmine-fixture][9].
 
- [10]: https://github.com/searls/jasmine-fixture
+ [9]: https://github.com/searls/jasmine-fixture
 
 ## Automating our Tests
 
-Now we can write a variety of tests in Javascript and run them manually in any Browser. If you were to stop right here, you'd already be doing better than a large number of javascript projects. But we want the killer workflow, where [Github Pull Requests are automatically tested by TravisCI][11] before we decide to merge them.
+Now we can write a variety of tests in Javascript and run them manually in any Browser. If you were to stop right here, you'd already be doing better than a large number of javascript projects. But we want the killer workflow, where [Github Pull Requests are automatically tested by TravisCI][10] before we decide to merge them.
 
- [11]: http://blog.travis-ci.com/2012-09-04-pull-requests-just-got-even-more-awesome/
+ [10]: http://blog.travis-ci.com/2012-09-04-pull-requests-just-got-even-more-awesome/
 
-To automate tests, we need to be able to execute a command that runs our tests against a real browser behind the scenes, and return the results back to us. To do this for client side javascript in a way that is both high-fidelity and fast is actually pretty challenging, and we'll need to get some tools to help us. First we install [PhantomJS][12], a stripped-down UI-free webkit browser that we can test against:
+To automate tests, we need to be able to execute a command that runs our tests against a real browser behind the scenes, and return the results back to us. To do this for client side javascript in a way that is both high-fidelity and fast is actually pretty challenging, and we'll need to get some tools to help us. First we install [PhantomJS][11], a stripped-down UI-free webkit browser that we can test against:
 
- [12]: http://phantomjs.org
+ [11]: http://phantomjs.org
 
 ```bash
 npm install --save-dev phantomjs-prebuilt
@@ -126,9 +125,9 @@ npm install --save-dev phantomjs-prebuilt
 
 <small>*Update: it looks like [the PhantomJS project will soon be unmaintained](https://github.com/ariya/phantomjs/issues/15344). While existing versions will probably still work for a while, you may want to look into [headless Chrome](https://developers.google.com/web/updates/2017/06/headless-karma-mocha-chai) or other options for UI testing.*</small>
 
-Now we need a Test Runner... basically a command-line version of that `SpecRunner.html` file that will load the right files, run the tests, and report back the results. There are a few options out there. If you are already using grunt or gulp, then check out the integrations for those tools. Otherwise, we can save some complexity and go with a dedicated test runner like [Karma][13] (again, I'll leave out the comparisons here, but it suffices to say that Karma is modern, popular, robust, and actively maintained).
+Now we need a Test Runner... basically a command-line version of that `SpecRunner.html` file that will load the right files, run the tests, and report back the results. There are a few options out there. If you are already using grunt or gulp, then check out the integrations for those tools. Otherwise, we can save some complexity and go with a dedicated test runner like [Karma][12] (again, I'll leave out the comparisons here, but it suffices to say that Karma is modern, popular, robust, and actively maintained).
 
- [13]: http://karma-runner.github.io/0.12/index.html
+ [12]: http://karma-runner.github.io/0.12/index.html
 
 We can bring in Karma with npm:
 
@@ -139,9 +138,9 @@ npm install --save-dev karma karma-cli karma-jasmine karma-phantomjs-launcher
 
 Note: Karma is highly decoupled, which is why we are downloading several small packages instead of a massive one. This architecture allows it to interface with many possible environments, browsers, and frameworks.
 
-Karma setup is easy, just browse to our tests folder in your terminal and run [`$(npm bin)/karma init`][14]. Just answer the questions, and karma will generate the config file (`karma.conf.js`) for you (as a note: remember to indicate that we're testing with Jasmine against the PhantomJS browser).
+Karma setup is easy, just browse to our tests folder in your terminal and run [`$(npm bin)/karma init`][13]. Just answer the questions, and karma will generate the config file (`karma.conf.js`) for you (as a note: remember to indicate that we're testing with Jasmine against the PhantomJS browser).
 
- [14]: http://karma-runner.github.io/0.12/intro/configuration.html
+ [13]: http://karma-runner.github.io/0.12/intro/configuration.html
 
 Finally, we just need to set up a simple "scripts" command in `package.json`.
 
@@ -163,10 +162,10 @@ Now we can run our tests in the command line with npm test. If all goes well, it
 
 ## Setting up Github and Travis CI
 
-Now that we have automated tests, the final step is to connect it to [Travis CI][15]. You'll want to sign into Travis CI with your github profile, and grant it access to your repo. Then in the top level of your repo, you'll want to create a `.travis.yml` file, telling Travis what kind of project you have. [Here's the instructions][16], but in our case it'll look like this:
+Now that we have automated tests, the final step is to connect it to [Travis CI][14]. You'll want to sign into Travis CI with your github profile, and grant it access to your repo. Then in the top level of your repo, you'll want to create a `.travis.yml` file, telling Travis what kind of project you have. [Here's the instructions][15], but in our case it'll look like this:
 
- [15]: https://travis-ci.org/
- [16]: http://docs.travis-ci.com/user/languages/javascript-with-nodejs/
+ [14]: https://travis-ci.org/
+ [15]: http://docs.travis-ci.com/user/languages/javascript-with-nodejs/
 
 ```yaml
 language: node_js
@@ -180,9 +179,9 @@ Finally commit your changes and push your project, with it's new `test` folder, 
   <img alt="" src="/assets/images/build-passed.png" />
 </p>
 
-You can optionally add the [Travis badge][17] to your `README.md`, as a indicator that the tests are all passing.
+You can optionally add the [Travis badge][16] to your `README.md`, as a indicator that the tests are all passing.
 
- [17]: http://docs.travis-ci.com/user/status-images/
+ [16]: http://docs.travis-ci.com/user/status-images/
 
 <p style="text-align: center;">
   <img alt="" src="/assets/images/travis-badge.png" />

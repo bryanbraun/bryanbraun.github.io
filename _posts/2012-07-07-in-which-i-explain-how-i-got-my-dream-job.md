@@ -86,7 +86,7 @@ Then one day, out of the blue, I was asked if I would be interested in a positio
   <img alt="DC street with capitol building in the background" src="/assets/images/DC_capitol.jpg" style="width: 480px; height: 360px;" title="Capitol Building from my cell phone cam" />
 </p>
 
-I learned that the position would get me involved with <a href="https://twitter.com/#!/BryanEBraun/acquia-dc/members">really talented people</a> working on some challenging problems for prestigious projects. It was absolutely perfect! It wasn't much longer before I was made an offer for the job. I am both humbled and grateful for the opportunity to work with these amazing people.
+I learned that the position would get me involved with <a href="https://twitter.com/BryanEBraun/acquia-dc/members">really talented people</a> working on some challenging problems for prestigious projects. It was absolutely perfect! It wasn't much longer before I was made an offer for the job. I am both humbled and grateful for the opportunity to work with these amazing people.
 
 This whole process has been the experience of a lifetime and I couldn't think of a better way to transition out of school and into meaningful work. I know that the greatest challenges lie ahead but I feel ready to take them on with enthusiasm.
 

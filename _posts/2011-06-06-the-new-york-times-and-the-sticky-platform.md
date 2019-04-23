@@ -1,6 +1,7 @@
 ---
 title: "The New York Times and The Sticky Platform"
 date: 2011-06-06 01:56:36
+redirect_from: /2011/06/06/the-new-york-times-and-the-sticky-platform/
 ---
 
 I've recently started reading the <a href="http://en.wikipedia.org/wiki/The_New_York_Times" target="_blank" rel="noopener noreferrer" title="The New York Times - Wikipedia">New York Times</a>. It turns out that there is a place at BYU where I can pick up a copy each day for free!

@@ -47,21 +47,19 @@ Impressive, huh? Our web app is about 90% done. Hit me up if you are interested 
 
 The most remarkable thing about the whole event was the collaboration that existed between the teams. Whenever a team made a breakthrough, they'd cheer, and then the whole room would break into cheering and applause. This happened all weekend. We had teams going up to the mic, announcing that they needed design help, or assistance with facebook api's, and other teams would rise to assist them. I'd never seen competing teams help each other out like this. We were helping people run beta tests, liking new company pages as they sprouted up on facebook, and giving feedback to other teams. Here's the list of businesses that came out of our efforts.
 
-1.  FB Wedding Address Helper
-2.  <a href="http://www.tasquatch.com/" target="_blank" rel="noopener noreferrer" title="Business Task Management">Tasquach</a>
-3.  <a href="http://www.divorcify.com" target="_blank" rel="noopener noreferrer">Divorcify</a>
-4.  <a href="http://tweetgraph.com" target="_blank" rel="noopener noreferrer" title="Organzing data on Twitter">Tweet Graph</a>
-5.  Afterthought
-6.  <a href="http://cinchtool.com" target="_blank" rel="noopener noreferrer" title="URL Shortener for Mobile Optimization">Cinch</a> (tied for crowd favorite)
-7.  My Kart (1st place winner!)
-8.  Price my MRI
-9.  Unicorn sex appeal (2nd place winner!)
-10. <a href="http://www.geekspression.com" target="_blank" rel="noopener noreferrer" title="Social Skills Mentoring">Geeksperssion</a>
-11. <a href="http://hackladder.com/" target="_blank" rel="noopener noreferrer" title="Battle other hackers in real time">Hack Ladder</a> (tied for crowd favorite)
-12. <a href="http://uncoolpoints.com/" target="_blank" rel="noopener noreferrer" title="Awkward moments and epic fails">Uncool points</a>
+1. FB Wedding Address Helper
+2. Tasquach
+3. Divorcify
+4. Tweet Graph
+5. Afterthought
+6. Cinch (tied for crowd favorite)
+7. My Kart (1st place winner!)
+8. Price my MRI
+9. Unicorn sex appeal (2nd place winner!)
+10. Geeksperssion
+11. Hack Ladder (tied for crowd favorite)
+12. Uncool points
 13. Rate my tenants (3rd place winner!)
 14. Buttermilk
 
-All in all, it was challenging, fun, and totally epic. What a <a href="https://plus.google.com/u/0/photos/108784862762109908540/albums/5705740759936923409" target="_blank" rel="noopener noreferrer" title="Check out these photos">memorable experience</a>! If you have interests or skills in this kind of stuff, I highly recommend you participate in the next one.  Odds are, you'll see me there too.
-
- 
+All in all, it was challenging, fun, and totally epic. What a memorable experience! If you have interests or skills in this kind of stuff, I highly recommend you participate in the next one.  Odds are, you'll see me there too.

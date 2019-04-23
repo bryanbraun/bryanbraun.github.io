@@ -54,7 +54,7 @@ A rebuild of my site on Wordpress. I didn't design or code any of this. It was a
 
 ### Version 3
 ![Screenshot of bryanbraun.com, version 3]({{site.url}}/assets/images/bryanbraun-com3.png)
-A rebuild of my site on Drupal. It was originally built on [Drupal Gardens](https://www.drupalgardens.com/), where I wrote CSS overrides on top of a gardens theme until it looked like I wanted. The design was heavily inspired by [Mailchimp's design at the time](https://web.archive.org/web/20111224033605/http://mailchimp.com/). I exported that hacked theme and self-hosted it on [Bluehost](www.bluehost.com/track/bryanbra/).
+A rebuild of my site on Drupal. It was originally built on Drupal Gardens, where I wrote CSS overrides on top of a gardens theme until it looked like I wanted. The design was heavily inspired by [Mailchimp's design at the time](https://web.archive.org/web/20111224033605/http://mailchimp.com/). I exported that hacked theme and self-hosted it on [Bluehost](https://www.bluehost.com/).
 
 ### Version 4
 ![Screenshot of bryanbraun.com, version 4]({{site.url}}/assets/images/bryanbraun-com4.png)

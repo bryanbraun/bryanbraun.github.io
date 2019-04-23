@@ -20,27 +20,25 @@ The story is quite simple. I am a <a href="http://bryanbraun.com/who-is-bryan">f
 
 This theme was designed using three driving principles:
 
-*   Brutally simple design
-*   Fantastic typography
-*   Support for code snippets
+* Brutally simple design
+* Fantastic typography
+* Support for code snippets
 
 These principles guided me through the trade-offs and helped me make various design decisions. Let's get into the details.
 
-<h2 id="brutally-simple">
-  Brutally simple design
-</h2>
+<h2 id="brutally-simple">Brutally simple design</h2>
 
 Developers have different needs than other bloggers. They don't need sponsors or advertisements. They don't need dancing emoticons or <a href="http://wordpress.org/extend/themes/chinese-love" title="Behold... it exists.">pink text on a purple background</a>. They need... well, I wasn't exactly sure what they needed. So I began asking them.
 
 Design-wise, the answer was always "something simple." Basic. Clean. As I continued my research, I looked up the blogs of many prolific developers to see what designs they used. Lo, and behold, the pattern was the same: "something simple."
 
-*   <a href="http://veen.com/jeff/">Blog of Jeffrey Veen</a> - Designer, author, past employee for Google, and Adobe. Founder at Typekit, Adaptive Path, Wired Magazine, and <a href="http://aneventapart.com/speakers/jeffrey-veen?/speakers/jeffveen/">others</a>. Seriously, he invented, like, half the internet.
-*   <a href="http://evhead.com">Blog of Evan Williams</a> - Created two of the Internet's top ten websites (Blogger and Twitter), among other projects. His "something simple" design preference is also evident on the website of his newest startup, <a href="https://medium.com/what-i-learned-building/4191574378">Medium</a>.
-*   <a href="http://www.markboulton.co.uk/journal">Blog of Mark Boulton</a> - Top designer, author, conference speaker, publisher. He founded a <a href="http://www.markboultondesign.com/" title="Mark Boulton Design">design studio in his name</a>. Need I say more?
-*   <a href="http://blog.nickd.org/">Blog of Nick Disabato</a> - An <a href="http://nickd.org/bio/">accomplished</a> designer and publisher
-*   <a href="http://37signals.com/svn">The 37 Signals Blog</a> - Official blog of an influential software company, highly regarded for it's success and <a href="http://37signals.com/rework" target="blank">refreshing attitudes about business</a>.
-*   <a href="http://www.coderholic.com/">Blog of Ben Dowling</a> - Engineer at Facebook, iPhone developer and founder of <a href="http://www.coderholic.com/about/">other projects.</a>
-*   <a href="http://nicolasgallagher.com/">Blog of Nicholas Gallagher</a> - Front-end engineer at <a href="http://twitter.com">Twitter</a> and [open source contributor][2]
+* <a href="http://veen.com/jeff/">Blog of Jeffrey Veen</a> - Designer, author, past employee for Google, and Adobe. Founder at Typekit, Adaptive Path, Wired Magazine, and <a href="http://aneventapart.com/speakers/jeffrey-veen?/speakers/jeffveen/">others</a>. Seriously, he invented, like, half the internet.
+* <a href="https://web.archive.org/web/20121206144518/http://evhead.com/">Blog of Evan Williams</a> - Created two of the Internet's top ten websites (Blogger and Twitter), among other projects. His "something simple" design preference is also evident on the website of his newest startup, <a href="https://medium.com/what-i-learned-building/4191574378">Medium</a>.
+* <a href="http://www.markboulton.co.uk/journal">Blog of Mark Boulton</a> - Top designer, author, conference speaker, publisher. He founded a <a href="http://www.markboultondesign.com/" title="Mark Boulton Design">design studio in his name</a>. Need I say more?
+* <a href="https://web.archive.org/web/20130713123126/http://blog.nickd.org/">Blog of Nick Disabato</a> - An accomplished designer and publisher.
+* <a href="http://37signals.com/svn">The 37 Signals Blog</a> - Official blog of an influential software company, highly regarded for it's success and <a href="http://37signals.com/rework" target="blank">refreshing attitudes about business</a>.
+* <a href="http://www.coderholic.com/">Blog of Ben Dowling</a> - Engineer at Facebook, iPhone developer and founder of <a href="http://www.coderholic.com/about/">other projects.</a>
+* <a href="http://nicolasgallagher.com/">Blog of Nicholas Gallagher</a> - Front-end engineer at <a href="http://twitter.com">Twitter</a> and [open source contributor][2].
 
  [2]: http://nicolasgallagher.com/about/
 
@@ -48,25 +46,21 @@ Design-wise, the answer was always "something simple." Basic. Clean. As I contin
 
 After checking out those designs and being sufficiently inspired, I brought my favorite attributes from all of them into Writer. Some of those attributes were:
 
-*   Three-tone color Palette: #F7F7F7, #888888, #292929 (There's just something nice about nearly-black on nearly-white)
-*   Single column layout. Say no to sidebars.
-*   The golden ratio (1:1.62) was used for font and line-height relationships.
+* Three-tone color Palette: #F7F7F7, #888888, #292929 (There's just something nice about nearly-black on nearly-white)
+* Single column layout. Say no to sidebars.
+* The golden ratio (1:1.62) was used for font and line-height relationships.
 
-<h2 id="typography">
-  Fantastic Typography
-</h2>
+<h2 id="typography">Fantastic Typography</h2>
 
 On a design this simple, the typography is extremely important. This theme uses three fantastic fonts:
 
-*   <a href="http://www.google.com/webfonts/specimen/Merriweather" target="_blank" rel="noopener noreferrer">Merriweather</a> - slab serif (titles and body text), by <a href="https://plus.google.com/106288796449831139244" target="_blank" rel="noopener noreferrer">Eben Sorkin</a>
-*   <a href="http://www.google.com/webfonts/specimen/Lato" target="_blank" rel="noopener noreferrer">Lato</a> - sans serif (header, footer, and dates), by <a href="https://plus.google.com/106163021290874968147" target="_blank" rel="noopener noreferrer">Lukasz Dziedzic</a>
-*   <a href="http://www.google.com/webfonts/specimen/Inconsolata" target="_blank" rel="noopener noreferrer">Inconsolata</a> - monospace (code snippets), by <a href="http://levien.com" target="_blank" rel="noopener noreferrer">Raph Levien</a>
+* <a href="http://www.google.com/webfonts/specimen/Merriweather" target="_blank" rel="noopener noreferrer">Merriweather</a> - slab serif (titles and body text), by <a href="https://plus.google.com/106288796449831139244" target="_blank" rel="noopener noreferrer">Eben Sorkin</a>
+* <a href="http://www.google.com/webfonts/specimen/Lato" target="_blank" rel="noopener noreferrer">Lato</a> - sans serif (header, footer, and dates), by <a href="https://plus.google.com/106163021290874968147" target="_blank" rel="noopener noreferrer">Lukasz Dziedzic</a>
+* <a href="http://www.google.com/webfonts/specimen/Inconsolata" target="_blank" rel="noopener noreferrer">Inconsolata</a> - monospace (code snippets), by <a href="http://levien.com" target="_blank" rel="noopener noreferrer">Raph Levien</a>
 
 These fonts are all hosted by Google Fonts and it's almost embarrassing how much time I put into finding and selecting them. Huge thanks to these font builders who chose to share their craft free of charge. I'm really pleased with the result.
 
-<h2 id="code-snippets">
-  Support for Code Snippets
-</h2>
+<h2 id="code-snippets">Support for Code Snippets</h2>
 
 If you had 4 hours to dig around through Drupal contributed modules and third party libraries, you could figure out a way to get styled code snippets on your site. But you don't have that kind of time, so Writer comes with 4 code styles out of the box. Just go to the theme's settings (at `/admin/build/themes/settings/writer` for Drupal 6, and `/admin/appearance/settings/writer`, for Drupal 7) and select the one you want.
 

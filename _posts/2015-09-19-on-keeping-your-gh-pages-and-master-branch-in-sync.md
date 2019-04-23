@@ -9,7 +9,7 @@ related: [
 When I first started using Github pages for projects with static demos, I worried a lot about keeping my master branch in sync with my Github pages branch. I scoured the web for approaches and [found several][1], but [they][2] always seemed like a hassle.
 
  [1]: http://lea.verou.me/2011/10/easily-keep-gh-pages-in-sync-with-master/
- [2]: http://jgoodall.me/posts/2012/10/26/keep-gh-pages-in-sync-with-master/
+ [2]: https://web.archive.org/web/20141007124914/https://jgoodall.me/posts/2012/10/26/keep-gh-pages-in-sync-with-master/
 
 I eventually landed on an approach that's so simple I don't even have to think about it: Just get rid of `master` and let the gh-pages branch be the main branch for your code.
 

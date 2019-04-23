@@ -292,7 +292,7 @@ var sum = (num1, num2) =&gt; num1 + num2;
 
       <td>
         <p>
-          Arrow (or "fat-arrow") functions are newly introduced as <a href="http://wiki.ecmascript.org/doku.php?id=harmony:arrow_function_syntax">part of the ES6 specification</a>. As such, they are only implemented in the most modern browsers (check <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions#Browser_compatibility">a compatibility table</a> for specifics). This example:
+          Arrow (or "fat-arrow") functions are newly introduced as <a href="https://www.ecma-international.org/ecma-262/6.0/#sec-arrow-function-definitions">part of the ES6 specification</a>. As such, they are only implemented in the most modern browsers (check <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions#Browser_compatibility">a compatibility table</a> for specifics). This example:
         </p>
 
         <pre>

@@ -32,7 +32,7 @@ That code snippet I showed you got called out by a tech lead who was reviewing m
 It was only afterward when I was researched the issue some more that I found that exact same piece of code in [Twitter Bootstrap][2], [HTML5 Boilerplate][3], and [Zurb Foundation][4]. Throwing an !important on all images in this way ensures flexible media and prevents content authors from unwittingly including fixed width images on a responsively themed site.
 
 [2]: https://github.com/twbs/bootstrap/blob/783e001786e21659a63aae2513a71bb73667c974/dist/css/bootstrap.css#L225
-[3]: https://github.com/h5bp/html5-boilerplate/blob/master/src/css/main.css#L251
+[3]: https://github.com/h5bp/html5-boilerplate/blob/v4.3.0/css/main.css#L285-L287
 [4]: https://github.com/zurb/foundation/blob/1f7efae3658caefc6752c47187bcae14276043fa/scss/foundation/components/_global.scss#L407
 
 But it's not just for responsive images. You can look through open-source CSS frameworks and find [other situations when using `!important` is appropriate][5]. They aren't common, but they exist. `!important` is in the spec for a reason.

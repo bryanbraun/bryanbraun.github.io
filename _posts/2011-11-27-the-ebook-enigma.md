@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'The eBook Enigma'
 date: 2011-11-27 20:41:54
 ---

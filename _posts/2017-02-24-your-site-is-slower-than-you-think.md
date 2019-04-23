@@ -30,7 +30,7 @@ When I looked at the average page load for that specific page, I learned that it
 
 ![Jeqe blog post average page load data]({{site.url}}/assets/images/performance-analytics-2.png)
 
-I'm picturing some [Technikon](http://www.bibl.u-szeged.hu/oseas_adsec/south_africa.htm) student waiting for 11 seconds trying to pull up my recipe on their phone, and it kind of makes me feel sick.
+I'm picturing some Technikon student waiting for 11 seconds trying to pull up my recipe on their phone, and it kind of makes me feel sick.
 
 Now my situation may seem exceptional, but if you have a decent amount of traffic, this problem is happening to you too. Look at the numbers. Even if you don't have as much international traffic as I do, there are more people visiting on mobile devices than you think. There are more people visiting with [slow connections](https://danluu.com/web-bloat/) than you think.
 

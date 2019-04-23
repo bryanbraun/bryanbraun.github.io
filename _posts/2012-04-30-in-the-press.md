@@ -29,9 +29,9 @@ If you missed the program, there will be a rebroadcast on Monday, April 30th at 
 
  [2]: https://bryanbraun.com/news
 
-But it didn't stop there! We got called up by a program that runs on Discovery Channel Canada called [Daily Planet](http://www.discoverychannel.ca/Showpage.aspx?sid=13287) which covers breakthroughs in science and technology from around the world. I volunteered to be interviewed for the show and put BYU in the national spotlight. How <a href="https://twitter.com/DailyPlanet/status/195296047327752193">cool</a> is that? One of the guys at BYU Media told me that it isn't often that <a href="http://watch.discoverychannel.ca/#clip666404" title="Our footage starts at about 4:45.">BYU gets to be featured on Discovery Channel</a>. It was an opportunity I couldn't pass up!
+But it didn't stop there! We got called up by a program that runs on Discovery Channel Canada called [Daily Planet](https://web.archive.org/web/20120510040430/http://www.discoverychannel.ca/Showpage.aspx?sid=13287) which covers breakthroughs in science and technology from around the world. I volunteered to be interviewed for the show and put BYU in the national spotlight. How <a href="https://twitter.com/DailyPlanet/status/195296047327752193">cool</a> is that? One of the guys at BYU Media told me that it isn't often that BYU gets to be featured on Discovery Channel. It was an opportunity I couldn't pass up!
 
-<a href="http://watch.discoverychannel.ca/#clip666404"><img alt="" src="/assets/images/Discovery2.jpg" title="Our footage starts at about 4:45." /></a>
+<img alt="Freeze frame of me being interviewed on the DailyPlanet show" src="/assets/images/Discovery2.jpg" title="Our footage starts at about 4:45." />
 
 And those are just the interviews. Several news outlets posted articles about our project, including these:
 
