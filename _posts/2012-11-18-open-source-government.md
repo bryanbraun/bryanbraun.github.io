@@ -18,4 +18,4 @@ I wrote <a href="https://dev.acquia.com/blog/open-source-public-sector" title="O
 
 Read the rest at <https://dev.acquia.com/blog/open-source-public-sector>
 
-[1]: http://news.cnet.com/8301-13505_3-9943809-16.html "Search Google for 'the economics of open source' and you'll find a cool TED talk on the economic benefits of open source."
+[1]: https://www.ted.com/talks/yochai_benkler_on_the_new_open_source_economics?language=en

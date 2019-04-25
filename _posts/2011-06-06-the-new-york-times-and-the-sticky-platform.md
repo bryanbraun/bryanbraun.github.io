@@ -18,27 +18,20 @@ Wait a minute. If this is true, then why is the New York Times so incredibly pop
 
 Clearly, the problem lies with me, not the New York Times. To be honest, I had a hard time understanding it. I mean, seriously. What is a hedge fund? Where on earth is Yemen? And what does the word "subpoenaed" even mean? Heck, I'm used to reading The Daily Universe where every other article is about dating etiquette, or Jimmer Fredette. It's great, but it's not exactly the most intellectually stimulating reading material out there. When you don't understand what you're reading, it is difficult to remember (or enjoy) because it doesn't "stick" (I am suddenly reminded of late nights as a freshman, chugging through my chemistry textbook). It was once explained to me that the mind is like a "sticky platform".
 
-[<img alt="" class="size-medium wp-image-527 alignright" src="/assets/images/Sticky11.png" style="width: 300px; height: 182px; float: left;" title="Sticky Platform 1" />][2][<img alt="" class="size-medium wp-image-528 alignright" src="/assets/images/Sticky21.png" style="width: 300px; height: 174px; float: right;" title="Sticky Platform 2" />][3]
+<p style="text-align: center;">
+  <img alt="" src="/assets/images/Sticky11.png" title="Sticky Platform 1" />
+</p>
 
- [2]: /assets/images/Sticky11.png
- [3]: /assets/images/Sticky21.png
-
- 
-
- 
-
- 
-
- 
-
- 
+<p style="text-align: center;">
+  <img alt="" src="/assets/images/Sticky21.png" title="Sticky Platform 2" />
+</p> 
 
 The platform is comprised of everything you already know and understand, whereas new concepts are like little boxes floating above the platform. The problem is, if you cannot connect the new concept to what you already know, it will float away and be forgotten.
 
 On the other hand, if it is closely related to something you know, it will float close enough to "stick" to the platform. Congratulations! You just learned something new! This concept is pretty intuitive. Consider the way we learn math. We could start teaching calculus to 1st graders, but that box is floating way up there, and there's no way it will stick. Instead, we start with numbers, counting, arithmetic, algebra, and trigonometry. Only then, will we be able to give calculus something to stick to. Maybe. (Calculus can be elusive...)
 
 <p style="text-align: center;">
-  <a href="/assets/images/Sticky-Platform-31.png"><img alt="" class="aligncenter size-full wp-image-524" height="271" src="/assets/images/Sticky-Platform-31.png" title="Sticky Platform 3" width="710" /></a>
+  <img alt="" src="/assets/images/Sticky-Platform-31.png" title="Sticky Platform 3" />
 </p>
 
 Others would call this learning "line upon line, and precept upon precept" (Does that ring a bell? Cue that <a href="http://www.youtube.com/watch?v=9yQkz77CngI" target="_blank" rel="noopener noreferrer" title="Line upon Line">"Saturday's Warrior" Music</a>).
@@ -47,13 +40,10 @@ Effective teachers always consider the sticky platform when teaching a subject (
 
  [4]: http://en.wikipedia.org/wiki/Schema_theory "Schema Theory - Wikipedia"
 
-<p style="text-align: center;">
-</p>
+Thinking about learning in terms of the sticky platform brings several valuable insights.
 
-Don't you wish that all your teachers were this effective? Thinking about learning in terms of the sticky platform brings several valuable insights.
-
-1.  Difficult and complex things (eg. rocket science or brain surgery) aren't beyond anybody's learning unless they do not build up their platform.
-2.  It is easiest to learn something when you know its context (this is why we learn geography best when using maps and why Wikipedia is so easy to understand!)
-3.  Skipping steps in your learning will not get you ahead.
+1. Difficult and complex things (eg. rocket science or brain surgery) aren't beyond anybody's learning unless they do not build up their platform.
+2. It is easiest to learn something when you know its context (this is why we learn geography best when using maps and why Wikipedia is so easy to understand!)
+3. Skipping steps in your learning will not get you ahead.
 
 So although the New York Times is floating up above my platform, I've decided to keep picking them up (and no, not for the purpose of impressing the ladies—I'm finished with that business). I figure, if I read enough of these newspapers, I'll build up my platform and get the context I need in order to make sense of them. And if you happen to know where Yemen is, then let me know.

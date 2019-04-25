@@ -7,7 +7,7 @@ date: 2011-12-04 23:37:59
 I love this commercial... especially the way the owl says "two-hoo!" He also sounds like the owl on Winnie the Pooh.
 
 <p>
-<iframe width="640" height="360" src="https://www.youtube.com/embed/LZ0epRjfGLw?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+  <iframe width="640" height="360" src="https://www.youtube.com/embed/LZ0epRjfGLw?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 </p>
 
 The world may never know... if it weren't for <a href="http://en.wikipedia.org/wiki/Enrico_Fermi">Enrico Fermi</a>.
@@ -25,7 +25,7 @@ I know, it's tempting to just say "probably like a million" and move on with you
 
 Now lets take our estimates and see if we can solve the problem:
 
-<a href="http://bryanbraun.com/2011/12/04/how-many-licks-does-it-take-to-get-to-the-center-of-a-tootsie-pop/pizza-math/"><img alt="Mathematical conversions, resulting in 840 pizzas a day" src="/assets/images/Pizza-Math.jpg" /></a>
+<img alt="Mathematical conversions, resulting in 840 pizzas a day" src="/assets/images/Pizza-Math.jpg" />
 
 That's a lot of pizza. And as you can see, it isn't complicated math. It's simple unit conversions.
 

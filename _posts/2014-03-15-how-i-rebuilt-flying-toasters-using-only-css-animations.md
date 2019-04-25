@@ -1,7 +1,10 @@
 ---
-layout: post
 title: "How I rebuilt \"Flying Toasters\" using only CSS animations"
 date: 2014-03-15 16:47:01
+related: [
+  "CSS Transitions VS Keyframe Animations",
+  "5 Takeaways from Learning CSS Grid"
+]
 ---
 
 One of my favorite classic screensavers from back in the day was "Flying Toasters," a part of the [After Dark][1] bundle.
@@ -67,7 +70,7 @@ By themselves, keyframes won't do anything. You need a CSS rule to call them wit
 
 But this won't really work. First, the background image will slide constantly, when what we want it to do is jump: 1st frame, 2nd frame, 3rd frame, 4th frame. Second, the animation will only run once by default, and we want it to run constantly. Finally once the animation runs once, we want it to run once in reverse, so the wings flap back up. You can [look up the values][3] that define these behaviors, but here's what it looks like when we add them in:
 
- [3]: http://docs.webplatform.org/wiki/tutorials/css_animations "CSS Animations Tutorial"
+ [3]: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations "CSS Animations Tutorial"
 
     <!-- update the HTML -->
     <div class="toaster animated"></div>

@@ -16,8 +16,10 @@ Daniel Pink wrote <a href="http://www.amazon.com/Drive-Surprising-Truth-About-Mo
 
 Intrinsic motivation is more powerful than incentive based motivation but it can be difficult to produce. Pink has a lot of suggestions on how to produce intrinsic motivation (I highly recommend the book, especially if you are ever in a situation where you're trying to motivate people) but I believe that motivation is only one part of the puzzle.
 
+Designing the task is also important. Imagine that you need to get 50 people to take a survey. There are only a handful of ways to do this well and tons of ways to mess it up. Consider this example:
+
 <p style="text-align: center;">
-  Designing the task is also important. Imagine that you need to get 50 people to take a survey. There are only a handful of ways to do this well and tons of ways to mess it up. Consider this example: <a href="http://bryanbraun.com/2011/10/03/how-to-get-people-to-do-what-you-want-them-to-do/survey_fail/" rel="attachment wp-att-714"><img alt="Poor Survey Design" class="aligncenter size-full wp-image-714" height="438" src="/assets/images/Survey_Fail.gif" title="Survey_Fail" width="766" /></a>
+  <img alt="Poor Survey Design" src="/assets/images/Survey_Fail.gif" title="Survey_Fail" />
 </p>
 
 This may be an extreme example but you get the picture. There is a lot that you can do on your end to improve your odds of getting your 50 responses.

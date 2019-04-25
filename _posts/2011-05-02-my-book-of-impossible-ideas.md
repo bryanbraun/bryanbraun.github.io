@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "My Book of Impossible Ideas"
 date: 2011-05-02 00:33:41
 ---
@@ -16,15 +15,17 @@ Here are a couple ideas I recently put in there.
 
 ### 1. The Moon Mill
 
-### [<img alt="My Book of Impossible Ideas" class="size-full wp-image-428     alignright" height="249" src="/assets/images/my-idea-book.jpg" style="margin-left: 20px; margin-bottom: 15px;" width="191" />][1]
-
- [1]: /assets/images/my-idea-book.jpg
+<p style="text-align: center;">
+  <img alt="My Book of Impossible Ideas" src="/assets/images/my-idea-book.jpg" />
+</p>
 
 I was thinking about solar energy and I realized that almost every kind of energy we use on this planet came from the Sun. The energy in food, hydroelectric power, even fossil fuels can trace their energy back to the Sun. So I started to wonder where we could get energy that didn't come from the Sun. That's when I realized that there is an incredible amount of kinetic energy stored in the momentum of the Moon as it orbits the earth. Maybe we could take some energy from it's motion just like a mill takes energy from moving water (see diagrams).
 
-### 2. The Sneeze Catcher[<img alt="" class="alignright" height="120" src="http://www.toyday.co.uk/shop/images/uploads/thumbs/thumb_disguise_set.jpg" style="margin-left: 30px; margin-right: 30px;" title="Sneeze Catcher" width="120" />][2]
+### 2. The Sneeze Catcher
 
- [2]: http://www.toyday.co.uk/shop/images/uploads/thumbs/thumb_disguise_set.jpg
+<p style="text-align: center;">
+  <img alt="" src="http://www.toyday.co.uk/shop/images/uploads/thumbs/thumb_disguise_set.jpg" title="Sneeze Catcher" />
+</p>
 
 While I was looking for alternative forms of energy, I remembered a factiod that <a href="http://en.wikipedia.org/wiki/Fred_Ott%27s_Sneeze" target="_blank" rel="noopener noreferrer" title="Fred Ott's Sneeze">a human sneeze </a>can travel up to 100 miles per hour. Now that's powerful! I figured that if you could retrofit a pair of disguise glasses with some small turbines in the nose and mustache, then the wearer would be able to harvest energy from the sneeze. Maybe if you sneezed enough times then you could store the energy and use it to charge your cellphone. It brings a whole new meaning to "going green" (wah, wah, waaaah... bad pun).
 
@@ -36,4 +37,6 @@ It reminds me of <a href="http://bjzc.org/lib/99/ywyz/ts099092.pdf" target="_bla
 
 And who knows? Maybe my pair of laser beam underwear isn't that farfetched after all.
 
-*UPDATE: Do you have a crazy or impossible idea you want to share? Just add it to the comments!
+<hr class="section-divider" />
+
+Do you have a crazy or impossible idea you want to share? Just add it to the comments!

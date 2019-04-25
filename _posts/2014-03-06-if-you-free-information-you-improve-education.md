@@ -1,7 +1,9 @@
 ---
-layout: post
 title: "If you Free Information, you Improve Education"
 date: 2014-03-06 06:47:46
+related: [
+  "How do we free information?"
+]
 ---
 
 Since I took the plunge and became a web developer full time, the knowledge I've learned has come from thousands of resources, nearly all of them online. Blog posts, instructional videos, demos, forums, and books, to name a few. These resources enabled me to develop the skills I needed.
@@ -14,7 +16,7 @@ I hear people in education talk about technology in the classroom, and don't get
 
 There are hundreds of approaches to freeing information, from [President Obama's Open Government initiative][1] to the legally murky activities of [Hacktivist groups][2]. Crowdsourcing projects like [FreeBase][3] or [Wikipedia][4] free information by tapping the wisdom of the crowd. Organizations like [Creative Commons][5] provide a licensing framework around the free release of creative works like art, writing, and music. It's not hard to [come up with ideas][6] on how to contribute, and each effort chips away at the problem.
 
- [1]: http://www.whitehouse.gov/open/documents/open-government-directive
+ [1]: https://obamawhitehouse.archives.gov/open/documents/open-government-directive
  [2]: http://en.wikipedia.org/wiki/Hacktivism
  [3]: http://www.freebase.com/
  [4]: http://en.wikipedia.org/wiki/Main_Page

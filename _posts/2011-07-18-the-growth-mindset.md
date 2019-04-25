@@ -18,7 +18,7 @@ The essence of the growth mindset is that knowledge and skill is dynamic and mal
 
 And they are wrong.
 
-They can understand technology. They could be a 'people person'. One BYU article, <a href="http://ctl.byu.edu/showArchivePage.php?&pageUID=RWE9RzOVdsaW" target="_blank" rel="noopener noreferrer" title="The Growth Mentality">The Growth Mentality</a>, discusses learning from a neuroscience perspective. With each thing we learn, we physically grow new neural pathways in our brain. From a biological perspective, the brain develops like a muscle that grows stronger with exercise. While it is true that some start out with more talent than others, natural talent is only a small part of the equation. Consider the graph below:
+They can understand technology. They could be a 'people person'. One BYU article, <a href="https://entertolearn.byu.edu/growth-mentality" target="_blank" rel="noopener noreferrer" title="The Growth Mentality">The Growth Mentality</a>, discusses learning from a neuroscience perspective. With each thing we learn, we physically grow new neural pathways in our brain. From a biological perspective, the brain develops like a muscle that grows stronger with exercise. While it is true that some start out with more talent than others, natural talent is only a small part of the equation. Consider the graph below:
 
 <p style="text-align: center;">
   <img alt="Skill as a function of Time" src="/assets/images/Skill-time.gif" />

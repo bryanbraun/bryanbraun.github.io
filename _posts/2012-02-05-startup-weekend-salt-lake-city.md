@@ -10,7 +10,9 @@ This last weekend, my experience at StartUp Weekend Salt Lake City was the equiv
 We all ended up in a room containing food, snacks, wi-fi, whiteboads, and expert mentors from a variety of fields, from entrepreneurship, to online marketing, to windows phone mobile development, to legal consulting. We had free access to anything a web-developer could possible want. We got complimentary accounts for services like email marketing, Voice over IP, and a variety of web services. It was like getting dropped into a machine shop with tons of free raw materials and all the powertools in the world. We were ready to make stuff.
 
 <p style="text-align: center;">
-  <a href="http://instagr.am/p/nqj3c/"><img alt="The big room. Thanks to @austinmcraig for the photo." src="http://distilleryimage4.instagram.com/a1ac2f964ece11e19e4a12313813ffc0_7.jpg" style="width: 612px; height: 612px;" /></a>
+  <a href="http://instagr.am/p/nqj3c/">
+    <img alt="The big room. Thanks to @austinmcraig for the photo." src="{{site.url}}/assets/images/startup-weekend-slc.jpg" />
+  </a>
 </p>
 
 The energy in there was incredible. The air was buzzing with activity. While the developers we're throwing down code, the business guys were hitting the streets. Several teams drove over to the South Town mall and talked to pedestrains about their concepts, looking for feedback. One team that was building a facebook app for collecting facebook addresses got kicked out of a bridal fair twice. Another team made over 80 phone calls to potential customers. 80 phone calls!
@@ -25,22 +27,22 @@ I was on a team with six of these awesome guys. We had:
 *   2 Back-end Developers
 *   2 Front-end Developers (myself, included)
 
-Our mission was to build "Buttermilk," the simplest inventory-tracking web application in the world. Check out some of these slick designs by <a href="https://twitter.com/#!/davidscoville" target="_blank" rel="noopener noreferrer">David Scoville</a>:
+Our mission was to build "Buttermilk," the simplest inventory-tracking web application in the world. Check out some of these slick designs by <a href="https://twitter.com/davidscoville" target="_blank" rel="noopener noreferrer">David Scoville</a>:
 
 <p style="text-align: center;">
-  <img alt="" src="/assets/images/buttermilk1.jpg" style="width: 780px; height: 525px;" />
+  <img alt="" src="/assets/images/buttermilk1.jpg" />
 </p>
 
 <p style="text-align: center;">
-  <img alt="An inventory screen" src="/assets/images/buttermilk2.jpg" style="width: 780px; height: 562px;" />
+  <img alt="An inventory screen" src="/assets/images/buttermilk2.jpg" />
 </p>
 
 <p style="text-align: center;">
-  <img alt="An analytics screen" src="/assets/images/buttermilk3.jpg" style="width: 780px; height: 799px;" />
+  <img alt="An analytics screen" src="/assets/images/buttermilk3.jpg" />
 </p>
 
 <p style="text-align: center;">
-  <img alt="Overlay to order more inventory" src="/assets/images/buttermilk4.jpg" style="width: 780px; height: 647px;" />
+  <img alt="Overlay to order more inventory" src="/assets/images/buttermilk4.jpg" />
 </p>
 
 Impressive, huh? Our web app is about 90% done. Hit me up if you are interested in seeing the final product in all its glory.

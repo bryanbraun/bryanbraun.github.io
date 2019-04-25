@@ -21,7 +21,7 @@ I was sitting in a computer lab at BYU when I overheard two student employees at
   <img alt="history menu for the Wikipedia Game" src="/assets/images/history.jpg" title="history" />
 </div>
 
-When I first played it, it was way more fun than I expected. It is cool to see how you get from point A to point B (you can look in your browsing history to see the path you took). It is sort of analogous to the <a href="http://www.helium.com/items/954067-six-degrees-of-separation-explained" target="_blank" rel="noopener noreferrer" title="six degrees">six degrees of separation</a> concept. It is also fun to come up with the random topics.
+When I first played it, it was way more fun than I expected. It is cool to see how you get from point A to point B (you can look in your browsing history to see the path you took). It is sort of analogous to the <a href="https://en.wikipedia.org/wiki/Six_degrees_of_separation" target="_blank" rel="noopener noreferrer" title="six degrees">six degrees of separation</a> concept. It is also fun to come up with the random topics.
 
 You can even compete online with other players around the world at <a href="http://thewikigame.com/" target="_blank" rel="noopener noreferrer" title="The Wikipedia Game">thewikigame.com</a>. I'm warning you though... it can be addictive!
 

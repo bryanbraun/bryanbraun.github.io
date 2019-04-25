@@ -1,12 +1,11 @@
 ---
-layout: post
 title: "Remain Curious"
 date: 2012-04-08 17:46:56
 ---
 
 [David Bradford ][1]is considered by some to be "possibly the most networked man in the West." To use the term coined by Malcolm Gladwell, he's a <a href="http://en.wikipedia.org/wiki/Connector_%28social%29" target="_blank" rel="noopener noreferrer" title="Wikipedia: Connector">connector</a>. In fact, he actually introduced Malcolm Gladwell himself to <a href="http://en.wikipedia.org/wiki/Eric_Schmidt" target="_blank" rel="noopener noreferrer" title="Eric Schmidt">Eric Schmidt</a>, executive chairman of Google. David knows everybody, and having earned the nickname "The Human Internet," he is the connector of connectors. He's maxed out his number of friends on facebook. I'll bet you didn't know that was possible. It is.
 
- [1]: http://en.wikipedia.org/wiki/David_Bradford_%28businessman%29
+ [1]: http://www.davidbradford.com/
 
 David attributes much of his success to a natural curiousity about others. When I spoke to him, he asked "Where are you from, and what are you passionate about?" Then we spent the next three minutes talking about me.
 

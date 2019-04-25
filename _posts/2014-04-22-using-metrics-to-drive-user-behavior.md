@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Using Metrics to Drive User Behavior"
 date: 2014-04-22 12:08:59
 ---
@@ -8,12 +7,11 @@ When somebody uses your website or app, they are looking for clues to tell them 
 
 This desire for feedback is your tool as an interface designer. The metrics you give your users provide that feedback. They help them evaluate how they are doing and what they should do in the future.
 
-We all know [the importance of metrics][1]. The importance of [choosing the right metrics][2]. The [cost in choosing the wrong metrics][3]. For better or worse, metrics drive behavior, even to the point of improving the metric at the [expense of the principle][4] that the metric is supposed to represent.
+We all know the importance of metrics. The importance of [choosing the right metrics][1]. The [cost in choosing the wrong metrics][2]. For better or worse, metrics drive behavior, even to the point of improving the metric at the [expense of the principle][3] that the metric is supposed to represent.
 
- [1]: http://www.surepayroll.com/articles/business/manage-and-measure.asp
- [2]: http://blog.upworthy.com/post/75795679502/what-uniques-and-pageviews-leave-out-and-why-were
- [3]: http://time.com/12933/what-you-think-you-know-about-the-web-is-wrong/
- [4]: http://sethgodin.typepad.com/seths_blog/2012/05/avoiding-false-metrics.html
+ [1]: https://blog.upworthy.com/what-uniques-and-pageviews-leave-out-and-why-were-measuring-attention-minutes-instead-d12c159d5c96
+ [2]: http://time.com/12933/what-you-think-you-know-about-the-web-is-wrong/
+ [3]: http://sethgodin.typepad.com/seths_blog/2012/05/avoiding-false-metrics.html
 
 Often, a website can get a certain behavior from users by giving them a metric for it and making it prominent. For example, Linkedin wants it's users to flesh out their profiles completely. To drive this behavior, they provides users with a "Profile Strength" metric, which tells users, "hey you're profile isn't complete yet… keep adding more information."
 
@@ -21,16 +19,16 @@ Often, a website can get a certain behavior from users by giving them a metric f
   <img alt="" src="/assets/images/linkedin1.jpg" />
 </p>
 
-Percent completion bars are increasingly common because [they are effective][5] at telling people what they should do next.
+Percent completion bars are increasingly common because [they are effective][4] at telling people what they should do next.
 
- [5]: http://blog.kissmetrics.com/the-progress-bar/
+ [4]: http://blog.kissmetrics.com/the-progress-bar/
 
 ## Publicly Visible Metrics
 
 But human psychology is complex, and you can't always just throw up a number and expect your users to want to make it bigger. Making a user's metrics publicly visible changes the game in many ways. Always craving social feedback, us humans compare our numbers with other people's, looking for significance. We read into what the numbers mean, and what others might think they mean.
 
 > Tell me how you measure me and I will tell you how I behave.
-> 
+>
 > -- Eliyahu Goldratt
 
 We could look at any social network for examples, but lets try Twitter. At the time of this writing, Twitter profiles display three prominent metrics: Tweets, Following, and Followers.
@@ -39,9 +37,9 @@ We could look at any social network for examples, but lets try Twitter. At the t
   <img alt="" src="/assets/images/twitter-profile_0.png" />
 </p>
 
-As a user, these metrics drive my understanding of what it means to be influential on Twitter. I look at the values displayed on [influential people's twitter profiles][6] and start to build an internal hypothesis. One example might be:
+As a user, these metrics drive my understanding of what it means to be influential on Twitter. I look at the values displayed on [influential people's twitter profiles][5] and start to build an internal hypothesis. One example might be:
 
- [6]: https://twitter.com/who_to_follow/interests
+ [5]: https://twitter.com/who_to_follow/interests
 
 <p style="margin-left: 40px;">
   The more followers you have, the more influential you are<br /> …especially if you have few tweets<br /> …and especially if you don't follow too many people

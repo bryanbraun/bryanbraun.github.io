@@ -6,7 +6,13 @@ related: [
 ]
 ---
 
-Last week I went to a buffet with <a href="http://hollybunchkins.blogspot.com" title="Holly Braun">my wife</a> and family. Those who know me, know that I get pretty crazy when I go to a buffet. You'll often find me doing jumping jacks and push-ups before I go, trying to burn calories and get as hungry as possible. Once I'm there, I quickly scan the selection and develop a game plan. Then I go to town. I eat food like a slot <a href="http://www.punny.org/money/eat-your-moneys-worth-at-any-all-you-can-eat-buffet/" title="Buffet Domination Techniques"><img alt="" class="alignright" height="147" src="http://dailyhighfive.com/wp-content/uploads/2011/03/Buffet.jpg" title="Buffet" width="220" /></a>machine eats nickels.
+Last week I went to a buffet with <a href="http://hollybunchkins.blogspot.com" title="Holly Braun">my wife</a> and family. Those who know me, know that I get pretty crazy when I go to a buffet. You'll often find me doing jumping jacks and push-ups before I go, trying to burn calories and get as hungry as possible. Once I'm there, I quickly scan the selection and develop a game plan. Then I go to town. I eat food like a slot machine eats nickels.
+
+<p style="text-align: center;">
+  <a href="http://www.punny.org/money/eat-your-moneys-worth-at-any-all-you-can-eat-buffet/" title="Buffet Domination Techniques">
+    <img alt="" src="http://dailyhighfive.com/wp-content/uploads/2011/03/Buffet.jpg" title="Buffet" />
+  </a>
+</p>
 
 I make sure to avoid the filler foods and sugary carbonated sodas, saving the dessert for the very last. As for packing down food, I use <a href="http://www.punny.org/money/eat-your-moneys-worth-at-any-all-you-can-eat-buffet/" title="Buffet Domination Techniques">every technique in the book</a>: The Fat Pants, The Tongan Twist, and, of course, "Clearing the Runway" (see more classic <a href="http://www.punny.org/money/eat-your-moneys-worth-at-any-all-you-can-eat-buffet/" title="Buffet Domination Techniques">buffet domination techniques here</a>).
 
@@ -20,11 +26,17 @@ The fallacy is well recognized in fields like business and economics. The rule b
 
 Consider briefly why <a href="http://en.wikipedia.org/wiki/World_of_Warcraft" title="World of Warcraft">World of Warcraft</a> is so addictive. With all the time, money, and effort a player spends in getting his character to level 45, how easy is it to just turn it off and admit that it was all a waste? You can't. It is a classic example of the sunk cost fallacy (see more about the World of Warcraft "fallacy" at <a href="http://www.getrichslowly.org/blog/2008/09/08/the-sunk-cost-fallacy-good-money-after-bad/" title="Sunk Cost Fallacy and World of Warcraft">one of my favorite blogs</a>). I also saw <a href="http://youarenotsosmart.com/2011/03/25/the-sunk-cost-fallacy/" title="Sunk Cost Fallacy and Farmville">a landmark article about Farmville addicts</a> who are likewise buried in an endless pile of sunk costs. Now, I've never played <a href="http://en.wikipedia.org/wiki/Farmville" title="Farmville">Farmville</a>, but it boasts nearly 50 million players... more than 4 times as many players as World of Warcraft. The article's writer argues that Farmville isn't even fun, saying that players only keep playing to justify all the time (and money) they've already invested. In fact, he claims, the game is intentionally designed to produce these sunk costs, effectively preventing players from quitting. Sound ridiculous? I stumbled across <a href="http://forums.zynga.com/showthread.php?t=964332"  title="Farmville &quot;Pause&quot; Forum">a Farmville forum</a>, where many players were discussing the introduction of a "pause feature" on the "English Countryside" (EC) game expansion. Take a look at some of these comments, and keep your eyes open for sunk costs:
 
-[<img alt="Farmville's Sunk Costs" class="aligncenter size-full wp-image-398" height="234" src="/assets/images/Farmville1.jpg" title="Farmville1" width="776" />][1][<img alt="Farmville's Sunk Costs" class="aligncenter size-full wp-image-399" height="200" src="/assets/images/farmville2.jpg" title="farmville2" width="774" />][2][<img alt="Farmville's Sunk Costs" class="aligncenter size-full wp-image-400" height="218" src="/assets/images/Farmville3.jpg" title="Farmville3" width="773" />][3]
+<p style="text-align: center;">
+  <img alt="Farmville's Sunk Costs" src="/assets/images/Farmville1.jpg" title="Farmville1" />
+</p>
 
- [1]: /assets/images/Farmville1.jpg
- [2]: /assets/images/farmville2.jpg
- [3]: /assets/images/Farmville3.jpg
+<p style="text-align: center;">
+  <img alt="Farmville's Sunk Costs" src="/assets/images/farmville2.jpg" title="farmville2" />
+</p>
+
+<p style="text-align: center;">
+  <img alt="Farmville's Sunk Costs" src="/assets/images/Farmville3.jpg" title="Farmville3" />
+</p>
 
 Chilling, isn't it? Now, I'm sure there are many people who play World of Warcraft or Farmville without being sucked in by sunk costs. And I don't mean to pick on these specific games... lots of other games have similar elements (<a href="http://en.wikipedia.org/wiki/Phantasy_Star_Online" title="Phantasy Star Online">Phantasy Star Online</a>, anyone? That game was so fun...). The fact is, my eyes have been opened and now I'm starting to see sunk costs wherever I go. Gym subscriptions, All Season Passes, and (oh no, you didn't...) Netflix subscriptions. That's right... <a href="https://www.netflix.com/" title="Netflix">Netflix</a> is nothing more than the movie junkie's all-you-can-eat buffet.
 

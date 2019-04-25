@@ -1,22 +1,21 @@
 ---
-layout: post
 title: "Dichotomous Thinking"
 date: 2011-12-18 22:47:15
 ---
 
 Here's an interesting exercise. Are the following things good or bad? Make a decision on each one, then continue:
 
-*   Free trade
-*   The theory of evolution
-*   Teachers unions
-*   Store brand foods
-*   Offshore drilling
-*   Door to door sales
-*   Justin Bieber
-*   Saying the pledge of allegiance at school
-*   Outsourcing
-*   The Yankees
-*   Spam (the meat)
+* Free trade
+* The theory of evolution
+* Teachers unions
+* Store brand foods
+* Offshore drilling
+* Door to door sales
+* Justin Bieber
+* Saying the pledge of allegiance at school
+* Outsourcing
+* The Yankees
+* Spam (the meat)
 
 Originally I wanted to make this into some sort of poll or survey because I was curious about how many of my family and friends are Bieber fans (you know who you are). But really the purpose of this was to highlight an interesting human tendency: Dichotomous thinking.
 
@@ -30,16 +29,10 @@ It's the same kind of mental laziness that comes up with all those clever stereo
 
 Of course, we're willing to accept that cost. Humans are easily polarized, and we accept that. For an example, I'll use the following two books:
 
-1.  <a href="http://www.amazon.com/Rush-Limbaugh-Big-Fat-Idiot/dp/0440508649" target="_blank" rel="noopener noreferrer" title="Rush Limbaugh is a big Fat Idiot">Rush Limbaugh is a Big Fat Idiot</a>
-2.  <a href="http://www.amazon.com/Islam-Is-of-the-Devil/dp/1616381728" target="_blank" rel="noopener noreferrer" title="Islam is of the Devil">Islam is of the Devil</a>
+1. <a href="http://www.amazon.com/Rush-Limbaugh-Big-Fat-Idiot/dp/0440508649" target="_blank" rel="noopener noreferrer" title="Rush Limbaugh is a big Fat Idiot">Rush Limbaugh is a Big Fat Idiot</a>
+2. <a href="http://www.amazon.com/Islam-Is-of-the-Devil/dp/1616381728" target="_blank" rel="noopener noreferrer" title="Islam is of the Devil">Islam is of the Devil</a>
 
 Now, realize that I've never read either of these books, nor do I condone reading them. This is dichotomous thinking in its finest (although, part of it is marketing. How would it affect book sales if Al Franken titled his book "Rush Limbaugh is *Sometimes* a Big Fat Idiot.") It is an interesting exercise to look at the reviews these books have received on Amazon.com. By and large, people react to these authors viewpoints by either strongly agreeing or strongly disagreeing. For both of these books there are more 1-star or 5-star reviews than 2, 3, and 4-star reviews combined.
-
-<div style="width: 130px;float:right;">
-  <a href="http://bryanbraun.com/2011/12/18/dichotomous-thinking/justin_bieber/" rel="attachment wp-att-866"><img alt="Justin Bieber" height="120" src="/assets/images/Justin_Bieber" title="Justin_Bieber" width="120" /></a><p>
-    The Biebz.
-  </p>
-</div>
 
 Dichotomous thinking is a part of life that isn't going away anytime soon. But as it is with all human cognitive flaws, it's always best to at least be aware that you are a biased, cognitively lazy creature with a lack of accurate information.
 

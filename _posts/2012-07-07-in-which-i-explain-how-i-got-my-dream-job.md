@@ -12,7 +12,7 @@ Now I don't know much, but I realized that if I wanted to ever be that smart, I 
 
 The company had a certain immersive training program for recent graduates called "[Acquia U][1]." I wanted in but I knew I needed to stand out somehow. And I had an idea.
 
- [1]: http://www.acquia.com/careers/acquia-u
+ [1]: http://u.acquia.com/about
 
 This is the Drupal logo.
 
@@ -55,14 +55,14 @@ On the day I painted my head blue, we ran out of daylight for a photo shoot. Thr
 So what was the point of all this? I had put in the standard application for the position but I wanted to do a little more to get their attention. I decided to make a Facebook ad. You see, I knew that Facebook allows you to target which people will see the ad. I set up my ad to only display to Acquia employees. This is what the ad looked like:
 
 <p style="text-align: center;">
-  <a href="http://bryanbraun.com/acquia" target="_blank" rel="noopener noreferrer"><img alt="" src="/assets/images/fb_ad.PNG" style="width: 282px; height: 145px;" /></a>
+  <img alt="" src="/assets/images/fb_ad.PNG" style="width: 282px; height: 145px;" />
 </p>
 
 Pretty bold, but [I like bold][2].
 
  [2]: http://www.bryanbraun.com/2012/02/26/be-bold "Be Bold"
 
-If that wasn't enough, clicking the ad takes you to a special landing page I built at <a href="http://bryanbraun.com/acquia" target="_blank" rel="noopener noreferrer" title="Check it out!">bryanbraun.com/acquia</a>. If you have a look, you'll see that I used this landing page to show them all the reasons they should hire me. It also directs people to parts of this site that teaches them more about who I am.
+If that wasn't enough, clicking the ad took them to a landing page I built showing all the reasons they should hire me. It also directs people to parts of this site that teaches them more about who I am.
 
 <p style="text-align: center;">
   <a href="http://bryanbraun.com/acquia"><img alt="Screenshot of my landing page" src="/assets/images/acquia-page.JPG" style="width: 750px; height: 483px; " title="Screenshot of my landing page" /></a>
