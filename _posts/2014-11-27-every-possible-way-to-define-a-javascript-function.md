@@ -202,14 +202,14 @@ obj2.sum(1, 2);
       <td>
         <pre>
 <code>// Named
-window.setTimeout(&lt;strong>function add() {
+window.setTimeout(function add() {
   alert(1 + 2);
-}&lt;/strong>, 500);
+}, 500);
 
 // Anonymous
-window.setTimeout(&lt;strong>function() {
+window.setTimeout(function() {
   alert(1 + 2);
-}&lt;/strong>, 500);</code></pre>
+}, 500);</code></pre>
       </td>
 
       <td>
@@ -233,17 +233,17 @@ window.setTimeout(&lt;strong>function() {
 // Named
 function counter() {
     var count = 0;
-    <strong>return function c() {
+    return function c() {
         alert(count++);
-    }</strong>
+    }
 }
 
 // Anonymous
 function counter() {
     var count = 0;
-    <strong>return function() {
+    return function() {
         alert(count++);
-    }</strong>
+    }
 }
 </pre>
       </td>

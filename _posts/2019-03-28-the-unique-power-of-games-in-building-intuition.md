@@ -95,7 +95,7 @@ But it doesn't matter! In a game, nobody actually dies, and you don't lose your 
 By removing the real world constraints (like death, pain, and social rejection) you can experiment, take bigger risks, and learn more rapidly as a result (which is why pilots use flight simulators so heavily in their training).
 
 <figure class="center">
-  <img src="{{site.url}}/assets/images/orbital_mechanics.png" alt="XKCD chart showing that playing Kerbal Space Program helped the author understand orbital mechancs more than getting a physics degree or actually working at NASA." />
+  <img src="{{site.url}}/assets/images/orbital_mechanics.png" alt="XKCD chart showing that playing Kerbal Space Program helped the author understand orbital mechanics more than getting a physics degree or actually working at NASA." />
   <figcaption><a href="https://xkcd.com/1356" target="_blank" rel="noopener noreferrer">The panel above</a>, from the webcomic <a href="https://xkcd.com" target="_blank" rel="noopener noreferrer">XKCD</a>, was written by former NASA engineer Randall Munroe.</figcaption>
 </figure>
 

@@ -7,7 +7,7 @@ redirect_from: /2011/06/06/the-new-york-times-and-the-sticky-platform/
 I've recently started reading the <a href="http://en.wikipedia.org/wiki/The_New_York_Times" target="_blank" rel="noopener noreferrer" title="The New York Times - Wikipedia">New York Times</a>. It turns out that there is a place at BYU where I can pick up a copy each day for free!
 
 <p style="padding-left: 30px;">
-  Tangent: I know about this because Justin used to pick one up every morning. He'd read a few things, but for the most part he'd just carry it around wherever he went. He told me that it made him look smart and sophisticated, to impress the ladies, of course. You laugh, but I've seen him pull it off.
+  Tangent: I know about this because Justin used to pick one up every morning. He'd read a few things, but for the most part he'd just carry it around wherever he went. He told me that it made him look smart and sophisticated, to "impress the ladies." Of course.
 </p>
 
 Anyways, after reading it for a few days, I came to a conclusion: The New York Times is boring.
@@ -16,7 +16,9 @@ Wait a minute. If this is true, then why is the New York Times so incredibly pop
 
  [1]: http://en.wikipedia.org/wiki/USA_Today "USA Today"
 
-Clearly, the problem lies with me, not the New York Times. To be honest, I had a hard time understanding it. I mean, seriously. What is a hedge fund? Where on earth is Yemen? And what does the word "subpoenaed" even mean? Heck, I'm used to reading The Daily Universe where every other article is about dating etiquette, or Jimmer Fredette. It's great, but it's not exactly the most intellectually stimulating reading material out there. When you don't understand what you're reading, it is difficult to remember (or enjoy) because it doesn't "stick" (I am suddenly reminded of late nights as a freshman, chugging through my chemistry textbook). It was once explained to me that the mind is like a "sticky platform".
+Clearly, the problem lies with me, not the New York Times. To be honest, I had a hard time understanding it. I mean, seriously. What is a hedge fund? Where on earth is Yemen? And what does the word "subpoenaed" even mean? Heck, I'm used to reading The Daily Universe where every other article is about dating etiquette, or Jimmer Fredette. It's great, but it's not exactly the most intellectually stimulating reading material out there. When you don't understand what you're reading, it is difficult to remember (or enjoy) because it doesn't "stick" (I am suddenly reminded of late nights as a freshman, chugging through my chemistry textbook).
+
+It was once explained to me that the mind is like a "sticky platform":
 
 <p style="text-align: center;">
   <img alt="" src="/assets/images/Sticky11.png" title="Sticky Platform 1" />
