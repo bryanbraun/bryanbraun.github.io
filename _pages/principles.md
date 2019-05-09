@@ -15,13 +15,15 @@ These are the principles that help me make decisions.
 7. **Ask for help** - I am willing to admit that I don't know everything. [I ask for help]({{site.url}}/2011/08/28/just-ask 'Just Ask') because I learn fastest by leveraging other people's knowledge and experience. I'm willing to listen to other people, no matter their lifestyle, history, position, or prominence. In doing so, I hope to become more teachable and learn faster.
 8. **[Never settle for being mediocre]({{site.url}}/2012/03/19/never-settle-being-mediocre)** - In doing great work, the little things matter. I seek to go that extra 5% that others are unwilling to go. I practice deliberately. I keep trying things, and if it doesn't work, I try something else. I know that good is the enemy of great.
 9. **[Focus]({{site.url}}/2013/04/27/focus/)** - It's better for me to do one thing well then a dozen things poorly. I think hard about the things I want to focus on and then I [commit]({{site.url}}/2012/05/13/commitments) myself fully. I strive for [deep work](/books/#deep-work), and I [block out distractions]({{site.url}}/2016/01/04/the-news-wasteland) in order to achieve it.
-10. **Never compromise your values** - If I give you my word, then I will deliver. Period.
+10. **Live with integrity** - I'm honest, to a fault. If I give you my word, then I will deliver.
 
 <!--
   old ones:
     - Have an amazing attitude
+    - Never comompromise your values
   new ones?:
     - Invest in the long term?
     - Learn by Doing?
     - Create, don't consume.
+    - Work in public.
 -->
