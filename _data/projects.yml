@@ -1,3 +1,7 @@
+- name: "Connect Four"
+  url: https://bryanbraun.github.io/connect-four
+  image: /assets/images/connect-four.png
+
 - name: "Gridmaster: Learn Excel by Doing"
   url: https://gridmaster.io
   image: /assets/images/gridmaster-logo.png
