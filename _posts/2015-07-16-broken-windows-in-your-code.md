@@ -17,8 +17,9 @@ No developer intends to vandalize a codebase, but the fact is, it takes a lot of
 
 My former team lead had an eagle-eye for broken windows, always catching them in code-review. As good as that is, it's better to design a system that prevents windows from breaking in the first place. It's better to install bulletproof glass. In that regard, this quote is instructive:
 
-> A good framework or a good architecture makes it hard to do the wrong thing. A lot of people will always go for the easiest way to get something done. So as a systems designer, your job is to make sure that the easiest thing to do is the right thing.  
+> A good framework or a good architecture makes it hard to do the wrong thing. A lot of people will always go for the easiest way to get something done. So as a systems designer, your job is to make sure that the easiest thing to do is the right thing.
 > - Nicholas Zakas
+
 What might such a system, with bulletproof glass, look like?
 
 *   Code conventions and patterns exist, and they are are enforced by linters which fail the build if anything is incorrect.
