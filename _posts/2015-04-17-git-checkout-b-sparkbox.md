@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "git checkout -b sparkbox"
 date: 2015-04-17 21:01:16
 ---
