@@ -26,7 +26,7 @@ What on earth is `<tree-ish>`? Well, [it can mean a bunch of things](https://sta
 
 <pre><code>git checkout <strong>mybranch</strong> -- index.html</code></pre>
 
-This makes more sense, because now we are saying: "I want to check out some code from git into my working directory, but instead of grabbing an entire branch, I just want one file from that branch." And that's what happens: your existing file is replaced by the same file, as it exists on that branch.*
+This makes more sense, because now we are saying: "I want to check out some code from `mybranch`, but instead of grabbing the entire branch, I just want one file (`index.html`) from that branch." And that's what happens: your existing `index.html` is replaced by the `index.html`, as it exists on `mybranch`.*
 
 When you omit the branch name, git just assumes you mean your current branch:
 
