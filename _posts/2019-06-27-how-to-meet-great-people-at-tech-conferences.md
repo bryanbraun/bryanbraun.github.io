@@ -36,21 +36,21 @@ You have to find a way to not be a stranger when that conversation happens.
 
 Here's a few ways to go about that:
 
-**Find some common background or shared experiences you can talk about**
+### Find some common background or shared experiences you can talk about
 
 Did you live in the same town? Attend the same school? Work at the same company? These are all things you could bring up in conversation. If they find it interesting, you might find yourself in a great conversation that breaks down some of those stranger barriers.
 
-**Get introduced to them through a mutual friend**
+### Get introduced to them through a mutual friend
 
 If you do this right, you can be "along for the ride" in a group of people who hang out throughout the conference. This means more opportunities to interact and become a familiar face for future interactions.
 
-**Be visible in the places they hang out**
+### Be visible in the places they hang out
 
 Are they active in any online communities, like Slack teams or Discourse forums? Join those conversations! Be genuine and thoughtful instead of loud or self-promotional. Take the time to be a good member of the community, and add value to every interaction you have. It helps to have a consistent screen name and [a distinctive avatar](https://twitter.com/naval/status/1062020468725571584).
 
 If you're at a conference with them, be visible. Sit near the front and share the things you are learning on social media or conference hashtags. If they keep seeing your face on their phones, it won't be unfamiliar if they run across you in real life.
 
-**Contribute regularly to their work**
+### Contribute regularly to their work
 
 Once, at a conference, I had a guy come up to me, and say, "hey, I'm the guy who submitted the React animation PR to your open-source project." I remembered him and -BAM- we had a connection.
 
@@ -58,11 +58,11 @@ Lots of open source projects have issues but not many people submit pull-request
 
 If they don't have an open source project, contribute to whatever they are working on. Comment on their blog posts or reply to their twitter questions. Whatever it is, do it regularly and they'll remember you.
 
-**Be known for work that you have done**
+### Be known for work that you have done
 
 If you're prolific, then your reputation can proceed you. This rarely happens overnight, but if you do your work in public, be consistent, and [learn how to spread the word](https://hacks.mozilla.org/2013/05/how-to-spread-the-word-about-your-code/), you'd be surprised who might find it. ([I was](https://daringfireball.net/linked/2015/06/07/after-dark)!)
 
-**Be a speaker**
+### Be a speaker
 
 Speaking at a conference is like a cheat code for meeting influential people. Many conferences have benefits for speakers, like a speakers lounge, speakers dinner, or speaker badge. This can give you many opportunities to interact and get to know other speakers.
 

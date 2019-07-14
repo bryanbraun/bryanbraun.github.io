@@ -1,11 +1,10 @@
 ---
-layout: post
 title: "Turning our challenges into our assets"
 date: 2012-06-30 17:34:58
 ---
 
 <p style="text-align: center; ">
-  A guest post, by <a href="http://scripturenews.com" target="blank">Alex Balinski</a>.
+  A guest post, by Alex Balinski.
 </p>
 
 Challenges you can't control can become some of your greatest assets.  It all depends on how you deal with them. 
