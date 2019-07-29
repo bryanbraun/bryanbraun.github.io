@@ -1,5 +1,5 @@
 ---
-title: "No More Mondays"
+title: "No More Dreaded Mondays"
 author: Dan Miller
 date: 2010-08-16 16:54:09
 categories: non-fiction

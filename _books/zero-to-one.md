@@ -6,4 +6,4 @@ categories: non-fiction
 rating: 4/5
 ---
 
-In this book, Peter Thiel talks about technology, human progress, and what it takes to create an innovative and successful company. It's short, (200+ pages) and filled with his experiences distilled from his 30 years in the tech industry. One big point: just about everyone is focused on incremental change, but incremental change is not enough to create the types of technology revolutions that really change the world for the better. Also, it turns out that revolutionary progress is where all the serious profits are.
+In this book, Peter Thiel talks about technology, human progress, and what it takes to create an innovative and successful company. It's short, (around 200 pages) and filled with his experiences distilled from his 30 years in the tech industry. One big point: just about everyone is focused on incremental change, but incremental change is not enough to create the types of technology revolutions that really change the world for the better. Also, it turns out that revolutionary progress is where all the serious profits are.
