@@ -35,8 +35,6 @@ Having a job where 1) your work makes an impact and 2) that impact brings direct
 
 People respond to incentives. When employees have bad incentives they're less likely to invest in themselves (via a great morning routine, continuing education, or other forms of personal development). As a result, their health suffers, their motivation suffers, and the quality of their work suffers. This is why I'm such an advocate for profit-sharing, education benefits, and other business structures that align employer's and employee's incentives. It's a win-win.
 
-<!-- [![A tweet from @devonzuegel saying: I'm increasingly of the belief that incentive design is the most important problem to work on. Humans are good at overcoming obstacles when they have reason to do so!—the worst problems tend to be ones of cooperation, not technological or scientific understanding.]({{site.url}}/assets/images/incentive-design-tweet.png)](https://twitter.com/devonzuegel/status/952407915045859329) -->
-
 * * *
 
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">I’m increasingly of the belief that incentive design is the most important problem to work on. Humans are good at overcoming obstacles when they have reason to do so — the worst problems tend to be ones of cooperation, not technological or scientific understanding.</p>&mdash; Devon (@devonzuegel) <a href="https://twitter.com/devonzuegel/status/952407915045859329?ref_src=twsrc%5Etfw">January 14, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
