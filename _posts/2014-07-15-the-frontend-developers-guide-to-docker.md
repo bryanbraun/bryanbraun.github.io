@@ -5,6 +5,7 @@ related: [
   "A Brief Overview of Docker Tags"
 ]
 ---
+*Last updated: Aug 2019*
 
 I decided to use Docker for a recent project and I learned a lot in the process. This is an attempt to explain what Docker is, in plain English, from the perspective of a frontend developer.
 
@@ -58,7 +59,7 @@ Under the hood, Docker is really just a slick developer API around an underlying
 
 Since these containers are a Linux thing, you cannot run docker on a machine that doesn't support them (though there are [tools to work around it][5]). That's ok for you, since your servers are probably running on Linux anyway.
 
-[5]: https://github.com/boot2docker/boot2docker
+[5]: https://www.docker.com/products/docker-desktop
 
 ## Working with Docker
 
@@ -74,7 +75,7 @@ The closest thing to Docker that you are familiar with, is probably [Git][6], so
 - Docker makes it a lot easier for sysadmins to share their work and collaborate.
 - [Docker Hub](https://hub.docker.com/explore/) is similar to Github in that it hosts public Docker projects that people can look at and try out. There is a monthly fee to host private Docker projects.
 
-Like Git, the way to learn Docker is to just start using it. This is easy because the folks at Docker.io have set up a [great series of tutorials][7] online. If you want to learn this stuff, I recommend just doing them all, one after the other, in succession. After a while, things will start clicking.
+Like Git, the way to learn Docker is to just start using it. This is easy because the folks at docker.com have set up a [great series of tutorials][7] online. If you want to learn this stuff, I recommend just doing them all, one after the other, in succession. After a while, things will start clicking.
 
 [7]: http://www.docker.com/tryit/
 
@@ -84,9 +85,13 @@ I was excited about Docker because I thought it would be a slick way to set up n
 
 In practice, I found it a bit clumsy to set up. Local development requires an environment where you can rapidly iterate on code and see the changes you make. My experience with Docker is that it was difficult to mount my files into these containers in a way suitable for iterative development. It felt like the containers were too ephemeral. Easy to kill and rebuild, while difficult to move files in and out. It's possible that I'm not quite doing it right, so if you have development environments working with Docker, I'd like to hear about your experience. I get the sense that creating local development environments isn't Docker's primary use case (though tools like [fig][8], are designed to improve this).
 
+That being said, I found Docker to be great for setting up staging environments. You have all the tools you need to ensure the environment mimics production, and you don't need to worry about the iterative development workflow.
+
 [8]: http://orchardup.github.io/fig/
 
-That being said, I found Docker to be great for setting up staging environments. You have all the tools you need to ensure the environment mimics production, and you don't need to worry about the iterative development workflow.
+*2019 Update: The Docker ecosystem has matured a lot here since I first tried it. Docker introduced some tooling called [docker-compose](https://docs.docker.com/compose/), which [is based on the "fig" tool I mentioned above](https://blog.docker.com/2015/02/announcing-docker-compose/), making it a lot easier to set up local development environments.*
+
+*In fact, one of the main reasons I recommend Docker these days is to prevent large teams of people needing to set up and maintain their own complex local development environments. Docker compose makes it easy to set it up once and run that same environment on everybody's machine.*
 
 ## Deployments with Docker
 
