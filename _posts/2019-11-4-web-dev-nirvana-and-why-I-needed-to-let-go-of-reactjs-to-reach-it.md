@@ -56,16 +56,16 @@ I ended up using this approach to build a small password generator as a demo app
 
 *This section gets in the weeds showing how the demo app works... feel free to skip it if you're not interested in the implementation details.*
 
-The codebase for the app is organized using ES6 modules. Instead of JSX we use ES6 template strings, and instead of DOM-diffing we use native DOM manipulation with `querySelector` and `innerHTML`.
+The codebase for the app is organized using ES6 modules. Instead of JSX we use ES6 template strings, and instead of DOM-diffing we use native DOM manipulation with `getElementById` and `innerHTML`.
 
-The core of the app is [a single file](https://github.com/bryanbraun/alt-react-demo/blob/master/lib/store.js) where we define a central store containing a `state` object, a `setState()` function (for making changes to `state`), and some `publish` and `subscribe` functions (for telling components that the `state` has changed). It's about 50 lines of JavaScript.
+The core of the app is [a single file](https://github.com/bryanbraun/alt-react-demo/blob/master/lib/store.js) where we define a central store containing a `state` object, a `setState()` function (for making changes to `state`), and some `publish` and `subscribe` functions (for telling components that the `state` has changed). It's about fifty lines of JavaScript.
 
 ### Setting State
 
-We use strings to set state changes. Consider our state object:
+Consider this example state object in our store:
 
 ```js
-const initialState = {
+this.state = {
   passwordLength: 10,
   characterOptions: {
     hasNumbers: false,
@@ -74,16 +74,16 @@ const initialState = {
 };
 ```
 
-Here's how I'd set the state of various properties:
+Here's how we'd set the state of various properties:
 
 ```js
 store.setState('passwordLength', 12);
 store.setState('characterOptions.hasNumbers', true);
 ```
 
-This might look familiar, since it's a basic version of [Lodash's `_.set()`](https://lodash.com/docs/4.17.15#set).
+It works like [Lodash's `_.set()`](https://lodash.com/docs/4.17.15#set). We pass a string showing what we want to set (in `this.state`), and the value we want to set it to.
 
-We can see it in action in our `LengthSlider` component, where we set the new `passwordLength` whenever the slider is moved:
+We can see this in action, in the `updateLength` function of our `LengthSlider` component:
 
 ```js
 import { Component } from './component.js';
@@ -116,16 +116,20 @@ export class LengthSlider extends Component {
 }
 ```
 
+Whenever the slider is moved, `updateLength` is called, which it sets `store.state.passwordLength` to the new value.
+
 ### Subscribing to state changes:
 
-We use the same strings to subscribe to state changes that we use when setting state:
+Our store has a subscribe method that we can use to run callbacks when the state changes. Here are some examples:
 
 ```js
 store.subscribe('passwordLength', function renderLengthChange() { ... });
 store.subscribe('characterOptions.hasNumbers', function renderHasNumbersChange() { ... });
 ```
 
-For convenience, I created a base Component that does the subscribing for us, by exposing a `renderTrigger`. The Component below shows an example of this:
+As you can see, we use strings to reference the part of our state that we are subscribing to. When that piece of state changes, our callback runs.
+
+By [building this `.subscribe` into our base Component](https://github.com/bryanbraun/alt-react-demo/blob/31cd5b4c94c701e94e95306c3e3609f45d9e0228/components/component.js#L24), any component we create can be told to re-render during specific state changes. We do this by passing a `renderTrigger`, as shown in the constructor of the component below:
 
 ```js
 import { Component } from './component.js';
@@ -192,7 +196,7 @@ But that's a good thing!
 
 If my central store gets unwieldy, I can transition it to something more structured. If members of my team start mutating state directly, I can add console warnings.
 
-Being framework-free gives me the freedom to grow my system as my needs grow. This is a performance-win*, a [simplicity-win](https://blog.codinghorror.com/the-best-code-is-no-code-at-all/), and by the time my app is large, my system will be robust enough to handle it.
+Being framework-free gives me the freedom to grow my system as my needs grow. This is a performance-win*, a [simplicity-win](https://blog.codinghorror.com/the-best-code-is-no-code-at-all/), and a scalability-win. By the time my app is large, my system will be robust enough to handle it.
 
 I've already experienced this for [the app I ended up building at Recurse Center](https://musicboxfun.com). I wanted more granular events firing, so I built in the functionality. Now when there's a change to `state.songState.songTitle`, it publishes three events. One for `'state'`, one for `'state.songState'` and one for `'state.songState.songTitle'`. Just what I needed.
 
@@ -207,9 +211,11 @@ Anybody can have an "Alt React" like Andy's or mine. To me that means:
 - Writing your own core functionality as you need it (like state management code).
 - Minimum viable build tooling.
 
-Your Alt React will end up looking different than mine, but if you need a place to start, you can copy [my demo app](https://github.com/bryanbraun/alt-react-demo) (it's a [template repo](https://help.github.com/en/articles/creating-a-template-repository)), or [Andy's](https://github.com/andybelldesign/vanilla-js-state-management).
+Your Alt React will end up looking different than mine, because your needs are different than mine.
 
-If you end up trying it out, [ping me on twitter](https://twitter.com/bryanebraun). I'd love to hear how it's working for you.
+But, if you need a place to start, you can copy [my demo app](https://github.com/bryanbraun/alt-react-demo) (it's a [template repo](https://help.github.com/en/articles/creating-a-template-repository)), or [Andy's demo app](https://github.com/andybelldesign/vanilla-js-state-management).
+
+If you end up trying it out, [let me know on twitter](https://twitter.com/bryanebraun). I'd love to hear how it's working for you.
 
 <hr class="section-divider">
 
