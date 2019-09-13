@@ -224,7 +224,6 @@ Your browser's developer tools are useful again. You can read your stack traces.
 
 There's no watching the page hot-reload and wondering if you need to do a full-reload to get a truly blank slate. There's no deleting `node_modules` and re-installing them to see if that magically fixes some issue. You can spend all of your time working on your app, instead of chasing down obscure build issues.
 
-
 ## But, but, but,
 
 There are a lot of reasons to be skeptical of an ES6-powered React alternative like the one above. For example:
@@ -272,7 +271,7 @@ Anybody can have an "Alt React" like Andy's or mine. To me that means:
 
 Your Alt React will end up looking different than mine, because your needs are different than mine. Maybe you find template strings limiting and you want to try [htm](https://github.com/developit/htm). Or maybe you like Redux and want to pull it in ([it's ES6 module-friendly](https://github.com/reduxjs/redux/blob/85024d431ca765c843561be6792edeb7890d5fce/package.json#L28)). Go for it!
 
-Either way, if you need a place to start, you can copy [my demo app](https://github.com/bryanbraun/alt-react-demo) (it's a [template repo](https://help.github.com/en/articles/creating-a-template-repository)), or [Andy's demo app](https://github.com/andybelldesign/vanilla-js-state-management), and iterate from there.
+Either way, if you need a place to start, you can copy [my demo app](https://github.com/bryanbraun/alt-react-demo), or [Andy's demo app](https://github.com/andybelldesign/vanilla-js-state-management), and iterate from there.
 
 And if you end up trying it out, [let me know on twitter](https://twitter.com/bryanebraun). I'd love to hear how it's working for you.
 
