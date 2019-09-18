@@ -44,6 +44,8 @@ import html from 'html-template-tag';
 element.innerHTML = html`<div id="page">${userDefinedContent}</div>`;
 ```
 
-This escaping function is great if you don't want any user-defined HTML in your page. Sometimes you *do* want user-defined HTML though, like basic text formatting, for example. For that, you'd need a different function that allows some HTML tags to remain unescaped. Different use-cases will require some combination or [escaping, filtering, validating, or sanitizing](https://security.stackexchange.com/a/143925/151943). Fortunately, [there are tons of tagged-template modules out there](https://github.com/declandewet/common-tags#other-es2015-template-tag-modules) that can help with these scenarios.
+This escaping function is great if you don't want any user-defined HTML in your page.
+
+Sometimes you *do* want user-defined HTML though, like basic text formatting, for example. In that case, you'd need a different function that allows some HTML tags to remain unescaped. Different use-cases will require some combination or [escaping, filtering, validating, or sanitizing](https://security.stackexchange.com/a/143925/151943). Fortunately, [there are tons of tagged-template modules out there](https://github.com/declandewet/common-tags#other-es2015-template-tag-modules) that can help with these scenarios.
 
 You can do lots of other things with tagged template literals, with libraries doing everything from [stripping indentation](https://github.com/declandewet/common-tags) to [building a Virtual DOM](https://github.com/WebReflection/hyperHTML). Hopefully this is a nice introduction to the options that are out there.
