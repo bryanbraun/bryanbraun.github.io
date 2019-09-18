@@ -389,8 +389,6 @@ Function.apply(this, args)
 
 ## Conclusion
 
-Conclusion
-
 I think that's all of them, but if you know of any others that I'm not aware of, (or have other suggestions to make), let me know in the comments below.
 
 If you want to see patterns and techniques for declaring functions using the methods I described above, check out [Addy Osmani's book, "Javascript Design Patterns"][1]. It is Creative Common licensed, published online, and freely available to read.
