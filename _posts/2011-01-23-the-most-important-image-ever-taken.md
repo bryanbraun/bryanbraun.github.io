@@ -9,11 +9,10 @@ On December 18th 1995, the Hubble Space Telescope pointed at a tiny dark spot in
 
 A second similar image was taken from the Telescope in late 2003. With improved technology and imaging techniques, this picture (known as the Hubble Ultra Deep Field) became the deepest image of the universe ever taken. This is what they saw.
 
-[<img alt="hubble ultra deep field" src="/assets/images/hubble-ultra-deep-field.jpg" />][1]
-
-<a href="http://upload.wikimedia.org/wikipedia/commons/0/0d/Hubble_ultra_deep_field_high_rez_edit1.jpg" target="_blank" rel="noopener noreferrer" title="Hubble Deep Field">Link to the full resolution photo (18 Mb)</a>
-
- [1]: /assets/images/hubble-ultra-deep-field.jpg
+<figure class="center">
+  <img alt="hubble ultra deep field" src="/assets/images/hubble-ultra-deep-field.jpg" />
+  <figcaption><a href="http://upload.wikimedia.org/wikipedia/commons/0/0d/Hubble_ultra_deep_field_high_rez_edit1.jpg" target="_blank" rel="noopener noreferrer" title="Hubble Deep Field">Link to the full resolution photo (18 Mb)</a></figcaption>
+</figure>
 
 In the image you can see a few stars from our own galaxy. Can you pick them out? These stars are just like seeing bugs smashed on the windshield as we look out into the expanse of space. Every other spot and speck of light is a galaxy. There are an estimated 10,000 galaxies shown in the image. Each galaxy contains millions of stars.
 
@@ -21,10 +20,24 @@ All this was found in a dark spot in the sky behind the eye of a needle. That's 
 
 Can you see why this has been called the most important image ever taken?
 
-This is how small we really are. Think of how trivial our daily tasks really are. Losing your mail key. Being stuck in traffic. That bad call made by the referee. Getting put on hold. These things can make us so angry, but they are insignificant when compared to the magnitude of the universe. Imagine if LeBron James knew how unimportant he really was in the grand scheme of things.
+This is how small we really are. Think of how trivial our daily tasks really are. Losing your mail key. Being stuck in traffic. That bad call made by the referee. Getting put on hold. These things can make us so angry, but they are insignificant when compared to the magnitude of the universe.
 
 It is humbling to know that all of that is out there. And still, we believe that there is some purpose for us being here.
 
 If nothing else, we should take this as an opportunity to realize that the grudges we hold, the prejudices we keep, and the pains we feel are really less important than we consider them to be.
 
-<small><a href="http://www.youtube.com/watch?v=fgg2tpUVbXQ" target="_blank" rel="noopener noreferrer" title="Hubble Deep Field Images">See an incredible video explaining the story of the Hubble Deep Field images</a><br /><a href="http://en.wikipedia.org/wiki/Hubble_deep_field" target="_blank" rel="noopener noreferrer" title="Hubble Deep Field Wikipedia">Wikipedia: Hubble Deep Field</a><br /><a href="http://en.wikipedia.org/wiki/Hubble_Ultra_Deep_Field" target="_blank" rel="noopener noreferrer" title="Hubble Ultra Deep Field">Wikipedia: Hubble Ultra Deep Field</a></small>
+<hr class="section-divider">
+
+Additional Links:
+
+<ul>
+  <li>
+    <a href="http://www.youtube.com/watch?v=fgg2tpUVbXQ" target="_blank" rel="noopener noreferrer" title="Hubble Deep Field Images">See an incredible video explaining the story of the Hubble Deep Field images</a>
+  </li>
+  <li>
+    <a href="http://en.wikipedia.org/wiki/Hubble_deep_field" target="_blank" rel="noopener noreferrer" title="Hubble Deep Field Wikipedia">Wikipedia: Hubble Deep Field</a>
+  </li>
+  <li>
+    <a href="http://en.wikipedia.org/wiki/Hubble_Ultra_Deep_Field" target="_blank" rel="noopener noreferrer" title="Hubble Ultra Deep Field">Wikipedia: Hubble Ultra Deep Field</a>
+  </li>
+</ul>
