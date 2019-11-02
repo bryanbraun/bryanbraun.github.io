@@ -172,13 +172,14 @@ export class LengthSlider extends Component {
       <input type="range" min="8" max="20" value="${store.state.passwordLength}" />
     `;
 
-    this.element.querySelector('input').addEventListener('input', this.updateLength);
+    this.element.querySelector('input')
+        .addEventListener('input', this.updateLength);
 
     new CharacterCount({ id: 'character-count' }).render();
   }
 }
 ```
-Whenever the slider is moved, `updateLength` is called, which it sets `store.state.passwordLength` to the new value.
+Whenever the slider is moved, `updateLength` is called, which sets `store.state.passwordLength` to the new value.
 
 ***
 

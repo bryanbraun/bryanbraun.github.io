@@ -1,3 +1,7 @@
+- name: "Music Box Fun"
+  url: https://musicboxfun.com
+  image: /assets/images/music-box-fun-project.png
+
 - name: "Connect Four"
   url: https://bryanbraun.github.io/connect-four
   image: /assets/images/connect-four.png
