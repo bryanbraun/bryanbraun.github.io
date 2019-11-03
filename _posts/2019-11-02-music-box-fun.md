@@ -19,7 +19,7 @@ There's a type of music box that you can write your own songs for. It comes with
 
 ![Image of a 30-note DIY music box]({{site.url}}/assets/images/30-note-music-box.jpg)
 
-Every hole you punch represents a note, and you can play the whole song by feeding the paper through the music box.
+Every hole you punch represents a note, and you can play the whole song by cranking the paper through the music box.
 
 I ended up buying one of these boxes. Here's a video I made, where I play [the Pallet Town theme from Pokemon](https://www.youtube.com/watch?v=cOWRNLaCMJg):
 
@@ -32,10 +32,10 @@ I ended up buying one of these boxes. Here's a video I made, where I play [the P
 It turns out, there's all sorts of people out there doing interesting things with these music boxes. I went down a music box YouTube rabbit hole one day and here are some of the things I found:
 
   * [The "Up" montage (Box of Music)](https://www.youtube.com/watch?v=8F3ijtrZ5x8)
-  * [Möbius music cox (Vi Hart)](https://www.youtube.com/watch?v=HjBhO9iqEc0)
+  * [Möbius music box (Vi Hart)](https://www.youtube.com/watch?v=HjBhO9iqEc0)
   * [Folding space-time (also Vi Hart)](https://www.youtube.com/watch?v=WkmPDOq2WfA)
-  * [Automatic music box punching machine (Josh Sheldon)](https://www.youtube.com/watch?v=W41uh2bS2Yc)
   * [How to program a music box (Wintergatan)](https://www.youtube.com/watch?v=HjBhO9iqEc0)
+  * [Automatic music box punching machine (Josh Sheldon)](https://www.youtube.com/watch?v=W41uh2bS2Yc)
 
 I don't know why, but there's something appealing to me about these little machines. They're simple and inexpensive, but you can do so many creative things with them.
 
@@ -51,7 +51,7 @@ But despite these constraints (or maybe because of them?), you can make lovely, 
   * [Tetris Theme](https://musicboxfun.com/#0XQAAAAImAQAAAAAAAABBKEgqwrszHHPPP1FNdERQ2ScK6R7CAc0bZeu0S-WnIg7b6fVO5c29OPYCGXK7DxdlCGomOymJcyjI4mvOiK38HlaSZX7hG3C1o0a4Qa_uJ0JuWJfgccd4XSe_X6DW0YJVKt26DE8yrB3HYk4mr-moghy9siJgLlEmTYKMRN09-VOw7bD6JP9-Y-kFCQulyZT8YeTEt12JTdFupqbmPxhaHIiLWssr5bWBJ4o7RU0Owhx8iFoMRhjzfiTEJsMswezDcjQF_WEr_rOPPiTduOf42PFEIsMkpnHp4Yc_wIWlWj-__27RhQA)
   * [Pokemon Center (from Pokemon R/B/Y)](https://musicboxfun.com/#0XQAAAAIFAwAAAAAAAABBKEgrQplfXLCD9JciQzRPQ6firNnQO7cci9oc71do_5bYZZcPBmqyTmyGIjEzJ90htl86qxa4-praLtDPRiBkI7Fsxky8Ka0w2ktnnUg8dbJv8-7MpC_n4bzuLuwKMIQPmvXhalEBLEvJFdRwa1sWqEyDBRSE5K4MCrTvMgbUHlGlO9LsP8ZHsSXMU6hVEo9FnLfDnLW9ALfibG34DUac5TetjE5yOuKuBax797Cnl__TkQZgnziEgm4RPeQ9Q4TKrlTX1xeQD704FtVGfAvBYD73vHUZXpEQvQZKFht6OZhI_0FNHH6SVBPy8SeGMPzz744wvZ7JGCK1B1pv_KVBPD_xjDVtxwKJoEbrmXyYpomHqOwBKhaaH4MzFpJJSeHt_b2LHf0wyONna46WdNPQkoMzCdf9qWs6Fvl9wX0qSAO_PmL9f9ChcYu3QyE0xPWnRpQiRfoHcnriHL30a-G7Pe4EIhrv2itBCkfIhnWls_L9mhKC-2P3xOF1eDCIxbxVxgxIeXisI3K2QCWGRe_kiNFtWh8h9ZCvsPD-LJS2GsmcclZQa7g7_lB3dliYH53G5HylF8bCc6Syzg7EGjvtVtd9QKQB4ir80qzeZbPT_TfRgXyG1-vD9szzvjaKemfe9zFbDl1AFMIlLxyCG4eCVtvCqXbA_te_dw)
 
-(I made a lot of gen 1 Pokemon songs... sooo much nostalgia!)
+(I made a lot of gen 1 Pokemon songs... sooo much nostalgia.)
 
 ## Having fun again
 
