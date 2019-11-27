@@ -49,7 +49,7 @@ In a world where outcomes aren't guaranteed, your best bet is to focus on activi
 
 ## 4. Invest in yourself
 
-My wife and I budget our spending, and we try to keep our expenses low. But we have one budget category with no limits at all. It's called "personal investment"
+My wife and I budget our spending, and we try to keep our expenses low. But we have one budget category with no limits at all. It's called "personal investment."
 
 To elaborate:
 

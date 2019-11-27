@@ -40,7 +40,7 @@ But when you see that friend of yours launch an app or write a book, you realize
 
 At the end of the day, the world rewards the creators. For those who consistently build useful things, the world will heap them with attention and praise (and maybe even money). Choosing to consume has a cost.
 
-With Daily Demos, every day is an opportunity for my kids to learn how to regulate between consumption, and creation. It's driven by incentives, not rules. It's bottom-up, not top-down.
+With Daily Demos, every day is an opportunity for my kids to learn how to regulate between consumption, and creation. It's driven by incentives, not restrictions. It's bottom-up, not top-down.
 
 ## Challenges
 
