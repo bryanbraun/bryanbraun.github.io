@@ -10,7 +10,7 @@ redirect_from:
 
 I'm a web developer and designer, currently based in the American Midwest. I use design and code to inspire, educate, and empower humans.
 
-My work has been [featured](/news.md) in The Washington Post, Daring Fireball, Smashing Magazine, and the Discovery Channel.
+My work has been [featured](/news.md) in Lifehacker, Daring Fireball, Smashing Magazine, and the Discovery Channel.
 
 I'm constantly learning and sharing what I learn through [writing](/archives), [speaking](/speaking.md), and [open-source](https://github.com/bryanbraun). I'm always working on some sort of [side-project](/projects). This is what I'm working on [now](/now).
 
