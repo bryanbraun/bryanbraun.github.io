@@ -1,11 +1,12 @@
 ---
 title: In the News
-excerpt: My work has been featured in The Washington Post, Daring Fireball, the Discovery Channel, and several other news sources.
+excerpt: My work has been featured in Lifehacker, Daring Fireball, the Discovery Channel, and several other news sources.
 permalink: /news/
 ---
 
 | Article | Source | Year |
 | --- | --- | --- |
+| [Create Your Own Sharable Mechanical Music Box Tunes With This Site][11] | Lifehacker | 2019 |
 | [Five Interactive Designers Share Their Treasured Finds][10] | Communcation Arts | 2019 |
 | [A Comparison of Web Animation Techniques][9] | Smashing Magazine | 2016 |
 | [After Dark in CSS][8]| Daring Fireball | 2015 |
@@ -29,3 +30,4 @@ permalink: /news/
 [8]: http://daringfireball.net/linked/2015/06/07/after-dark
 [9]: https://www.smashingmagazine.com/smashing-newsletter-issue-165/#a3
 [10]: https://www.commarts.com/favorites/five-interactive-designers-share-their-treasured-finds-3
+[11]: https://lifehacker.com/create-your-own-sharable-mechanical-music-box-tunes-wit-1839583697
