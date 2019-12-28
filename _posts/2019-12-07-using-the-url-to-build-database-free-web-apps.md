@@ -58,7 +58,7 @@ There are workarounds for this. [Beepbox](https://beepbox.co) encourages people 
 
 These apps have no concept of user identity. There are no users. Just app states. That means that when a user creates a thing, it isn't "theirs." It just exists. Anyone with their link can see it and add to it. That's not a big deal for some things, but it doesn't work for anything where identity or ownership is important.
 
-Unfortunately, identity is important for a lot of online business models. For most SAAS products, a known user pays to get privileged access to your product. That wouldn't work here, where all users are anonymous.
+Unfortunately, identity is important for a lot of online business models. For most SaaS products, a known user pays to get privileged access to your product. That wouldn't work here, where all users are anonymous.
 
 There are ways to monetize anonymous users. If you have traffic, you can set up things like advertising, affiliate links, or lead generation. These may not bring in truckloads of money, but if your app is static, it shouldn't take that much revenue to cover your costs.
 

@@ -8,7 +8,7 @@ I'm at home in Dayton Ohio. It's nice outside. 🌤
 
 ## At Work
 
-I'm working at [Sparkbox](https://seesparkbox.com/), building web applications. I do a little bit of everything but I'm currently spending most of my time working in Javsacript and ReactJS on a massive ecommerce website.
+I'm working at [Sparkbox](https://seesparkbox.com/), building web applications. I do a little bit of everything but I'm currently spending most of my time working in on a web platform for a major University.
 
 My evenings are usually spent working on side projects like [Gridmaster](https://gridmaster.io) and [Powerpoint Karaoke](https://www.powerpointkaraoke.com).
 
