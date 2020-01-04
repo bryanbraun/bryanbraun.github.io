@@ -34,6 +34,7 @@ This Pinterest example is pretty basic, but people have built fairly complex app
 * [Bitcards](https://bitcards.fun/edit) - A tool for building and sharing flashcards.
 * [Firefox Colors](https://color.firefox.com/) - A site for building custom color schemes for your Firefox Browser.
 * [Heroes of the Aturi Cluster](https://hotac-ship-builder.netlify.com/) - A tool for managing an X-wing miniatures campaign.
+* [IsoCity](https://github.com/victorqribeiro/isocity) - An isometric city builder (like a mini SimCity)
 * [Music Box Fun](https://musicboxfun.com/) - An app for creating music box songs (I built this one).
 
 In all of these apps, every change you make updates the URL, instantly saving your progress in an easily sharable link. You don't have to create an account or log in. In fact, you couldn't if you wanted to because there's no database! These apps are completely static.
