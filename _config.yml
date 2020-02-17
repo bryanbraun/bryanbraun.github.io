@@ -27,18 +27,6 @@ exclude:
   - license.md
   - CNAME
 include: ['_pages']
-# See HTML compression settings at http://jch.penibelst.de/#configuration
-#   Don't use inline javascript slash-comments with this enabled (`//`), or you'll
-#   see JS errors. See other caveauts here: http://jch.penibelst.de/#restrictions
-compress_html:
-  clippings: all
-  comments: all
-  endings: all
-  startings: [html, head, body]
-  ignore:
-    envs: []
-  blanklines: false
-  profile: false
 
 # Content settings
 permalink: pretty
