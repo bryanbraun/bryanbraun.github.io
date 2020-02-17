@@ -1,7 +1,7 @@
 ---
 title: In the Press
 date: 2012-04-30 22:57:38
-redirect_from: 2012/04/29/press
+redirect_from: /2012/04/29/press
 related: [
   "Climbing walls like Batman"
 ]
