@@ -1,0 +1,23 @@
+:root {
+  /* COLORS */
+  --bb-blue1: #99ccdd;
+  --bb-blue2: #5599aa;
+  --bb-orange: #d76b00;
+  --bb-off-black: #444444;
+  --bb-inert-gray: #999999;
+
+  /* FONTS */
+  --sans-serif-stack: "PT Sans", "Verdana", sans-serif;
+  --serif-stack: "PT Serif", "Georgia", serif;
+  --monospace-stack: "Lucida Sans Typewriter", "Lucida Console", monaco, "Bitstream Vera Sans Mono", monospace;
+
+  /* WIDTHS / LENGHTS */
+  --page-top-border: 7px;
+
+  /* MEDIA QUERIES */
+  /* we cant do media query variables with custom properties
+     so I'm just documenting the value here so it's easy to
+     see and update later with find and replace.
+  */
+  /* phablet: 580px; */
+}

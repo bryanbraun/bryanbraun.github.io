@@ -1,6 +1,7 @@
 ---
 title: "Living Deliberately"
 date: 2011-05-30 01:44:08
+redirect_from: /2011/05/29/living-deliberately
 related: [
   "Design your Default"
 ]

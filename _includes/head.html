@@ -1,42 +1,45 @@
 <head>
-    <title>{% if page.title %}{{ page.title }} | {% endif %} {{ site.title }}</title>
-    <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  <title>{% if page.title %}{{ page.title }} | {% endif %} {{ site.title }}</title>
+  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 
-    <!-- facebook open graph tag logic from http://www.bebetterdeveloper.com/deployment/sharing-a-blog-post-hosted-on-github-pages.html -->
-    <meta property="og:site_name" content="{{ site.title }}">
-    <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
-    <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
-    <meta property="og:image" content="{{ site.logo | prepend: site.url }}">
-    <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.url }}">
-    <meta property="og:type" content="{% if page.date %}article{% else %}website{% endif %}">
+  <!-- facebook open graph tag logic from http://www.bebetterdeveloper.com/deployment/sharing-a-blog-post-hosted-on-github-pages.html -->
+  <meta property="og:site_name" content="{{ site.title }}">
+  <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+  <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  <meta property="og:image" content="{{ site.logo | prepend: site.url }}">
+  <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.url }}">
+  <meta property="og:type" content="{% if page.date %}article{% else %}website{% endif %}">
 
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width initial-scale=1" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="keywords" content="Bryan Braun, Personal Blog, Web Developer">
-    <meta name="robots" content="follow, index">
-    <!--Chrome/Android-->
-    <meta name="theme-color" content="#99CCDD">
-    <!--Safari/iOS-->
-    <meta name="apple-mobile-web-app-status-bar-style" content="#99CCDD">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="keywords" content="Bryan Braun, Personal Blog, Web Developer">
+  <meta name="robots" content="follow, index">
+  <!--Chrome/Android-->
+  <meta name="theme-color" content="#99CCDD">
+  <!--Safari/iOS-->
+  <meta name="apple-mobile-web-app-status-bar-style" content="#99CCDD">
 
-    <link rel="icon" href="/favicon.ico">
-    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.url }}">
+  <link rel="icon" href="/favicon.ico">
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.url }}">
 
-    <!-- Now we have meta tags for rss+xml (feedburner), JSONFeed (/feed.json), and atom+xml (/rss.xml), which is a lot but oh well. -->
-    <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="http://feeds.feedburner.com/bryanbraun" />
-    <link rel="alternate" type="application/json" title="{{ site.title }}" href="{{ '/feed.json' | prepend: site.baseurl | prepend: site.url }}" />
-    {% feed_meta %}
+  <!-- Now we have meta tags for rss+xml (feedburner), JSONFeed (/feed.json), and atom+xml (/rss.xml), which is a lot but oh well. -->
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="http://feeds.feedburner.com/bryanbraun" />
+  <link rel="alternate" type="application/json" title="{{ site.title }}" href="{{ '/feed.json' | prepend: site.baseurl | prepend: site.url }}" />
+  {% feed_meta %}
 
   {% comment %}
     Inline our CSS because it's below 14k (as recommended in https://hackernoon.com/10-things-i-learned-making-the-fastest-site-in-the-world-18a0e1cdf4a7)
-    Technique: http://www.kevinsweet.com/inline-scss-jekyll-github-pages
+    Update: it's 12.7k as of 02/16/2020.
   {% endcomment %}
+
   <style type="text/css">
-    {% capture include_to_scssify %}
-      {% include main.scss %}
-    {% endcapture %}
-    {{ include_to_scssify | scssify }}
+    {% include css/variables.css %}
+    {% include css/fonts.css %}
+    {% include css/syntax-highlighting.css %}
+    {% include css/site.css %}
+    {% include css/utilities.css %}
+    {% include css/hacks.css %}
   </style>
 
 </head>

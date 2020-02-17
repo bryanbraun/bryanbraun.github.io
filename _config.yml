@@ -26,9 +26,6 @@ exclude:
   - readme.md
   - license.md
   - CNAME
-sass:
-  sass_dir: assets/_sass
-  style: compressed
 include: ['_pages']
 # See HTML compression settings at http://jch.penibelst.de/#configuration
 #   Don't use inline javascript slash-comments with this enabled (`//`), or you'll

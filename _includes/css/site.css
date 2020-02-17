@@ -1,0 +1,452 @@
+body {
+  font-family: var(--serif-stack);
+  margin: 0;
+  padding: 0 1rem; /* page padding for mobile */
+  border-top: var(--page-top-border) solid var(--bb-blue1);
+  color: var(--bb-off-black);
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: var(--sans-serif-stack);
+  font-weight: normal;
+}
+
+/* These headings are identical, to discourage unnecessary hierarchy. */
+h4,
+h5,
+h6 {
+  font-size: 1rem;
+  margin: 1.333rem 0;
+}
+
+a {
+  color: var(--bb-blue2);
+}
+a:hover {
+  color: var(--bb-orange);
+}
+
+
+::selection {
+  color: #ffffff;
+  background-color: var(--bb-blue2);
+}
+
+img {
+  max-width: 100%;
+}
+
+blockquote {
+  font-style: italic;
+  margin: 2em 40px;
+}
+
+figcaption {
+  text-align: center;
+  font-size: 0.8rem;
+}
+
+code,
+samp,
+kbd {
+  font-family: var(--monospace-stack);
+  font-size: 0.875rem;
+  padding: 0 6px;
+  text-align: left;
+}
+
+pre {
+  font-family: var(--monospace-stack);
+  font-size: 0.875rem;
+  margin: 1.75rem 0;
+  overflow: auto;
+  padding: 0 0 0 1.5rem;
+}
+
+/* Override 'code' css rules if using 'pre > code' markup. */
+pre > code {
+  padding: 0px;
+}
+
+/* Styles for default (markdown) tables. */
+th,
+td {
+  text-align: left;
+  vertical-align: top;
+
+  /* For tables that don't have enough data to push it to be full width,
+     this padding provides a small bit of breathing room between columns. It
+     seemed to be a better solution then forcing 100% width on all markdown tables.
+  */
+  padding-right: 5px;
+}
+
+hr {
+  display: block;
+  height: 1px;
+  border: 0;
+  border-top: 1px solid #ccc;
+  margin: 2.5rem 0;
+  padding: 0;
+}
+
+.section-divider {
+  text-align: center;
+  border: none;
+  overflow: visible;
+  position: relative;
+}
+.section-divider::before {
+  content: '...';
+  color: #bbb;
+  font-size: 1.25rem;
+  letter-spacing: 8px;
+  position: absolute;
+  top: -20px;
+}
+
+.site-header {
+  /* cancel out page padding for navigation */
+  margin-left: -1rem;
+  margin-right: -1rem;
+}
+
+.main-nav ul {
+  list-style-type: none;
+  margin-top: 0.75rem;
+  padding: 0;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  display: -ms-flexbox;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -webkit-box-pack: justify;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+}
+@media (min-width: 580px) {
+  .main-nav ul {
+    -webkit-box-pack: end;
+    -ms-flex-pack: end;
+    justify-content: flex-end;
+    margin: 0;
+  }
+}
+
+.main-nav a {
+  font-family: var(--sans-serif-stack);
+  font-size: 13px;
+  text-decoration: none;
+  text-transform: uppercase;
+  color: var(--bb-inert-gray);
+  padding: 0.375rem 1rem;
+  display: block;
+}
+@media (min-width: 580px) {
+  .main-nav a {
+    padding: 1.5rem 1.75rem;
+  }
+}
+
+.main-nav a:hover {
+  color: var(--bb-off-black);
+}
+.main-nav a:hover path {
+  fill: var(--bb-off-black);
+}
+.main-nav a.is--active {
+  color: var(--bb-off-black);
+}
+
+@media (min-width: 580px) {
+  .main-nav__home {
+    position: absolute;
+    top: var(--page-top-border);
+    left: 0;
+  }
+}
+
+.main-nav__home svg {
+  width: 16px;
+}
+
+.main-nav__home path {
+  fill: var(--bb-inert-gray);
+}
+
+.main-nav__home .is--active path {
+  fill: var(--bb-off-black);
+}
+
+.logo-section {
+  margin: 2rem auto 4rem;
+  max-width: 222px;
+}
+/* Intrinsic ratio prevents content jump when image loads. */
+.logo-wrapper {
+  position: relative;
+  width: 100%;
+  padding-bottom: 100%;
+}
+.logo {
+  position: absolute;
+  width: 100%;
+}
+
+.page-content {
+  /* padding: 0.1px; prevents collapsing margins between this box and the child heading,
+     without side-effects (I was seeing some with tables using the overflow: auto technique).
+     see: http://stackoverflow.com/a/33132624/1154642
+  */
+  padding: 0.1px;
+  max-width: 40rem; /* 16*40 = 640px */
+  margin: 0 auto;
+  line-height: 1.5; /* designed to be inherited by all page-content. */
+}
+
+.page-title {
+  text-align: center;
+}
+.homepage-title-link {
+  color: var(--bb-off-black);
+  text-decoration: none;
+}
+.homepage-title-link:hover {
+  color: var(--bb-orange);
+}
+
+.article-title {
+  text-align: center;
+}
+.article-meta {
+  font-family: var(--sans-serif-stack);
+  font-size: 0.875rem;
+  text-align: center;
+  margin: 1.5rem 0;
+}
+.article-content img {
+  padding: 2rem 0;
+}
+.article-content figure {
+  margin-left: 0;
+  margin-right: 0;
+}
+.article-content figure img {
+  padding: 1rem 0;
+}
+.article-content figcaption {
+  padding-bottom: 1rem;
+}
+
+.edit-link-wrapper {
+  text-align: right;
+}
+.edit-link {
+  font-family: var(--sans-serif-stack);
+  font-size: 0.75rem;
+}
+
+.other-posts {
+  display: flex;
+  margin: 2rem 0;
+  padding-top: 2rem;
+  border-top: 1px solid #ccc;
+}
+
+.other-posts > div {
+  flex: 1 0 0px;
+  padding-right: 1rem;
+}
+
+.other-posts--title {
+  margin-top: 0;
+  margin-bottom: 0.75rem;
+}
+.other-posts--list {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  font-size: 0.875rem;
+  line-height: 1.2;
+}
+
+.other-posts--list li {
+  padding: 0.25rem 0;
+}
+.other-posts--more {
+  font-family: var(--sans-serif-stack);
+  font-size: 0.75rem;
+  margin-top: 0.5rem;
+  display: block;
+}
+
+.related-inline {
+  font-size: 0.8125rem;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  padding-top: 1.5rem;
+}
+.related-inline--title {
+  -ms-flex-negative: 0;
+  flex-shrink: 0;
+  margin-right: 5px;
+}
+
+.site-footer {
+  padding-top: 4rem;
+  padding-bottom: 2rem;
+  text-align: center;
+}
+
+.site-footer > p {
+  font-family: var(--sans-serif-stack);
+  font-size: 0.75rem; /* 12px */
+  margin: 0.25rem; /* 4px */
+}
+
+.projects {
+  list-style-type: none;
+  padding: 0;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+}
+.project {
+  border: 1px solid #ccc;
+  margin: 10px;
+  float: left;
+
+  /* @todo: use css-grid / flexbox for this? */
+  /*
+     191 (width)
+   +   2 (border on both sides)
+   +   20 (margin on both sides)
+   = 213px (per image)
+   *   3 (wide)
+   = 639px (out of a possible total width of 640)
+  */
+  width: 191px;
+}
+
+.project img {
+  display: block;
+}
+
+.archive-post-date {
+  display: inline-block;
+  min-width: 3.75rem;
+  color: var(--bb-inert-gray);
+}
+.archive-list {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+/* Subscribe styles
+   The styles are a bit Janky because I don't want to mess with mailchimp's embed
+   form too much, for fear that I might break AJAX or validation features.
+   I might come back and improve this later if I'm running into edge cases.
+*/
+.subscribe {
+  font-family: var(--sans-serif-stack);
+  padding: 3rem 0;
+  margin: 2rem 0;
+  text-align: center;
+  border-bottom: 1px solid #ccc;
+  border-top: 1px solid #ccc;
+}
+.subscribe-text p {
+  margin: 0 0 0.5rem 0;
+}
+.subscribe-form {
+  margin: 0 auto;
+}
+.subscribe-email {
+  background-color: #ffffff;
+  border-left: 1px solid rgba(100, 100, 100, 0.22);
+  border-right: 1px solid rgba(100, 100, 100, 0.22);
+  border-bottom: 1px solid rgba(100, 100, 100, 0.22);
+  border-top: 1px solid transparent;
+  border-radius: 3px;
+  box-shadow: inset 0px 1px 1px rgba(0, 0, 0, 0.4);
+  padding: 3px 0 3px 6px;
+  font-size: 14px;
+  margin: 3px 10px;
+  height: 32px;
+}
+.mc-field-group {
+  display: inline-block;
+}
+.mce_inline_error {
+  display: inline-block;
+  vertical-align: top;
+}
+
+.subscribe-button-wrap {
+  display: inline-block;
+  vertical-align: top;
+}
+.subscribe-button {
+  line-height: 34px;
+  border: 0;
+  border-radius: 3px;
+  margin: 4px 10px 3px 10px;
+  font-size: 14px;
+  color: #ffffff;
+  background-color: var(--bb-blue1);
+  vertical-align: top;
+  width: 120px;
+  display: inline-block;
+}
+.subscribe-button:hover {
+  background-color: var(--bb-blue2);
+  cursor: pointer;
+}
+
+.comments {
+  text-align: center;
+}
+
+/* The default table is mostly browser defaults and basically unstyled (no border, etc). */
+/* Cancel top-margin for common first elements inside of table cells. */
+table td > pre:first-child {
+  margin-top: 0;
+}
+table td > p:first-child {
+  margin-top: 0;
+}
+
+/* Alternative tables will have one of these classes applied to the table element. */
+.bb-table1 {
+  border-collapse: collapse;
+}
+.bb-table1 td {
+  border: solid 1px #ccc;
+  padding: 8px 8px;
+  vertical-align: top;
+}
+.bb-table1 pre {
+  margin: 1rem 0;
+  padding-left: 1rem;
+}
+
+.social-icons {
+  display: flex;
+  justify-content: center;
+}
+
+.social-icons img {
+  width: 2rem;
+  margin: 0 0.75rem;
+}

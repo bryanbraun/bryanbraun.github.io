@@ -1,7 +1,8 @@
-// Hide visually and from screen readers:
+/* Hide visually and from screen readers: */
 .hidden {
   display: none !important;
 }
+
 .right {
   float: right;
 }
@@ -15,8 +16,8 @@
   text-align: center;
 }
 
-// Hide only visually, but have it available for screen readers:
-// http://snook.ca/archives/html_and_css/hiding-content-for-accessibility
+/* Hide only visually, but have it available for screen readers: */
+/* http://snook.ca/archives/html_and_css/hiding-content-for-accessibility */
 .visuallyhidden {
   border: 0;
   clip: rect(0 0 0 0);
@@ -28,7 +29,7 @@
   width: 1px;
 }
 
-// Removes paddings and margins from an element.
+/* Removes paddings and margins from an element. */
 .no-space {
   padding: 0 !important;
   margin: 0 !important;
