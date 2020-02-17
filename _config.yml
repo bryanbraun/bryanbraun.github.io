@@ -26,6 +26,8 @@ exclude:
   - readme.md
   - license.md
   - CNAME
+sass:
+  style: compressed
 include: ['_pages']
 
 # Content settings
@@ -61,7 +63,7 @@ branch: master # the branch my live site is deployed to.
 # https://disqus.com/home/channel/discussdisqus/discussion/channel-discussdisqus/migration_new_identifiers_same_urls/
 #
 # In the mean time, I maintain the older form of the site url as `disqus_url`, which has
-# no purpose but to provide consistant page identifiers so comments can be preserved.
+# no purpose but to provide consistent page identifiers so comments can be preserved.
 #
 # For more details on how identifiers work, see:
 #  - https://help.disqus.com/customer/portal/articles/472099-what-is-a-disqus-identifier-
