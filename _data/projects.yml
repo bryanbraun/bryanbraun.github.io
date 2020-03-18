@@ -1,3 +1,7 @@
+- name: "Checkboxland"
+  url: http://bryanbraun.github.io/checkboxland
+  image: /assets/images/checkboxland-project.png
+
 - name: "Music Box Fun"
   url: https://musicboxfun.com
   image: /assets/images/music-box-fun-project.png
