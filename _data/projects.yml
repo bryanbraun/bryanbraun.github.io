@@ -22,6 +22,10 @@
   url: http://sparkbox.github.io/bouncy-ball/
   image: /assets/images/bouncy-ball.png
 
+- name: "Logo Experiments"
+  url: http://sparkbox.github.io/logo-experiments/
+  image: /assets/images/logo-experiments-project.png
+
 - name: "AnchorJS - Add Deep Anchor Links to your Docs"
   url: http://bryanbraun.github.io/anchorjs
   image: /assets/images/anchorjs_logo.png
