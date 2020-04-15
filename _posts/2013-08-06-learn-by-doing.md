@@ -1,6 +1,7 @@
 ---
 title: "Learn by Doing"
 date: 2013-08-06 06:51:56
+updated: 2018-06-04
 related: [
   "5 Takeaways from 5 Years of Teaching Myself Web Programming",
   "We are just seeing the beginning of interactive online learning"

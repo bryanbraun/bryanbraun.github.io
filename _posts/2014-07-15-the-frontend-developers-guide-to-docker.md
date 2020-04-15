@@ -1,11 +1,11 @@
 ---
 title: "The Frontend Developer's Guide to Docker"
 date: 2014-07-15 20:56:56
+updated: 2019-08-06
 related: [
   "A Brief Overview of Docker Tags"
 ]
 ---
-*Last updated: Aug 2019*
 
 I decided to use Docker for a recent project and I learned a lot in the process. This is an attempt to explain what Docker is, in plain English, from the perspective of a frontend developer.
 

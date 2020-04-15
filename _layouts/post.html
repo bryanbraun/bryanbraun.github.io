@@ -5,7 +5,13 @@ layout: default
 
   <header class="article-header">
     <h1 class="article-title">{{ page.title }}</h1>
-    <p class="article-meta">{{ page.date | date: "%b %-d, %Y" }}</p>
+    <div class="article-meta">
+      <div>{{ page.date | date: "%b %-d, %Y" }}</div>
+      {% if page.updated %}
+        <div><em>Updated: {{ page.updated | date: "%b %-d, %Y" }}</em></div>
+      {% endif %}
+    </div>
+    <p class="article-meta"></p>
   </header>
 
   <article class="article-content">

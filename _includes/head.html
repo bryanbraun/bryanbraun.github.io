@@ -10,6 +10,13 @@
   <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.url }}">
   <meta property="og:type" content="{% if page.date %}article{% else %}website{% endif %}">
 
+  {% if page.date %}
+    <meta property="article:published_time" content="{{page.date | date: '%Y-%m-%dT%H:%M:%SZ'}}">
+  {% endif %}
+  {% if page.updated %}
+    <meta property="article:modified_time" content="{{page.updated | date: '%Y-%m-%dT%H:%M:%SZ'}}">
+  {% endif %}
+
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width initial-scale=1" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
