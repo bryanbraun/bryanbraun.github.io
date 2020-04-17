@@ -431,8 +431,13 @@ table td > p:first-child {
 /* Alternative tables will have one of these classes applied to the table element. */
 .bb-table1 {
   border-collapse: collapse;
+
+  /* horizontal scrolling on mobile */
+  display: block;
+  overflow-x: auto;
 }
-.bb-table1 td {
+.bb-table1 td,
+.bb-table1 th {
   border: solid 1px #ccc;
   padding: 8px 8px;
   vertical-align: top;
