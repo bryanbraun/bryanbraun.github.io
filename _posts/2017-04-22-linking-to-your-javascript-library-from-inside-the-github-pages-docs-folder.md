@@ -1,6 +1,7 @@
 ---
 title: "Linking to your Javascript Library from Inside the Github Pages Docs Folder"
 date: 2017-04-22 22:27:00
+updated: 2020-04-17
 related: [
   "On keeping your gh-pages and master branch in sync"
 ]
@@ -34,3 +35,11 @@ So here's what I found:
 So at least one of them worked, right? Well the more I thought about the raw-git option, the more flaws I found. For example, the library in my docs isn't going to be fully updated during local development, and that could be an issue if I'm working on a major update locally.
 
 In the end, I decided to go with option 1 (an NPM task that copies it over). If anybody has better ideas on how to make option 2  work, let me know in the comments.
+
+<hr class="section-divider" />
+
+*Update: I tried a different approach for this on [a recent project of mine](https://github.com/bryanbraun/checkboxland) and it worked out pretty well.*
+
+*Instead of deploying just the `/docs` folder to github-pages, I deployed the whole repo. I still had a `/docs` folder containing the static site for the docs... I just needed to pull the main `index.html` up to the project root. This setup allowed me to link my main library directly into my docs without any npm tasks or watch scripts. 🎉*
+
+*The only downside is that pulling the index.html up a level isn't typical for most static site generators. In my case, I was using plain HTML, so it wasn't a big deal.*

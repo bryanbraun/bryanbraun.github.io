@@ -1,6 +1,7 @@
 ---
 title: "On keeping your gh-pages and master branch in sync"
 date: 2015-09-19 15:03:11
+updated: 2017-04-22
 related: [
  "Linking to your Javascript Library from Inside the Github Pages Docs Folder"
 ]
@@ -27,6 +28,8 @@ Simply click to change the default branch to `gh-pages`, and use the trash icon 
 
 In retrospect, it seems so obvious. A branch is a branch, and "master" is just a name. If your repo uses `gh-pages` as **its master** then you'll never have to keep branches in sync again. That's my kind of solution.
 
-**Update:**
+<hr class="section-divider" />
 
-This approach is no longer necessary, now that Github lets you use master, or a `/docs` folder for github-pages.
+*Update:*
+
+*This approach is no longer necessary, now that Github lets you use master, or a `/docs` folder for github-pages.*
