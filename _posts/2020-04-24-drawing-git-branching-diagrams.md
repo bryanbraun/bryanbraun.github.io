@@ -38,7 +38,7 @@ I wanted a generic template that I could use for future projects, so I threw one
 
 ![Example Git Branching Diagram](https://user-images.githubusercontent.com/1256329/80170009-f9d03200-85b4-11ea-94d3-3041887565ac.png)
 
-Feel free to use it as a starting place for your own diagrams, if you'd like. 😄
+Feel free to use it as a starting place for your own branching diagrams, if you'd like. 😄
 
 [1]: https://www.omnigroup.com/omnigraffle/
 [2]: https://www.gliffy.com/
