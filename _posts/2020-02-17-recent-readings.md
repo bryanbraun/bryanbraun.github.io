@@ -1,6 +1,7 @@
 ---
-title: "Readings in 2019"
+title: "Recent Readings"
 date: 2020-02-17
+redirect_from: /2020/02/17/readings-in-2019/
 related: [
   "Putting your Learning on Autopilot",
   "Study under your Dream Team",
