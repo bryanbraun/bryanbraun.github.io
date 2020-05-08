@@ -5,12 +5,6 @@ date: 2011-07-06 00:26:13
 
 Last week I landed myself a parking citation.
 
-This is me, clearly upset about the situation.
-
-<p style="text-align: center;">
-  <img alt="" src="/assets/images/Feelin-Bad.jpg" title="Feelin-Bad" /></a>
-</p>
-
 If that wasn't enough, over the weekend a truck backed into my car which was parked on the street. Naturally, it left a sizable dent in the passenger door while the truck sustained no damage.
 
 Toss in a night of doing homework until 4 am, and you'd agree, this is starting to show the tell-tale signs of a "bad week".
@@ -32,5 +26,3 @@ I think of these words spoken by Shakespeare's Hamlet:
 Hamlet spoke these words while describing how the palaces and lands of Denmark seemed to be a prison to him. Just as we can find good in bad situations, we can likewise see bad in the good. Receiving nice gifts raises future expectations and sets you up for letdowns to come. Eating out is expensive, fattening, and does nothing to improve your cooking skills. Natural talent fuels pride. Like I said there are no one-sided coins.
 
 Parking citations. High gas prices. Doing homework until 4 in the morning. These things are going to happen whether we look for the good in them or not. So lets just do it. At the very least, we'll be able to raise our glasses and toast to a life of opportunities for growth.
-
-As they say, "No pain, no gain".
