@@ -23,6 +23,6 @@ I was watching [this commencement address](https://www.youtube.com/watch?v=Gzu9S
 <hr class="section-divider" />
 
 <small>
-  Hat tip to James Clear, who included this commencement address on <a href="https://jamesclear.com/great-speeches">his list of great speeches</a>
+  Hat tip to James Clear, who included this commencement address on <a href="https://jamesclear.com/great-speeches">his list of great speeches</a>.
 </small>
 

@@ -23,6 +23,7 @@ I'm a husband and father. I'm [INTJ](https://www.16personalities.com/intj-person
 <div class="social-icons">
   <a href="https://twitter.com/BryanEBraun"><img src="{{site.url}}/assets/images/line-icon-twitter.svg" /></a>
   <a href="https://github.com/bryanbraun"><img src="{{site.url}}/assets/images/line-icon-github.svg" /></a>
+  <a href="https://codepen.io/bryanbraun"><img src="{{site.url}}/assets/images/line-icon-codepen.svg" /></a>
   <a href="https://www.linkedin.com/in/bryanbraun"><img src="{{site.url}}/assets/images/line-icon-linkedin.svg" /></a>
   <a href="https://www.facebook.com/bryanbr4un"><img src="{{site.url}}/assets/images/line-icon-facebook.svg" /></a>
 </div>
