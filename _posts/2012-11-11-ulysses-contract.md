@@ -1,6 +1,7 @@
 ---
 title: "The Ulysses Contract"
 date: 2012-11-11 15:27:26
+updated: 2020-06-06
 related: [
   "Winning Systems",
   "Procrastination: The future-you cannot be trusted"
@@ -9,7 +10,7 @@ related: [
 
 What do you do when your own worst enemy is yourself?
 
-I recently heard <a href="http://www.radiolab.org/2011/mar/08/" target="_blank" rel="noopener noreferrer" title="Radiolab: Help!">a story</a> about a woman named Zelda Gamson. She was an older woman who had lived a very fulfilling life, having been a civil rights activist, among other things. Unfortunately, Zelda often battled with a lifelong smoking addiction that she couldn't seem to kick. On one particular day, she felt a really strong desire to quit... so strong, that she made a deal with a friend of hers. It was an oath, with this friend as a witness, that if she ever smoked another cigarette, then she would donate $5,000 to the Ku Klux Klan. Period.
+I recently heard <a href="https://www.wnycstudios.org/podcasts/radiolab/episodes/117165-help" target="_blank" rel="noopener noreferrer" title="Radiolab: Help!">a story</a> about a woman named Zelda Gamson. She was an older woman who had lived a very fulfilling life, having been a civil rights activist, among other things. Unfortunately, Zelda often battled with a lifelong smoking addiction that she couldn't seem to kick. On one particular day, she felt a really strong desire to quit... so strong, that she made a deal with a friend of hers. It was an oath, with this friend as a witness, that if she ever smoked another cigarette, then she would donate $5,000 to the Ku Klux Klan. Period.
 
 You can imagine how repugnant this donation would be, especially to a former civil rights activist. In fact, the idea of it was so bitter, that she knew that no cigarette, no matter how nice it would be, was worth such a horrible option. She just couldn't bring herself to smoke.
 
