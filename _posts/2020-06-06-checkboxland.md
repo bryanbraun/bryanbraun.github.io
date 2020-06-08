@@ -28,7 +28,7 @@ As we were about to start the event, I had a conversation with [Rob](https://twi
 
 When I realized that you could make something similar using html checkboxes, I knew I had the perfect hack-night project. After three hours, and a bunch of help from my friend [Yosevu](https://twitter.com/yosevu), we had a [working digital clock made out of html checkboxes](https://repl.it/@bryanbraun/Checkboxland).
 
-It was a lot of fun to build, but my brain wouldn't let go. A clock is nice, but theoretically, you could build *anything* this way. Right?
+It was a fun thing to work on, but my brain wouldn't let go. A clock is nice, but theoretically, you could build *anything* this way. Right?
 
 ## Recurse center
 
@@ -36,9 +36,9 @@ Building the clock was awkward. You had all these checkboxes to manage, and it w
 
 I kept thinking of all these animations you could make, but it needed to be easier. If only there was a library that could help with this...
 
-I soon had an opportunity to spend a week at [The Recurse Center](https://www.recurse.com/), so I decided to use that time to work on it. It was funny talking to my peers there... everyone else was doing these impressive-sounding things like build a neural network or reverse-engineering a compiler. And there I was, playing with html checkboxes. 🙃
+I soon had an opportunity to spend a week at [The Recurse Center](https://www.recurse.com/), so I decided to use that time to work on it. It was funny talking to my peers there... everyone else was doing these impressive-sounding things like building a neural network or reverse-engineering a compiler. And there I was, playing with html checkboxes. 🙃
 
-Anyway, that project became Checkboxland, and it's allowed me to rapidly spin up demos and see what I could make. For example, these scannable checkbox QR Codes:
+Anyway, that project became Checkboxland, and it has allowed me to rapidly spin up demos and see what I could make. For example, these scannable checkbox QR Codes:
 
 <blockquote class="twitter-tweet">
   <p lang="en" dir="ltr">It&#39;s Friday night so of course I&#39;m eating cookie dough and making a QR code out of html checkboxes that always tells you the current time.<a href="https://t.co/ZNjG0SWAce">https://t.co/ZNjG0SWAce</a> <a href="https://t.co/Fywf7FZFpu">pic.twitter.com/Fywf7FZFpu</a></p>&mdash; Bryan Braun (@BryanEBraun) <a href="https://twitter.com/BryanEBraun/status/1264014217063149569?ref_src=twsrc%5Etfw">May 23, 2020</a>
