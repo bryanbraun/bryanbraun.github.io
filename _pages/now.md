@@ -4,15 +4,15 @@ excerpt: A brief description of what I'm doing now. Freshly updated for 2020!
 permalink: /now/
 ---
 
-I'm at home in Dayton Ohio. It's getting warmer every day. 🌤
+I'm at home in Dayton Ohio. It's summer. ☀️
 
 ## At Work
 
-I'm working at [Sparkbox](https://seesparkbox.com/), building web applications. I do a little bit of everything but I'm currently spending most of my time working on a web platform for a major University.
+I'm working at [Sparkbox](https://seesparkbox.com/), building web applications. I do a little bit of everything but I'm currently spending most of my time writing [Go](https://golang.org/) and building a serverless backend with GraphQL, Lambdas, and other AWS infrastructure.
 
-I used to bike to the office but I'm working from home a LOT these days (I damaged the back wheel of my bike, and then the COVID-19 thing happened). Working from home is nice. I enjoy eating lunch with my wife and kids.
+I'm working out of my home office, which is nice. I've had to replace my biking routine with pushup, but I enjoy eating lunch with my wife and kids.
 
-My evenings are usually spent working on side projects like [Gridmaster](https://gridmaster.io) and [Powerpoint Karaoke](https://www.powerpointkaraoke.com).
+Whenever I get a spare evening, I usually spent it working on [musicboxfun.com](https://musicboxfun.com).
 
 ## At Home
 
@@ -22,4 +22,4 @@ I haven't read a lot of audiobooks lately but I still enjoy the occasional podca
 
 _This page was inspired by Derek Sivers and [his /now page](https://sivers.org/now)._
 
-_This page was last updated: March 17th, 2020_
+_This page was last updated: July 14th, 2020_
