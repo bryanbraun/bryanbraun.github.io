@@ -3,7 +3,8 @@ title: "Working for the side-effects"
 date: 2019-02-14 01:27:00
 redirect_from: /2019/02/13/working-for-the-side-effects/
 related: [
-  "The side-effects of sharing your work"
+  "The side-effects of sharing your work",
+  "The secondary effects of your work"
 ]
 ---
 
