@@ -1,6 +1,7 @@
 ---
 title: "What are you paying for, to live where you live?"
 date: 2020-07-21
+updated: 2020-07-25
 related: [
   "Design your Default",
   "Living Deliberately",
@@ -22,6 +23,6 @@ Why do lots of people want to live there? Because it's the nation's capital. The
 
 But I wasn't like them. I was a web developer. And I started to realize that I was paying a lot of money to live in the political center of the country, and it didn't really matter to me. I wasn't taking advantage of it.
 
-I think a lot of people are in a similar situation now, with COVID-19 forcing them to work from home. You can't take advantage of the big city when you're stuck in your studio apartment. How long before that $2,000/month rent just stops making sense?
+I think [a lot of people are in a similar situation now](https://www.wsj.com/articles/when-workers-can-live-anywhere-many-ask-why-do-i-live-here-11592386201), with COVID-19 forcing them to work from home. You can't take advantage of the big city when you're stuck in your studio apartment. How long before that $2,000/month rent just stops making sense?
 
 It's an important question to ask. And if you're asking the question now, let me just say that it's pretty hard to beat the price of [a studio in Dayton](https://www.apartments.com/dayton-oh/studios/?bb=-typ3w6g8I0344n-4B). :)
