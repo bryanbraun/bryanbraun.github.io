@@ -278,6 +278,10 @@ And if you end up trying it out, [let me know on twitter](https://twitter.com/br
 
 <hr class="section-divider">
 
+<small>Translations: <a href="https://howtorecover.me/web-dev-nirvana">Russian</a></small>
+
+–
+
 <p>
   <small><em>* I agree with Rich Harris when <a href="https://youtu.be/AdNJ3fydeao?t=1486" target="_blank">he said</a>: "There's only one reliable way to speed up your code, and that is to get rid of it."</em></small>
 </p>
