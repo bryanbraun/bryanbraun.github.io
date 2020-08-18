@@ -1,6 +1,7 @@
 ---
 title: "Web-dev nirvana, and why I needed to let go of React to reach it"
 date: 2019-09-11
+updated: 2020-08-16
 related: [
   "Nonsense",
   "Make Things Simple"
@@ -238,7 +239,7 @@ _"Don't we need a bundler to use 3rd-party libraries?"_
 Historically, most NPM modules have published their code in a CommonJS format, which is usable by bundlers, but not by browsers. With ES6 modules growing in popularity, this is starting to change. Lots of 3rd-party libraries are available in ES6 module format, and for those that aren't, you have a few options:
 
 - **Import the global version of the package.** This can be loaded in a script tag or [an empty import](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import#Import_a_module_for_its_side_effects_only)).
-- **Use some tooling to do a one-time package conversion.** Pika can [turn ESM packages with CommonJS internal dependencies into web-friendly imports](https://www.pika.dev/blog/pika-web-a-future-without-webpack/). Packages that don't support ESM at all could probably be converted with [the right Rollup plugins](https://github.com/rollup/rollup-plugin-commonjs).
+- **Use some tooling to do a one-time package conversion.** Snowpack can [turn ESM packages with CommonJS internal dependencies into web-friendly imports](https://www.pika.dev/blog/pika-web-a-future-without-webpack/). Packages that don't support ESM at all could probably be converted with [the right Rollup plugins](https://github.com/rollup/rollup-plugin-commonjs).
 - **Petition the author to create a ES6 bundle (or even better... submit a PR!.)** This could be as easy as [adding a `module` property to their package.json](https://github.com/rollup/rollup/wiki/pkg.module), or [tweaking their bundle settings](https://rollupjs.org/guide/en/#command-line-flags). I've had success asking a number of authors to do this, so if you're planning to ask, you can use [my issue](https://github.com/bryanbraun/anchorjs/issues/109) as a template. Remember to search open issues first... if somebody has already requested it, you can ask for a status update.
 
 _"Aren't native ES6 modules slow? So many HTTP requests!"_
