@@ -1,6 +1,7 @@
 ---
 title: "An Overview of Javascript's try-catch"
 date: 2014-10-19 22:00:59
+updated: 2020-08-25
 related: [
   "Every Possible Way to Define a Javascript Function"
 ]
@@ -17,7 +18,7 @@ try {
   // put some code here
 } catch (err) {
   // put more code here
-finally {
+} finally {
   // put more code here
 }
 ```

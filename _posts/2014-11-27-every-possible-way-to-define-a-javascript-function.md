@@ -154,7 +154,7 @@ var sum = function(num1, num2) {
       </td>
 
       <td>
-        This is a combination of the variable assignment expression and the immediately invoked function (both demonstrated above). One neat application for the named variety of this is to make recursive functions more readable, by <a href="http://fitzgeraldnick.com/weblog/27/">substituting arguments.callee with your function name</a>.
+        This is a combination of the variable assignment expression and the immediately invoked function (both demonstrated above). One neat application for the named variety of this is to make recursive functions more readable, by substituting arguments.callee with your function name.
       </td>
     </tr>
 
