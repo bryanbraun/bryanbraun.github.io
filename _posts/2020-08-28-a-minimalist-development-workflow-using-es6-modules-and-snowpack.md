@@ -3,6 +3,7 @@ title: "A minimalist development workflow using ES6 modules and Snowpack"
 date: 2020-08-28
 related: [
   "Web-dev nirvana, and why I needed to let go of React to reach it",
+  "What if React used web components under the hood?",
   "Nonsense"
 ]
 ---
