@@ -32,7 +32,6 @@ It starts with a basic HTML file, which pulls in `style.css` for styles and `mai
   <script type="module" src="main.js"></script>
 </body>
 </html>
-
 ```
 
 By declaring `type="module"` on our script tag, we're safe to use `import` and `export` statements in `main.js` without needing a bundler. 💪
@@ -45,21 +44,20 @@ To pull in dependencies, we'll create a basic `package.json` and list them under
 {
   "name": "my-project",
   "dependencies": {
-    "lit-element": "^2.4.0",
-    "anchor-js": "^4.2.2",
-    "gsap": "^3.5.1"
+    "full-page-canvas": "0.1.0",
+    "confetti-js": "0.0.18"
   }
 }
 ```
 
-Running `npm install` will download these packages to a `node_modules` folder, but we can't actually import them, for a few reasons:
+Running `npm install` will download these packages to a `node_modules` folder, but we can't actually `import` them into our code, for a few reasons:
 
 1. **Every package is organized differently.** ES6 imports require us to point to a specific JavaScript file, but which one? Each package with an ES6 module entrypoint saves it wherever they want, and names it whatever they want. There's no standard.
 2. **Not all packages support ES6 imports.** For years we've been building packages that export to browser globals, CommonJS, or other module formats. If the library you want to use doesn't have an ES6 module entrypoint, then you're toast.
 
 This is where [Snowpack](https://www.snowpack.dev/) comes in. You can think of Snowpack as a [Webpack](https://webpack.js.org/) alternative that uses ES6 modules to simplify and speed up your development workflow. When we run a basic Snowpack build, we produce a single ES6-module-friendly file for each of our dependencies (even [the ones that don't have built-in ES6 module support](https://www.snowpack.dev/#import-npm-packages))!
 
-To use Snowpack, we'll add a `snowpack` section to our `package.json`, and list out the packages that we'll want to import into our code.
+To use Snowpack, we'll add a `snowpack` section to our `package.json`, and list out the packages that we want to import into our code.
 
 ```json
 {
@@ -68,15 +66,13 @@ To use Snowpack, we'll add a `snowpack` section to our `package.json`, and list 
     "build": "npx snowpack@2.9.0"
   },
   "dependencies": {
-    "lit-element": "^2.4.0",
-    "anchor-js": "^4.2.2",
-    "gsap": "^3.5.1"
+    "full-page-canvas": "0.1.0",
+    "confetti-js": "0.0.18"
   },
   "snowpack": {
     "install": [
-      "lit-element",
-      "anchor-js",
-      "gsap"
+      "full-page-canvas",
+      "confetti-js"
     ]
   }
 }
@@ -89,27 +85,24 @@ Typically we would add `snowpack` as a `devDependency`, but I chose to reference
 Now, we can go into our `main.js` file, import the dependencies, and write some modern JavaScript:
 
 ```js
-// Import libraries from the web_modules folder.
-import { gsap } from "./web_modules/gsap.js";
+import canvas from "/web_modules/full-page-canvas.js";
+import ConfettiJS from "/web_modules/confetti-js.js";
 
-// Import local source files (which can themselves import libraries).
-import { Navigation } from './components/navigation.js';
-import { MainContent } from './components/main-content.js';
-
-customElements.define('app-navigation', Navigation);
-customElements.define('app-main-content', MainContent);
-
-gsap.to('#loading-indicator', 0.575, {
-  y: 160,
-  repeat: -1,
-  yoyo: true,
-  ease: Power1.easeIn
-});
+const canvasEl = canvas.mount();
+const confetti = new ConfettiJS({ target: canvasEl });
+confetti.render();
 ```
 
-If you want to spin up a local server to serve your files, it's as easy as running SimpleHTTPServer (`python -m SimpleHTTPServer`), which is installed by default on every Mac computer. Alternatively, you could install a dev server of your choice as a `devDependency`.
+To see the site, we'll need a local server. We could install one as a `devDependency`, but I like using [SimpleHTTPServer](https://2ality.com/2014/06/simple-http-server.html) since it's installed on every Mac computer by default. To start it, we run `python -m SimpleHTTPServer` in the folder containing our files:
 
-Finally, if you want to update your project dependencies, you just need to update the versions in your `package.json` file, run `npm install`, and then rebuild with Snowpack (`npm run build`).
+<figure class="center">
+  <img src="{{site.url}}/assets/images/hello-confetti.gif" alt="The page we built, with a confetti animation" />
+  <figcaption>
+    Browse to localhost:8000 and celebrate!
+  </figcaption>
+</figure>
+
+When it's time to update our project dependencies, we just need to update the versions in `package.json`, reinstall with `npm install`, and then rebuild with Snowpack (`npm run build`).
 
 ## Pros and Cons
 
@@ -117,7 +110,7 @@ There's a few things I really like about this setup:
 
 - Super-simple local development. There's no need to watch files, generate source maps, or trigger rebuilds. Just hit save and refresh your browser.
 - Using ES6 modules means you can organize your code as if you had a bundler.
-- A tiny `package.lock` file (which makes it easier to avoid [upstream security issues](https://twitter.com/BryanEBraun/status/1291120731955372039/photo/1)).
+- A tiny `package.lock` file (which makes it easier to avoid [upstream security issues](https://twitter.com/mjackson/status/1290414613742235648)).
 - Deploying is easy. Just use an FTP client, run an `scp` command, or deploy with a `git push` (if you're hosting on a service like Netlify or Github Pages).
 
 There's also a few downsides:

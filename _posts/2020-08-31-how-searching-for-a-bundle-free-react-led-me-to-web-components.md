@@ -115,7 +115,7 @@ Seeing the similarities between LitElement and React made me wonder: Could React
 
 Maybe! Web components support lifecycle hooks, props, custom element tags, scoped CSS, children (or "slots"), and more. The basic features are there. Also, it seems like these APIs are fairly low-level, so React could hide at least some of them under an abstraction.
 
-Still, I think there are some major obstacles. React is big on functional components right now (see [hooks](https://reactjs.org/docs/hooks-intro.html)), and it's unclear how well these would map to web components. React's lifecycle hooks look pretty different from the DOM ones. And things like Shadow DOM would also behave pretty differently.
+Still, I think there are some major obstacles. React is big on functional components right now (see [hooks](https://reactjs.org/docs/hooks-intro.html)), and it's unclear how well these would map to web components (update: this has already been done too—see [Haunted](https://github.com/matthewp/haunted)). React's lifecycle hooks look pretty different from the DOM ones. And things like Shadow DOM would also behave pretty differently.
 
 I suspect that any refactoring to use web components would be a major (and backwards-incompatible) change.
 
