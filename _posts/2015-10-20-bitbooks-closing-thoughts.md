@@ -2,7 +2,8 @@
 title: "Bitbooks: Closing Thoughts"
 date: 2015-10-20 08:08:38
 related: [
-  "Publishing Books to Github pages with Bitbooks"
+  "Publishing Books to Github pages with Bitbooks",
+  "Gridmaster: Closing Thoughts"
 ]
 ---
 
@@ -17,7 +18,7 @@ A month ago, I posted this noticed onto [the homepage at bitbooks.cc][1].
 >
 > When I began working on Bitbooks, there were basically no options for developers to publish online books with Developer tools like Markdown and Github. Since then, many existing options (like [LeanPub][2]) have matured while new ones (like [Gitbook][3] & [OReily Atlas][4]) have sprung up. As these options grew, I realized that their funding and ability to iterate would provide users with a better result than I could. As a result, my motivation fell, and I began to divide my attention between competing priorities. Honestly, Bitbooks has been in a sort of maintenance mode for several months, faithfully providing it's services without receiving any updates. That isn't fair for to you. Rather than delay the inevitable, I feel it's best to close it down now, allowing me to give my full attention to other projects.
 >
-> **What does this mean for users?**  
+> **What does this mean for users?**
 >
 > All books created with Bitbooks will remain safely hosted in your Github repositories. However, Bitbooks will no longer  update your online book websites in response to text updates in your repo.
 >

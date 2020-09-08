@@ -3,11 +3,12 @@ title: "I'm working part-time now"
 date: 2018-08-01 15:30:00
 related: [
   "How I Choose a Side Project",
-  "We are just seeing the beginning of interactive online learning"
+  "We are just seeing the beginning of interactive online learning",
+  "Gridmaster: Closing Thoughts"
 ]
 ---
 
-Last week I reduced my hours at [Sparkbox](https://seesparkbox.com/) down to 20 hours/week, so I could have more time to work on [Gridmaster](https://gridmaster.io).
+Last week I reduced my hours at [Sparkbox](https://seesparkbox.com/) down to 20 hours/week, so I could have more time to work on [Gridmaster]({{site.url}}/2020/09/08/gridmaster-closing-thoughts/).
 
 I haven't talked much about Gridmaster on the blog, but it's an idea I've been playing with for a while now. I wanted to see if it was possible to learn spreadsheet skills in a more interactive way than reading a book or watching a video. I was inspired by online learn-to-code courses (like the ones offered by [Codecademy](https://www.codecademy.com/) and [Code School](https://codeschool.com)) and I wondered if I could apply the learning approach to other skills. Plus, it would be a fun way to mix two of my interests ([web programming]({{site.url}}/2014/05/22/loving-what-i-do/) and [education]({{site.url}}/2015/10/20/we-are-just-seeing-the-beginning-of-interactive-online-learning/)).
 
@@ -33,4 +34,4 @@ Now that I have an extra 20 hours each week, I'm planning to spend 75% of that t
 
 <small><em>Huge props to the folks at Sparkbox for being flexible enough to let me work part-time.</em> ️️️❤️ ❤️</small>
 
-<small><em>If you're still reading this, then you certainly have enough curiosity to <a href="https://appsource.microsoft.com/en-us/product/office/WA104381078">download the addin</a> and just see what it's like. It's free, and if you don't have Excel on your computer you can use <a href="https://office.live.com/start/Excel.aspx">Excel online</a> (also free). Just do it!</em></small>
+<small><em>If you're still reading this, then you certainly have enough curiosity to <a href="https://web.archive.org/web/20200426173247/https://appsource.microsoft.com/en-us/product/office/WA104381078">download the addin</a> and just see what it's like. It's free, and if you don't have Excel on your computer you can use <a href="https://office.live.com/start/Excel.aspx">Excel online</a> (also free). Just do it!</em></small>

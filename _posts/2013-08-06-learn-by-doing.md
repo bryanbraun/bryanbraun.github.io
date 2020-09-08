@@ -20,4 +20,4 @@ And if my pride takes a hit, then that's good for me. If I'm uncomfortable being
 
 <hr class="section-divider" />
 
-<small>(by the way, there's a ton of great resources that help you learn by doing, like <a href="https://www.codecademy.com">websites for learning programming</a>, <a href="https://gridmaster.io">Excel addins for learning spreadsheets</a>, and <a href="https://www.brit.co/learn-to-draw-apps/">apps that teach you how to draw</a>)
+<small>(by the way, there's a ton of great resources that help you learn by doing, like <a href="https://www.codecademy.com">websites for learning programming</a>, <a href="{{site.url}}/2020/09/08/gridmaster-closing-thoughts">Excel addins for learning spreadsheets</a>, and <a href="https://www.brit.co/learn-to-draw-apps/">apps that teach you how to draw</a>)

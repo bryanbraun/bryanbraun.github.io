@@ -28,11 +28,9 @@ I'm currently working on a project called [Bitbooks][5], which aims to make tha
 
 ## How it works
 
-If you've ever used [Github pages][6], then you already know how it works.
+I put together [a video walkthrough showing how it works](https://www.youtube.com/watch?v=NKeI5tODN0Q).
 
-[6]: https://pages.github.com/
-
-You write your book in Markdown, put the files on Github, and point Bitbooks at your repo. Bitbooks will then read the files and use them to build a tastefully designed website -- an online version of your book. This site is pushed to Github pages, which provides free hosting and the ability to use your own domain name. If any updates are made to your content repository, Bitbooks will update your site on Github pages automatically. This lets you make updates or accept changes via pull requests without having to worry about constantly updating your site.
+In short, you write your book in Markdown, put the files on Github, and point Bitbooks at your repo. Bitbooks will then read the files and use them to build a tastefully designed website—an online version of your book. This site is pushed to [Github pages](https://pages.github.com), which provides free hosting and the ability to use your own domain name. If any updates are made to your content repository, Bitbooks will update your site on Github pages automatically. This lets you make updates or accept changes via pull requests without having to worry about constantly updating your site.
 
 Like Github pages, Bitbooks will provide you with a choice of themes you can use. Here's an early look at what I have in the works:
 
