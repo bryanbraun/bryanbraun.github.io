@@ -17,7 +17,7 @@ One way to approach the financial aspect of this is to ask yourself, "what am I 
 
 I used to live in Washington DC. Living in DC is expensive.
 
-Why is living in DC expensive? Because lots of people want to live there and that high demand drives up prices?
+Why is living in DC expensive? Because lots of people want to live there and that high demand drives up prices.
 
 Why do lots of people want to live there? Because it's the nation's capital. There's no better place in the country if you want to do work with the federal government. All of the defense contractors have huge offices there. Lobbyists are everywhere. Journalists are everywhere. They're there because, for people like them, it's *the* place to be.
 
