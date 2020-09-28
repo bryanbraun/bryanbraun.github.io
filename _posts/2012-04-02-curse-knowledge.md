@@ -22,7 +22,7 @@ Invariably, the game always plays out the same. The tapper taps their songs with
 
 The game is hard but it doesn't seem hard to the tapper. The tapper has the knowledge, and with the knowledge the tapper has the curse that comes with it. It's the curse of not knowing what it is like to hear the taps without having the song in their head.
 
-This has an interesting take-away. Knowledge alone doesn't qualify someone as an effective teacher. That explains why studies that have shown that College professors with PhD's <a href="http://aas.org/career/community_colleges_hire_PhDs"  title="Admittedly not a primary source...">are no better teachers</a> than professors with Master's degrees (very surprising, especially since these studies were probably performed by PhD holders). No, a good teacher, rather, needs to know how to overcome the curse of knowledge.
+This has an interesting take-away. Knowledge alone doesn't qualify someone as an effective teacher. That explains why studies that have shown that College professors with PhD's [are no better teachers](https://www.nber.org/digest/aug07/w12828.html) than professors with Master's degrees (very surprising, especially since these studies were probably performed by PhD holders). No, a good teacher, rather, needs to know how to overcome the curse of knowledge.
 
 How is it overcome? Deliberate teaching at the level of the learner. Holly has an education degree and one of the points they really stress in her studies is the value of assessment. Assessments help teachers learn what their students know before they start teaching. An assessment doesn't need to be long, or grueling like a 3 hour exam. It can be simple.
 

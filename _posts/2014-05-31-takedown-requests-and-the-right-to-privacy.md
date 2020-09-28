@@ -26,4 +26,4 @@ If we are to legislate "the right to be forgotten," then somebody has to draw a 
 
 I get it. Memories fade over time, people change, and nobody deserves to have their old selves constantly standing in the way of their future. But I think there are better ways to solve those problems than unraveling our fundamental human rights.
 
-You can find more of my thoughts on the topic here: <http://www.bryanbraun.com/2011/08/21/the-fall-of-internet-privacy>
+You can find more of my thoughts on the topic [here](http://www.bryanbraun.com/2011/08/21/the-fall-of-internet-privacy).
