@@ -277,9 +277,6 @@ Either way, if you need a place to start, you can copy [my demo app](https://git
 
 And if you end up trying it out, [let me know on twitter](https://twitter.com/bryanebraun). I'd love to hear how it's working for you.
 
-<hr class="section-divider">
-
-<small>Translations: <a href="https://howtorecover.me/web-dev-nirvana">Russian</a></small>
 
 –
 
