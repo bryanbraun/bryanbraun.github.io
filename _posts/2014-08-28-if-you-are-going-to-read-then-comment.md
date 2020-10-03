@@ -1,7 +1,9 @@
 ---
-layout: post
 title: "If you are going to read, then comment"
 date: 2014-08-28 18:55:05
+related: [
+  "Thank you"
+]
 ---
 
 I've really taken to heart the principles of [the low-information diet][1] recently. You can spend lifetimes just reading newspapers, online articles, blog posts, and Buzzfeed lists, and you'd end up with nothing to show for it. These are the empty carbs of the internet. Sometimes I'll catch myself on an online information binge and when I do, I usually feel similar to how I'd feel after an eating binge. Blergh.
