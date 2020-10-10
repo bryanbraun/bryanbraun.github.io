@@ -6,7 +6,7 @@ related: [
 ]
 ---
 
-I still remember the first time I got an email from somebody asking me to link to their website.
+I still remember the first time I got an email from somebody asking me to link to their website from my blog.
 
 They addressed me by name, described one of my blog posts in detail, and asked if I could include their link. It seemed so strange. Why on earth would somebody take the time to write me a personal email, just for a silly link—from a random blog that nobody was reading!
 
