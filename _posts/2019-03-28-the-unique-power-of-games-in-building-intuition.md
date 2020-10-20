@@ -1,12 +1,12 @@
 ---
 title: "The unique power of games in building intuition"
 date: 2019-03-28
+updated: 2020-10-20
 related: [
   "Do we really need to know all this stuff?",
   "The Future of Educational Games"
 ]
 ---
-
 
 [Miegakure](https://en.wikipedia.org/wiki/Miegakure) is a four-dimensional video game*. To win, you must solve problems that would normally be impossible in three dimensions... like using the fourth spatial dimension to walk through walls.
 
@@ -82,7 +82,7 @@ It turns out that all games that build useful intuition do this:
   * In [Lemonade Stand](https://en.wikipedia.org/wiki/Lemonade_Stand), the forces driving sales are similar to the forces driving sales in the real world, so the intuition about supply and demand translates.
   * In [Universe Sandbox](https://en.wikipedia.org/wiki/Universe_Sandbox), the astrophysics is similar to real astrophysics, so the intuition about n-body gravity translates.
 
-Pure entertainment games like Starcraft and Fortnite also build intuition. It's just that the intuition just isn't very useful outside of the game.
+[RollerCoaster Tycoon](https://en.wikipedia.org/wiki/RollerCoaster_Tycoon), [Powder Toy](https://en.wikipedia.org/wiki/The_Powder_Toy), [Factorio](https://en.wikipedia.org/wiki/Factorio)… all of them build intuition by mirroring the real world in some way. Pure entertainment games like Starcraft and Fortnite also build intuition. It's just that the intuition just isn't very useful outside of the game.
 
 ## Where intuition comes from
 

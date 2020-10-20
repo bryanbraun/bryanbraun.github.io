@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Form IS Function"
 date: 2012-01-29 21:48:57
 ---
@@ -8,7 +7,7 @@ I spend a lot of my time around very smart people. They are my co-workers, profe
 
 As technicians, they all tend to value function over form. By this I mean that they could care less about appearances when something works exceptionally well. For example, the supervisor of one of the machine shops at BYU has a screensaver for his computer which graphically illustrates the complete function of an internal combustion engine. To him, it is a beautiful thing. To (nearly) everyone else, it is a greasy mess that is better left under the hood.
 
-<img alt="Dilbert comic: Function over Form" src="http://dilbert.com/dyn/str_strip/000000000/00000000/0000000/000000/80000/7000/400/87440/87440.strip.gif" style="width: 640px; height: 199px;" />
+![Dilbert comic: Function over Form]({{site.url}}/assets/images/dilbert-function-over-form.jpg)
 
 In many ways, valuing function over form is the classic engineering blunder. If I could bring you, blindfolded, into a building on any college campus and ask you to remove the blindfold and guess if the students there study engineering or business, I'll bet you could guess correctly nine times out of ten.
 
@@ -22,11 +21,12 @@ Form is important to us. We judge books by their covers. We create stereotypes b
 
 And therein lies a paradox.
 
-Form has become a critical (dare I say "functional") element of any product. It conveys information, like the <a href="http://farm4.static.flickr.com/3578/3476257463_33a6befe9d.jpg" target="_blank" rel="noopener noreferrer">amount of time</a> that went into something, or whether or not <a href="http://www.rei.com/zoom/ii/6558b8e0-9b89-488c-beee-1ea43959dc29.jpg/440" target="_blank" rel="noopener noreferrer" title="trust me... it is.">it is durable</a>. Form speaks louder than any instruction manual or user guide. In this regard, form has a strong purpose. The classic example is comparing the packaging for Microsoft products to Apple products.
+Form has become a critical (dare I say "functional") element of any product. It conveys information, like the <a href="http://farm4.static.flickr.com/3578/3476257463_33a6befe9d.jpg" target="_blank" rel="noopener noreferrer">amount of time</a> that went into something, or whether or not <a href="http://www.rei.com/zoom/ii/6558b8e0-9b89-488c-beee-1ea43959dc29.jpg/440" target="_blank" rel="noopener noreferrer" title="trust me... it is.">it is durable</a>. Form speaks louder than any instruction manual or user guide. In this regard, form has a strong purpose. The classic example is comparing the packaging for Apple products to Microsoft products.
 
-<img alt="Apple products are packaged beautifully, compared to their very functional, yet unappealing, Microsoft counterparts." src="http://www.liquidcreativity.com.au/blog/wp-content/uploads/2012/06/apple-packaging-vs-microsoft-packaging1.jpg" style="width: 633px; height: 352px;" />
-
-Which media software would you rather buy?
+<figure class="center">
+  <img src="{{site.url}}/assets/images/apple-packaging-vs-microsoft-packaging.jpg" alt="An Apple software package (iLife) placed side-by-side with a less attractive Microsoft alternative (Microsoft Digital Image Suite)" />
+  <figcaption>Which media software would you rather buy?</figcaption>
+</figure>
 
 With the web, the line between form and function becomes even more blurry. Websites and web services live and die on their design. Scott Adams refers to what he calls the "<a href="http://dilbert.com/blog/entry/botched_interface_market/" target="_blank" rel="noopener noreferrer" title="And no, he's not kidding!">Botched Interface Market</a>," where anyone has an opportunity to jump into a market by just looking at a great web service with a terrible interface and providing the same service with a better interface. That's how <a href="http://hipmunk.com" target="_blank" rel="noopener noreferrer" title="Because Orbitz was too complicated...">Hipmunk </a>did it. First impressions are critical on the web. Think about it... how likely are you to buy a book from <a href="http://www.buybookscheaper.com/" target="_blank" rel="noopener noreferrer">this site</a>? While the engineer would be more concerned about the site's atrocious load time, site performance doesn't even matter if users aren't going to stick around to click a few links.
 

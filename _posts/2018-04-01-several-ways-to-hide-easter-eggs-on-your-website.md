@@ -47,6 +47,8 @@ Hover states are a great place to hide things because they only become visible i
   <figcaption>The bubble pattern on Brad Frost's website makes colorful circles when hovered over.</figcaption>
 </figure>
 
+*Note: You could also use focus states to hide things that can only be discovered by tabbing.*
+
 ## 5. Magic strings
 
 If your website has text inputs, then you could hide things using [magic strings](https://en.wikipedia.org/wiki/Magic_string). Usually, this means you design your site to do something special if a specific set of characters or words is submitted as text. This can be set up on the frontend or backend of your site. Google is famous for doing this by [adding clever features to search pages when certain terms are searched](https://en.wikipedia.org/wiki/List_of_Google_Easter_eggs#Search_engine).
