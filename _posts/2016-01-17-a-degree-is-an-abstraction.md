@@ -60,4 +60,4 @@ We can also look at successful abstractions to see what they are doing right. Wh
 
 I get tired of hearing rhetoric about the degreed middle class who feels slighted when they can't find work because "the world" doesn't hold up "its end of the bargain". There was no bargain. Despite what your parents and politicians may say, there was never a checklist of achievements you could collect to be valued and compensated in the workplace.
 
-If you pursue abstractions alone then the world will shift underneath them. It's all about the real thing... that ability to add value in the modern economy. The degree can only become a better abstraction if we focus our attention on that.
+If you pursue abstractions alone then the world will shift underneath you. It's all about the real thing... that ability to add value in the modern economy. The degree can only become a better abstraction if we focus our attention on that.
