@@ -47,7 +47,7 @@ Using the terminal, browse to the folder containing your static project. Then ru
 
     python -m SimpleHTTPServer 1111
 
-Note: You shouldn't need to do any setup<span style="color: rgb(84, 84, 84); font-family: arial, sans-serif; font-size: small; line-height: 18.2000007629395px;">—</span>all Macs and most Linux computers come with Python pre-installed.
+Note: You shouldn't need to do any setup—all Macs and most Linux computers come with Python pre-installed.
 
 Now you should see `Serving HTTP on 0.0.0.0 port 1111`, and when you open a browser and browse to `localhost:1111`, you will see the static webpages in your project served by the small python server. You can use any port by the way, but I use `1111` because [it's probably not being used by anything else][7] and it's easy to remember.
 

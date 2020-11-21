@@ -12,7 +12,7 @@ I'm a web developer and designer, currently based in the American Midwest. I use
 
 My work has been [featured](/news.md) in Lifehacker, Daring Fireball, Smashing Magazine, and the Discovery Channel.
 
-I'm constantly learning and sharing what I learn through [writing](/archives), [speaking](/speaking.md), and [open-source](https://github.com/bryanbraun). I'm always working on some sort of [side-project](/projects). This is what I'm working on [now](/now).
+I like to share what I'm learning through [writing](/archives), [speaking](/speaking.md), and [open-source](https://github.com/bryanbraun). I'm always working on some sort of [side-project](/projects). This is what I'm working on [now](/now).
 
 [These are my principles](/principles.md).
 
