@@ -32,11 +32,11 @@ It was a fun thing to work on, but my brain wouldn't let go. A clock is nice, bu
 
 ## Recurse center
 
-Building the clock was awkward. You had all these checkboxes to manage, and it was tricky to display them correctly and consistently across various web browsers. Checkboxes weren't exactly designed for this.
+In some ways, building the clock was awkward. You had all these checkboxes to manage, and it was tricky to display them correctly and consistently across various web browsers. Checkboxes weren't exactly designed for this.
 
 I kept thinking of all these animations you could make, but it needed to be easier. If only there was a library that could help with this...
 
-I soon had an opportunity to spend a week at [The Recurse Center](https://www.recurse.com/), so I decided to use that time to work on it. It was funny talking to my peers there... everyone else was doing these impressive-sounding things like building a neural network or reverse-engineering a compiler. And there I was, playing with html checkboxes. 🙃
+I soon had an opportunity to spend a week at [The Recurse Center](https://www.recurse.com/), so I decided to use that time to work on it. It was funny talking to my peers there... everyone else was doing these impressive-sounding things like building a neural network or reverse-engineering a compiler. And there I was, playing with HTML checkboxes. 🙃
 
 Anyway, that project became Checkboxland, and it has allowed me to rapidly spin up demos and see what I could make. For example, these scannable checkbox QR Codes:
 
