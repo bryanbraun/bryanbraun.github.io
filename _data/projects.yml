@@ -6,6 +6,10 @@
   url: https://musicboxfun.com
   image: /assets/images/music-box-fun-project.png
 
+- name: "Commit Colors"
+  url: https://github.com/sparkbox/commit-colors
+  image: /assets/images/commit-colors-project.jpg
+
 - name: "Connect Four"
   url: https://bryanbraun.github.io/connect-four
   image: /assets/images/connect-four.png
