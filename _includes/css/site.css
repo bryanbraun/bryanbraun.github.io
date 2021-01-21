@@ -40,6 +40,11 @@ img {
   max-width: 100%;
 }
 
+video,
+video::-webkit-media-controls-panel {
+  cursor: pointer;
+}
+
 blockquote {
   font-style: italic;
   margin: 2em 40px;

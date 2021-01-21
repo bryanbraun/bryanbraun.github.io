@@ -23,30 +23,32 @@ Inside The Powder Toy is a full-blown physics sandbox. Every pixel represents an
 There are [hundreds of unique elements](https://powdertoy.co.uk/Wiki/W/Elements.html), each with their own properties. Various elements can dissolve, combust, grow, decay, conduct electricity, and more.
 
 <figure class="center">
-  <a href="https://powdertoy.co.uk/Browse/View.html?ID=1146000" target="_blank">
-    <img src="{{site.url}}/assets/images/ExplosiveCity.png" alt="Here's a city built using Powder Toy" />
-  </a>
-  <figcaption>This city is mostly constructed out of WOOD, COAL, and TNT.<br />This leads to predictable (and entertaining) results when you simulate a lightning strike. 😈</figcaption>
+  <video controls onended="this.currentTime = 0">
+    <source src="{{site.url}}/assets/video/PowderToyCityExplodes.webm" type="video/webm">
+    Your browser does not support the video tag.
+  </video>
+  <figcaption><a href="https://powdertoy.co.uk/Browse/View.html?ID=1146000" target="_blank">This city</a> is mostly constructed out of WOOD, COAL, and TNT.<br />This leads to predictable (and entertaining) results when you simulate a lightning strike. 😈</figcaption>
 </figure>
 
 Each pixel can be inspected to identify the element and its current temperature and pressure. This is useful when you're tinkering around and trying to understand what's happening.
 
-For example, I'd be building a volcano lair and then ask myself, "wait, why is the steam drifting to the left?" Then I'd realize that my lava chamber is heating up the air in the room, increasing the pressure and causing the air to rush out the door. Other sandboxy games, like Minecraft, have some basic physics simulation, but this one is pretty detailed!
+For example, I'd be building a volcano lair and then ask myself, "wait, why is the steam drifting to the left?" Then I'd realize that my lava chamber is heating up the air in the room, increasing the pressure and causing the air to rush out the door. Other sandbox-y games, like Minecraft, have some basic physics simulation, but this one is pretty detailed!
 
 ## Electronics
 
-The electrical elements allow you to create circuits and chain reactions. It doesn't take much knowledge to get something interesting to happen (you can make a laser gun or Tesla coil just by messing around). But if you want to go deep, there's [a tutorial in the Powder Toy Wiki that teaches you how to make logic gates and simple electronic devices](https://powdertoy.co.uk/Wiki/W/Complete_Electronics_Tutorial.html). Naturally, some people have used these to build impressive electronics, like this working calculator:
+The electrical elements allow you to create circuits and chain reactions. It doesn't take much knowledge to get something interesting to happen (you can make a laser gun or Tesla coil just by messing around). But if you want to go deep, there's [a tutorial in the Powder Toy Wiki that teaches you how to make logic gates and simple electronic devices](https://powdertoy.co.uk/Wiki/W/Complete_Electronics_Tutorial.html). Naturally, some people have used these to build impressive electronics, like [this (mostly) working calculator](https://powdertoy.co.uk/Browse/View.html?ID=389689):
 
 <figure class="center">
-  <a href="https://powdertoy.co.uk/Browse/View.html?ID=389689" target="_blank">
-    <img src="{{site.url}}/assets/images/PowderToyCalc.png" alt="This interactive calculator has buttons, a display, and circuits for handling each of it's basic operations." />
-  </a>
-  <figcaption>You "spark" each button to input a number. When you hit "=", you can watch the electricity travel through the circuits as the result is calculated.</figcaption>
+  <video controls onended="this.currentTime = 0">
+    <source src="{{site.url}}/assets/video/PowderToyCalc.webm" type="video/webm">
+    Your browser does not support the video tag.
+  </video>
+  <figcaption>This interactive calculator has buttons, a display, and circuits for handling each of it's basic operations.</figcaption>
 </figure>
 
 ## Exploration
 
-There's a huge database of projects that other people have built and uploaded. You can browse these projects in the app (or online), to explore what people have made (and blow them up with explosives 😈).
+There's a huge database of projects that other people have built and uploaded. You can browse these projects in the app (or [on the website](https://powdertoy.co.uk/Browse.html)), to explore what people have made (and blow them up with explosives 😈).
 
 <figure class="center">
   <img src="{{site.url}}/assets/images/PowderToyBrowse.png" alt="A list of projects in the browsing UI, including: Destroyable city 5, 8x6 line text display, Steam Tree, PWR nuclear power plant, Mineral Refinery, Simple auto-puffmaker, Spark maze extreme, Vault 1, Arctic city 2, and Mini photo laser" />
