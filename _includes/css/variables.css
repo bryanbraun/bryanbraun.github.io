@@ -4,7 +4,7 @@
   --bb-blue2: #5599aa;
   --bb-orange: #d76b00;
   --bb-off-black: #444444;
-  --bb-inert-gray: #999999;
+  --bb-inert-gray: #888888;
 
   /* FONTS */
   --sans-serif-stack: "PT Sans", "Verdana", sans-serif;
@@ -13,6 +13,10 @@
 
   /* WIDTHS / LENGHTS */
   --page-top-border: 7px;
+  --content-max-width: 40rem; /* 16*40 = 640px */
+
+  /* OTHER */
+  --bb-border-rule: 1px solid #cccccc;
 
   /* MEDIA QUERIES */
   /* we cant do media query variables with custom properties

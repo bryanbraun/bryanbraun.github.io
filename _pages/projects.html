@@ -11,7 +11,10 @@ redirect_from: /portfolio
     {% for project in site.data.projects %}
       <li class="project">
         <a href="{{ project.url }}" target="_blank" rel="noopener noreferrer">
-          <img src="{{ project.image }}" alt="{{ project.name }}" title="{{ project.name }}" typeof="foaf:Image" />
+          <img src="{{ project.image }}" alt="{{ project.name }} Logo" title="{{ project.name }}" width="200" height="200" />
+          <div class="project__content">
+            <h2 class="no-anchor">{{ project.name }}</h2>: <span>{{ project.desc }}</span>
+          </div>
         </a>
       </li>
     {% endfor %}

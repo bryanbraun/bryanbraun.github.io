@@ -1,67 +1,74 @@
 - name: "Checkboxland"
+  desc: "A JavaScript library for rendering anything as HTML checkboxes"
   url: http://bryanbraun.github.io/checkboxland
   image: /assets/images/checkboxland-project.png
 
 - name: "Music Box Fun"
+  desc: "An interactive site for composing music box songs"
   url: https://musicboxfun.com
-  image: /assets/images/music-box-fun-project.png
+  image: /assets/images/music-box-fun-project.jpg
 
 - name: "Commit Colors"
+  desc: "See a color swatch in your terminal every time you author a commit"
   url: https://github.com/sparkbox/commit-colors
   image: /assets/images/commit-colors-project.jpg
 
 - name: "Connect Four"
+  desc: "A minimalist online version of the game Connect Four"
   url: https://bryanbraun.github.io/connect-four
   image: /assets/images/connect-four.png
 
-- name: "Gridmaster: Learn Excel by Doing"
+- name: "Gridmaster"
+  desc: "[Retired] An add-in for learning Microsoft Excel through interactive courses"
   url: https://www.bryanbraun.com/2020/09/08/gridmaster-closing-thoughts/
   image: /assets/images/gridmaster-logo.png
 
-- name: "Excel Custom Formats Builder"
+- name: "CustomFormats.com"
+  desc: "A scratchpad for building custom formats to use in Microsoft Excel"
   url: https://customformats.com
   image: /assets/images/custom-formats.png
 
 - name: "Commit Haikus"
+  desc: "A bot that tweets out accidental commit message haikus"
   url: https://twitter.com/CommitHaikus
   image: /assets/images/commit-haikus.jpg
 
-- name: "Bouncy Ball - Compare Web Animations Techniques"
+- name: "Bouncy Ball"
+  desc: "A site comparing web animation techniques by bouncing a ball with each one"
   url: https://sparkbox.github.io/bouncy-ball/
   image: /assets/images/bouncy-ball.png
 
 - name: "Logo Experiments"
+  desc: "Every possible way to draw the Sparkbox logo, using modern frontend techniques"
   url: https://sparkbox.github.io/logo-experiments/
   image: /assets/images/logo-experiments-project.png
 
-- name: "AnchorJS - Add Deep Anchor Links to your Docs"
+- name: "AnchorJS"
+  desc: "An open-source JavaScript utility for adding deep anchor links to your docs"
   url: https://bryanbraun.github.io/anchorjs
   image: /assets/images/anchorjs_logo.png
 
 - name: "After Dark in CSS"
+  desc: "A gallery of classic After Dark screensavers, recreated in CSS"
   url: https://bryanbraun.github.io/after-dark-css
   image: /assets/images/flying-toaster.gif
 
 - name: "Poor Man's Styleguide"
+  desc: "A quick-and-dirty front-end styleguide, designed to be copied and pasted into your CMS"
   url: https://www.poormansstyleguide.com
   image: /assets/images/frontend-styleguide-template_0.png
 
 - name: "Bitbooks"
+  desc: "[Retired] A service for generating online books from a Github repo full of markdown files"
   url: https://www.bryanbraun.com/2015/10/20/bitbooks-closing-thoughts
   image: /assets/images/bitbooks_b2.png
 
 - name: "Franklin"
+  desc: "A static site framework for online books"
   url: https://github.com/bryanbraun/franklin
   image: /assets/images/franklin.png
 
 - name: "Powerpoint Karaoke"
+  desc: "An income-generating website with resources for playing Powerpoint Karaoke"
   url: https://www.powerpointkaraoke.com
   image: /assets/images/slides-md.png
-
-- name: "Template Picker"
-  url: https://www.drupal.org/project/template_picker
-  image: /assets/images/template-picker-logo.png
-
-- name: "Writer: A Blogging Theme for Developers"
-  url: https://www.drupal.org/project/writer
-  image: /assets/images/writer_logo_4.png

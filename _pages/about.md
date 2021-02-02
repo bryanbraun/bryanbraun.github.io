@@ -1,20 +1,20 @@
 ---
 layout: default
 title: About
-excerpt: I'm a web developer and designer, currently based in the American Midwest. I use design and code to inspire, educate, and empower humans.
+excerpt: I'm a frontend developer, currently based in the American Midwest. I use design and code to inspire, educate, and empower people.
 permalink: /about/
 redirect_from:
  - /who-is-bryan
  - /about/young-bryan/
 ---
 
-I'm a web developer and designer, currently based in the American Midwest. I use design and code to inspire, educate, and empower humans.
+I'm a frontend developer, currently based in the American Midwest. I use design and code to inspire, educate, and empower people.
 
-My work has been [featured](/news.md) in Lifehacker, Daring Fireball, Smashing Magazine, and the Discovery Channel.
+I've built web interfaces for Fortune 500 companies, Stanford University, The White House, and other great organizations. My open-source code has been used by [thousands](https://github.com/bryanbraun/anchorjs/network/dependents?package_id=UGFja2FnZS0xNDk5MDEzMw%3D%3D), including Facebook, Google, and Microsoft. My work has been [featured](/news) in Lifehacker, Daring Fireball, Smashing Magazine, and the Discovery Channel.
 
-I like to share what I'm learning through [writing](/archives), [speaking](/speaking.md), and [open-source](https://github.com/bryanbraun). I'm always working on some sort of [side-project](/projects). This is what I'm working on [now](/now).
+I like to share what I'm learning through [writing](/blog), [speaking](/speaking), and [open-source](https://github.com/bryanbraun). I'm an [indie hacker](https://www.indiehackers.com/start), and I'm always working on some sort of [side-project](/projects). [This is what I'm working on now](/now).
 
-[These are my principles](/principles.md).
+[These are my principles](/principles).
 
 I'm a husband and father. I'm [INTJ](https://www.16personalities.com/intj-personality) and [LDS](https://www.lds.org/?lang=eng). When I'm not writing code or tweaking fonts, you can find me [reading](/books), riding my bicycle, practicing the piano, or building lego worlds with my kids.
 
@@ -28,7 +28,7 @@ I'm a husband and father. I'm [INTJ](https://www.16personalities.com/intj-person
   <a href="https://www.facebook.com/bryanbr4un"><img src="{{site.url}}/assets/images/line-icon-facebook.svg" /></a>
 </div>
 
-If I don't already know you, you should [email me](mailto:bbraun7@gmail.com) and introduce yourself. We can be friends. It'll be great.
+If I don't already know you, you should [email me](mailto:bbraun7@gmail.com) and introduce yourself. [Just do it!](https://www.youtube.com/watch?v=ZXsQAXx_ao0)
 
 ## This site
 

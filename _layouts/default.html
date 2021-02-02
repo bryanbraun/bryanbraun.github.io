@@ -1,13 +1,13 @@
 ---
 navigation:
- - text: Blog
+ - text: Home
    url: /
- - text: Archives
-   url: /archives/
- - text: Books
-   url: /books/
+ - text: Blog
+   url: /blog/
  - text: Projects
    url: /projects/
+ - text: Books
+   url: /books/
  - text: About
    url: /about/
 ---
@@ -27,17 +27,6 @@ navigation:
     <header class="site-header">
       <nav class="main-nav">
         <ul>
-          <li class="main-nav__home">
-            {% if page.url == '/' %}
-              {% assign class = 'is--active' %}
-            {% endif %}
-            <a href="/" class="{{ class }}">
-              <svg xmlns="http://www.w3.org/2000/svg" width="16px" height="16px" viewBox="0 0 100 100" aria-hidden="true">
-                <path d="M75.2 14.3h-9v10L50.1 9.9 5.9 49.4l6 6.7 6.8-6.1v40.5h62.7V50l6.8 6.1 6-6.7-19-17.1v-18zm-2.7 67.3H27.7V42l22.4-20 22.4 20v39.6z" />
-              </svg>
-              <span class="visuallyhidden">Home</span>
-            </a>
-          </li>
           {% for link in layout.navigation %}
             {% assign class = nil %}
             {% if page.url == link.url %}
@@ -49,7 +38,25 @@ navigation:
       </nav>
     </header>
 
-    {% include logo.html %}
+    {% if page.url == '/' %}
+      <div class="intro">
+        <div class="intro__logo">{% include logo.html %}</div>
+        <div class="intro__bio">
+          <p>Hey there! My name is Bryan and I'm a frontend developer, currently building web applications at Sparkbox. <a class="intro__more" href="/about/">(more about me here)</a></p>
+          <p>I write about side-projects, web development, education, and things that inspire me.
+            <span class="intro__subscribe">
+              <svg viewBox="0 0 800 800">
+                <path d="M493 652H392c0-134-111-244-244-244V307c189 0 345 156 345 345zm71 0c0-228-188-416-416-416V132c285 0 520 235 520 520z"></path>
+                <circle cx="219" cy="581" r="71"></circle>
+              </svg>
+              Subscribe via <a href="http://eepurl.com/dcTne5">email</a> or <a href="/rss.xml">RSS</a></span>
+          </p>
+        </div>
+      </div>
+    {% else %}
+      {% include logo.html %}
+    {% endif %}
+
     {% assign logo_scripts = site.static_files | where_exp: 'script', 'script.path contains "/assets/js/logo/"' %}
     <script>
       (function(d) {
@@ -84,12 +91,7 @@ navigation:
       (function() {
         /*
           AnchorJS script. Our markdown parser adds IDs... AnchorJS just adds the link icons.
-          Note: we add a base-url on for homepage anchors, so they point to the permalink location.
         */
-        {% if page.url == "/" %}
-          anchors.options.base = '{{ site.posts.first.url }}';
-        {% endif %}
-
         var headings = 'h2:not(.no-anchor),' +
                        'h3:not(.no-anchor),' +
                        'h4:not(.no-anchor),' +

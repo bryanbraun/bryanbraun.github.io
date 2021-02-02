@@ -1,13 +1,14 @@
 ---
-title: Archives
-excerpt: A list of past blog posts.
+title: Blog
+excerpt: A full list of my blog posts.
 layout: default
-permalink: /archives/
+permalink: /blog/
 redirect_from:
  - /blog-archives
  - /recent-posts
  - /planet/feed
  - /planet
+ - /archives
 ---
 
 {% for post in site.posts %}
@@ -15,13 +16,13 @@ redirect_from:
   {% if currentdate != date %}
     {% unless forloop.first %}</ul>{% endunless %}
     <h2 id="y{{ post.date | date: "%Y" }}">{{ currentdate }}</h2>
-    <ul class="archive-list">
+    <ul class="blog-list">
     {% assign date = currentdate %}
   {% endif %}
       <li>
-        <span class="archive-post-date">{{ post.date | date: "%b %-d" }}</span>
+        <span class="blog-post-date">{{ post.date | date: "%b %-d" }}</span>
         <a href="{{ site.url }}{{ post.url }}">
-          <span class="archive-post-title">{{ post.title }}</span>
+          <span class="blog-post-title">{{ post.title }}</span>
         </a>
       </li>
   {% if forloop.last %}

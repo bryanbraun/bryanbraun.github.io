@@ -94,7 +94,7 @@ hr {
   display: block;
   height: 1px;
   border: 0;
-  border-top: 1px solid #ccc;
+  border-top: var(--bb-border-rule);
   margin: 2.5rem 0;
   padding: 0;
 }
@@ -124,20 +124,12 @@ hr {
   list-style-type: none;
   margin-top: 0.75rem;
   padding: 0;
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
-  display: -ms-flexbox;
-  -ms-flex-wrap: wrap;
   flex-wrap: wrap;
-  -webkit-box-pack: justify;
-  -ms-flex-pack: justify;
   justify-content: space-between;
 }
 @media (min-width: 580px) {
   .main-nav ul {
-    -webkit-box-pack: end;
-    -ms-flex-pack: end;
     justify-content: flex-end;
     margin: 0;
   }
@@ -168,29 +160,9 @@ hr {
   color: var(--bb-off-black);
 }
 
-@media (min-width: 580px) {
-  .main-nav__home {
-    position: absolute;
-    top: var(--page-top-border);
-    left: 0;
-  }
-}
-
-.main-nav__home svg {
-  width: 16px;
-}
-
-.main-nav__home path {
-  fill: var(--bb-inert-gray);
-}
-
-.main-nav__home .is--active path {
-  fill: var(--bb-off-black);
-}
-
 .logo-section {
   margin: 2rem auto 4rem;
-  max-width: 222px;
+  width: 222px;
 }
 /* Intrinsic ratio prevents content jump when image loads. */
 .logo-wrapper {
@@ -203,31 +175,74 @@ hr {
   width: 100%;
 }
 
+.intro {
+  display: flex;
+  max-width: var(--content-max-width);
+  margin: 2rem auto 2rem;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.intro__logo .logo-section {
+  margin: 0 0 2rem 0;
+}
+.intro__bio {
+  font-size: 1.25rem;
+}
+.intro__bio p {
+  margin: 0;
+}
+.intro__bio p + p {
+  margin-top: 1rem;
+}
+.intro__more {
+  font-family: var(--sans-serif-stack);
+  font-size: 14px;
+}
+.intro__subscribe {
+  font-family: var(--sans-serif-stack);
+  font-size: 14px;
+  background: #eeeeee;
+  padding: 4px 8px 4px 4px;
+}
+.intro__subscribe svg {
+  width: 20px;
+  height: 20px;
+  vertical-align: bottom;
+}
+.intro__subscribe a {
+  color: var(--bb-off-black);
+}
+
+@media (min-width: 580px) {
+  .intro {
+    flex-wrap: nowrap;
+    margin-bottom: 3rem;
+  }
+  .intro__logo .logo-section {
+    margin: 0;
+  }
+  .intro__bio {
+    margin-left: 2rem;
+  }
+}
+
 .page-content {
   /* padding: 0.1px; prevents collapsing margins between this box and the child heading,
      without side-effects (I was seeing some with tables using the overflow: auto technique).
      see: http://stackoverflow.com/a/33132624/1154642
   */
   padding: 0.1px;
-  max-width: 40rem; /* 16*40 = 640px */
+  max-width: var(--content-max-width);
   margin: 0 auto;
   line-height: 1.5; /* designed to be inherited by all page-content. */
 }
 
-.page-title {
-  text-align: center;
-}
-.homepage-title-link {
-  color: var(--bb-off-black);
-  text-decoration: none;
-}
-.homepage-title-link:hover {
-  color: var(--bb-orange);
-}
-
+.page-title,
 .article-title {
   text-align: center;
 }
+
 .article-meta {
   font-family: var(--sans-serif-stack);
   font-size: 0.875rem;
@@ -257,40 +272,6 @@ hr {
   font-size: 0.75rem;
 }
 
-.other-posts {
-  display: flex;
-  margin: 2rem 0;
-  padding-top: 2rem;
-  border-top: 1px solid #ccc;
-}
-
-.other-posts > div {
-  flex: 1 0 0px;
-  padding-right: 1rem;
-}
-
-.other-posts--title {
-  margin-top: 0;
-  margin-bottom: 0.75rem;
-}
-.other-posts--list {
-  list-style-type: none;
-  padding: 0;
-  margin: 0;
-  font-size: 0.875rem;
-  line-height: 1.2;
-}
-
-.other-posts--list li {
-  padding: 0.25rem 0;
-}
-.other-posts--more {
-  font-family: var(--sans-serif-stack);
-  font-size: 0.75rem;
-  margin-top: 0.5rem;
-  display: block;
-}
-
 .related-inline {
   font-size: 0.8125rem;
   display: -webkit-box;
@@ -318,45 +299,57 @@ hr {
 
 .projects {
   list-style-type: none;
-  padding: 0;
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-pack: center;
-  -ms-flex-pack: center;
-  justify-content: center;
-  -ms-flex-wrap: wrap;
-  flex-wrap: wrap;
+  padding: 10px 0 40px;
+  margin: 0;
+  display: grid;
+  grid-template-columns: 200px 200px 200px;
+  grid-auto-rows: min-content;
+  column-gap: 20px;
+  row-gap: 20px;
 }
 .project {
-  border: 1px solid #ccc;
-  margin: 10px;
-  float: left;
-
-  /* @todo: use css-grid / flexbox for this? */
-  /*
-     191 (width)
-   +   2 (border on both sides)
-   +   20 (margin on both sides)
-   = 213px (per image)
-   *   3 (wide)
-   = 639px (out of a possible total width of 640)
-  */
-  width: 191px;
+  border: var(--bb-border-rule);
+  font-family: var(--sans-serif-stack);
 }
-
+.project a {
+  text-decoration: none;
+  color: var(--bb-off-black);
+}
 .project img {
   display: block;
 }
+.project h2 {
+  font-size: 1rem;
+  margin: 0;
+  display: inline;
+  font-weight: bold;
+}
+.project span {
+  font-size: 1rem;
+  color: var(--bb-inert-gray);
+}
+.project__content {
+  border-top: var(--bb-border-rule);
+  padding: 10px;
+  line-height: 1.375;
+}
 
-.archive-post-date {
+.blog-post-date {
   display: inline-block;
   min-width: 3.75rem;
   color: var(--bb-inert-gray);
 }
-.archive-list {
+.home .blog-post-date {
+  min-width: 5.5rem;
+}
+.blog-list {
   list-style-type: none;
   padding-left: 0;
+}
+
+.all-posts{
+  font-family: var(--sans-serif-stack);
+  font-size: 12px;
 }
 
 /* Subscribe styles
@@ -369,8 +362,8 @@ hr {
   padding: 3rem 0;
   margin: 2rem 0;
   text-align: center;
-  border-bottom: 1px solid #ccc;
-  border-top: 1px solid #ccc;
+  border-bottom: var(--bb-border-rule);
+  border-top: var(--bb-border-rule);
 }
 .subscribe-text p {
   margin: 0 0 0.5rem 0;
@@ -443,7 +436,7 @@ table td > p:first-child {
 }
 .bb-table1 td,
 .bb-table1 th {
-  border: solid 1px #ccc;
+  border: var(--bb-border-rule);
   padding: 8px 8px;
   vertical-align: top;
 }

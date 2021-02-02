@@ -11,60 +11,22 @@ redirect_from:
  - /planet
 ---
 
-{% for post in site.posts limit:1 %}
-
-  {% comment %}
-
-    This is mostly just copied from the post.html layout. I do that because it's not that much
-    duplication, there are some differences (like linked titles), and including the post here
-    (as {{ post }}) causes Jekyll to think of this as a *true* post page, and not a home page
-    with an embedded post (since that has side-effects, mostly for metadata).
-
-  {% endcomment %}
-
-  <div class="article">
-    <header class="article-header">
-      <h1 class="article-title">
-        <a class="homepage-title-link" href="{{ post.url }}">{{ post.title }}</a>
-      </h1>
-      <p class="article-meta">{{ post.date | date: "%b %-d, %Y" }}</p>
-    </header>
-
-    <article class="article-content">
-      {{ post.content | markdownify }}
-    </article>
-
-    <footer class="article-footer">
-      <div class="edit-link-wrapper">
-        <a class="edit-link" href="https://github.com/{{ site.github.repository_nwo }}/edit/{{ site.branch }}/{{ post.path }}">Edit this article</a>
-      </div>
-    </footer>
-
-    <div class="other-posts">
-      <div class="other-posts--recent">
-        <h4 class="other-posts--title no-anchor">Recent Posts</h4>
-        <ul class="other-posts--list">
-          {% for article in site.posts limit:3 offset:1 %}
-            <li><a href="{{ article.url }}">{{ article.title }}</a></li>
-          {% endfor %}
-        </ul>
-        <a class="other-posts--more" href="/archives">See more »</a>
-      </div>
-
-      {% if post.content and post.related %}
-        <div class="other-posts--related">
-          <h4 class="other-posts--title no-anchor">Related Posts</h4>
-          <ul class="other-posts--list">
-            {% for article in site.posts %}
-              {% if post.related contains article.title %}
-                <li><a href="{{ article.url }}">{{ article.title }}</a></li>
-              {% endif %}
-            {% endfor %}
-          </ul>
-        </div>
-      {% endif %}
-    </div>
-
-  </div>
-
+<h2>Recent Posts</h2>
+{% for post in site.posts limit:50 %}
+  {% if forloop.first %}
+    <ul class="blog-list">
+  {% endif %}
+      <li>
+        <span class="blog-post-date">{{ post.date | date: "%b %-d '%y" }}</span>
+        <a href="{{ site.url }}{{ post.url }}">
+          <span class="blog-post-title">{{ post.title }}</span>
+        </a>
+      </li>
+  {% if forloop.last %}
+    </ul>
+  {% endif %}
 {% endfor %}
+
+<div class="center">
+  <a class="all-posts" href="/blog">See all posts »</a>
+</div>
