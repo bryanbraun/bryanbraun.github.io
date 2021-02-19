@@ -263,6 +263,9 @@ hr {
 .article-content figcaption {
   padding-bottom: 1rem;
 }
+.article-content li {
+  margin: 0.375rem 0;
+}
 
 .edit-link-wrapper {
   text-align: right;

@@ -14,8 +14,6 @@ permalink: /news/
 | [Flying Toaster screen savers return on GitHub][7]                       | The Register          | 2014 |
 | [BYU engineers create Batman-like device for Air Force competition][6]   | The Discovery Channel | 2012 |
 
-<small>Other projects I can't disclose (due to NDAs) have been featured in publications like The Washington Post, Bloomberg, and Vox.</small>
-
 [//]: # "I have commented some of the following links because they are too old and/or the link has broken."
 [//]: # "See: https://stackoverflow.com/a/20885980/1154642"
 
