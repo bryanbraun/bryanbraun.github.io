@@ -12,7 +12,7 @@ I believe that the solution to both problems will become obvious over time. Goog
 
 As for #1 here are a couple suggestions:
 
-* For code, put it on <a href="https://github.com/"><span class="s1">github</a> (though you'll need to <a href="https://www.codecademy.com/learn/learn-git">learn git</a>).
+* For code, put it on <a href="https://github.com/">github</a> (though you'll need to <a href="https://www.codecademy.com/learn/learn-git">learn git</a>).
 * For photography, put it on <a href="https://pxhere.com/">pxhere</a>
 * For knowledge, put it on <a href="http://wikipedia.org/">wikipedia</a> (or some other <a href="http://www.wikia.com/Wikia">topic-specific wiki</a> out there)
 * For questions, put them on <a href="http://www.quora.com/">quora</a> or <a href="https://stackexchange.com/">stackexchange</a>
