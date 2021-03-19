@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Nail your Focus First"
 date: 2013-07-01 06:59:27
 ---

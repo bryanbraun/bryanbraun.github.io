@@ -1,5 +1,5 @@
 ---
-title: "Your Site Is Slower than You Think It Is"
+title: "Your site is slower than you think it is"
 date: 2017-02-24 10:27:00
 related: [
   "Don't Optimize Performance Prematurely",

@@ -1,14 +1,14 @@
 ---
 layout: default
 title: About
-excerpt: I'm a web developer, currently based in the American Midwest. I use design and code to inspire, educate, and empower people.
+excerpt: I'm a frontend developer, currently based in the American Midwest. I use design and code to inspire, educate, and empower people.
 permalink: /about/
 redirect_from:
  - /who-is-bryan
  - /about/young-bryan/
 ---
 
-I'm a web developer, currently based in the American Midwest. I use design and code to inspire, educate, and empower people.
+I'm a frontend developer, currently based in the American Midwest. I use design and code to inspire, educate, and empower people.
 
 I've built web products for Fortune 500 companies, Stanford University, The White House, and other great organizations. My open-source code has been used by [thousands](https://github.com/bryanbraun/anchorjs/network/dependents?package_id=UGFja2FnZS0xNDk5MDEzMw%3D%3D), including Facebook, Google, and Microsoft. My work has been [featured](/news) in Lifehacker, Daring Fireball, Smashing Magazine, and the Discovery Channel.
 
