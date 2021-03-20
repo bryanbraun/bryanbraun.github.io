@@ -1,5 +1,5 @@
-/* Flush:
-  On hover, rotate the letters around the logo center.
+/* Rotate:
+  On hover, start rotating the letters.
 */
 
 (function () {
@@ -32,7 +32,7 @@
   // set rotation origin
   nameLetters.forEach(function (letter) {
     letter.style.transformOrigin = 'center';
-    letter.style.transformBox = 'view-box';
+    letter.style.transformBox = 'fill-box';
     letter.style.transitionDuration = '1.5s';
   });
 

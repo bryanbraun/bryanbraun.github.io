@@ -41,21 +41,22 @@ permalink: /logo-dev/
 
 <script>
   (function(d) {
-    var formEl = d.getElementById('test-form'),
-      scriptEl = d.getElementById('script-to-execute'),
-      svgEl = d.querySelector('svg');
-
-    function executeScript(event) {
-      var newScriptEl = d.createElement('script');
-      scriptEl.parentNode.replaceChild(newScriptEl, scriptEl);
-      newScriptEl.src = '/assets/js/logo/' + formEl['script-filename'].value;
-      scriptEl = newScriptEl;
-    }
+    let formEl = d.getElementById('test-form'),
+        scriptEl = d.getElementById('script-to-execute'),
+        svgEl = d.querySelector('svg');
+        untouchedSvgCopy = svgEl.cloneNode(true);
 
     function cleanEventListeners() {
-      var clonedSvg = svgEl.cloneNode(true);
-      svgEl.parentNode.replaceChild(clonedSvg, svgEl);
-      svgEl = clonedSvg;
+      var replacementSvg = untouchedSvgCopy.cloneNode(true);
+      svgEl.parentNode.replaceChild(replacementSvg, svgEl);
+      svgEl = replacementSvg; // reassigns our variable for next time
+    }
+
+    function executeScript() {
+      var newScriptEl = d.createElement('script');
+      scriptEl.parentNode.replaceChild(newScriptEl, scriptEl);
+      newScriptEl.src = '/assets/js/logo/' + formEl['script-filename'].value; // loads the script
+      scriptEl = newScriptEl; // reassigns our variable for next time
     }
 
     formEl.addEventListener('change', function (event) {
