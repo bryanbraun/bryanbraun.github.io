@@ -3,7 +3,7 @@
   them back on mouseout.
 */
 
-(function() {
+(function () {
   var hoverGradients = [
     'logo-radial-gradient0',
     'logo-radial-gradient1',
@@ -19,27 +19,30 @@
   var letters = Array.from(document.querySelectorAll('.Bryan, .Braun'));
   var DEFAULT_FILL_VALUE = 'url(#logo-linear-gradient)';
   var activeGradientNum = 0;
+  var intervalId;
 
   logoBox.addEventListener('mouseenter', setHoverGradient);
   logoBox.addEventListener('mousemove', positionHoverGradient);
   logoBox.addEventListener('mouseleave', setDefaultGradient);
   logoBox.addEventListener('click', toggleGradient);
+
   logoBox.addEventListener('mouseenter', quakeSet);
-  logoBox.addEventListener('mousemove', throttle(quake, 40));
   logoBox.addEventListener('mouseleave', quakeUnset);
 
-  letters.forEach(function(letter) {
+  letters.forEach(function (letter) {
     letter.style.transformOrigin = 'center';
   });
 
   function quakeSet() {
-    letters.forEach(function(letter) {
+    letters.forEach(function (letter) {
       letter.style.transition = '';
     });
+
+    intervalId = setInterval(quake, 60);
   }
 
   function quake() {
-    letters.forEach(function(letter) {
+    letters.forEach(function (letter) {
       var rt = letter.style.transform.split(/\(|\)/);
       if (rt == '') {
         var r = 0,
@@ -62,24 +65,12 @@
   }
 
   function quakeUnset() {
-    letters.forEach(function(letter) {
+    clearInterval(intervalId);
+
+    letters.forEach(function (letter) {
       letter.style.transition = 'transform 0.75s';
       letter.style.transform = '';
     });
-  }
-
-  // See: https://jsfiddle.net/jonathansampson/m7G64/
-  function throttle(callback, limit) {
-    var wait = false;
-    return function() {
-      if (!wait) {
-        callback.call();
-        wait = true;
-        setTimeout(function() {
-          wait = false;
-        }, limit);
-      }
-    };
   }
 
   function getHoverFillValue() {
