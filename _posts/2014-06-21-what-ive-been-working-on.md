@@ -48,8 +48,8 @@ In the coming weeks I'll be sharing some of the things I learned while putting t
  [9]: http://daringfireball.net/projects/markdown/
  [10]: http://www.docker.com/
  [11]: http://www.staticgen.com/
- [12]: http://feeds.feedburner.com/bryanbraun
- [13]: http://feedburner.google.com/fb/a/mailverify?uri=bryanbraun
+ [12]: /rss.xml
+ [13]: https://eepurl.com/dcTne5
  [14]: http://sethgodin.typepad.com/seths_blog/2014/06/micro-marketing-and-the-called-bluff.html
 
 I'm looking forward to seeing what you do with Bitbooks.
