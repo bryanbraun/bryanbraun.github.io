@@ -1,7 +1,10 @@
 ---
-title: In the News
+title: Featured Work
 excerpt: My work has been featured in Lifehacker, Daring Fireball, the Discovery Channel, and several other news sources.
 permalink: /news/
+permalink: /featured/
+redirect_from:
+ - /news
 ---
 
 | Article                                                                  | Source                | Year |

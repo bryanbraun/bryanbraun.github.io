@@ -69,7 +69,7 @@ navigation:
       })(document);
     </script>
 
-    <div class="page-content">
+    <main class="page-content">
       {% if page.is_post %}
         {% comment %} Don't print a page-level title. It will be printed in the post template. {% endcomment %}
       {% else %}
@@ -79,7 +79,7 @@ navigation:
       {% endif %}
 
       {{ content }}
-    </div>
+    </main>
 
     <footer class="site-footer">
       <p>This site is open source. <a href="https://github.com/bryanbraun/bryanbraun.github.io">See it on Github.</a>
