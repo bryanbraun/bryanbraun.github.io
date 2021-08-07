@@ -48,15 +48,15 @@ It was also the first year I:
 
 Then again, Holly made an 18 pound boy, entirely from her own bodily resources… which is something I could never do. It was also the first year she:
 
-[Spent 7 hours on a plane with 2 children under 2 years old][13]
-Made a homemade apple pie without <a href="http://1.bp.blogspot.com/_nPInrJBeS1c/Sy008laLtjI/AAAAAAAAAaU/k20L0YzqMq8/s1600/DSCN0783.JPG" target="_blank" rel="noopener noreferrer" title="Those were dark days...">accidentally substituting salt for sugar</a>
-Took a child to the emergency room
-Went inside the <a href="http://www.lds.org/church/temples/washington-dc?lang=eng" target="_blank" rel="noopener noreferrer" title="Washington D.C. Temple">Washington DC Temple</a>
-Hosted <a href="http://hollybunchkins.blogspot.com/2012/12/thanksgiving.html" target="_blank" rel="noopener noreferrer" title="Here are some photos">Thanksgiving</a> dinner
-Was elected county delegate at republican convention
-Learned <a href="https://www.hypnobabies.com/" target="_blank" rel="noopener noreferrer" title="Hypnobabies">self-hypnosis</a>
-Ate chicken [at Joe's Crab Shack][14]
-<a href="https://twitter.com/BryanEBraun/status/257454313000017921" target="_blank" rel="noopener noreferrer" title="I had always wanted to use the hashtag #womendriversnosurvivors...">Hit a traffic cone</a>
+- [Spent 7 hours on a plane with 2 children under 2 years old][13]
+- Made a homemade apple pie without <a href="http://1.bp.blogspot.com/_nPInrJBeS1c/Sy008laLtjI/AAAAAAAAAaU/k20L0YzqMq8/s1600/DSCN0783.JPG" target="_blank" rel="noopener noreferrer" title="Those were dark days...">accidentally substituting salt for sugar</a>
+- Took a child to the emergency room
+- Went inside the <a href="http://www.lds.org/church/temples/washington-dc?lang=eng" target="_blank" rel="noopener noreferrer" title="Washington D.C. Temple">Washington DC Temple</a>
+- Hosted <a href="http://hollybunchkins.blogspot.com/2012/12/thanksgiving.html" target="_blank" rel="noopener noreferrer" title="Here are some photos">Thanksgiving</a> dinner
+- Was elected county delegate at republican convention
+- Learned <a href="https://www.hypnobabies.com/" target="_blank" rel="noopener noreferrer" title="Hypnobabies">self-hypnosis</a>
+- Ate chicken [at Joe's Crab Shack][14]
+- <a href="https://twitter.com/BryanEBraun/status/257454313000017921" target="_blank" rel="noopener noreferrer">Hit a traffic cone</a>
 
 What a year.
 
