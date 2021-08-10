@@ -66,6 +66,13 @@ This is a standard paragraph. Lorem ipsum dolor sit amet, consectetuer adipiscin
 
 This is a standard paragraph. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 
+## Side note
+
+<div class="side-note">
+  <p>Side note: This is a standard paragraph. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. This is a standard paragraph. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</p>
+  <p>This is a standard paragraph. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</p>
+</div>
+
 ---
 
 # Text Elements

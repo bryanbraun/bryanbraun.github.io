@@ -114,6 +114,21 @@ hr {
   top: -20px;
 }
 
+.side-note {
+  margin: 1rem 0;
+  padding: 1rem;
+
+  background: var(--bb-background-box);
+  font-family: var(--sans-serif-stack);
+  font-size: 0.875rem;
+}
+.side-note > *:first-child {
+  margin-top: 0;
+}
+.side-note > *:last-child {
+  margin-bottom: 0;
+}
+
 .site-header {
   /* cancel out page padding for navigation */
   margin-left: -1rem;
@@ -202,7 +217,7 @@ hr {
 .intro__subscribe {
   font-family: var(--sans-serif-stack);
   font-size: 14px;
-  background: #eeeeee;
+  background: var(--bb-background-box);
   padding: 4px 8px 4px 4px;
 }
 .intro__subscribe svg {
