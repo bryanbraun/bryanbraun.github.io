@@ -10,7 +10,7 @@ redirect_from:
 
 I'm a frontend developer, currently based in the American Midwest. I use design and code to inspire, educate, and empower people.
 
-I've spent the last 10 years building web products for startups, Fortune 500 companies, Stanford University, The White House, and other great organizations. My open-source code has been used by [thousands](https://github.com/bryanbraun/anchorjs/network/dependents?package_id=UGFja2FnZS0xNDk5MDEzMw%3D%3D), including Facebook, Google, and Microsoft. My work has been [featured](/news) in Lifehacker, Daring Fireball, Smashing Magazine, and the Discovery Channel.
+I've spent the last 10 years building web products for startups, Fortune 500 companies, Stanford University, The White House, and other great organizations. My open-source code has been used by [thousands](https://github.com/bryanbraun/anchorjs/network/dependents?package_id=UGFja2FnZS0xNDk5MDEzMw%3D%3D), including Facebook, Google, and Microsoft. My work has been [featured](/news) in Lifehacker, Smashing Magazine, Morning Brew, and the Discovery Channel.
 
 I like to share what I'm learning through [writing](/blog), [speaking](/speaking), and [open-source](https://github.com/bryanbraun). I'm an [indie hacker](https://www.indiehackers.com/start), and I'm always working on some sort of [side-project](/projects). [This is what I'm working on now](/now).
 

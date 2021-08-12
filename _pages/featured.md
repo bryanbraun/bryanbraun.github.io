@@ -1,6 +1,6 @@
 ---
 title: Featured Work
-excerpt: My work has been featured in Lifehacker, Daring Fireball, the Discovery Channel, and several other news sources.
+excerpt: My work has been featured in Lifehacker, the Discovery Channel, Morning Brew, and several other news sources.
 permalink: /news/
 permalink: /featured/
 redirect_from:
@@ -9,6 +9,8 @@ redirect_from:
 
 | Article                                                                  | Source                | Year |
 | ------------------------------------------------------------------------ | --------------------- | ---- |
+| [Make your own music box][14]                                            | Morning Brew          | 2021 |
+| [Checkboxland][13]                                                       | The Overflow          | 2020 |
 | [Designing a JavaScript Plugin System][12]                               | CSS-Tricks            | 2020 |
 | [Create Your Own Sharable Mechanical Music Box Tunes With This Site][11] | Lifehacker            | 2019 |
 | [Five Interactive Designers Share Their Treasured Finds][10]             | Communication Arts    | 2019 |
@@ -32,4 +34,6 @@ redirect_from:
 [10]: https://www.commarts.com/favorites/five-interactive-designers-share-their-treasured-finds-3
 [11]: https://lifehacker.com/create-your-own-sharable-mechanical-music-box-tunes-wit-1839583697
 [12]: https://css-tricks.com/designing-a-javascript-plugin-system/
+[13]: https://stackoverflow.blog/2020/07/10/the-overflow-29-checkboxland/
+[14]: https://www.morningbrew.com/daily/issues/2021/08/11/
 
