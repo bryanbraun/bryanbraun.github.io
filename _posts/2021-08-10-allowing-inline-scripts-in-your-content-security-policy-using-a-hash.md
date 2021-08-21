@@ -72,7 +72,7 @@ To generate an ID for our inline script, we can copy every character inside our 
   </figcaption>
 </figure>
 
-This workflow is a bit complex, which is why many browsers will give you a blocked script tag's SHA-256 ID inside the error message, saving you the effort of generating it yourself. If you do choose to generate it yourself, [you can optionally use other hashing algorithms like SHA-384 or SHA-512](https://www.w3.org/TR/CSP2/#source-list-valid-hashes).
+This workflow is a bit complex, which is why many browsers will give you the script tag's SHA-256 ID inside the error message, saving you the effort of generating it yourself. If you do choose to generate it yourself, [you can optionally use other hashing algorithms like SHA-384 or SHA-512](https://www.w3.org/TR/CSP2/#source-list-valid-hashes).
 
 ### Checking the hash
 

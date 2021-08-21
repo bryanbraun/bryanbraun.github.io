@@ -1,6 +1,7 @@
 ---
 title: "A ripple animation in JavaScript"
 date: 2021-04-15
+updated: 2021-08-21
 related: [
   "How I rebuilt \"Flying Toasters\" using only CSS animations",
   "CSS Transitions VS Keyframe Animations",
@@ -161,7 +162,9 @@ function drawRipple() {
     let reIndexedX = -((canvas.width - x) - (canvas.width / 2));
     let reIndexedY = (canvas.height - y) - (canvas.height / 2);
 
-    let distance = hypotenuseLength(reIndexedX, reIndexedY);
+    // Instead of writing our own code for Pythagorean's theorem, we can
+    // use JavaScript's built-in method to calculate the hypotenuse.
+    let distance = Math.hypot(reIndexedX, reIndexedY);
     let waveHeight = Math.sin(distance);
 
     // Normally, a sin wave fluctuates between -1 and 1, but we want ours
@@ -177,11 +180,6 @@ function drawRipple() {
   }
 
   ctx.putImageData(pixelData, 0, 0);
-}
-
-// Pythagorean's theorem
-function hypotenuseLength(x, y) {
-  return Math.sqrt(Math.pow(x, 2) + Math.pow(y, 2));
 }
 
 ```
@@ -217,7 +215,32 @@ To see how to animate it, we can again turn to desmos.com to see which variables
   <figcaption>Pressing "play" on the <em>h</em> value translates the whole wave, just like we want to do on our ripple.</figcaption>
 </figure>
 
-To animate the wave in JavaScript, we can use `setInterval` to repeatedly call our `drawRipple()` function, and pass in a timestamp to adjust the wave position. Here's what it ends up looking like
+To animate the wave in JavaScript, we can use `requestAnimationFrame` to repeatedly call our `drawRipple()` function, and pass in a timestamp to adjust the wave position each time. Doing this only requires a few changes to our function above:
+
+
+```js
+const startTime = performance.now();
+
+(function drawRipple(timestamp) {
+  const elapsedTimeUnits = (timestamp - startTime) / 50;
+
+  ⋮
+
+  // Update the sin() function with a value based on the timestamp
+  // For reference, see https://www.desmos.com/calculator/bp9t79pfa0
+  let waveHeight = Math.sin((radialX - elapsedTimeUnits) / 8);
+
+  ⋮
+
+  requestAnimationFrame(drawRipple);
+})(startTime);
+```
+<style>
+  /* I'm hacking in a style here to make the code snippet look better with the ⋮ characters. Sorry! */
+  .highlight .err { background-color: #FFF }
+</style>
+
+And with that, our animation looks like this:
 
 <figure class="center">
   <img src="{{site.url}}/assets/images/ripple.gif" alt="Animation of a black and white animated ripple." />

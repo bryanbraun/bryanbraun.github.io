@@ -15,7 +15,7 @@ Today I get to tell you about a project I've been building called [Music Box Fun
 
 ## Background
 
-There's a type of music box that you can write your own songs for. It comes with these paper strips and a punch tool.
+There's a [type of music box that you can write your own songs for](https://musicboxfun.com/guides/diy-music-box). It comes with these paper strips and a punch tool.
 
 ![Image of a 30-note DIY music box]({{site.url}}/assets/images/30-note-music-box.jpg)
 
