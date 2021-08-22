@@ -10,7 +10,7 @@ I'm hunkered down at home in Dayton Ohio. We're vaccinated, but we'll probably c
 
 I've just passed 6 years working at [Sparkbox](https://seesparkbox.com/), building web applications. Our office recently transitioned to 100% remote (even post-pandemic), so I'm working from home for the forseeable future. I'm currently working on [a high-profile e-commerce project](https://www.linkedin.com/posts/ashleyszwec_so-proud-of-my-team-for-delivering-the-front-end-activity-6808777034286927872-r61b) using ReactJS and Typescript.
 
-Whenever I get a spare evening, I usually spend it working on [musicboxfun.com](https://musicboxfun.com).
+Whenever I get a spare evening, I usually spend it working on [musicboxfun.com](https://musicboxfun.com), an online tool you can use to make songs for a [DIY music box](https://musicboxfun.com/guides/diy-music-box).
 
 ## At Home
 
