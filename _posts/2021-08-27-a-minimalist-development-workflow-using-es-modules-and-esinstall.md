@@ -118,11 +118,11 @@ confetti(document.body, { angle: 0 });
 
 ## Is that all we need?
 
-Pretty much! Now you can organize everything in your codebase as modules and ship them straight to the browser bundle-free. If you have questions about things like caching, performance, or browser support, feel free to check out my earlier post, [ES modules in production: my experience so far](https://www.bryanbraun.com/2020/10/23/es-modules-in-production-my-experience-so-far/).
+Pretty much! Now you can organize everything in your codebase as modules and ship them straight to the browser bundle-free. If you have questions about modules handle things like caching, performance, or browser support, feel free to check out my earlier post, [ES modules in production: my experience so far](https://www.bryanbraun.com/2020/10/23/es-modules-in-production-my-experience-so-far/).
 
 ## Snowpack
 
 If this build workflow seems familiar then you might recognize it from  [Snowpack](https://www.snowpack.dev/) v1 / v2. Those earlier versions of Snowpack supported [this exact workflow]({{site.url}}/2020/08/28/a-minimalist-development-workflow-using-es6-modules-and-snowpack/), but v3 ended up moving to a different workflow that worked more like webpack (with file watching, transpiling, and more). This new workflow allowed Snowpack to compete more directly with Webpack for larger, more enterprisey projects that needed transpiling to convert JSX, Typescript, and other niceties. While that made Snowpack more powerful, it could no longer be used as a simple "modules in production" build tool. [:(](https://github.com/snowpackjs/snowpack/discussions/2107)
 
-Fortunately, the Snowpack team decided to take that core functionality for converting code to ES modules, name it `esinstall` and publish it as [it's' own package](https://www.npmjs.com/package/esinstall). Snowpack still uses this code internally, which makes me feel pretty confident that it'll remain a stable development tool for a while.
+Fortunately, the Snowpack team decided to take that core functionality for converting code to ES modules, name it `esinstall`, and publish it as [it's' own package](https://www.npmjs.com/package/esinstall). Snowpack still uses this code internally, which makes me feel pretty confident that it'll remain a stable development tool for a while.
 
