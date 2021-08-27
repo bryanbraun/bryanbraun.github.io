@@ -1,12 +1,17 @@
 ---
 title: "A minimalist development workflow using ES6 modules and Snowpack"
 date: 2020-08-28
+updated: 2021-08-27
 related: [
-  "Web-dev nirvana, and why I needed to let go of React to reach it",
-  "What if React used web components under the hood?",
+  "A minimalist development workflow using ES modules and esinstall",
+  "Alt-React",
   "Nonsense"
 ]
 ---
+
+*Update: the approach described below works for Snowpack v1 and v2, but not for Snowpack v3+. To setup the same minimalist workflow today, I recommend using `esinstall`. For more details, see: [A minimalist development workflow using ES modules and esinstall]({{site.url}}/2021/08/27/a-minimalist-development-workflow-using-es-modules-and-esinstall/).*
+
+***
 
 Suppose you want to build a small interactive web-app and you need it to be simple and low-maintenance. Maybe it's an animation experiment or a web-audio demo—something that requires a handful of libraries and some custom JavaScript.
 

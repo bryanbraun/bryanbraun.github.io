@@ -2,7 +2,7 @@
 title: "Using Tagged Template Literals to escape embedded HTML"
 date: 2019-09-17
 related: [
-  "Web-dev nirvana, and why I needed to let go of React to reach it",
+  "Alt-React",
   "Every Possible Way to Define a Javascript Function",
 ]
 ---

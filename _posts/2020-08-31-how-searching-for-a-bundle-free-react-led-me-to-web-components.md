@@ -3,7 +3,7 @@ title: "How searching for a bundle-free React led me to web components"
 date: 2020-08-31
 related: [
   "A minimalist development workflow using ES6 modules and Snowpack",
-  "Web-dev nirvana, and why I needed to let go of React to reach it",
+  "Alt-React",
   "Nonsense"
 ]
 ---

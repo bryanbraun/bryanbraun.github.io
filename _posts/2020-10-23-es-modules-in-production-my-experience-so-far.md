@@ -5,7 +5,7 @@ related: [
   "A minimalist development workflow using ES6 modules and Snowpack",
   "How searching for a bundle-free React led me to web components",
   "Music Box Fun",
-  "Web-dev nirvana, and why I needed to let go of React to reach it"
+  "Alt-React"
 ]
 ---
 

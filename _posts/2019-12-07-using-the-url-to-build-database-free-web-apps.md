@@ -4,7 +4,7 @@ date: 2019-12-07
 updated: 2020-01-03
 related: [
   "Music Box Fun",
-  "Web-dev nirvana, and why I needed to let go of React to reach it",
+  "Alt-React",
   "Make Things Simple"
 ]
 ---

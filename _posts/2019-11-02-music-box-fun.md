@@ -3,7 +3,7 @@ title: "Music Box Fun"
 date: 2019-11-02
 related: [
   "The best conference I ever attended",
-  "Web-dev nirvana, and why I needed to let go of React to reach it",
+  "Alt-React",
   "Introducing Bouncy Ball: A TodoMVC for Web Animation",
   "AnchorJS"
 ]
