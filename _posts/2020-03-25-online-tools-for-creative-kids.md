@@ -1,7 +1,7 @@
 ---
 title: "Online Tools for Creative Kids"
 date: 2020-03-25
-updated: 2020-10-08
+updated: 2021-08-31
 related: [
   "Daily Demos: a ritual for raising kids that create",
   "The unique power of games in building intuition",
@@ -13,7 +13,7 @@ Recently, I've seen several people sharing educational resources and videos for 
 
 But you know what would be better? A list of online tools for kids who would rather create than consume. I've been building this list for years.
 
-*(A little background: I married an educator and now we have five kids. When they have free time, we flood them with creative opportunities and see what they make. [More details on our approach here.](https://bryanbraun.com/2019/07/16/daily-demos-a-ritual-for-raising-kids-that-create))*
+*(A little background: I married an educator and now we have five kids. When they have free time, we flood them with creative opportunities and see what they make. [More details on our approach here.]({{site.url}}/2019/07/16/daily-demos-a-ritual-for-raising-kids-that-create))*
 
 Anyways, here's our list as it currently stands:
 
@@ -33,6 +33,12 @@ Anyways, here's our list as it currently stands:
 - **[Chrome Canvas](https://support.google.com/chromebook/answer/9200774?hl=en)** (Chromebook only)
 
 
+## Science
+
+- **[The Powder Toy](https://powdertoy.co.uk/)** is a sandbox environment for building interactive scenes out of elements (with realistic material properties and reactions). See [my full review of The Powder Toy here]({{site.url}}/2021/01/18/the-powder-toy/).
+- **[Algodoo](http://www.algodoo.com/)** is a 2D physics sandbox for making machines, scenes, and simple games.
+- **[Orb Farm](https://orb.farm/)** is a virtual ecosystem that you can manipulate and observe the effects of your changes.
+
 ## Music
 
 - **[Garageband](https://apps.apple.com/us/app/garageband/id408709785)** for iPad is free and very good.
@@ -47,6 +53,7 @@ Anyways, here's our list as it currently stands:
 - **[Inventioneers](https://www.filimundus.com/inventioneers/)** (iPad) is a puzzle-solving app with a great built-in level-creator.
 - **[Let's create! Pottery](https://apps.apple.com/us/app/lets-create-pottery-hd-lite/id397756644)** (for iPad) for pottery design.
 - **[Design Home](https://apps.apple.com/us/app/design-home/id1010962391)** (iPad) for interior design.
+- **[Bitsy](https://make.bitsy.org)** is a code-free online editor for making little pixel games.
 
 And **[Minecraft](https://www.minecraft.net/)** is just amazing. Probably the best app purchase I've ever made.
 
