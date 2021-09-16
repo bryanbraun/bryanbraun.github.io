@@ -320,7 +320,8 @@ hr {
   padding: 10px 0 40px;
   margin: 0;
   display: grid;
-  grid-template-columns: 200px 200px 200px;
+  justify-content: center;
+  grid-template-columns: repeat(auto-fill, 200px);
   grid-auto-rows: min-content;
   column-gap: 20px;
   row-gap: 20px;

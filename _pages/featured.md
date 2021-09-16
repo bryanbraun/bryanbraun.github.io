@@ -9,6 +9,7 @@ redirect_from:
 
 | Article                                                                  | Source                | Year |
 | ------------------------------------------------------------------------ | --------------------- | ---- |
+| [Checkboxland: render everything as HTML checkboxes][15]                 | Boing Boing           | 2021 |
 | [Make your own music box][14]                                            | Morning Brew          | 2021 |
 | [Checkboxland][13]                                                       | The Overflow          | 2020 |
 | [Designing a JavaScript Plugin System][12]                               | CSS-Tricks            | 2020 |
@@ -36,4 +37,5 @@ redirect_from:
 [12]: https://css-tricks.com/designing-a-javascript-plugin-system/
 [13]: https://stackoverflow.blog/2020/07/10/the-overflow-29-checkboxland/
 [14]: https://www.morningbrew.com/daily/issues/2021/08/11/
+[15]: https://boingboing.net/2021/09/12/checkboxland-render-everything-as-html-checkboxes.html
 
