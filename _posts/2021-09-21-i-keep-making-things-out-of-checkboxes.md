@@ -11,7 +11,7 @@ Something happened earlier this year where I got on a run making checkbox animat
 
 A bit of background: back in pre-pandemic 2020, I went to [the Recurse Center](https://www.recurse.com/) for a week and built [Checkboxland](https://www.bryanbraun.com/checkboxland/), a JavaScript library that lets you display text and animations on a checkbox grid. It was a fun little project. I made some demos, [blogged about it]({{site.url}}/2020/06/06/checkboxland/), and ultimately put it on the shelf where I didn't touch it for about a year.
 
-Eventually, I was feeling desperate for a fun coding diversion so picked it back up again. I wanted to try making better and more complex animations so I started building a ripple effect, and got hooked.
+Eventually, I was feeling desperate for a fun coding diversion so I picked it back up again. I wanted to try making better and more complex animations so I started building a ripple effect, and got hooked.
 
 ## Mathematical Animations
 
@@ -20,7 +20,7 @@ Eventually, I was feeling desperate for a fun coding diversion so picked it back
   <figcaption>The ripple animation. See <a href="{{site.url}}/2021/04/15/ripple-animation-in-javascript/">my write-up about ripples</a> for more details.</figcaption>
 </figure>
 
-Building the ripple forced me to dig into some basic animation math. I soon realized that I could use similar techniques to build other animations, including these ones:
+Building the ripple forced me to dig into some animation math. I soon realized that I could use similar techniques to build other animations, including these ones:
 
 <p class="center">
   <img src="{{site.url}}/assets/images/cbl-spiral.gif" loading="lazy" alt="A spiral animation made with html checkboxes">
@@ -52,7 +52,7 @@ That was pretty disappointing, so I wanted to try making animations that respond
 
 The more interactive demos I made, the more ideas I had. I could make games! [Snake](https://www.bryanbraun.com/checkboxland/docs/demos/snake/), Pong, Tetris!
 
-But before I got too far down that path, another thought caught hold in my mind. If I could display arbitrary images, then I wouldn't have to go through the laborious process of defining every checkbox manually or coming up with an algorithm for the scene I wanted.
+But before I got too far down that path, another thought caught hold in my mind. If I could display any image, then I wouldn't have to go through the laborious process of defining every checkbox manually or coming up with an algorithm for the scene I wanted.
 
 ## Images
 
@@ -62,7 +62,7 @@ Converting images seemed tricky so I sat on the idea for while until I came acro
 
 ![The Apple logo displayed side-by-side with an html checkbox version]({{site.url}}/assets/images/cbl-apple.png)
 
-I soon realized that converting images gets you 95% of the way to converting video so that became my next task.
+I soon realized that converting images gets you 90% of the way to converting video so that became my next task.
 
 ## Videos
 
@@ -92,4 +92,4 @@ I got [nerd sniped](https://xkcd.com/356/), hard. Sure it's harmless fun, but I'
 
 Plus, if I keep doing this then I'm going to end up known as "the checkbox guy." That's not exactly marketable but I guess it could be worse.
 
-Fortunately, it feels like I'm starting to exhaust the interesting things I could build in this format. At some point it's like "dude, we get it, you can render anything with checkboxes." I still have a few lingering ideas though... maybe it's like a controlled forest fire and I should just let myself keep making these things until it burns itself out.
+Fortunately, it feels like I'm starting to exhaust the interesting things I could build in this format. At some point it's like "dude, we get it, you can make anything with checkboxes." I still have a few lingering ideas though... maybe it's like a controlled forest fire and I should just let myself keep making these things until it burns itself out.
