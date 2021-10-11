@@ -82,7 +82,10 @@ This also meant I could display webcam data, which got a lot of attention on Twi
 
 Finally, my co-worker Reed told me about a challenge where people try to play the animated video "Bad Apple" on various obscure computing environments (see [a bunch of examples here](https://www.youtube.com/playlist?list=PLajlU5EKJVdonUGTEc7B-0YqElDlz9Sf9)). It sounded fun so I went ahead and put together a youtube video for that.
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/ZGvXdYXami4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<figure class="center">
+  <iframe width="640" height="360" src="https://www.youtube.com/embed/ZGvXdYXami4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <figcaption><a href="https://www.bryanbraun.com/checkboxland/docs/demos/bad-apple/">Play the in-browser version here</a>.</figcaption>
+</figure>
 
 <hr class="section-divider" />
 
