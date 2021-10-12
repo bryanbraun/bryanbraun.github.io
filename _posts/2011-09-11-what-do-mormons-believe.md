@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "What do Mormons believe?"
 date: 2011-09-11 19:47:49
 ---

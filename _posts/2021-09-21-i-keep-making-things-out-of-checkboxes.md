@@ -71,7 +71,7 @@ I soon realized that converting images gets you 90% of the way to converting vid
   <figcaption>An mp4 video (left) powering a checkbox animation (right). <a href="https://www.bryanbraun.com/checkboxland/docs/demos/video-test/">Try other videos (or upload your own) here</a>.</figcaption>
 </figure>
 
-Soon I had extended the Checkboxland API so I could load any video (like ones from [giphy](https://giphy.com/) or [gifer](https://gifer.com/en)) and instantly generate a checkbox version. Now checkbox animations were trivial.
+Soon I had extended the Checkboxland API so I could load any video (like ones from [giphy](https://giphy.com/)) and instantly generate a checkbox version. Now checkbox animations were trivial.
 
 This also meant I could display webcam data, which got a lot of attention on Twitter when I shared it:
 
