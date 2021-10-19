@@ -4,21 +4,25 @@ layout: null
 permalink: /feed.json
 ---
 {
-  "version": "https://jsonfeed.org/version/1",
+  "version": "https://jsonfeed.org/version/1.1",
   "home_page_url": "{{ site.url }}",
   "title": "{{ site.title }}",
   "description": {{ site.description | jsonify }},
   "feed_url": "{{ site.url }}/feed.json",
-  "favicon": "{{ site.url }}/favicon.png",
+  "favicon": "{{ site.url }}/assets/images/feed-favicon.png",
+  "icon": "{{ site.url }}/assets/images/feed-icon.png",
+  "language": "en-US",
+  "authors": [
+    {
+      "name": {{ site.author | jsonify }}
+    }
+  ],
   "items": [{% for post in site.posts limit: 10 %}
     {
       "id": "{{ post.id }}",
       "url": "{{ site.url }}{{ post.url }}",
       "date_published": "{{ post.date | date_to_xmlschema }}",
       "title": {{ post.title | jsonify }},
-      "author": {
-        "name": {{ site.author | jsonify }}
-      },
       "summary": {{ post.excerpt | strip_html | strip_newlines | jsonify }},
       "content_html": {{ post.content | strip_newlines | jsonify }}
     }{% unless forloop.last == true %},{% endunless %}
