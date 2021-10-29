@@ -52,7 +52,7 @@ For logos specifically, we can use the SVG's `<title>` tag to hold the text. Thi
 <title>Bryan Braun</title>
 ```
 
-This title tag acts kind of like alt-text for the SVG, providing a description of the image content. This is good, but not all browsers expose this information to screen readers. We can improve behavior across browsers by using the [`aria-labeledby` attribute](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/ARIA_Techniques/Using_the_aria-labelledby_attribute) to indicate that the title is a label for the image:
+This title tag acts kind of like alt-text for the SVG, providing a description of the image content. This is good, but not all browsers expose this information to screen readers. We can improve behavior across browsers by using the [`aria-labelledby` attribute](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/ARIA_Techniques/Using_the_aria-labelledby_attribute) to indicate that the title is a label for the image:
 
 ```html
 <svg aria-labelledby="title">
