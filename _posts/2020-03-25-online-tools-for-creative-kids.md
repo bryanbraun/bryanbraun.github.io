@@ -54,6 +54,7 @@ Anyways, here's our list as it currently stands:
 - **[Let's create! Pottery](https://apps.apple.com/us/app/lets-create-pottery-hd-lite/id397756644)** (for iPad) for pottery design.
 - **[Design Home](https://apps.apple.com/us/app/design-home/id1010962391)** (iPad) for interior design.
 - **[Bitsy](https://make.bitsy.org)** is a code-free online editor for making little pixel games.
+- **[PuzzleScript](https://www.puzzlescript.net/editor.html) is similar to bitsy, except it's designed for making puzzle-style game. It uses code, but the language is very simple and declarative.
 
 And **[Minecraft](https://www.minecraft.net/)** is just amazing. Probably the best app purchase I've ever made.
 
