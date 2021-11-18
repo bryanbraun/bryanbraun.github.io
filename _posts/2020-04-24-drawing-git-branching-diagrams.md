@@ -44,7 +44,7 @@ Feel free to use it as a starting place for your own branching diagrams, if you'
 [2]: https://www.gliffy.com/
 [3]: https://www.diagrams.net/
 [4]: https://www.lucidchart.com/
-[5]: https://gitgraphjs.com/
+[5]: https://www.nicoespeon.com/gitgraph.js/
 [6]: https://gitup.co/
 [7]: https://gfc.io/
 [8]: https://gist.github.com/bryanbraun/8c93e154a93a08794291df1fcdce6918
