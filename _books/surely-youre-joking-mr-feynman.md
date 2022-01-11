@@ -1,7 +1,7 @@
 ---
 title: "Surely You're Joking, Mr. Feynman"
 author: Richard P. Feynman
-date: 2021-10-10
+date: 2021-12-10
 categories: non-fiction
 rating: 3/5
 ---
