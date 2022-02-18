@@ -4,20 +4,20 @@ excerpt: A brief description of what I'm doing now.
 permalink: /now/
 ---
 
-I'm hunkered down at home in Dayton Ohio. We're vaccinated, but we'll probably continue to play it safe until the kids are too.
+I'm at home in Dayton Ohio. The weather is (slowly) getting warmer.
+
+In 2022, I'm working on cultivating optimism and enthusiasm. The world has been a sea of pessimism and fear over the past two years and I'm tired of it. Instead, I'm deciding to be the change I want to see. Ask me what changes I'm making. Even better, join me. Maybe it'll catch on.
 
 ## At Work
 
-I've just passed 6 years working at [Sparkbox](https://seesparkbox.com/), building web applications. Our office recently transitioned to 100% remote (even post-pandemic), so I'm working from home for the forseeable future. I'm currently working on [a high-profile e-commerce project](https://www.linkedin.com/posts/ashleyszwec_so-proud-of-my-team-for-delivering-the-front-end-activity-6808777034286927872-r61b) using ReactJS and Typescript.
-
-Whenever I get a spare evening, I usually spend it working on [musicboxfun.com](https://musicboxfun.com), an online tool you can use to make songs for a [DIY music box](https://musicboxfun.com/guides/diy-music-box).
+After nearly 7 years of building web applications at [Sparkbox](https://seesparkbox.com/), I've accepted a new (remote) position at [Formidable](https://formidable.com/). Sparkbox was a magical place and [I will miss it a lot](https://twitter.com/BryanEBraun/status/1489741479249682432). My new role should provide many opportunities for me to learn and grow and I'm looking forward to that.
 
 ## At Home
 
-I'm spending a lot of time at home these days and it suits me. I'm more involved with the kids learning and it's fun coming up with [lunch lessons](https://www.instagram.com/lunchlesson/) and seeing [daily demos](/2019/07/16/daily-demos-a-ritual-for-raising-kids-that-create/). Saturdays I do a lot of reluctant home maintenance. Sundays I spend all day with my family.
+Working remotely means I'm spending a lot of time at home these days. I'm more involved with the kids learning and it's been fun coming up with [lunch lessons](https://www.instagram.com/lunchlesson/) and seeing [daily demos](/2019/07/16/daily-demos-a-ritual-for-raising-kids-that-create/). I've recently started getting together with some friends to play games in the evening and that's been really fun. Saturdays I do a lot of reluctant home maintenance. Sundays I spend all day with my family.
 
 ---
 
 _This page was inspired by Derek Sivers and [his /now page](https://sivers.org/now)._
 
-_This page was last updated: June 13th, 2021_
+_This page was last updated: Feb 18th, 2022_
