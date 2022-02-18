@@ -6,7 +6,9 @@ _site
 
 # This file is only in the project to assist with gem installs. We
 # don't check it in because it won't actually control anything on
-# Github's servers.
+# Github's servers. For best results, use a Ruby version locally that
+# matches the one used on Github's servers (which can be found here):
+# https://pages.github.com/versions.json
 .ruby-version
 
 # We ignore the gem lockfile because we're using the Github pages

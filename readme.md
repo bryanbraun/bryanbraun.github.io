@@ -6,7 +6,7 @@ This site is made with [Jekyll](https://jekyllrb.com) and hosted on [github page
 
 ## Help improve this site
 
-If you find a way to improve this site, submit a pull request and we'll be besties.
+If you find a way to improve this site, feel free to submit a pull request. For more on how to contribute, [see contributing.md](./contributing.md).
 
 ## This codebase is open source
 
