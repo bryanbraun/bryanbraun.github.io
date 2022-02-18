@@ -44,7 +44,7 @@ defaults:
       layout: post
 
 # Custom Vars
-branch: master # the branch my live site is deployed to.
+branch: main # the branch my live site is deployed to.
 
 # When I first set up my site, I used full URLs as disqus page identifiers, which
 # was kind of a mistake:

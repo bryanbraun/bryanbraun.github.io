@@ -113,7 +113,7 @@ Docker was created by a hosting company called [dotCloud][13], which was using a
 
 [13]: https://web.archive.org/web/20140517031011/https://www.dotcloud.com/
 [14]: http://5by5.tv/changelog/89 'Their words... not mine.'
-[15]: https://github.com/dotcloud/docker/commits/master
+[15]: https://github.com/moby/moby/commits/master
 [16]: https://docs.docker.com/
 [17]: https://github.com/dotcloud/docker/stargazers
 

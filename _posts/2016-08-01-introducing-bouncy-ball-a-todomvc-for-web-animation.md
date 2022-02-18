@@ -20,7 +20,7 @@ The project is two things:
 *   A **[demo site][4]** that lets you watch the animations and read the source code required to create each one.
 
  [6]: https://github.com/sparkbox/bouncy-ball
- [7]: https://github.com/sparkbox/bouncy-ball/tree/master/examples
+ [7]: https://github.com/sparkbox/bouncy-ball/tree/main/examples
 
 This does a couple things. It **curates** the most popular and common approaches for animating things on the Web today. It **compares** the approaches, demonstrating how high-level or low-level each of the technologies are. It also **educates** by showing the range of options for web animation today and giving you a sense of the developing ecosystem.
 
