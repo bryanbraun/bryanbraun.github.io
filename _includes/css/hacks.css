@@ -2,3 +2,11 @@
 .every-possible-way-to-define-a-javascript-function .page-content {
   max-width: 56rem;
 }
+
+/* Override any syntax highlighting that indicates invalid syntax. This seems nice
+   in theory but in practices I often want to put elipsis characters (like ⋮ or … )
+   into my code examples, which is technically invalid but helps keep things succint.
+*/
+.highlight .err {
+  background-color: transparent;
+}

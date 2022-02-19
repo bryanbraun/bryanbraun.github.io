@@ -235,10 +235,6 @@ const startTime = performance.now();
   requestAnimationFrame(drawRipple);
 })(startTime);
 ```
-<style>
-  /* I'm hacking in a style here to make the code snippet look better with the ⋮ characters. Sorry! */
-  .highlight .err { background-color: #FFF }
-</style>
 
 And with that, our animation looks like this:
 
