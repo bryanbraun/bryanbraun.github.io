@@ -15,4 +15,4 @@ The truth is, on the night that I submitted my notice, I laid awake in bed unabl
 
 Fortunately, I've been sleeping better recently. I'm now 3 months into my new role as a (Frontend) Software Engineer at [Formidable](https://formidable.com/) and I'm confident that it was the right choice. It feels good!
 
-Change can be intimidating, but it has been necessary for every great opportunity I've had. I think its always going to be like that.
+Change can be intimidating, but it has been necessary for every great opportunity I've had. Its always going to be like that.
