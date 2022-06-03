@@ -1,6 +1,7 @@
 ---
-title: "Own Your Attention"
+title: "Jonathon Harris on Attention"
 date: 2018-04-13 12:27:00
+redirect: /2018/04/13/own-your-attention/
 related: [
   "Hamilton and the unsettling sense of urgency",
   "The News Wasteland",
