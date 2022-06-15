@@ -1,6 +1,7 @@
 ---
 title: "Bill Watterson on creating a meaningful life"
 date: 2022-06-02
+updated: 2022-06-14
 related: [
   "Jonathon Harris on Attention",
   "Don Hertzfeldt on Creative Work",
@@ -25,3 +26,7 @@ If you take one look through [Watterson's Wikipedia page](https://en.wikipedia.o
 Fighting all those fights—at great personal cost—must have been exhausting. *That's* why the meaningful life is so rare. Most people are unwilling to do it.
 
 But that's also what made Calvin and Hobbes so special. He protected them, and you can tell.
+
+<hr id="section-divider" />
+
+<small><i>See also, [this lovely comic-style poster also based on the Watterson quote](https://www.zenpencils.com/comic/128-bill-watterson-a-cartoonists-advice/).</i></small>
