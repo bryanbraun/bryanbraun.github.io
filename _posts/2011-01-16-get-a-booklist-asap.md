@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Get a Booklist ASAP!"
 date: 2011-01-16 19:52:10
 ---
@@ -10,7 +9,7 @@ Think about it. Lets compare interest in the space shuttle (reminder: the vehicl
 
 Google search results:
 
-Space shuttle: About 6,420,000 results  
+Space shuttle: About 6,420,000 results
 Harry Potter: About 125,000,000 results
 
 That is 125 Billion results. With a "B". There are probably even more by now. Like I said, the right book can really light your fire.
@@ -19,7 +18,7 @@ Good books are awesome. They can open your mind, twist your perspective, and get
 
 That's why I like to keep a running booklist. Mine started with the Engineering books, followed by recommendations from a finance teacher. I got more from the teacher of my entrepreneurship class, others from some guest lecturers, and the list goes on. Now I've made it a habit that when I visit with inspiring or influential people I ask them what books they recommend I read. They always have some good ones. In fact, I've never once had a response where the person says "I hate reading" or "I don't really read many books." Interesting correlation, huh?
 
-After all, Emmerson said: "I cannot remember the books I've read any more than the meals I have eaten; even so, they have made me." I read while I eat breakfast, so I get to check both boxes at the same time.
+After all, Emerson said: "I cannot remember the books I've read any more than the meals I have eaten; even so, they have made me." I read while I eat breakfast, so I get to check both boxes at the same time.
 
 You can start your book list today and it only takes 15 seconds. Try this experiment. Go on <a href="http://www.facebook.com" target="_blank" rel="noopener noreferrer" title="Facebook">facebook</a> and for your status, ask the question: What are some good books to read?
 
