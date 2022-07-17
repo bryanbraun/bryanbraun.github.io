@@ -8,7 +8,7 @@ related: [
 ]
 ---
 
-While none of us were paying attention, [Scratch](https://scratch.mit.edu/) has transformed from a programming language for kids to a massive online community of self-guided, student-programmers. Usage has [doubled]({{site.url}}/2022/07/16/scratch-is-a-big-deal/#scratch-at-scale) since the pandemic started and the language is [now overtaking "real" languages (like Typescript and Rust) in language popularity rankings](#rankings).
+While none of us were paying attention, [Scratch](https://scratch.mit.edu/) has transformed from a programming language for kids to a massive online community of self-guided, student-programmers. Usage has [doubled]({{site.url}}/2022/07/16/scratch-is-a-big-deal/#scratch-at-scale) since the pandemic started and the language is [now overtaking "real" programming languages (like Typescript and Rust) in language popularity rankings](#rankings).
 
 Scratch is a big deal.
 
@@ -16,7 +16,7 @@ If you've heard of Scratch, you likely know that it's a programming language for
 
 ![Visual coding blocks from the Scratch programming language]({{site.url}}/assets/images/scratch-coding-blocks.png)
 
-Like many pandemic parents, I recently introduced it to my kids. Over time, it started to catch hold and realized that there was more beneath the surface. I decided to take a closer look and this is what I found.
+Like many pandemic parents, I recently introduced it to my kids. Over time, it started to catch hold and I realized that there was more beneath the surface. I decided to take a closer look and this is what I found.
 
 ## More than a programming language
 
@@ -68,12 +68,12 @@ Like many online activities, Scratch usage grew during the pandemic, but unlike 
   <a href="https://scratch.mit.edu/statistics/#active-users">
     <img src="{{site.url}}/assets/images/scratch-monthly-active-users.png" loading="lazy" alt="A graph showing monthly active users on scratch.mit.edu growing consistently since 2012" />
   </a>
-  <figcaption>Notice that there's a cyclical usage pattern that follows the school year. It peaks in the spring and the dips in the summer, which give us an idea of how much Scratch usage can be attributed to use in school.</figcaption>
+  <figcaption>Notice that there's a cyclical usage pattern that follows the school year. It peaks in the spring and the dips in the summer, which gives us an idea of how much Scratch usage can be attributed to use in school.</figcaption>
 </figure>
 
 <p id="rankings">This recent growth has caused Scratch to <a href="https://twitter.com/mres/status/1248214290076753922">break into the Tiobe index's top 20 most popular programming languages</a>. At the time of this post (July 2022) <a href="https://web.archive.org/web/20220713222515/https://www.tiobe.com/tiobe-index/">it ranks 21st</a>, above Typescript, Rust, Julia, and other important languages. The Tiobe index is imperfect but there's clearly something happening here.</p>
 
-With this new popularity, Scratchers like [Griffpatch](https://scratch.mit.edu/users/griffpatch/), [Will_Wam](https://scratch.mit.edu/users/Will_Wam/), and others have become mini-celebrities, collecting hundreds of thousand of followers on mit.scratch.edu and other platforms (Griffpatch has 175k+ subscribers on [his Youtube channel](https://www.youtube.com/c/griffpatch) where he posts Scratch tutorials on gamedev topics like background-scrolling and raycasting).
+With this new popularity, Scratchers like [Griffpatch](https://scratch.mit.edu/users/griffpatch/), [Will_Wam](https://scratch.mit.edu/users/Will_Wam/), and others have become mini-celebrities, collecting hundreds of thousands of followers on mit.scratch.edu and other platforms (Griffpatch has 175k+ subscribers on [his Youtube channel](https://www.youtube.com/c/griffpatch) where he posts Scratch tutorials on gamedev topics like background-scrolling and raycasting).
 
 You can find more statistics on the [community statistics page](https://scratch.mit.edu/statistics/) and in the [Scratch Annual Report](https://scratch.mit.edu/annual-report). By every measure you can think of, Scratch usage is booming ([worldwide!](https://scratch.mit.edu/annual-report#:~:text=Scratch%20is%20used%20around%20the%20world%20across%20more%20than%20200%20countries%20and%20territories)) and shows no sign of stopping.
 
