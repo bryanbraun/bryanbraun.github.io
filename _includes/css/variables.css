@@ -5,24 +5,48 @@
   --bb-orange: #d76b00;
   --bb-off-black: #444444;
   --bb-inert-gray: #888888;
-  --bb-background-box: #eeeeee;
+  --bb-light-gray: #eeeeee;
+  --bb-white: #ffffff;
+  --bb-black: #000000;
+
+  /* PAGE ELEMENT COLORS */
+  --background-box-color: var(--bb-light-gray);
+  --text-color: var(--bb-off-black);
+  --link-1-color: var(--bb-blue2);
+  --link-2-color: var(--bb-off-black);
+  --site-background-color: var(--bb-white);
+  --nav-link-color: var(--bb-inert-gray);
+  --nav-link-active-color: var(--bb-off-black);
 
   /* FONTS */
   --sans-serif-stack: "PT Sans", "Verdana", sans-serif;
   --serif-stack: "PT Serif", "Georgia", serif;
   --monospace-stack: "Lucida Sans Typewriter", "Lucida Console", monaco, "Bitstream Vera Sans Mono", monospace;
 
-  /* WIDTHS / LENGHTS */
+  /* WIDTHS / LENGTHS */
   --page-top-border: 7px;
   --content-max-width: 40rem; /* 16*40 = 640px */
 
+
   /* OTHER */
   --bb-border-rule: 1px solid #cccccc;
+}
 
-  /* MEDIA QUERIES */
-  /* we cant do media query variables with custom properties
+/* MEDIA QUERIES */
+/* we cant do media query variables with custom properties
      so I'm just documenting the value here so it's easy to
      see and update later with find and replace.
   */
-  /* phablet: 580px; */
+/* phablet: 580px; */
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    /* PAGE ELEMENT COLORS */
+    --background-box-color: var(--bb-off-black);
+    --text-color: var(--bb-white);
+    --site-background-color: var(--bb-black);
+    --link-2-color: var(--bb-white);
+    --nav-link-color: var(--bb-white);
+    --nav-link-active-color: var(--bb-inert-gray);
+  }
 }

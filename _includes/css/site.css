@@ -3,7 +3,8 @@ body {
   margin: 0;
   padding: 0 1rem; /* page padding for mobile */
   border-top: var(--page-top-border) solid var(--bb-blue1);
-  color: var(--bb-off-black);
+  color: var(--text-color);
+  background: var(--site-background-color);
 }
 h1,
 h2,
@@ -24,7 +25,7 @@ h6 {
 }
 
 a {
-  color: var(--bb-blue2);
+  color: var(--link-1-color);
 }
 a:hover {
   color: var(--bb-orange);
@@ -118,7 +119,7 @@ hr {
   margin: 1rem 0;
   padding: 1rem;
 
-  background: var(--bb-background-box);
+  background: var(--background-box-color);
   font-family: var(--sans-serif-stack);
   font-size: 0.875rem;
 }
@@ -127,6 +128,17 @@ hr {
 }
 .side-note > *:last-child {
   margin-bottom: 0;
+}
+.side-note a {
+  color: var(--link-2-color);
+}
+
+/* We set the color and background colors of syntax-
+   highlighted code blocks so our light-colored
+   syntax theme remains readable in dark-mode. */
+.highlighter-rouge {
+  color: var(--bb-off-black);
+  background: var(--bb-white);
 }
 
 .site-header {
@@ -155,7 +167,7 @@ hr {
   font-size: 13px;
   text-decoration: none;
   text-transform: uppercase;
-  color: var(--bb-inert-gray);
+  color: var(--nav-link-color);
   padding: 0.375rem 1rem;
   display: block;
 }
@@ -166,13 +178,10 @@ hr {
 }
 
 .main-nav a:hover {
-  color: var(--bb-off-black);
-}
-.main-nav a:hover path {
-  fill: var(--bb-off-black);
+  color: var(--nav-link-active-color);
 }
 .main-nav a.is--active {
-  color: var(--bb-off-black);
+  color: var(--nav-link-active-color);
 }
 
 .logo-section {
@@ -217,7 +226,7 @@ hr {
 .intro__subscribe {
   font-family: var(--sans-serif-stack);
   font-size: 14px;
-  background: var(--bb-background-box);
+  background: var(--background-box-color);
   padding: 4px 8px 4px 4px;
 }
 .intro__subscribe svg {
@@ -225,8 +234,12 @@ hr {
   height: 20px;
   vertical-align: bottom;
 }
+.intro__subscribe path,
+.intro__subscribe circle {
+  fill: var(--text-color);
+}
 .intro__subscribe a {
-  color: var(--bb-off-black);
+  color: var(--link-2-color);
 }
 
 @media (min-width: 580px) {
@@ -332,10 +345,11 @@ hr {
 }
 .project a {
   text-decoration: none;
-  color: var(--bb-off-black);
+  color: var(--link-2-color);
 }
 .project img {
   display: block;
+  background: var(--bb-white);
 }
 .project h2 {
   font-size: 1rem;
