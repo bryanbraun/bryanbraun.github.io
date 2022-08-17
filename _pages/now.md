@@ -4,20 +4,18 @@ excerpt: A brief description of what I'm doing now.
 permalink: /now/
 ---
 
-I'm at home in Dayton Ohio. The weather is (slowly) getting warmer.
-
-In 2022, I'm working on cultivating optimism and enthusiasm. The world has been a sea of pessimism and fear over the past two years and I'm tired of it. Instead, I'm deciding to be the change I want to see. Ask me what changes I'm making. Even better, join me. Maybe it'll catch on.
+I'm at home in Dayton Ohio. The kids are back in school and summer is coming to a close.
 
 ## At Work
 
-After nearly 7 years of building web applications at [Sparkbox](https://seesparkbox.com/), I've accepted a new (remote) position at [Formidable](https://formidable.com/). Sparkbox was a magical place and [I will miss it a lot](https://twitter.com/BryanEBraun/status/1489741479249682432). My new role should provide many opportunities for me to learn and grow and I'm looking forward to that.
+After nearly 7 years of building web applications at [Sparkbox](https://seesparkbox.com/), I've accepted a new (remote) position at [Formidable](https://formidable.com/). For the last few months I've been building out an ecommerce frontend using React, Nextjs, and Typescript.
 
 ## At Home
 
-Working remotely means I'm spending a lot of time at home these days. I'm more involved with the kids learning and it's been fun coming up with [lunch lessons](https://www.instagram.com/lunchlesson/) and seeing [daily demos](/2019/07/16/daily-demos-a-ritual-for-raising-kids-that-create/). I've recently started getting together with some friends to play games in the evening and that's been really fun. Saturdays I do a lot of reluctant home maintenance. Sundays I spend all day with my family.
+I've started up a weekly weightlifting routine with a couple of friends. My bench press max has increased from 140 to 165 lbs and it feels pretty good to be "the strongest I've ever been." My side-projects have been on the back-burner recently, but I've started attending local meetups again which feels pretty good.
 
 ---
 
 _This page was inspired by Derek Sivers and [his /now page](https://sivers.org/now)._
 
-_This page was last updated: Feb 18th, 2022_
+_This page was last updated: Aug 17th, 2022_
