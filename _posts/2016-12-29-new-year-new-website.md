@@ -23,12 +23,12 @@ I'm currently typing this post in my [Atom text editor](https://atom.io/), with 
 
 The new site is faster. Here's the kind of improvements I'm seeing on the homepage:
 
-| Metric              | Old bryanbraun.com | New bryanbraun.com |
-| ------------------- | ------------------ | ------------------ |
-| HTTP Requests       | 27                 | 9                  |
-| Download Size       | 249 KB             | 122 KB             |
-| Load Time (uncached)| 1.784s             | 0.784s             |
-| Speed Index         | 1695               | 636                |
+| Metric               | Old bryanbraun.com | New bryanbraun.com |
+| -------------------- | ------------------ | ------------------ |
+| HTTP Requests        | 27                 | 9                  |
+| Download Size        | 249 KB             | 122 KB             |
+| Load Time (uncached) | 1.784s             | 0.784s             |
+| Speed Index          | 1695               | 636                |
 
 And that's without much optimization. I'd like to see how much faster it gets after inlining the CSS and improving caching.
 
@@ -45,7 +45,7 @@ I'm planning on writing a couple blog posts over the next few weeks to share som
 In the mean time, here's a series of screenshots showing the evolution of this site over the last 8 years:
 
 ### Version 1
-![Screenshot of bryanbraun.com, version 1]({{site.url}}/assets/images/bryanbraun-com1.png)
+![Screenshot of bryanbraun.com, version 1]({{site.url}}/assets/images/bryanbraun-com1.jpg)
 The original static site, hosted on BYU servers. This was one of the first websites I coded. Fun fact: the blue color was sampled from my tie in this photo. The tie was from my wedding (light blue was one of my wedding colors). All versions of my site since this one has used a similar light blue color.
 
 ### Version 2
