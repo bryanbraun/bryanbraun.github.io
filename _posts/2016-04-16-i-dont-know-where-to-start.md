@@ -21,7 +21,7 @@ Looking for a place to start? Consider these options:
 2. **Model the code like the real world.** There was so much to say about this approach that [I turned it into it's own post][1].
 3. **Start out by hard-coding it.** Make a form that doesn't submit. An error message that doesn't change. A random-number-generator that always returns the number 6. Then, iterate.
 4. **Ask a coworker.** Just say "Hey, any thoughts on where I can get started with this?" Asking will save you time and make them feel smart.
-5. **Start at the Interfaces**. What would the API look like for this feature? Can you write code around that API? Maybe write a failing test against it?
+5. **Start at the interfaces**. What would the API look like for this feature? Can you write code around that API? Maybe write a failing test against it?
 
  [1]: http://www.bryanbraun.com/2016/04/15/model-your-code-like-the-real-world
 
