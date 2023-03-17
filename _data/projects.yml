@@ -5,7 +5,7 @@
 
 - name: "Music Box Fun"
   desc: "An interactive site for composing music box songs"
-  url: https://musicboxfun.com
+  url: https://musicbox.fun
   image: /assets/images/music-box-fun-project.jpg
 
 - name: "Commit Colors"

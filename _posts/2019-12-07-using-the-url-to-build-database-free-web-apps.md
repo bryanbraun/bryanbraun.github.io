@@ -36,7 +36,7 @@ This Pinterest example is pretty basic, but people have built fairly complex app
 * [Firefox Colors](https://color.firefox.com/) - A site for building custom color schemes for your Firefox Browser.
 * [Heroes of the Aturi Cluster](https://hotac-ship-builder.netlify.com/) - A tool for managing an X-wing miniatures campaign.
 * [IsoCity](https://github.com/victorqribeiro/isocity) - An isometric city builder (like a mini SimCity)
-* [Music Box Fun](https://musicboxfun.com/) - An app for creating music box songs (I built this one).
+* [Music Box Fun](https://musicbox.fun) - An app for creating music box songs (I built this one).
 
 In all of these apps, every change you make updates the URL, instantly saving your progress in an easily sharable link. You don't have to create an account or log in. In fact, you couldn't if you wanted to because there's no database! These apps are completely static.
 
@@ -92,9 +92,9 @@ XQAAAAI7AAAAAAAAAABAqkpm86JnWsRtZaQNv-CjgurTXZK1U_iNj4XJq7o8Y4l768CtYEmYRGuRaUtw
 ...which I could add to the end of my URL, like this:
 
 ```
-https://musicboxfun.com/#0XQAAAAI7AAAAAAAAAABAqkpm86JnWsRtZaQNv...
-                         ||
-    version number ──────┘└───── Beginning of encoded song data
+https://musicbox.fun/#0XQAAAAI7AAAAAAAAAABAqkpm86JnWsRtZaQNv...
+                      ||
+    version number ───┘└─── Beginning of encoded song data
 ```
 
 <small>(note: I used the first character after the "#" as a version number, for versioning my data structure... everything after that is the compressed data).</small>

@@ -44,7 +44,7 @@ Anyways, here's our list as it currently stands:
 - **[Garageband](https://apps.apple.com/us/app/garageband/id408709785)** for iPad is free and very good.
 - **[Chrome Music Lab](https://musiclab.chromeexperiments.com/)** a suite of web-based music creation tools made by Google.
 - **[Beepbox.co](https://beepbox.co)** is great for making chip-tunes or video game music. It's free online and doesn't require an account.
-- **[MusicBoxFun.com](https://musicboxfun.com)** is similar but for music box songs (I made this one 😄).
+- **[MusicBox.fun](https://musicbox.fun)** is similar but for music box songs (I made this one 😄).
 
 
 ## Games
