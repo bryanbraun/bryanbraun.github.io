@@ -12,12 +12,12 @@ After nearly 7 years of building web applications at [Sparkbox](https://seespark
 
 ## At Home
 
-I've started up a twice-a-week weightlifting routine with a couple of friends. My bench press max has increased from 140 to 185 lbs and it feels pretty good to be "the strongest I've ever been." 🏋️‍♂️
+I've been getting more into health and fitness recently. In February I started listening to [the Huberman Lab podcast](https://hubermanlab.com/), measuring body fat, tracking calories, eating more protein, and weight-lifting twice a week. I've never really focused on this kind of stuff in the past so it's taught me a lot about food and exercise. Over the past year my bench press max has increased from 140 to 185 lbs. It feels pretty good to be "the strongest I've ever been." 🏋️‍♂️
 
-My side-projects (and blogging) has been on the back-burner recently as I've focused more of my attention on my family and relationships. I hope to ease back into writing and coding projects in 2023 but I'll probably be taking it slow at first. Family comes first!
+My side-projects (and blogging) have been on the back-burner recently as I've focused more of my attention on my family and relationships. I hope to ease back into writing and coding projects this year but I'll probably be taking it slow at first. Family comes first!
 
 ---
 
 _This page was inspired by Derek Sivers and [his /now page](https://sivers.org/now)._
 
-_This page was last updated: Jan 20th, 2023_
+_This page was last updated: March 17th, 2023_
