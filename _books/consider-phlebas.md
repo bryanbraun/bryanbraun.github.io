@@ -1,6 +1,6 @@
 ---
 title: "Consider Phlebas"
-author: ‎Iain Banks
+author: Iain Banks
 date: 2021-03-27
 categories: fiction
 rating: 2/5
