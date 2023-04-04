@@ -4,22 +4,22 @@
 */
 
 (function () {
-  var hoverGradients = [
+  const hoverGradients = [
     'logo-radial-gradient0',
     'logo-radial-gradient1',
     'logo-radial-gradient2'
   ];
-  var hoverGradientEls = {
+  const hoverGradientEls = {
     'logo-radial-gradient0': document.getElementById('logo-radial-gradient0'),
     'logo-radial-gradient1': document.getElementById('logo-radial-gradient1'),
     'logo-radial-gradient2': document.getElementById('logo-radial-gradient2')
   };
-  var logoBox = document.querySelector('.logo');
-  var logoMaskBox = document.getElementById('logo-mask-box');
-  var letters = Array.from(document.querySelectorAll('.Bryan, .Braun'));
-  var DEFAULT_FILL_VALUE = 'url(#logo-linear-gradient)';
-  var activeGradientNum = 0;
-  var intervalId;
+  const logoBox = document.querySelector('.logo');
+  const logoMaskBox = document.getElementById('logo-mask-box');
+  const letters = Array.from(document.querySelectorAll('.Bryan, .Braun'));
+  const DEFAULT_FILL_VALUE = 'url(#logo-linear-gradient)';
+  let activeGradientNum = 0;
+  let intervalId;
 
   logoBox.addEventListener('mouseenter', setHoverGradient);
   logoBox.addEventListener('mousemove', positionHoverGradient);
@@ -43,15 +43,17 @@
 
   function quake() {
     letters.forEach(function (letter) {
-      var rt = letter.style.transform.split(/\(|\)/);
+      const rt = letter.style.transform.split(/\(|\)/);
+      let r, tx, ty;
+
       if (rt == '') {
-        var r = 0,
-          tx = 0,
-          ty = 0;
+        r = 0;
+        tx = 0;
+        ty = 0;
       } else {
-        var r = parseFloat(rt[1]),
-          tx = parseFloat(rt[3]),
-          ty = parseFloat(rt[5]);
+        r = parseFloat(rt[1]);
+        tx = parseFloat(rt[3]);
+        ty = parseFloat(rt[5]);
       }
       letter.style.transform =
         'rotate(' +
@@ -78,7 +80,7 @@
   }
 
   function positionHoverGradient(event) {
-    var currentGradientEl = hoverGradientEls[hoverGradients[activeGradientNum]],
+    const currentGradientEl = hoverGradientEls[hoverGradients[activeGradientNum]],
       clientRect = logoMaskBox.getBoundingClientRect(),
       svgX = event.x - clientRect.left,
       svgY = event.y - clientRect.top,
@@ -97,7 +99,7 @@
     logoMaskBox.style.fill = getHoverFillValue();
   }
 
-  function setDefaultGradient(event) {
+  function setDefaultGradient() {
     logoMaskBox.style.fill = DEFAULT_FILL_VALUE;
   }
 

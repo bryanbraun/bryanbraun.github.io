@@ -3,24 +3,24 @@
 */
 
 (function () {
-  var hoverGradients = [
+  const hoverGradients = [
     'logo-radial-gradient0',
     'logo-radial-gradient1',
     'logo-radial-gradient2'
   ];
-  var hoverGradientEls = {
+  const hoverGradientEls = {
     'logo-radial-gradient0': document.getElementById('logo-radial-gradient0'),
     'logo-radial-gradient1': document.getElementById('logo-radial-gradient1'),
     'logo-radial-gradient2': document.getElementById('logo-radial-gradient2')
   };
-  var logoMaskBox = document.getElementById('logo-mask-box');
-  var logoBox = document.querySelector('.logo');
-  var nameLetters = [].concat(
+  const logoMaskBox = document.getElementById('logo-mask-box');
+  const logoBox = document.querySelector('.logo');
+  const nameLetters = [].concat(
     Array.from(document.getElementsByClassName('Bryan')),
     Array.from(document.getElementsByClassName('Braun'))
   );
-  var DEFAULT_FILL_VALUE = 'url(#logo-linear-gradient)';
-  var activeGradientNum = 0;
+  const DEFAULT_FILL_VALUE = 'url(#logo-linear-gradient)';
+  let activeGradientNum = 0;
 
   logoBox.addEventListener('mouseenter', setHoverGradient);
   logoBox.addEventListener('mousemove', positionHoverGradient);
@@ -49,7 +49,7 @@
   }
 
   function positionHoverGradient(event) {
-    var currentGradientEl = hoverGradientEls[hoverGradients[activeGradientNum]],
+    const currentGradientEl = hoverGradientEls[hoverGradients[activeGradientNum]],
       clientRect = logoMaskBox.getBoundingClientRect(),
       svgX = event.x - clientRect.left,
       svgY = event.y - clientRect.top,
@@ -68,7 +68,7 @@
     logoMaskBox.style.fill = 'url(#' + hoverGradients[activeGradientNum] + ')';
   }
 
-  function setDefaultGradient(event) {
+  function setDefaultGradient() {
     logoMaskBox.style.fill = DEFAULT_FILL_VALUE;
   }
 

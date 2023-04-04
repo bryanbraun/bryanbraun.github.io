@@ -3,17 +3,17 @@
   mouse.
 */
 
-(function() {
-  var hoverGradients = ['logo-radial-gradient0', 'logo-radial-gradient1', 'logo-radial-gradient2'];
-  var hoverGradientEls = {
+(function () {
+  const hoverGradients = ['logo-radial-gradient0', 'logo-radial-gradient1', 'logo-radial-gradient2'];
+  const hoverGradientEls = {
     'logo-radial-gradient0': document.getElementById('logo-radial-gradient0'),
     'logo-radial-gradient1': document.getElementById('logo-radial-gradient1'),
     'logo-radial-gradient2': document.getElementById('logo-radial-gradient2')
   };
-  var logoBox = document.querySelector('.logo');
-  var logoMaskBox = document.getElementById('logo-mask-box');
-  var DEFAULT_FILL_VALUE = 'url(#logo-linear-gradient)';
-  var activeGradientNum = 0;
+  const logoBox = document.querySelector('.logo');
+  const logoMaskBox = document.getElementById('logo-mask-box');
+  const DEFAULT_FILL_VALUE = 'url(#logo-linear-gradient)';
+  let activeGradientNum = 0;
 
   logoBox.addEventListener('mouseenter', setHoverGradient);
   logoBox.addEventListener('mousemove', positionHoverGradient);
@@ -25,12 +25,12 @@
   }
 
   function positionHoverGradient(event) {
-    var currentGradientEl = hoverGradientEls[hoverGradients[activeGradientNum]],
-        clientRect = logoMaskBox.getBoundingClientRect(),
-        svgX = event.x - clientRect.left,
-        svgY = event.y - clientRect.top,
-        percentX = svgX / clientRect.width,
-        percentY = svgY / clientRect.height;
+    const currentGradientEl = hoverGradientEls[hoverGradients[activeGradientNum]],
+      clientRect = logoMaskBox.getBoundingClientRect(),
+      svgX = event.x - clientRect.left,
+      svgY = event.y - clientRect.top,
+      percentX = svgX / clientRect.width,
+      percentY = svgY / clientRect.height;
 
     /**
      * We set unitless numbers because that
@@ -44,7 +44,7 @@
     logoMaskBox.style.fill = getHoverFillValue();
   }
 
-  function setDefaultGradient(event) {
+  function setDefaultGradient() {
     logoMaskBox.style.fill = DEFAULT_FILL_VALUE;
   }
 

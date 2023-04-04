@@ -3,30 +3,30 @@
 */
 
 (function () {
-  var hoverGradients = [
+  const hoverGradients = [
     'logo-radial-gradient0',
     'logo-radial-gradient1',
     'logo-radial-gradient2'
   ];
-  var hoverGradientEls = {
+  const hoverGradientEls = {
     'logo-radial-gradient0': document.getElementById('logo-radial-gradient0'),
     'logo-radial-gradient1': document.getElementById('logo-radial-gradient1'),
     'logo-radial-gradient2': document.getElementById('logo-radial-gradient2')
   };
-  var logoMaskBox = document.getElementById('logo-mask-box');
-  var logoBox = document.querySelector('.logo');
-  var bryanLetters = Array.from(document.getElementsByClassName('Bryan'));
-  var braunLetters = Array.from(document.getElementsByClassName('Braun'));
-  var allNameLetters = [].concat(bryanLetters, braunLetters);
-  var DEFAULT_FILL_VALUE = 'url(#logo-linear-gradient)';
-  var activeGradientNum = 0;
-  var animationRequestID;
-  var initialTimestamp;
+  const logoMaskBox = document.getElementById('logo-mask-box');
+  const logoBox = document.querySelector('.logo');
+  const bryanLetters = Array.from(document.getElementsByClassName('Bryan'));
+  const braunLetters = Array.from(document.getElementsByClassName('Braun'));
+  const allNameLetters = [].concat(bryanLetters, braunLetters);
+  const DEFAULT_FILL_VALUE = 'url(#logo-linear-gradient)';
+  let activeGradientNum = 0;
+  let animationRequestID;
+  let initialTimestamp;
 
   // Polyfills
-  var requestAnimationFrame = window.requestAnimationFrame || window.mozRequestAnimationFrame ||
+  const requestAnimationFrame = window.requestAnimationFrame || window.mozRequestAnimationFrame ||
     window.webkitRequestAnimationFrame || window.msRequestAnimationFrame;
-  var cancelAnimationFrame = window.cancelAnimationFrame || window.mozCancelAnimationFrame;
+  const cancelAnimationFrame = window.cancelAnimationFrame || window.mozCancelAnimationFrame;
 
   logoBox.addEventListener('mouseenter', setHoverGradient);
   logoBox.addEventListener('mousemove', positionHoverGradient);
@@ -41,7 +41,7 @@
   }
 
   function waveAnimation(timestamp) {
-    var elapsedTimeInSeconds = (timestamp - initialTimestamp) / 1000;
+    const elapsedTimeInSeconds = (timestamp - initialTimestamp) / 1000;
 
     bryanLetters.forEach(translateLetter);
     braunLetters.forEach(translateLetter);
@@ -49,9 +49,9 @@
     animationRequestID = requestAnimationFrame(waveAnimation);
 
     function translateLetter(letter, index) {
-      var letterDelay = (0.125 * index);
-      var letterAdjustedElapsedTimeInSeconds = Math.max(0, elapsedTimeInSeconds - letterDelay);
-      var ypos = Math.sin(6 * letterAdjustedElapsedTimeInSeconds) * 150;
+      const letterDelay = (0.125 * index);
+      const letterAdjustedElapsedTimeInSeconds = Math.max(0, elapsedTimeInSeconds - letterDelay);
+      const ypos = Math.sin(6 * letterAdjustedElapsedTimeInSeconds) * 150;
 
       letter.style.transform = 'translate(0, ' + ypos + 'px)';
       letter.style.transitionDuration = '0s';
@@ -68,7 +68,7 @@
   }
 
   function positionHoverGradient(event) {
-    var currentGradientEl = hoverGradientEls[hoverGradients[activeGradientNum]],
+    const currentGradientEl = hoverGradientEls[hoverGradients[activeGradientNum]],
       clientRect = logoMaskBox.getBoundingClientRect(),
       svgX = event.x - clientRect.left,
       svgY = event.y - clientRect.top,
@@ -87,7 +87,7 @@
     logoMaskBox.style.fill = 'url(#' + hoverGradients[activeGradientNum] + ')';
   }
 
-  function setDefaultGradient(event) {
+  function setDefaultGradient() {
     logoMaskBox.style.fill = DEFAULT_FILL_VALUE;
   }
 
