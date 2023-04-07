@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Leaping into a whole new world"
 date: 2014-05-12 19:49:02
 ---
@@ -20,6 +19,6 @@ But, realize that life will never not be hard. Us humans have a seemingly infini
 
 Your [capacity grows to fill your challenges][3] and this life is more about increasing your capacity than it is about eliminating your problems.
 
- [3]: http://www.bryanbraun.com/2011/02/27/fear-and-the-critical-moment#overlay-context=
+ [3]: http://www.bryanbraun.com/2011/02/27/fear-and-the-critical-moment
 
 So go ahead. Leap!
