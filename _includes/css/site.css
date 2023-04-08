@@ -275,7 +275,7 @@ hr {
   font-family: var(--sans-serif-stack);
   font-size: 0.875rem;
   text-align: center;
-  color: #666;
+  color: var(--bb-inert-gray);
   margin: 1.5rem 0;
 }
 .article-content img {

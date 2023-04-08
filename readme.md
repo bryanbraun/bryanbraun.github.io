@@ -11,4 +11,5 @@ If you find a way to improve this site, feel free to submit a pull request. For 
 ## This codebase is open source
 
 Source Code: [MIT License](http://opensource.org/licenses/MIT)
+
 Content: [Creative Commons BY (Attribution)](https://creativecommons.org/licenses/by/4.0/)
