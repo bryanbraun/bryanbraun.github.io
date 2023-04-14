@@ -5,7 +5,8 @@ related: [
   "Leaping into a whole new world",
   "Gumption",
   "Fear and the Critical Moment",
-  "Learn by Doing"
+  "Learn by Doing",
+  "Adapting to change itself"
 ]
 ---
 
