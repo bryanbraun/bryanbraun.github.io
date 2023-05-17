@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Defining your Grand Challenges"
 date: 2010-11-22 04:58:54
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "It's Hard Being New"
 date: 2014-02-02 15:43:37
 ---

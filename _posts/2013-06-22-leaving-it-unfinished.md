@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Leaving it unfinished"
 date: 2013-06-22 06:11:48
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Nobody will teach you anything"
 date: 2013-06-24 06:56:36
 ---

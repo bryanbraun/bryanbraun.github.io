@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Sparkbox Apprenticeships"
 date: 2015-08-04 19:41:02
 ---

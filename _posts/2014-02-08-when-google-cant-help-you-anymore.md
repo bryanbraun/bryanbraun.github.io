@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "When Google Can't Help You Anymore"
 date: 2014-02-08 15:24:48
 ---

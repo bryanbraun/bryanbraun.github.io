@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "You're going to screw up"
 date: 2013-06-18 06:49:42
 ---

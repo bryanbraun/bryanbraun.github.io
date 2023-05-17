@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "An Opinionated Guide to Getting Help with Drupal"
 date: 2015-03-18 20:12:24
 ---
@@ -14,14 +13,14 @@ Without further ado, here is the list of support channels I currently use, prior
 
 Many things can be solved quickly through an online search. Drupal.org has a search bar, and I tried to use it a lot when I was getting started, but I’ve since learned that you just can’t compete with Google when it comes to search. Pro-tip: you can search Drupal.org exclusively from Google by using the “site” keyword: “site:drupal.org."
 
-**Strength:** Access to a ton of content. Exact searching of error messages.  
+**Strength:** Access to a ton of content. Exact searching of error messages.
 **Weakness:** You often have to know the right vocabulary
 
 ## 2. Ask People you Work With
 
 Online searches can fall short when your problem is fairly specific, or you don’t know the right vocabulary to use to describe your problem. Sometimes you just need to point at a screen and say “have you ever seen this before?” Face to face communication is fast, and effective (as long as you’ve got somebody experienced around you can talk to).
 
-**Strength:** Face to face communication is often faster and easier  
+**Strength:** Face to face communication is often faster and easier
 **Weakness:** Success will depend entirely on who you work with
 
 ## 3. Ask On Stack Exchange
@@ -31,8 +30,8 @@ Stack Exchange is a well-designed Q&A site that provides community-curated answe
  [1]: http://stackoverflow.com/
  [2]: http://drupal.stackexchange.com/
 
-**Strength:** It’s a forum highly optimized for a good Q&A experience.  
-**Weakness:** The wrong kind of questions won’t survive here (like subjective questions or site-specific issues)  
+**Strength:** It’s a forum highly optimized for a good Q&A experience.
+**Weakness:** The wrong kind of questions won’t survive here (like subjective questions or site-specific issues)
 **Link:** [http://drupal.stackexchange.com][2]
 
 ## 4. Drupal.org Issue Queues
@@ -41,32 +40,32 @@ If you can isolate your issue down to a specific project (like a module, theme, 
 
  [3]: https://www.drupal.org/node/2333133
 
-**Strength:** Can get expert feedback (and maybe even fixes) from module maintainers.  
-**Weakness:** Not useful unless you have isolated the issue.  
+**Strength:** Can get expert feedback (and maybe even fixes) from module maintainers.
+**Weakness:** Not useful unless you have isolated the issue.
 **Link:** http://www.drupal.org/project/<project-name>/issues
 
 ## 5. Official Documentation
 
 By official documentation, I’m talking about the Docs on Drupal.org, explanations on Module pages, or information found in README.txt files. These docs are often a great place to look if you are looking for help getting a module or theme installed and set up for the first time. Other than that, I haven’t had much luck browsing through them for my specific issues. The way I see it, if something in the official docs addresses your problem, you’ll come across it when googling your issue.
 
-**Strength:** Entry-level instructions and set-up steps.  
-**Weakness:** Contains a lot of old information. Difficult to browse.  
+**Strength:** Entry-level instructions and set-up steps.
+**Weakness:** Contains a lot of old information. Difficult to browse.
 **Link:** <http://drupal.org/documentation>
 
 ## 6. Twitter
 
 It’s hard to have a good conversation in 140 characters, but if you have enough followers who know Drupal (or you can get a retweet from somebody who does) then it can still be valuable. One way I’ve used it effectively is to ask my question on StackOverflow and then send the link out to Twitter to give it some attention if I’m not getting answers.
 
-**Strength:** You may have more success asking your personal connections.  
-**Weakness:** 140 character limitation. Question can get lost in the mix.  
+**Strength:** You may have more success asking your personal connections.
+**Weakness:** 140 character limitation. Question can get lost in the mix.
 **Link:** <https://twitter.com>
 
 ## 7. IRC
 
 The Drupal community has IRC chatrooms on freenode at #drupal and #drupal-support designed for support. Some people really like using IRC for support; In some ways it’s like the “asking people you work with" suggestion above. That being said, I’ve always struggled to get answers via IRC. I feel awkward jumping in when there are already conversations in the channel, and several times I’ll ask a question but it promptly gets lost in the back scroll with no response. Plus, questions asked in IRC are usually not archived or searchable so the conversation you have won't benefit future people with your problem. So your mileage may vary, but I’ve yet to have a successful support experience on IRC.
 
-**Strength:** Community of experts  
-**Weakness:** Chatrooms are not designed for Q&A.  
+**Strength:** Community of experts
+**Weakness:** Chatrooms are not designed for Q&A.
 **Link:** [http://drupal.org/irc][4]
 
  [4]: https://drupal.org/irc

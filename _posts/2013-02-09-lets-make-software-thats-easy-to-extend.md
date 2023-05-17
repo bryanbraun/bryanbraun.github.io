@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Let's make software that's easy to extend."
 date: 2013-02-09 16:23:47
 ---

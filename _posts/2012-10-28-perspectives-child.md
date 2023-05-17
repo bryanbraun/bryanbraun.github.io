@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Perspectives of a Child"
 date: 2012-10-28 19:32:11
 ---

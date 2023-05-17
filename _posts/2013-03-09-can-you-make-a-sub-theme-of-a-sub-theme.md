@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Can you make a sub-theme of a sub-theme?"
 date: 2013-03-09 22:31:02
 ---

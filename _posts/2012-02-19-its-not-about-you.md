@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "It's Not About You"
 date: 2012-02-19 17:09:37
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "How to get people to do what you want them to do"
 date: 2011-10-03 18:43:49
 ---

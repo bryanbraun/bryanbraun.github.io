@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Why we need emoticons"
 date: 2013-07-08 21:54:46
 ---

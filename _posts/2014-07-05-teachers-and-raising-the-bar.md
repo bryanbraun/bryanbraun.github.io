@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Teachers and raising the bar"
 date: 2014-07-05 09:32:46
 ---

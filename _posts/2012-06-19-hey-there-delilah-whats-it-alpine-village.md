@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Hey there Delilah, what's it like in Alpine Village?"
 date: 2012-06-19 19:21:05
 ---

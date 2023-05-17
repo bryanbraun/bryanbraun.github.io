@@ -12,9 +12,7 @@ related: [
 
 I'm happy to introduce <a href="http://drupal.org/project/writer" title="Writer: A Blogging Theme for Developers">Writer, a Drupal theme</a> designed for developers who blog.
 
-![][1]
-
- [1]: /assets/images/writer-post-2.png
+![](/assets/images/writer-post-2.png)
 
 The story is quite simple. I am a <a href="http://bryanbraun.com/who-is-bryan">front-end developer</a> who blogs. I searched the Drupal theme repository, but I was unable to find a blogging theme designed specifically for developers. So I made one.
 
@@ -64,9 +62,7 @@ These fonts are all hosted by Google Fonts and it's almost embarrassing how much
 
 If you had 4 hours to dig around through Drupal contributed modules and third party libraries, you could figure out a way to get styled code snippets on your site. But you don't have that kind of time, so Writer comes with 4 code styles out of the box. Just go to the theme's settings (at `/admin/build/themes/settings/writer` for Drupal 6, and `/admin/appearance/settings/writer`, for Drupal 7) and select the one you want.
 
-![Image showing theme settings for code snippets][3]
-
- [3]: /assets/images/theme-settings.png
+![Image showing theme settings for code snippets](/assets/images/theme-settings.png)
 
 This table shows what each style looks like for blocks of code (left) and for inline code (right).
 

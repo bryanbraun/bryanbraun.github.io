@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Get Enough Rest"
 date: 2013-07-20 19:32:03
 ---

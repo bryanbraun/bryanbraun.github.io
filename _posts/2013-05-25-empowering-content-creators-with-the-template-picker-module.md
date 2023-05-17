@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Empowering Content Creators with the Template Picker Module"
 date: 2013-05-25 12:04:46
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Multitasking and Context Switching"
 date: 2012-06-25 08:38:02
 ---

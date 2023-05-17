@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Make Things Simple"
 date: 2014-04-17 19:01:11
 ---

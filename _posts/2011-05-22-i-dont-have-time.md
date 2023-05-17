@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "\"I don't have time\""
 date: 2011-05-22 21:06:53
 ---

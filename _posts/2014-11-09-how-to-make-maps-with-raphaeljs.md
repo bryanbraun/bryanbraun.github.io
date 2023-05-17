@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "How to make maps with Raphael.js"
 date: 2014-11-09 14:52:20
 ---
@@ -30,7 +29,7 @@ Here's where we get our hands dirty. We're going to look at the code in your vec
  [8]: http://notepad-plus-plus.org/
 
     <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-    
+
     <!-- Created with Inkscape (http://www.inkscape.org/) -->
     <svg
       xmlns:dc="http://purl.org/dc/elements/1.1/"
@@ -42,7 +41,7 @@ Here's where we get our hands dirty. We're going to look at the code in your vec
       width="744.09448"
       height="1052.3622"
       id="svg2">
-    
+
       <defs id="defs4" />
       <metadata id="metadata7">
         <rdf:RDF>
@@ -53,7 +52,7 @@ Here's where we get our hands dirty. We're going to look at the code in your vec
           </cc:Work>
         </rdf:RDF>
       </metadata>
-    
+
       <g id="layer1">
         <path d="M 568.57143,615.21933 310.90474,560.4251 119.6914,741.62111 92.180417,479.63317 -139.2354,353.77112 101.42857,246.6479 149.61908,-12.335128 325.86857,183.44701 587.06775,149.24875 455.33196,377.37199 z" transform="matrix(0.6026846,0,0,0.6026846,230.39392,137.95621)" id="path2985" style="fill:#000000;fill-opacity:1;stroke-width:0.40000001;stroke-miterlimit:4;stroke-dasharray:none" />
       </g>
@@ -93,7 +92,7 @@ As you can see, it's basically just a javascript variable, with specific propert
             "stroke":"none"
         },
         path = "M 568.57143,615.21933 310.90474,560.4251 119.6914,741.62111 92.180417,479.63317 -139.2354,353.77112 101.42857,246.6479 149.61908,-12.335128 325.86857,183.44701 587.06775,149.24875 455.33196,377.37199 z";
-    
+
     R.path(path).attr(attr);
 
 ## 3. Embed the Javascript

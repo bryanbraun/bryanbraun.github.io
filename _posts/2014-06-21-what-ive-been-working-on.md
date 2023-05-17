@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "What I've been working on"
 date: 2014-06-21 14:52:28
 ---

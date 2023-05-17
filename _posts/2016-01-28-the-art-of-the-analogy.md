@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "The Art of the Analogy"
 date: 2016-01-28 18:33:12
 ---
@@ -65,10 +64,10 @@ This concept highlights the difficulty of teaching something to a large, diverse
 
 I have a very curious 4-year old, and she's always asking me what a word means, or why she should do things. Sometimes I catch myself giving answers that are technically incorrect, but still help her understand what she's trying to understand. For example, I recently had a conversation like this:
 
-> Me: Hey can we play after dinner? I'm busy right now.  
-> Her: What are you doing.  
-> Me: I'm working on a website.  
-> Her: What's a website.  
+> Me: Hey can we play after dinner? I'm busy right now.
+> Her: What are you doing.
+> Me: I'm working on a website.
+> Her: What's a website.
 > Me: Well, it's a computer project, but it's tricky to make. I have to move the pieces around like a puzzle.
 
 This is a terrible description of a website, but given the situation it's arguably pretty helpful. She knows puzzles. She knows they can be fun, but also challenging, and that it's hard to work on them when there are distractions (like her little brothers). The things that matter to her, like where I will be, why I need to focus, how long it will take, why I am doing it, are starting to make sense. The things that she doesn't care about, like the technology stack, or how adults use websites, don't need to be mentioned yet. The analogy isn't bulletproof, but it doesn't matter. It's a good-enough description not because it's bulletproof, but because it closes the current understanding gap. It helps answer the questions behind the question.

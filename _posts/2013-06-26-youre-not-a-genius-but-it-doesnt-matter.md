@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "You're not a genius, but it doesn't matter"
 date: 2013-06-26 06:53:37
 ---

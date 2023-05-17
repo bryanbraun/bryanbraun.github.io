@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Africa map using Raphael.js"
 date: 2013-03-02 16:55:49
 ---

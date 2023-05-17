@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Loving What I Do"
 date: 2014-05-22 10:22:10
 ---

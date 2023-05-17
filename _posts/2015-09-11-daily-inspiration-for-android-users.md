@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Daily Inspiration for Android Users"
 date: 2015-09-11 06:20:40
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "So you're bad at public speaking."
 date: 2013-06-19 07:45:15
 ---

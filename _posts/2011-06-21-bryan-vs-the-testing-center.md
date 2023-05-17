@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Bryan vs the Testing Center"
 date: 2011-06-21 01:08:05
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Recording \"Lessons Learned the Hard Way\""
 date: 2013-07-03 17:12:33
 ---

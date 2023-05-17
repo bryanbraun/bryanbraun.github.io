@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A Very Long Race"
 date: 2011-03-13 21:33:11
 ---

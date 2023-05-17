@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "I Trust You"
 date: 2013-09-08 17:50:34
 ---

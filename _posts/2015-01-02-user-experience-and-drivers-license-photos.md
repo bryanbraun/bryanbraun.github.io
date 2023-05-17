@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "User Experience and Driver's License Photos"
 date: 2015-01-02 17:30:14
 ---

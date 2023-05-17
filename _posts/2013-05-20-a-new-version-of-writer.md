@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A New Version of Writer"
 date: 2013-05-20 07:20:51
 ---

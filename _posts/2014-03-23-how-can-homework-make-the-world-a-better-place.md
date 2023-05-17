@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "How can Homework Make the World a Better Place?"
 date: 2014-03-23 14:23:49
 ---

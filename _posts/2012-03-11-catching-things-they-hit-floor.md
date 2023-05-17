@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Catching things before they hit the floor"
 date: 2012-03-11 20:55:27
 ---

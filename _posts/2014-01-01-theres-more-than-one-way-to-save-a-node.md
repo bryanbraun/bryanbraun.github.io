@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "There's more than one way to save a node"
 date: 2014-01-01 19:22:01
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "On Finding Problems"
 date: 2013-12-19 13:24:07
 ---

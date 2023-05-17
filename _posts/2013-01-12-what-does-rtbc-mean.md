@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "What does RTBC mean?"
 date: 2013-01-12 15:07:02
 ---

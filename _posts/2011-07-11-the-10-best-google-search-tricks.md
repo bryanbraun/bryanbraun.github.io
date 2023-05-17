@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "The 10 best Google search tricks"
 date: 2011-07-11 01:25:55
 ---

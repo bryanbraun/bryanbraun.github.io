@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Immerse Yourself"
 date: 2016-03-27 19:04:51
 ---

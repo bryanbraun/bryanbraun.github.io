@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Pause javascript in the browser using the \"debugger\" command"
 date: 2013-10-07 16:36:36
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Platforms are powerful"
 date: 2014-03-15 10:22:43
 ---

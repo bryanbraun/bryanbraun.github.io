@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Dumb Little Things"
 date: 2014-10-24 22:42:17
 ---

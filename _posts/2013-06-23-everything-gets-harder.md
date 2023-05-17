@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Everything gets harder"
 date: 2013-06-23 05:05:27
 ---

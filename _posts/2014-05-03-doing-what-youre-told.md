@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Doing What You're Told"
 date: 2014-05-03 19:38:48
 ---

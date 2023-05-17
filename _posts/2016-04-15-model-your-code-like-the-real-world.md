@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Model your code like the real world"
 date: 2016-04-15 22:08:57
 ---

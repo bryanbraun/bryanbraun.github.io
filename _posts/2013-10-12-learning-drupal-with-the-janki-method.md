@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Learning Drupal with the Janki Method"
 date: 2013-10-12 08:39:04
 ---

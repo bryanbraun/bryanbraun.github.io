@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Template Picker Now Supports Entities"
 date: 2014-01-25 11:29:29
 ---

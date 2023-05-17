@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Medium, and Design Details"
 date: 2015-05-21 21:37:00
 ---

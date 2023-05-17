@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Looking for the bright spots"
 date: 2013-06-17 06:45:42
 ---

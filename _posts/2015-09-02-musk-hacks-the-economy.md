@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Musk Hacks the Economy"
 date: 2015-09-02 07:33:09
 ---

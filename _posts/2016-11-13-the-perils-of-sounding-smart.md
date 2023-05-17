@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "The Perils of Sounding Smart"
 date: 2016-11-13 19:13:54
 ---

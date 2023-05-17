@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "My Funny Little Guy"
 date: 2013-08-15 06:53:37
 ---
