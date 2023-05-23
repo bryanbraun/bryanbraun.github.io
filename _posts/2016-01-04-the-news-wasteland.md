@@ -25,6 +25,6 @@ I'm not pro-ignorance. I'm constantly learning, but I try to stick to sources th
 
 Even then, I'm sure I could be a lot more selective. I've long since unsubscribed to CNN and Mashable, but I'm still embarrassed by the percentage of time that I spend [consuming vs creating][3].
 
-[3]: https://www.bryanbraun.com/2014/02/27/two-principles-for-2014
+[3]: {{site.url}}/2014/02/27/two-principles-for-2014
 
 I'd rather let other people curate what's important, spending their time and energy mired in the news wasteland. I'm content to pop my head up every once and awhile, get an overview, and then go back to my business.

@@ -11,10 +11,10 @@ Last year was permeated with several achievements, few of which I can take credi
 
 * <a href="http://windermeremarathon.blogspot.com/" target="_blank" rel="noopener noreferrer">Running a Marathon in Spokane</a> with my three brothers
 * <a href="http://www.facebook.com/photo.php?fbid=10150305861357310&set=a.109463602309.93299.38085092309&type=3&theater" target="_blank" rel="noopener noreferrer">Building the Muse sign</a>, outside Muse Music Cafe
-* Creating several websites, including <a href="https://web.archive.org/web/20110201113126/http://upsideprovo.com/" target="_blank" rel="noopener noreferrer">upsideprovo.com</a>, <a href="https://web.archive.org/web/20110516205729/http://musemusiccafe.com/" target="_blank" rel="noopener noreferrer">musemusiccafe.com</a>, <a href="https://web.archive.org/web/20120404145500/http://www.justinhyatt.com/" target="_blank" rel="noopener noreferrer">justinhyatt.com</a>, and <a href="http://chadneilsen.com" target="_blank" rel="noopener noreferrer">chadneilsen.com</a>, with a redesign and site-migration of <a href="https://bryanbraun.com" target="_blank" rel="noopener noreferrer" title="Now with drupal power!">bryanbraun.com</a>.
+* Creating several websites, including <a href="https://web.archive.org/web/20110201113126/http://upsideprovo.com/" target="_blank" rel="noopener noreferrer">upsideprovo.com</a>, <a href="https://web.archive.org/web/20110516205729/http://musemusiccafe.com/" target="_blank" rel="noopener noreferrer">musemusiccafe.com</a>, <a href="https://web.archive.org/web/20120404145500/http://www.justinhyatt.com/" target="_blank" rel="noopener noreferrer">justinhyatt.com</a>, and <a href="http://chadneilsen.com" target="_blank" rel="noopener noreferrer">chadneilsen.com</a>, with a redesign and site-migration of <a href="{{site.url}}" target="_blank" rel="noopener noreferrer" title="Now with drupal power!">bryanbraun.com</a>.
 * My first stake calling (a position for serving in the LDS church)
 * One full year of weekly blog posts
-* <a href="https://bryanbraun.com/2011/02/14/heidi" target="_blank" rel="noopener noreferrer">Becoming a father</a>
+* <a href="{{site.url}}/2011/02/14/heidi" target="_blank" rel="noopener noreferrer">Becoming a father</a>
 * Landing a new position at the BYU MTC with responsibilities in software testing and IT governance
 * Declaring a business minor at BYU
 

@@ -35,4 +35,4 @@ I've really enjoyed having these reminders for the past month or so. There are l
 
 [We are a product of our environments][2] so taking the time to craft the right environment is a good investment, paying silent dividends daily.
 
- [2]: http://www.bryanbraun.com/2011/04/18/location-location-location
+ [2]: {{site.url}}/2011/04/18/location-location-location

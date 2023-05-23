@@ -20,4 +20,4 @@ To be fair, with a bit of digging, I did find a couple (like <a href="http://den
 
 I'm starting to realize that some developer circles turn a blind eye to design. Almost as if the ability to do visual design was below them. Or maybe they feel like it isn't the kind of skill that you can study and develop in yourself… that it's something you must be born with. My message to people with these kind of attitudes is that you are only hurting yourselves. Sure, it may not be wise to aspire to be an expert in everything, but a putting a little effort into learning design principles can go a long way.
 
- [1]: http://bryanbraun.com/2012/10/25/open-source-community-embraces-designers-most-wins "And I've already discussed how open source has a tendency to repel the designers they need most..."
+ [1]: {{site.url}}/2012/10/25/open-source-community-embraces-designers-most-wins "And I've already discussed how open source has a tendency to repel the designers they need most..."

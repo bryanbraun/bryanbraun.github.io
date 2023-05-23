@@ -5,7 +5,7 @@ date: 2013-02-16 18:03:55
 
 In [a previous post][1], I talked about the history books and the consequences of missing meta-data from the historical record. I want to return to one point:
 
- [1]: http://bryanbraun.com/2012/12/22/history "History"
+ [1]: {{site.url}}/2012/12/22/history "History"
 
 > "If you look at the historical record, you'll see a general trend: The further we look back in time, the less we know. We can blame much of this on decay. We live in a dynamic world with forces of erosion, destructive organic processes, and tectonic activity. Nothing lasts forever."
 
@@ -19,7 +19,7 @@ But there are other consequences. Earlier I said that details in history were of
 
 I got a Facebook account in 2005, back when it was "The Facebook." I don't know what an average Facebook user looks like but let's assume that I'm pretty close. With other **reasonable assumptions, in the year 2050 anybody on the planet would be able to hop on their computer and see me bragging about my Fudgesickle + Milk = Chocolate Milk realization during my Freshman year of college. Setting the [privacy ramifications][2] aside, the fact that we are preserving such detailed information on such a large scale is unprecedented in the history of the world. Throw in Twitter, Google+, and the blogosphere, and we've got an incredible glut of non-decaying data containing relationship drama, family feuds, <a href="http://www.makeuseof.com/tag/imbecilic-art-vaguebooking/" target="_blank" rel="noopener noreferrer" title="What is the Imbecilic Art Of Vaguebooking?">vaguebooking</a>, trolling, dudes commenting on their workout routines, and photos of cats. Every day, this dataset gets larger and <a href="https://www.facebook.com/about/graphsearch" target="_blank" rel="noopener noreferrer" title="Introducing Facebook Graph Search">easier to search through</a>.
 
- [2]: http://bryanbraun.com/2011/08/21/the-fall-of-internet-privacy "The Fall of Internet Privacy"
+ [2]: {{site.url}}/2011/08/21/the-fall-of-internet-privacy "The Fall of Internet Privacy"
 
 This results in some unintended consequences. What happens when we introduce a never-changing object into a dynamic world of growing, learning, birth and death?
 

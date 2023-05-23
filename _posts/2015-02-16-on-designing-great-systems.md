@@ -12,4 +12,4 @@ related: [
 
  [1]: http://devchat.tv/js-jabber/075-jsj-maintainable-javascript-with-nicholas-zakas
 
-<small>By the way, Zakas has written <a href="http://www.amazon.com/Nicholas-C.-Zakas/e/B001IGUTOC" title="Books written by Nicholas Zakas">a number of great Javascript books</a>, and <a href="http://www.bryanbraun.com/books#node-444">having just read one</a>, I highly recommend you check them out.</small>
+<small>By the way, Zakas has written <a href="http://www.amazon.com/Nicholas-C.-Zakas/e/B001IGUTOC" title="Books written by Nicholas Zakas">a number of great Javascript books</a>, and <a href="{{site.url}}/books#node-444">having just read one</a>, I highly recommend you check them out.</small>

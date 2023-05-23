@@ -60,12 +60,12 @@ So what was the point of all this? I had put in the standard application for the
 
 Pretty bold, but [I like bold][2].
 
- [2]: http://www.bryanbraun.com/2012/02/26/be-bold "Be Bold"
+ [2]: {{site.url}}/2012/02/26/be-bold "Be Bold"
 
 If that wasn't enough, clicking the ad took them to a landing page I built showing all the reasons they should hire me. It also directs people to parts of this site that teaches them more about who I am.
 
 <p style="text-align: center;">
-  <a href="http://bryanbraun.com/acquia"><img alt="Screenshot of my landing page" src="/assets/images/acquia-page.JPG" style="width: 750px; height: 483px; " title="Screenshot of my landing page" /></a>
+  <a href="{{site.url}}/acquia"><img alt="Screenshot of my landing page" src="/assets/images/acquia-page.JPG" style="width: 750px; height: 483px; " title="Screenshot of my landing page" /></a>
 </p>
 
 It worked like a charm. On the day the ad went up, the company's <a href="http://www.acquia.com/about-us/team/bryan-house" target="_blank" rel="noopener noreferrer" title="Bryan House">VP of product marketing</a> happened to be on Facebook and noticed my ad. Talk about good luck! He passed the message on and before I knew it, <a href="http://en.wikipedia.org/wiki/Dries_Buytaert" target="_blank" rel="noopener noreferrer" title="You know he is legit when he has his own Wikipedia page">Dries Buytaert</a>, the inventor of Drupal (and <a href="http://www.acquia.com/about-us/team/dries-buytaert" target="_blank" rel="noopener noreferrer" title="Dries Buytaert Acquia Bio">CTO of Acquia</a>) sent me <a href="https://twitter.com/Dries/status/186999538106646529" target="_blank" rel="noopener noreferrer" title="Too good to be true?">a message</a> on Twitter (below). To say I was excited would be a gross understatement!

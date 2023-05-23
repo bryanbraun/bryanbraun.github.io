@@ -30,7 +30,7 @@ Last week at work, I was asked to train an employee on how to use some complex s
 
 This is related to the concept of "[the sticky platform][1]" which I've talked about before. If you can stick new knowledge to knowledge that somebody already has, then they are more likely to learn and remember it. The only way to do this is to overcome the blindness of your own knowledge and take the time to assess the knowledge of your learners.
 
- [1]: http://bryanbraun.com/2011/06/06/the-new-york-times-and-the-sticky-platform "The New York Times and the Sticky Platform"
+ [1]: {{site.url}}/2011/06/06/the-new-york-times-and-the-sticky-platform "The New York Times and the Sticky Platform"
 
 But there I go again, back into lofty platitudes. See how difficult it can be?
 

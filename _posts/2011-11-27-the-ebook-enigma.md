@@ -16,7 +16,7 @@ There are many reasons to move over to eBooks:
 - Size. You can easily pack thousands of eBooks on to one device.
 - Annotation tools make highlighting, bookmarking, and adding comments a breeze.
 - "Smart" features like video clips and hyperlinks enhance reading (especially for magazines).
-- Free access to a huge library of <a href="http://bryanbraun.com/2011/04/25/5-awesome-books-that-are-free-online/" target="_blank" rel="noopener noreferrer" title="5 Awesome Books (that are FREE online)">public domain books</a>.
+- Free access to a huge library of <a href="{{site.url}}/2011/04/25/5-awesome-books-that-are-free-online/" target="_blank" rel="noopener noreferrer" title="5 Awesome Books (that are FREE online)">public domain books</a>.
 - No light source? No problem.
 - They don't degrade over time (imagine the value of passing your huge library of "good-as-the-day-they-were-purchased" books on to your descendents when you die).
 - They are environmentally friendly.

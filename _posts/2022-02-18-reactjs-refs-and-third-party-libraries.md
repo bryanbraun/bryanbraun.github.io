@@ -49,7 +49,7 @@ Answer: Our comment section is safe from rerenders but not because of refs. It�
 
 ## A digression on DOM diffing
 
-React uses DOM diffing to decide which changes to make during each re-render. A re-render without DOM Diffing would overwrite all of a component’s existing HTML with the new HTML. That can work (it’s what I did in [my alt-react experiment](https://www.bryanbraun.com/2019/09/11/alt-react/)) but it can also be a bit heavy handed. If all you need to change is a single class name, then why not just change the class name (and avoid some potentially expensive UI reflows)? DOM diffing makes that possible.
+React uses DOM diffing to decide which changes to make during each re-render. A re-render without DOM Diffing would overwrite all of a component’s existing HTML with the new HTML. That can work (it’s what I did in [my alt-react experiment]({{site.url}}/2019/09/11/alt-react/)) but it can also be a bit heavy handed. If all you need to change is a single class name, then why not just change the class name (and avoid some potentially expensive UI reflows)? DOM diffing makes that possible.
 
 The interesting thing is that React isn’t actually looking at the real DOM to calculate diffs. It uses a virtual DOM, and it’s comparing the "previous" and "next" state of that virtual DOM. In other words:
 
@@ -92,7 +92,7 @@ Because the third-party comment markup was added externally (outside of React’
 This is great, as long as you aren’t mixing your React state with the HTML that the third-party JavaScript *will* be touching. That kind of mixing can result in unexpected results, which is how we end up with recommendations like these:
 
 > "Our approach is to set a clear border between "React world" and "D3 world". This border line is an SVG (or Canvas) element, the root of all d3 visualisations. Root element and anything inside it belongs to D3 world, everything above it belongs to React world."
-> 
+>
 > Karol Stopyra, [React Hooks and D3](https://levelup.gitconnected.com/react-hooks-and-d3-39be1d900fb)
 
 ## Back to Refs

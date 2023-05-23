@@ -9,7 +9,7 @@ But living in the moment today doesn't have to happen at the expense of tomorrow
 
 Things are temporary. Memories last forever.
 
-Fear is temporary. <a href="http://bryanbraun.com/2013/07/12/which-is-worse" title="Which is worse, fear or regret?">Regret</a> lasts forever.
+Fear is temporary. <a href="{{site.url}}/2013/07/12/which-is-worse" title="Which is worse, fear or regret?">Regret</a> lasts forever.
 
 Selfishness breeds temporary gain, while the friendships that come from selflessness can last forever.
 

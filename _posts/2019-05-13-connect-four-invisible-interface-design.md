@@ -76,4 +76,4 @@ Now, as far as design exercises go, this was pretty basic. Connect Four is way l
 
 But it showed me that it can take several passes to simplify things down to their essence. Overall, it was a fun little challenge and it felt good to exercise those muscles.
 
-<small>(note: you can play the final game over at <a href="https://bryanbraun.com/connect-four">bryanbraun.com/connect-four</a>)</small>
+<small>(note: you can play the final game over at <a href="{{site.url}}/connect-four">bryanbraun.com/connect-four</a>)</small>

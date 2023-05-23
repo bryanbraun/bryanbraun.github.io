@@ -23,6 +23,6 @@ Looking for a place to start? Consider these options:
 4. **Ask a coworker.** Just say "Hey, any thoughts on where I can get started with this?" Asking will save you time and make them feel smart.
 5. **Start at the interfaces**. What would the API look like for this feature? Can you write code around that API? Maybe write a failing test against it?
 
- [1]: http://www.bryanbraun.com/2016/04/15/model-your-code-like-the-real-world
+ [1]: {{site.url}}/2016/04/15/model-your-code-like-the-real-world
 
 Any of these are good, because they get you something. Without something, you're the tortured artist staring at the blank canvas. Once you have something, you'll start to see the way unfold before you.

@@ -18,4 +18,4 @@ The mentoring opportunities are great. First, you get to learn from the super-ta
 I wish that I had known about the Sparkbox apprenticeship when I was just starting out as a web developer. It is the best kept secret for web development in the Midwest. If you are interested in learning more, check out [the blog post kicking off applications for next year][4]. You can also [email me][5] with questions which I'll be happy to answer.
 
  [4]: https://seesparkbox.com/foundry/apply_for_sparkboxs_2017_dev_apprenticeship
- [5]: http://bryanbraun.com/contact
+ [5]: {{site.url}}/contact

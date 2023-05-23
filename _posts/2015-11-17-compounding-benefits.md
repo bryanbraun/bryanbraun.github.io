@@ -19,10 +19,10 @@ But improving productivity is only one example of something that provides compou
 - **Education** - This includes tertiary education, but it's a lot more than that. A big reason I wanted to [work at Sparkbox][1] was because of the emphasis they put on continual education. If I go to work every day and learn new things in my industry as a side-effect of my work, the benefits will accrue.
 - **Consistency with children** - I've found that my kids can take care of many of their own needs if I'm consistent in that expectation. This saves me time but more importantly, it makes for responsible humans.
 - **Critical moments** - Even more important than learning new things is growing your capacity to DO more things. Seeking out [critical moments][2] will pave the way for opportunities down the road.
-- **Habits** - The most powerful thing about habits is once you have created them, it takes very little effort to maintain them (this is the force behind that consistency with kids thing I mentioned). For example, I ride my bike 10 miles a day as part of my daily commute. It gives me an hour of cardio (and personal meditation time), and I don't have to motivate myself because [it's baked into my routine](https://www.bryanbraun.com/2016/07/27/design-your-default/). Some other habits I'm working on include weekly goal-setting, low-cost living, and generally eschewing the [hedonic treadmill][3].
+- **Habits** - The most powerful thing about habits is once you have created them, it takes very little effort to maintain them (this is the force behind that consistency with kids thing I mentioned). For example, I ride my bike 10 miles a day as part of my daily commute. It gives me an hour of cardio (and personal meditation time), and I don't have to motivate myself because [it's baked into my routine]({{site.url}}/2016/07/27/design-your-default/). Some other habits I'm working on include weekly goal-setting, low-cost living, and generally eschewing the [hedonic treadmill][3].
 
-[1]: http://www.bryanbraun.com/2015/04/17/git-checkout-b-sparkbox
-[2]: http://www.bryanbraun.com/2011/02/27/fear-and-the-critical-moment
+[1]: {{site.url}}/2015/04/17/git-checkout-b-sparkbox
+[2]: {{site.url}}/2011/02/27/fear-and-the-critical-moment
 [3]: http://www.mrmoneymustache.com/2011/10/22/what-is-hedonic-adaptation-and-how-can-it-turn-you-into-a-sukka/
 
 Many of these things, like financial investments, are best established early in life because it leaves the most time for the benefits to compound and accrue. As [my favorite financial advisor says][4]:

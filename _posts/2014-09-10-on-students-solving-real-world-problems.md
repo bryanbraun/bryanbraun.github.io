@@ -5,7 +5,7 @@ date: 2014-09-10 21:37:36
 
 One of my biggest frustrations as a college student was spending so much effort on work that I knew wouldn't benefit anyone. The moment I got [a project with real world application][1], my motivation and efforts skyrocketed. 
 
- [1]: http://www.bryanbraun.com/2012/04/08/climbing-walls-batman
+ [1]: {{site.url}}/2012/04/08/climbing-walls-batman
 
 When I think about all the focus and energy that goes into a research paper that gets a grade slapped on it and dies a slow death in a filing cabinet somewhere, I have a sad inside.
 

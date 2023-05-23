@@ -6,7 +6,7 @@ date: 2014-11-09 14:52:20
 A while back I posted [a project on Github][1] containing [a dynamic map of Africa][2] which could be manipulated and animated using the [Raphael.js][3] library. Since then, I've had a handful of people ask how they could build out similar mapping projects for themselves. For example, what if you wanted to map out the neighborhoods in New York City or the provinces of South Africa with Raphael.js? How do you set that up?
 
  [1]: https://github.com/bryanbraun/africa-map-raphael
- [2]: http://www.bryanbraun.com/2013/03/02/africa-map-using-raphaeljs
+ [2]: {{site.url}}/2013/03/02/africa-map-using-raphaeljs
  [3]: http://raphaeljs.com/
 
 Mapping is complicated, and there are probably hundreds of ways to go about something like this, but here's how I set up the Africa map:

@@ -3,9 +3,9 @@ title: "Preparation"
 date: 2013-04-14 21:21:09
 ---
 
-Whenever I watch a <a href="http://bryanbraun.com/2011/02/20/ted" target="_blank" rel="noopener noreferrer" title="TED">TED</a> talk I think to myself, man, how could I ever speak in front of people like that? And whenever I thinking about running [a very long race][1] (to the tune of 50+ miles), I think to myself, how could I ever pull that off?
+Whenever I watch a <a href="{{site.url}}/2011/02/20/ted" target="_blank" rel="noopener noreferrer" title="TED">TED</a> talk I think to myself, man, how could I ever speak in front of people like that? And whenever I thinking about running [a very long race][1] (to the tune of 50+ miles), I think to myself, how could I ever pull that off?
 
- [1]: http://bryanbraun.com/2011/03/13/a-very-long-race
+ [1]: {{site.url}}/2011/03/13/a-very-long-race
 
 Then I think of this quote:
 

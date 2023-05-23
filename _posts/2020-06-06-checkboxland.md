@@ -8,10 +8,10 @@ related: [
 ]
 ---
 
-[Checkboxland](https://bryanbraun.com/checkboxland) is a JavaScript library I recently built for rendering text, animations, and *pretty much anything*, using only HTML checkboxes.
+[Checkboxland]({{site.url}}/checkboxland) is a JavaScript library I recently built for rendering text, animations, and *pretty much anything*, using only HTML checkboxes.
 
 <div class="center">
-  <a href="https://bryanbraun.com/checkboxland">
+  <a href="{{site.url}}/checkboxland">
     <img src="{{site.url}}/assets/images/cbl-demos.gif" alt="A marquee animation, and some other demos, built with Checkboxland" />
   </a>
 </div>

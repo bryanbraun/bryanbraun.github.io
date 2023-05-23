@@ -11,6 +11,6 @@ Adults loved "exercise" which was essentially like playing outside, with all the
 
 And there were other things. AM radio. Reading newspapers, or (even worse) non-fiction. Eating gross foods like beets, onions, and brussel sprouts. I could go on and on.
 
-But I won't, because the more I do, the more I realize that I am turning into everything that I swore I wouldn't become. I think mustardy foods taste interesting. I don't listen to much music anymore. <a href="http://bryanbraun.com/books" target="_blank" rel="noopener noreferrer" title="Bryan's Booklist">My booklist</a> is mostly non-fiction. My favorite sport is <a href="http://bryanbraun.com/2012/09/03/why-i-run" target="_blank" rel="noopener noreferrer" title="Why I Run">running</a>. RUNNING!
+But I won't, because the more I do, the more I realize that I am turning into everything that I swore I wouldn't become. I think mustardy foods taste interesting. I don't listen to much music anymore. <a href="{{site.url}}/books" target="_blank" rel="noopener noreferrer" title="Bryan's Booklist">My booklist</a> is mostly non-fiction. My favorite sport is <a href="{{site.url}}/2012/09/03/why-i-run" target="_blank" rel="noopener noreferrer" title="Why I Run">running</a>. RUNNING!
 
 Times change, but more importantly we change. I'll try to remember that next time I judge somebody who's different than I am.

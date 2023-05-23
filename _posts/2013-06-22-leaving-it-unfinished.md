@@ -9,7 +9,7 @@ You can't. And that's hard for me, because I love it when things are finished.
 
 I love finishing books. Closing the back cover. Being able to tell my friends "I read that book." Sometimes, I'll persist through the last few chapters of a dry or useless book, just to get the closure of having completed it (ignoring the [sunk costs][1], of course).
 
- [1]: http://www.bryanbraun.com/2011/04/10/bryan-vs-the-sunk-cost-fallacy
+ [1]: {{site.url}}/2011/04/10/bryan-vs-the-sunk-cost-fallacy
 
 I love completing a task, checking the box on my task list, and then purging it from my short term memory.
 

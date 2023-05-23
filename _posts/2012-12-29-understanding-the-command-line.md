@@ -12,7 +12,7 @@ And yet, they are normal humans.
 
 My circumstances forced me to learn how to navigate a command line. It's something I naively didn't expect I would need to learn. I was wrong. However, in the middle of [my toiling][1], I had an 'Aha' moment. It was a realization. Suddenly, I got it. I understood what a command line was. It is something that is obvious to everybody who knows it, but shrouded in mystery to those who don't.
 
- [1]: http://bryanbraun.com/2012/11/05/command-line-terrifying-thing "The Command Line is a Terrifying Thing"
+ [1]: {{site.url}}/2012/11/05/command-line-terrifying-thing "The Command Line is a Terrifying Thing"
 
 I realized that a command line was an alternative interface you could use to do everything you normally do on a computer. You can create a new folder, move files into that folder, move the folder into the trash, and empty the trash bin. You can perform a search, locate a file, navigate to the file, and open it in the program of your choice. The command line is an alternative interface to the "desktop" interface you usually use. In fact, not too long ago there was no desktop interface and the command line was the only way to operate a computer.
 

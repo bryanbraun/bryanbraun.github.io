@@ -5,11 +5,11 @@ date: 2014-05-12 19:49:02
 
 Occasionally, I'll get an opportunity to [leap][1] into a whole new world.
 
- [1]: http://www.bryanbraun.com/2014/03/29/gumption
+ [1]: {{site.url}}/2014/03/29/gumption
 
 Maybe it's picking up a new programming language, or learning photoshop. Maybe it's moving overseas, [ordering the octopus][2], or investing money in something.
 
- [2]: http://www.bryanbraun.com/2013/02/02/order-the-octopus
+ [2]: {{site.url}}/2013/02/02/order-the-octopus
 
 Whatever it is, whether it's large or small, it's always a little scary.
 
@@ -19,6 +19,6 @@ But, realize that life will never not be hard. Us humans have a seemingly infini
 
 Your [capacity grows to fill your challenges][3] and this life is more about increasing your capacity than it is about eliminating your problems.
 
- [3]: http://www.bryanbraun.com/2011/02/27/fear-and-the-critical-moment
+ [3]: {{site.url}}/2011/02/27/fear-and-the-critical-moment
 
 So go ahead. Leap!

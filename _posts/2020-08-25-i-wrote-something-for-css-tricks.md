@@ -9,7 +9,7 @@ related: [
 ]
 ---
 
-When I was building [Checkboxland](https://www.bryanbraun.com/checkboxland/), I wanted to give it a plugin architecture. I felt like it was the best way to prevent it from eventually turning into a mega library with image decoding, drawing features, and all sorts of other stuff I'd have to maintain.
+When I was building [Checkboxland]({{site.url}}/checkboxland/), I wanted to give it a plugin architecture. I felt like it was the best way to prevent it from eventually turning into a mega library with image decoding, drawing features, and all sorts of other stuff I'd have to maintain.
 
 I searched for articles on building a plugin architecture in JavaScript, but I couldn't find what I was looking for. Long story short, I ended up writing it and the folks at [CSS-Tricks](https://css-tricks.com/) were willing to publish it for me. Here's a preview:
 

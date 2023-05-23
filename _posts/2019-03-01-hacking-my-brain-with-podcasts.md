@@ -18,6 +18,6 @@ The podcast hosts didn't know it, but they became my friends. We spent so much t
 
 Whenever I've wanted to try new things in my career, I've followed a similar process. When I wanted to get really good at Javascript, I downloaded [Career.js](http://careerjs.com/) and [Javascript Jabber](https://devchat.tv/js-jabber/). When I needed to build my first Rails app, I found [Ruby Rogues](https://devchat.tv/ruby-rogues/) and the [Ruby on Rails](http://5by5.tv/rubyonrails/) podcast. Now that I'm working on my own product ([an app for online Excel training]({{site.url}}/2020/09/08/gridmaster-closing-thoughts)), I'm subscribed to [Indie Hackers](https://www.indiehackers.com/podcast), [How I Built This](https://www.npr.org/podcasts/510313/how-i-built-this), and [Startups for the Rest of Us](https://www.startupsfortherestofus.com/).
 
-Jim Rohn said _"You are the average of the five people you spend the most time with."_ The great thing about the internet is that you can spend time with [anyone in the world](https://www.bryanbraun.com/2015/12/06/study-under-your-dream-team/), no matter where you live.
+Jim Rohn said _"You are the average of the five people you spend the most time with."_ The great thing about the internet is that you can spend time with [anyone in the world]({{site.url}}/2015/12/06/study-under-your-dream-team/), no matter where you live.
 
 So choose wisely! Thoughtfully selecting podcasts is like hacking your brain, helping you move towards where you want to go.

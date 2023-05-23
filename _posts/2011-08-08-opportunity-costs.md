@@ -6,7 +6,7 @@ related: [
 ]
 ---
 
-A short while ago, <a href="http://bryanbraun.com/2011/04/10/bryan-vs-the-sunk-cost-fallacy/" title="Bryan vs the Sunk Cost Fallacy">I posted about the sunk cost fallacy</a>... that ugly inclination of ours to "throw good money after bad". I became aware of the concept of sunk costs as I took a class on basic economics. I've noticed that learning about sunk costs has helped me recognize them in my life (and avoid souring the experience further).
+A short while ago, <a href="{{site.url}}/2011/04/10/bryan-vs-the-sunk-cost-fallacy/" title="Bryan vs the Sunk Cost Fallacy">I posted about the sunk cost fallacy</a>... that ugly inclination of ours to "throw good money after bad". I became aware of the concept of sunk costs as I took a class on basic economics. I've noticed that learning about sunk costs has helped me recognize them in my life (and avoid souring the experience further).
 
 I've likewise benefited from the similar concept of opportunity costs. Opportunity costs are like the cool older brother to sunk costs. A knowledge of opportunity costs is very helpful in decision making, whether you are an economist or an average Joe.
 

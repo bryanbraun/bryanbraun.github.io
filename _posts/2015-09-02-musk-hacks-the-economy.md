@@ -40,7 +40,7 @@ If it's hard for you to understand the all the Musk hype, consider the image use
  [11]: https://twitter.com/spacex
 
 <p style="text-align: center;">
-  <img alt="Terraformation of Mars" src="http://www.bryanbraun.com/assets/images/spacex.png" />
+  <img alt="Terraformation of Mars" src="{{site.url}}/assets/images/spacex.png" />
 </p>
 
 Behind everything SpaceX, Tesla, and SolarCity is doing, is [a why][12]. And those whys are ambitious.

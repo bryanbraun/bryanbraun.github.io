@@ -26,11 +26,11 @@ When I migrated my personal site to Github Pages, I setup something called a "Us
 
 I didn't realize it at the time, but because of the way Github Pages works, this ended up redirecting all my existing Github project sites to my user site. All my side-projects were now found under my personal domain name:
 
-- [bryanbraun.github.io/anchorjs](https://bryanbraun.github.io/anchorjs) → [bryanbraun.com/anchorjs](https://bryanbraun.com/anchorjs)
-- [bryanbraun.github.io/after-dark-css](https://bryanbraun.github.io/after-dark-css) → [bryanbraun.com/after-dark-css](https://bryanbraun.com/after-dark-css)
-- [bryanbraun.github.io/landmark-articles](https://bryanbraun.github.io/landmark-articles) → [bryanbraun.com/landmark-articles](https://bryanbraun.com/landmark-articles)
-- [bryanbraun.github.io/connect-four](https://bryanbraun.github.io/connect-four) → [https://bryanbraun.com/connect-four](bryanbraun.com/connect-four)
-- [bryanbraun.github.io/your-life](https://bryanbraun.github.io/your-life) → [bryanbraun.com/your-life](https://bryanbraun.com/your-life)
+- [bryanbraun.github.io/anchorjs](https://bryanbraun.github.io/anchorjs) → [bryanbraun.com/anchorjs]({{site.url}}/anchorjs)
+- [bryanbraun.github.io/after-dark-css](https://bryanbraun.github.io/after-dark-css) → [bryanbraun.com/after-dark-css]({{site.url}}/after-dark-css)
+- [bryanbraun.github.io/landmark-articles](https://bryanbraun.github.io/landmark-articles) → [bryanbraun.com/landmark-articles]({{site.url}}/landmark-articles)
+- [bryanbraun.github.io/connect-four](https://bryanbraun.github.io/connect-four) → [bryanbraun.com/connect-four]({{site.url}}/connect-four)
+- [bryanbraun.github.io/your-life](https://bryanbraun.github.io/your-life) → [bryanbraun.com/your-life]({{site.url}}/your-life)
 
 I wasn't thrilled about this change (and [I wasn't alone!](https://github.com/isaacs/github/issues/547)), but I wanted to use Github Pages, so I accepted it.
 

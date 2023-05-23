@@ -9,7 +9,7 @@ related: [
 
 This week we moved into a different apartment. It is virtually identical to our last one, but this one has another bedroom (for [the little lady][1]). While we were unpacking I had a thought.
 
- [1]: http://bryanbraun.com/2011/02/14/heidi/ "Heidi"
+ [1]: {{site.url}}/2011/02/14/heidi/ "Heidi"
 
 "Instead of just putting everything where it was before, why don't we try and set it up in a better way?"
 

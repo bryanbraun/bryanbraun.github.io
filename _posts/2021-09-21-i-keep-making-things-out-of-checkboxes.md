@@ -9,7 +9,7 @@ related: [
 
 Something happened earlier this year where I got on a run making checkbox animations and just couldn't stop.
 
-A bit of background: back in pre-pandemic 2020, I went to [the Recurse Center](https://www.recurse.com/) for a week and built [Checkboxland](https://www.bryanbraun.com/checkboxland/), a JavaScript library that lets you display text and animations on a checkbox grid. It was a fun little project. I made some demos, [blogged about it]({{site.url}}/2020/06/06/checkboxland/), and ultimately put it on the shelf where I didn't touch it for about a year.
+A bit of background: back in pre-pandemic 2020, I went to [the Recurse Center](https://www.recurse.com/) for a week and built [Checkboxland]({{site.url}}/checkboxland/), a JavaScript library that lets you display text and animations on a checkbox grid. It was a fun little project. I made some demos, [blogged about it]({{site.url}}/2020/06/06/checkboxland/), and ultimately put it on the shelf where I didn't touch it for about a year.
 
 Eventually, I was feeling desperate for a fun coding diversion so I picked it back up again. I wanted to try making better and more complex animations so I started building a ripple effect, and got hooked.
 
@@ -42,15 +42,15 @@ That was pretty disappointing, so I wanted to try making animations that respond
 
 <figure class="center">
   <img src="{{site.url}}/assets/images/cbl-lasers.gif" loading="lazy" alt="A laser animation made with html checkboxes." />
-  <figcaption>A "laser" animation. <a href="https://www.bryanbraun.com/checkboxland/docs/demos/lasers/">Try it here</a>.</figcaption>
+  <figcaption>A "laser" animation. <a href="{{site.url}}/checkboxland/docs/demos/lasers/">Try it here</a>.</figcaption>
 </figure>
 
 <figure class="center">
   <img src="{{site.url}}/assets/images/cbl-pulse.gif" loading="lazy" alt="A pulse animation made with html checkboxes." />
-  <figcaption>A "pulse" animation. <a href="https://www.bryanbraun.com/checkboxland/docs/demos/pulse/">Try it here</a>.</figcaption>
+  <figcaption>A "pulse" animation. <a href="{{site.url}}/checkboxland/docs/demos/pulse/">Try it here</a>.</figcaption>
 </figure>
 
-The more interactive demos I made, the more ideas I had. I could make games! [Snake](https://www.bryanbraun.com/checkboxland/docs/demos/snake/), Pong, Tetris!
+The more interactive demos I made, the more ideas I had. I could make games! [Snake]({{site.url}}/checkboxland/docs/demos/snake/), Pong, Tetris!
 
 But before I got too far down that path, another thought caught hold in my mind. If I could display any image, then I wouldn't have to go through the laborious process of defining every checkbox manually or coming up with an algorithm for the scene I wanted.
 
@@ -68,7 +68,7 @@ I soon realized that converting images gets you 90% of the way to converting vid
 
 <figure class="center">
   <img src="{{site.url}}/assets/images/cbl-video.gif" loading="lazy" alt="A video animation displayed side-by-side with an html checkbox version." />
-  <figcaption>An mp4 video (left) powering a checkbox animation (right). <a href="https://www.bryanbraun.com/checkboxland/docs/demos/video-test/">Try other videos (or upload your own) here</a>.</figcaption>
+  <figcaption>An mp4 video (left) powering a checkbox animation (right). <a href="{{site.url}}/checkboxland/docs/demos/video-test/">Try other videos (or upload your own) here</a>.</figcaption>
 </figure>
 
 Soon I had extended the Checkboxland API so I could load any video (like ones from [giphy](https://giphy.com/)) and instantly generate a checkbox version. Now checkbox animations were trivial.
@@ -84,7 +84,7 @@ Finally, my co-worker Reed told me about a challenge where people try to play th
 
 <figure class="center">
   <iframe width="640" height="360" src="https://www.youtube.com/embed/ZGvXdYXami4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  <figcaption><a href="https://www.bryanbraun.com/checkboxland/docs/demos/bad-apple/">Play the in-browser version here</a>.</figcaption>
+  <figcaption><a href="{{site.url}}/checkboxland/docs/demos/bad-apple/">Play the in-browser version here</a>.</figcaption>
 </figure>
 
 <hr class="section-divider" />

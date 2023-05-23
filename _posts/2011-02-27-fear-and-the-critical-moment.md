@@ -37,4 +37,4 @@ The fact is that all achievements, all skills, and all growth boils down to a se
 Critical moments happen when the alarm clock goes off. They happen when someone puts you down, when a driver is tailgating you, and when you see litter on the sidewalk. They happen when someone shoots down your idea or criticizes a friend or tells an inappropriate joke. They happen all the time. We cannot conquer anger, master a skill, defeat pride, or start a business all at once. Instead, commit to making the hard choices in the present, and watch as the [benefits compound][2] over time.
 
  [1]: http://sivers.org/comfort
- [2]: http://www.bryanbraun.com/2015/11/17/compounding-benefits
+ [2]: {{site.url}}/2015/11/17/compounding-benefits

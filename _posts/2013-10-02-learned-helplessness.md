@@ -6,7 +6,7 @@ related: [
 ]
 ---
 
-While I was <a href="http://bryanbraun.com/books#node-317" title="Brain Rules">reading "Brain Rules"</a> I was fascinated by a concept called "Learned Helplessness." I've seen it discussed in several other contexts since then.
+While I was <a href="{{site.url}}/books#node-317" title="Brain Rules">reading "Brain Rules"</a> I was fascinated by a concept called "Learned Helplessness." I've seen it discussed in several other contexts since then.
 
 In short, various studies have shown that helplessness isn't something we are born with. It's something we learn. There's a lot of helplessness in the world, and it leads to dissatisfaction, frustration, crime, and a host of bad consequences. But if it can be learned, then that means it can also be unlearned.
 

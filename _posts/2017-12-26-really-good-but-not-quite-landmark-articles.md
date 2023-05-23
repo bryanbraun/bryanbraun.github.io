@@ -7,7 +7,7 @@ related: [
 ]
 ---
 
-One of my little projects that I haven't talked much about is a webpage called [Landmark Articles](https://www.bryanbraun.com/landmark-articles/). It's a list of the ten online articles that have influenced me the most in my life/career as a web developer.
+One of my little projects that I haven't talked much about is a webpage called [Landmark Articles]({{site.url}}/landmark-articles/). It's a list of the ten online articles that have influenced me the most in my life/career as a web developer.
 
 I update the list often, but it's always hard because I often read things that are really good, but not good enough to knock something else off the list.
 

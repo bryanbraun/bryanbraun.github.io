@@ -7,4 +7,4 @@ A couple weeks ago I got an email from <a href="http://sivers.org/">my role mode
 
 My takeaway: You can't do everything for everybody, and you'd be a fool to try. But if you're on the fence, err on the side of generosity.
 
-Also, <a href="http://bryanbraun.com/2013/08/16/how-to-email-busy-people">some tips for how to email busy people</a>.
+Also, <a href="{{site.url}}/2013/08/16/how-to-email-busy-people">some tips for how to email busy people</a>.

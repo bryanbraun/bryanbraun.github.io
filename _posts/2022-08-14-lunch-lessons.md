@@ -24,6 +24,7 @@ A good whiteboard is visual, succinct, and engaging. Here are some of my favorit
 - [Fasteners](https://www.instagram.com/p/B8wHTeZnYCF/)
 - [Flow](https://www.instagram.com/p/Bxz7WZul8BJ/)
 - [How to evolve](https://www.instagram.com/p/BvXZSFiFTvz/)
+- [You see what you look for]()
 
 Some days are better than others. It's frustrating to try and teach something when the kids are busy fighting over who gets the last taquito. And with ages ranging from 3 to 11 it's difficult to teach *anything* in a way that's engaging to everyone.
 

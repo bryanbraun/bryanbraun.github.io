@@ -14,7 +14,7 @@ I'm happy to introduce <a href="http://drupal.org/project/writer" title="Writer:
 
 ![](/assets/images/writer-post-2.png)
 
-The story is quite simple. I am a <a href="http://bryanbraun.com/who-is-bryan">front-end developer</a> who blogs. I searched the Drupal theme repository, but I was unable to find a blogging theme designed specifically for developers. So I made one.
+The story is quite simple. I am a <a href="{{site.url}}/who-is-bryan">front-end developer</a> who blogs. I searched the Drupal theme repository, but I was unable to find a blogging theme designed specifically for developers. So I made one.
 
 This theme was designed using three driving principles:
 

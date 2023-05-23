@@ -7,7 +7,7 @@ related: [
 ]
 ---
 
-Back in 2013 (holy moly that was 5 years ago), I posted a [list of my favorite web-technology-related podcasts](https://www.bryanbraun.com/2013/09/26/best-of-the-web-podcasts/). Here's my updated list of favorites for 2018:
+Back in 2013 (holy moly that was 5 years ago), I posted a [list of my favorite web-technology-related podcasts]({{site.url}}/2013/09/26/best-of-the-web-podcasts/). Here's my updated list of favorites for 2018:
 
 * [Javascript Jabber](https://devchat.tv/js-jabber)
 * [Syntax](https://syntax.fm/)

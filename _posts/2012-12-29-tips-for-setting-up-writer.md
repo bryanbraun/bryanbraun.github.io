@@ -23,7 +23,7 @@ The blog module is designed to set up a different blog for each site user... pro
 The theme comes with a Primary and Secondary menu built in but you may need to manually assign menus to those spots. Here's how you do this:
 
 1.  In the admin bar, browse to Structure > Menus > Settings (or `/admin/structure/menu/settings` via URL).
-2.  Select which menu will represent the Main links (top navigation) and which will represent the Secondary links (footer links).  
+2.  Select which menu will represent the Main links (top navigation) and which will represent the Secondary links (footer links).
     <img width="100%" src="/assets/images/menu_setup.png" />
 3.  Note: you can build your own menus at Structure > Menus and use them for these purposes as desired.
 
@@ -82,4 +82,4 @@ You may also want to look for some good modules regarding SEO, Analytics, or Med
 
 ## Any Ideas?
 
-My goal all along was to make this thing ready to use right out of the box. Unfortunately, my current knowledge and experience with theming in Drupal has placed the goal beyond my reach. Perhaps some blame rests with the trade-offs inherent in Drupal. Regardless, I am not defeated yet. If you develop with Drupal and you know of a better way to simplify the setup, then [I'd sure like to hear it](http://bryanbraun.com).
+My goal all along was to make this thing ready to use right out of the box. Unfortunately, my current knowledge and experience with theming in Drupal has placed the goal beyond my reach. Perhaps some blame rests with the trade-offs inherent in Drupal. Regardless, I am not defeated yet. If you develop with Drupal and you know of a better way to simplify the setup, then [I'd sure like to hear it]({{site.url}}).

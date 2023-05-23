@@ -25,9 +25,9 @@ So how about this. **What if you and I came together on a regular basis to hold 
 I know this works. Setting up a system like this once helped me with [the best marathon training of my life][1]. This could be your chance to finally pull together the [gumption][2] to make that change you've been wanting for a while. It'll be a [Ulysses Contract][3] for you and I to *Get. Stuff. Done.*
 
  [1]: http://windermeremarathon.blogspot.com/2011/05/thats-all-folks.html
- [2]: http://www.bryanbraun.com/2014/03/29/gumption
- [3]: http://www.bryanbraun.com/2012/11/11/ulysses-contract
+ [2]: {{site.url}}/2014/03/29/gumption
+ [3]: {{site.url}}/2012/11/11/ulysses-contract
 
 Interested? [Shoot me an message][4] and we'll work out the details.
 
- [4]: http://www.bryanbraun.com/contact
+ [4]: {{site.url}}/contact

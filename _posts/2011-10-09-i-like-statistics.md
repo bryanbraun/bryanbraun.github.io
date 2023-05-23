@@ -8,12 +8,12 @@ I like a lot of things... like Tetris, Newspapers, BYU Football, Ultimate Frisbe
 
 I also like statistics. A lot.
 
-You probably already knew this, given the high number of stats related posts I've written (including the ones with [infographics][1], [internet statistics][2], [mobile phone statistics][3], <a href="http://bryanbraun.com/2010/12/27/the-dvorak-keyboard-should-i-learn-it/" target="_blank" rel="noopener noreferrer" title="The Dvorak Keyboard: Should I learn it?">Dvorak typing graphs</a> and images depicting [the size of the universe][4]).
+You probably already knew this, given the high number of stats related posts I've written (including the ones with [infographics][1], [internet statistics][2], [mobile phone statistics][3], <a href="{{site.url}}/2010/12/27/the-dvorak-keyboard-should-i-learn-it/" target="_blank" rel="noopener noreferrer" title="The Dvorak Keyboard: Should I learn it?">Dvorak typing graphs</a> and images depicting [the size of the universe][4]).
 
- [1]: http://bryanbraun.com/2011/01/10/the-power-of-infographics/ "The Power of Infographics"
- [2]: http://bryanbraun.com/2010/12/18/how-big-is-the-internet/ "How Big is the Internet?"
- [3]: http://bryanbraun.com/2011/09/21/the-future-is-mobile/ "The Future is Mobile"
- [4]: http://bryanbraun.com/2011/01/23/the-most-important-image-ever-taken/ "The Most Important Image ever Taken"
+ [1]: {{site.url}}/2011/01/10/the-power-of-infographics/ "The Power of Infographics"
+ [2]: {{site.url}}/2010/12/18/how-big-is-the-internet/ "How Big is the Internet?"
+ [3]: {{site.url}}/2011/09/21/the-future-is-mobile/ "The Future is Mobile"
+ [4]: {{site.url}}/2011/01/23/the-most-important-image-ever-taken/ "The Most Important Image ever Taken"
 
 By statistics, I'm not referring to the technical discipline. Sure, I had some good times in STAT 221, finding the standard deviation of data sets (if you're hardcore, you do it by hand... none of this calculator business). But honestly, I prefer skipping the work and diving into the results of other people's efforts instead. Given the right data, presented in the right way, I eat up their statistics like popcorn. Here are some of my favorite examples:
 

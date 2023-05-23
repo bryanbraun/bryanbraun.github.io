@@ -23,7 +23,7 @@ You can find the Base Form ID by printing out the `$form_state variable` in a no
 
 The "base_form_id" is tucked away in the "build_info" array.
 
-<p class="p1" style="text-align: center;">
+<p style="text-align: center;">
   <img alt="The base form id is tucked away in the build_info array." src="/assets/images/drupal_BASE_FORM_ID.png" />
 </p>
 

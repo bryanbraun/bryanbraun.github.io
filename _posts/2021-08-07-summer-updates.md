@@ -28,7 +28,7 @@ It's been over a year since Sparkbox permanently shut down the Dayton office. Th
 
 ## Road trip
 
-We did a big family road trip in July, driving with our five kids across ten states to visit a lot of family and friends we hadn't seen in a while. In retrospect, the timing was perfect (getting our visits in before the delta variant started picking up steam in the US). We ended up staying with a lot of different families in succession and it was interesting to compare their different lifestyles, each valid in their own way. I knew the lives of my peers had all diverged in the last 15 years but it's a little surreal to witness it in person. I also enjoyed [finishing](https://www.bryanbraun.com/books/#the-code-breaker) [three](https://www.bryanbraun.com/books/#replay) [audiobooks](https://www.bryanbraun.com/books/#player-of-games) that have been on my list for awhile.
+We did a big family road trip in July, driving with our five kids across ten states to visit a lot of family and friends we hadn't seen in a while. In retrospect, the timing was perfect (getting our visits in before the delta variant started picking up steam in the US). We ended up staying with a lot of different families in succession and it was interesting to compare their different lifestyles, each valid in their own way. I knew the lives of my peers had all diverged in the last 15 years but it's a little surreal to witness it in person. I also enjoyed [finishing]({{site.url}}/books/#the-code-breaker) [three]({{site.url}}/books/#replay) [audiobooks]({{site.url}}/books/#player-of-games) that have been on my list for awhile.
 
 ## Church
 

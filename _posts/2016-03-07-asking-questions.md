@@ -14,5 +14,5 @@ I used to think that smart people didn't ask questions. It sure seemed like that
 
 I'm not the best at this... as an introvert, I feel a bit uncomfortable asking questions in many settings. But [I'm working to improve][1]. I've come to realize that the habit of asking questions provides [compounding benefits][2] to your knowledge and relationships for years to come.
 
- [1]: http://www.bryanbraun.com/2011/08/28/just-ask
- [2]: http://www.bryanbraun.com/2015/11/17/compounding-benefits
+ [1]: {{site.url}}/2011/08/28/just-ask
+ [2]: {{site.url}}/2015/11/17/compounding-benefits

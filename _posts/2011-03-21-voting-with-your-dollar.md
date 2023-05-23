@@ -5,7 +5,7 @@ date: 2011-03-21 12:38:06
 
 We've got a few short years on earth and then we're gone. When all is said and done, we all want to be remembered for something good. We want to have some sort of impact. There are a lot of ways to make the world a better place but most of them are really hard. I can't drop a couple million bucks to build a hospital in Ghana. Heck, I can't even afford a plane ticket to Ghana. Is there anything that [an average Joe][1] can do to make a difference?
 
- [1]: http://bryanbraun.com/about/ "About Bryan Braun"
+ [1]: {{site.url}}/about/ "About Bryan Braun"
 
 Yes! Start voting with your dollar. I'm not talking about campaign contributions (heavens, no!). I mean deliberately buying products from companies that support your cause.
 

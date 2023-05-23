@@ -118,7 +118,7 @@ confetti(document.body, { angle: 0 });
 
 ## Is that all we need?
 
-Pretty much! Now you can organize everything in your codebase as modules and ship them straight to the browser bundle-free. If you have questions about modules handle things like caching, performance, or browser support, feel free to check out my earlier post, [ES modules in production: my experience so far](https://www.bryanbraun.com/2020/10/23/es-modules-in-production-my-experience-so-far/).
+Pretty much! Now you can organize everything in your codebase as modules and ship them straight to the browser bundle-free. If you have questions about modules handle things like caching, performance, or browser support, feel free to check out my earlier post, [ES modules in production: my experience so far]({{site.url}}/2020/10/23/es-modules-in-production-my-experience-so-far/).
 
 ## Snowpack
 

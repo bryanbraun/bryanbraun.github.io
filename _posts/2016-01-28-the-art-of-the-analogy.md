@@ -17,7 +17,7 @@ With analogies, you're trying to help someone understand a foreign concept by li
 
 This relates to the concept of sticky platforms. You may want to check out [my earlier post on the topic][2] if you are unfamiliar with it, but in short:
 
- [2]: http://www.bryanbraun.com/2011/06/06/the-new-york-times-and-the-sticky-platform
+ [2]: {{site.url}}/2011/06/06/the-new-york-times-and-the-sticky-platform
 
 <p style="text-align: center;">
   <img alt="" src="/assets/images/the-sticky-platform.png" />

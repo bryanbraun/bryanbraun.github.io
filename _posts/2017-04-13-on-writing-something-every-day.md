@@ -21,7 +21,7 @@ So far it's worked really well, I think for a couple reasons:
 
 - It's combatted my excuse that I shouldn't work on it unless I have a large block of time, wherein I can make significant progress (see [the Maker's schedule](http://www.paulgraham.com/makersschedule.html)).
 - I retain the project context from day-to-day so it's easier for me to jump in where I left off.
-- The habit is behaviorally effective. So much of what people call willpower is simply just [habits at work](https://www.bryanbraun.com/books/#the-power-of-habit).
+- The habit is behaviorally effective. So much of what people call willpower is simply just [habits at work]({{site.url}}/books/#the-power-of-habit).
 - I see progress, and that's motivating. It makes me believe in the process... believe that _no task is so large that it cannot be completed with consistent incremental progress_.
 
 Most importantly, it helps me get over the motivation hump of starting. Daily, I face choices like "do this hard ambiguous thing" verses "watch an entertaining youtube video." In that moment, it can be hard to decide to start working on code.

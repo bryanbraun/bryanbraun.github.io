@@ -21,5 +21,5 @@ I don't profess to know the road to success. I'm not sure if I even know how to 
 
 And with that kind track record, I'd be a fool to stop now.
 
-[1]: http://bryanbraun.com/2012/03/19/never-settle-being-mediocre 'Never Settle for being Mediocre'
-[2]: http://bryanbraun.com/2011/01/02/uccess
+[1]: {{site.url}}/2012/03/19/never-settle-being-mediocre 'Never Settle for being Mediocre'
+[2]: {{site.url}}/2011/01/02/uccess

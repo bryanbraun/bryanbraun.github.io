@@ -70,6 +70,6 @@ Finally, one property that is often confused with these animation techniques is 
  [1]: http://caniuse.com/css-transitions
  [2]: http://caniuse.com/css-animation
  [3]: http://en.wikipedia.org/wiki/Don't_repeat_yourself
- [4]: http://www.bryanbraun.com/2014/01/19/anchorjs
- [5]: http://www.bryanbraun.com/2014/03/15/how-i-rebuilt-flying-toasters-using-only-css-animations
+ [4]: {{site.url}}/2014/01/19/anchorjs
+ [5]: {{site.url}}/2014/03/15/how-i-rebuilt-flying-toasters-using-only-css-animations
  [6]: https://developer.mozilla.org/en-US/docs/Web/CSS/transform

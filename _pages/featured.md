@@ -23,12 +23,12 @@ redirect_from:
 [//]: # "I have commented some of the following links because they are too old and/or the link has broken."
 [//]: # "See: https://stackoverflow.com/a/20885980/1154642"
 
-[//]: # "http://bryanbraun.com/assets/documents/eagle.pdf"
+[//]: # "{{site.url}}/assets/documents/eagle.pdf"
 [//]: # "http://www.spokesman.com/stories/2005/aug/13/cv-graduate-earns-mcdonalds-scholarship/"
 [//]: # "http://www.spokesman.com/stories/2005/nov/26/city-school-students-learning-bridge/#CVAPStudents"
 [//]: # "http://me.byu.edu/news/modern-nephites-engineering-students-build-steel-bows-shooting-competition"
 [//]: # "http://me.byu.edu/news/me-undergrads-take-3rd-design-competition"
-[6]: http://www.bryanbraun.com/2012/04/30/in-the-press
+[6]: {{site.url}}/2012/04/30/in-the-press
 [7]: http://www.theregister.co.uk/2014/03/17/flying_toaster_screen_savers_return_on_github/
 [8]: http://daringfireball.net/linked/2015/06/07/after-dark
 [9]: https://www.smashingmagazine.com/smashing-newsletter-issue-165/#a3

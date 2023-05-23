@@ -17,6 +17,6 @@ What would a design change like that look like?
 
 [Publicly visible metrics drive behavior][1], but most of your contributions to other repos are invisible to others. They are either lost in a sea of timeline commits or truncated in the top right. What if that truncated list could be expanded to show all the public projects that you contributed to? What if your commit counts for other people's projects were surfaced on the profile page, or at least summarized one click deeper?
 
- [1]: http://www.bryanbraun.com/2014/04/22/using-metrics-to-drive-user-behavior
+ [1]: {{site.url}}/2014/04/22/using-metrics-to-drive-user-behavior
 
 Can you imagine what kind of impact that would have on the open-source community? Would there be any downside to such a change? And what could be the upside? I'd love to see Github start asking these questions.

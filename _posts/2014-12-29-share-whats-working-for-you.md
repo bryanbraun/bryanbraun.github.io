@@ -22,7 +22,7 @@ Tory Sparks is a musician who learned enough about the music industry to get her
 Did you have a success in your work over the last 6 months? Maybe you have a workflow that saves some time or a routine allows you to accomplish more. Tell us about it! Sharing what's working is a great habit to get into, and you never know who it might help.
 
 [1]: http://speaking.io/
-[2]: http://www.bryanbraun.com/2014/11/26/go-online
+[2]: {{site.url}}/2014/11/26/go-online
 [3]: https://en.wikipedia.org/wiki/Toastmasters_International
 [4]: https://web.archive.org/web/20140328060211/http://sivers.org/tori-sparks
 [5]: http://37signals.com/

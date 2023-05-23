@@ -13,23 +13,23 @@ Little did I know, that you actually CAN browse through your code on Drupal.org.
 Every project page has a little link at the bottom left called "Repository Viewer"
 
 <p style="text-align: center;">
-  <img alt="" src="http://www.bryanbraun.com/assets/images/repository-viewer.png" />
+  <img alt="" src="{{site.url}}/assets/images/repository-viewer.png" />
 </p>
 
 This link takes you to *http:// drupalcode.org/project/<your-project>.git*, where you'll find…
 
 <p style="text-align: center;">
-  <img alt="" src="http://www.bryanbraun.com/assets/images/git-browser-1.png" />
+  <img alt="" src="{{site.url}}/assets/images/git-browser-1.png" />
 </p>
 
 But those are just your commits. To see your files, click the link that says "tree"...
 
 <p style="text-align: center;">
-  <img alt="" src="http://www.bryanbraun.com/assets/images/tree-link.png" />
+  <img alt="" src="{{site.url}}/assets/images/tree-link.png" />
 </p>
 
 <p style="text-align: center;">
-  <img alt="" src="http://www.bryanbraun.com/assets/images/git-browser-2.png"  />
+  <img alt="" src="{{site.url}}/assets/images/git-browser-2.png"  />
 </p>
 
 Your files were there all along… hidden in plain view.

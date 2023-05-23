@@ -26,7 +26,7 @@ Unfortunately, this only produced a single level of nesting.
 
 <figure class="center">
   <img src="{{site.url}}/assets/images/iframes-attempt-1.png" alt="A blank webpage with a single nested iFrame." />
-  <figcaption>You can <a href="https://www.bryanbraun.com/infinitely-nested-iframes/1.html">see a live demo here</a> (though it's not much to look at).</figcaption>
+  <figcaption>You can <a href="{{site.url}}/infinitely-nested-iframes/1.html">see a live demo here</a> (though it's not much to look at).</figcaption>
 </figure>
 
 To find out why this didn't work, we just have to look up [the W3C specifications on frames](https://www.w3.org/TR/WD-frames-970331):
@@ -53,7 +53,7 @@ This was a marginal improvement, but it ended up only giving us three levels of 
 
 <figure class="center">
   <img src="{{site.url}}/assets/images/iframes-attempt-2.png" alt="A blank webpage with three nested iframes." />
-  <figcaption><a href="https://www.bryanbraun.com/infinitely-nested-iframes/2-a.html">See the live demo here</a>.</figcaption>
+  <figcaption><a href="{{site.url}}/infinitely-nested-iframes/2-a.html">See the live demo here</a>.</figcaption>
 </figure>
 
 Apparently, I had overlooked one small detail in the W3C specs (my emphasis added):
@@ -85,9 +85,9 @@ And this one worked like a charm!
 
 <figure class="center">
   <img src="{{site.url}}/assets/images/iframes-attempt-3.png" alt="A blank webpage with infinitely nesting iframes." />
-  <figcaption><a href="https://www.bryanbraun.com/infinitely-nested-iframes/3.html">Here's the link to the demo</a>. Warning: this page could crash your browser.</figcaption>
+  <figcaption><a href="{{site.url}}/infinitely-nested-iframes/3.html">Here's the link to the demo</a>. Warning: this page could crash your browser.</figcaption>
 </figure>
 
 <hr class="section-divider" />
 
-So that was a fun little exercise. The [demos](https://www.bryanbraun.com/infinitely-nested-iframes/) and [source code](https://github.com/bryanbraun/infinitely-nested-iframes) are up on Github if anyone wants to take a closer look.
+So that was a fun little exercise. The [demos]({{site.url}}/infinitely-nested-iframes/) and [source code](https://github.com/bryanbraun/infinitely-nested-iframes) are up on Github if anyone wants to take a closer look.

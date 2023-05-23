@@ -40,7 +40,7 @@ A running clock that is calculating various aspects of the US national debt (cli
 
 A [4 minute video by Hans Rosling](https://www.youtube.com/watch?v=jbkSRLYSojo) that summarizes centuries of Global Health data into one epic dynamic chart and a discussion on the development of modern society.
 
-Other visualizations are used to describe everything from <a href="http://www.nytimes.com/interactive/2008/05/30/nyregion/20080530_CRANE_GRAPHIC.html" title="Crane Collapse in Manhattan">stories in the news</a> to <a href="http://bryanbraun.com/2010/12/18/how-big-is-the-internet/" title="How Big is the Internet?">the size of the internet</a>. You could spend hours at <a href="http://www.informationisbeautiful.net" title="informationisbeautiful.net">informationisbeautiful.net</a> looking through all the infographics.
+Other visualizations are used to describe everything from <a href="http://www.nytimes.com/interactive/2008/05/30/nyregion/20080530_CRANE_GRAPHIC.html" title="Crane Collapse in Manhattan">stories in the news</a> to <a href="{{site.url}}/2010/12/18/how-big-is-the-internet/" title="How Big is the Internet?">the size of the internet</a>. You could spend hours at <a href="http://www.informationisbeautiful.net" title="informationisbeautiful.net">informationisbeautiful.net</a> looking through all the infographics.
 
 <hr class="section-divider">
 

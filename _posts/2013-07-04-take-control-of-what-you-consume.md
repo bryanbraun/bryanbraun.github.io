@@ -13,5 +13,5 @@ And yet, with these options, I'm surprised how little I see people using them. W
 
 Just as there are consequences to being careless about what we eat, there's a price for ambivalence to the media you consume.
 
- [1]: http://www.bryanbraun.com/2011/04/18/location-location-location
- [2]: http://www.bryanbraun.com/books
+ [1]: {{site.url}}/2011/04/18/location-location-location
+ [2]: {{site.url}}/books

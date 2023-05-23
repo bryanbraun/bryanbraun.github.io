@@ -3,7 +3,7 @@ title: "StartUp Weekend Salt Lake City"
 date: 2012-02-05 17:37:48
 ---
 
-Those who know me well, know that I've run <a href="http://windermeremarathon.blogspot.com/" target="_blank" rel="noopener noreferrer" title="The Spokountdown">a few marathons</a>. I enjoy long distance races because the are challenging, fun, and epic. The races have been very rewarding, and I plan on <a href="https://bryanbraun.com/2011/03/13/a-very-long-race" target="_blank" rel="noopener noreferrer" title="A very long race">running more of them</a> in the future.
+Those who know me well, know that I've run <a href="http://windermeremarathon.blogspot.com/" target="_blank" rel="noopener noreferrer" title="The Spokountdown">a few marathons</a>. I enjoy long distance races because the are challenging, fun, and epic. The races have been very rewarding, and I plan on <a href="{{site.url}}/2011/03/13/a-very-long-race" target="_blank" rel="noopener noreferrer" title="A very long race">running more of them</a> in the future.
 
 This last weekend, my experience at StartUp Weekend Salt Lake City was the equivalent of a web developer's marathon. At the event, over 100 attendees came from all over Utah to see if they could build a business in less than 48 hours. On Thursday night, we listened to 57 business idea pitches, voted the best ones up, and formed into teams to see if we could make it happen.
 

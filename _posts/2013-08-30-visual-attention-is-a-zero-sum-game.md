@@ -21,4 +21,4 @@ Instead of bolding the word in the first place why not reduce the importance of 
 
 Visual attention is a zero sum game. If everything is important, than nothing is.
 
-<small>For more on this topic, see <a href="http://www.bryanbraun.com/2013/07/02/simplicity-takes-restraint/">Simplicity takes Restraint</a>.</small>
+<small>For more on this topic, see <a href="{{site.url}}/2013/07/02/simplicity-takes-restraint/">Simplicity takes Restraint</a>.</small>

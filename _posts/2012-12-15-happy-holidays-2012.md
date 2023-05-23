@@ -33,10 +33,10 @@ But I want to be clear. If you do not receive one, you are still important to us
 >
 > We hope the holidays find you and your family happy! We certainly are.
 
- [1]: http://www.bryanbraun.com/2011/02/20/checking-in "This was a mass email I sent to family and friends in early 2011."
- [2]: http://www.bryanbraun.com/2011/12/25/happy-holidays-2011 "Not well crafted, but it was a holiday blog post."
- [3]: http://www.bryanbraun.com/2012/04/08/climbing-walls-batman "Climbing Walls like Batman"
+ [1]: {{site.url}}/2011/02/20/checking-in "This was a mass email I sent to family and friends in early 2011."
+ [2]: {{site.url}}/2011/12/25/happy-holidays-2011 "Not well crafted, but it was a holiday blog post."
+ [3]: {{site.url}}/2012/04/08/climbing-walls-batman "Climbing Walls like Batman"
  [4]: http://news.byu.edu/archive12-apr-batmancapstone.aspx
- [5]: http://www.bryanbraun.com/2012/04/30/in-the-press/
+ [5]: {{site.url}}/2012/04/30/in-the-press/
  [6]: http://hollybunchkins.blogspot.com/2012/08/peters-next-four-homes.html
- [7]: http://www.bryanbraun.com/2012/08/05/17-states-14-days/ "17 States in 14 Days"
+ [7]: {{site.url}}/2012/08/05/17-states-14-days/ "17 States in 14 Days"

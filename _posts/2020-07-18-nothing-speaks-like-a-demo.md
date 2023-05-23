@@ -6,7 +6,7 @@ related: [
 ]
 ---
 
-When I came back from [Recurse center](https://www.recurse.com/) with a working version of [Checkboxland](https://www.bryanbraun.com/2020/06/06/checkboxland/), I was sure it was going to generate some interest when I shared it.
+When I came back from [Recurse center](https://www.recurse.com/) with a working version of [Checkboxland]({{site.url}}/2020/06/06/checkboxland/), I was sure it was going to generate some interest when I shared it.
 
 I was wrong. I shared it with peers, and posted about it on some social media and link-aggregation sites, but it basically went nowhere.
 

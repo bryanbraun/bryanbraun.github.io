@@ -48,7 +48,7 @@ So here's how you set up a simple exposed filter, using Views 3 in Drupal 7:
   5. Now you can scroll to the bottom of your views admin page and click "Preview" to see a demo of the functionality. Use the select box under "Type" to choose the content type, and click "Apply" to repopulate the view. It works!
 </p>
 
-<p class="p1" style="text-align: center;">
+<p style="text-align: center;">
   <img alt="" src="/assets/images/drupal_exposed_views_2.png" style="width: 454px; height: 384px;" />
 </p>
 

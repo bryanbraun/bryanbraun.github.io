@@ -67,4 +67,4 @@ Finally, my newfound skills (and the projects that spawned out of them) qualifie
 
 For me, Bitbooks was a [critical moment][10] and a stepping stone to more ambitious pursuits.
 
- [10]: http://www.bryanbraun.com/2011/02/27/fear-and-the-critical-moment
+ [10]: {{site.url}}/2011/02/27/fear-and-the-critical-moment

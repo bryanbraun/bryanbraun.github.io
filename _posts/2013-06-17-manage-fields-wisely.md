@@ -15,7 +15,7 @@ These problems grow out of fairly innocuous roots. Let me use a simple example:
 
 You've added a field to your page content type called "layout" which lets you choose between two options: a page layout that prominently displays the image you've uploaded to the image field, and one that emphasizes text without displaying any image (you use some CSS being the scenes to do this magic).
 
-<p class="p1" style="text-align: center;">
+<p style="text-align: center;">
   <img alt="" src="/assets/images/fields-that-do-nothing.png" style="width: 353px; height: 176px;" />
 </p>
 

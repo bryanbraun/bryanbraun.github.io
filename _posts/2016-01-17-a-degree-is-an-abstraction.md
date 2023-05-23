@@ -52,7 +52,7 @@ Well, if degrees are a shrinking part of employer's hiring algorithms, then what
 I see some promising steps. [I see industry-focused capstone programs][9]. I've heard of student-driven projects where schools provide a prompt and access to resources, then get out of the way (in the style of maker-spaces). I see some [emphasis on above-and-beyond thinking][10].
 
  [9]: http://capstone.byu.edu/
- [10]: http://www.bryanbraun.com/2014/07/05/teachers-and-raising-the-bar
+ [10]: {{site.url}}/2014/07/05/teachers-and-raising-the-bar
 
 We can also look at successful abstractions to see what they are doing right. Why is a drivers license a good indicator that somebody is fit to drive? Why is a credit score a good indicator that you can loan somebody money without much risk? I have a few thoughts (living indicators, real-world experience, etc), but I'm more interested in what you think.
 

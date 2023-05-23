@@ -15,6 +15,6 @@ Of course, other ideas will try to distract me, but I'll just add them to my ide
 
 I immerse myself, because it's the best way to prevent my work from being [mediocre][1]. Anything that's worth doing, is worth doing well.
 
- [1]: http://www.bryanbraun.com/2012/03/19/never-settle-being-mediocre
+ [1]: {{site.url}}/2012/03/19/never-settle-being-mediocre
 
 <small>* Within reason, of course. I take care of my health and my family first.</small>

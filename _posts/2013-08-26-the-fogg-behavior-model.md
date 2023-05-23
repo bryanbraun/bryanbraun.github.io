@@ -7,13 +7,13 @@ I recently came across a brilliant model for human behavior that impacts how I t
 
 BJ Fogg postulated that behavior in a given moment can be summarized by a simple formula:
 
-<p class="p1" style="margin-left: 40px;">
+<p style="margin-left: 40px;">
   <strong>B = mat</strong>
 </p>
 
 Or,
 
-<p class="p1" style="margin-left: 40px;">
+<p style="margin-left: 40px;">
   <strong>Behavior = Motivation Ability Trigger</strong>
 </p>
 

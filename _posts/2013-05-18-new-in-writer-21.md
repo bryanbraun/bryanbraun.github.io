@@ -28,6 +28,6 @@ If you have a 1.x version installed, and you upgrade to this version your standa
 
 Of course, you can always use Views to have even greater customization of the look and feel of your feeds. If you are interested in that, check out this post: [Writer: Customizing the Default Front Page][1].
 
- [1]: http://www.bryanbraun.com/2013/03/16/writer-customizing-default-front-page/
+ [1]: {{site.url}}/2013/03/16/writer-customizing-default-front-page/
 
 Otherwise, enjoy.

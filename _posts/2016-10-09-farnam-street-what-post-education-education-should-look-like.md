@@ -20,10 +20,10 @@ Its main premise can be summarized like this:
 Wisdom is a long-term pursuit that requires regular thoughtful investments and produces tangible benefits. Ignore [the news wasteland][8] and the election dumpster fire. It's all empty calories. There's more nutritional food-for-thought out there.
 
 [1]: https://www.farnamstreetblog.com/
-[2]: http://www.bryanbraun.com/2013/10/08/being-taught-vs-teaching-yourself
-[3]: http://www.bryanbraun.com/2013/07/28/get-1-percent-better-every-day
-[4]: http://www.bryanbraun.com/2013/08/06/learn-by-doing
+[2]: {{site.url}}/2013/10/08/being-taught-vs-teaching-yourself
+[3]: {{site.url}}/2013/07/28/get-1-percent-better-every-day
+[4]: {{site.url}}/2013/08/06/learn-by-doing
 [5]: https://www.farnamstreetblog.com/mental-models/
 [6]: https://www.farnamstreetblog.com/2016/08/mental-models-world-do-work-for-you/
 [7]: https://www.farnamstreetblog.com/2016/09/books-recommend-someone-read-improve-general-knowledge-world
-[8]: http://www.bryanbraun.com/2016/01/04/the-news-wasteland
+[8]: {{site.url}}/2016/01/04/the-news-wasteland

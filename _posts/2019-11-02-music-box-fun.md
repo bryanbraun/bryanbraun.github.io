@@ -57,9 +57,9 @@ But despite these constraints (or maybe because of them?), you can make lovely, 
 
 I built this site [at Recurse center]({{site.url}}/2019/08/21/the-best-conference-I-ever-attended/) because I thought it would be fun. A lot of my recent projects haven't been very fun. I needed one that was.
 
-This project fits at the intersection of a lot of my interests and skills. It's very rewarding to both *design* and *build* a user interface to be [as simple and intuitive as possible](https://www.bryanbraun.com/2019/05/13/connect-four-invisible-interface-design/). I get to work in my favorite part of the web stack (CSS and JavaScript), and I get to have full creative control. I'm in my happy place whenever I'm working on it.
+This project fits at the intersection of a lot of my interests and skills. It's very rewarding to both *design* and *build* a user interface to be [as simple and intuitive as possible]({{site.url}}/2019/05/13/connect-four-invisible-interface-design/). I get to work in my favorite part of the web stack (CSS and JavaScript), and I get to have full creative control. I'm in my happy place whenever I'm working on it.
 
-Plus, I've always wanted to build something that empowers other people to exercise their creativity ([including my kids](https://www.bryanbraun.com/2019/07/16/daily-demos-a-ritual-for-raising-kids-that-create/)). There's a handful of online, static, creativity tools, that only exist to help you create. They are designed to be low-maintenance so there's no need to sell ads or create accounts. You don't need money, or a specific device to participate. It's universal and it's selfless. The world needs more things like that.
+Plus, I've always wanted to build something that empowers other people to exercise their creativity ([including my kids]({{site.url}}/2019/07/16/daily-demos-a-ritual-for-raising-kids-that-create/)). There's a handful of online, static, creativity tools, that only exist to help you create. They are designed to be low-maintenance so there's no need to sell ads or create accounts. You don't need money, or a specific device to participate. It's universal and it's selfless. The world needs more things like that.
 
 The site is a work-in-progress. It lacks some features and doesn't work well on many mobile devices. I'm hoping to share some updates over the next few months as I continue building it out.
 

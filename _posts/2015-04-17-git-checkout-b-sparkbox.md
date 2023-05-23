@@ -41,5 +41,5 @@ If these traits sound familiar, then maybe it's because you've read [Jim Collins
  [12]: http://seesparkbox.com/foundry/take_control_of_your_commit_history
  [13]: http://seesparkbox.com/foundry/naming_css_stuff_is_really_hard
  [14]: http://seesparkbox.com/foundry/jquery_selector_update
- [15]: http://www.bryanbraun.com/books#node-186
+ [15]: {{site.url}}/books#node-186
  [16]: https://twitter.com/bencallahan/status/588787652599611392

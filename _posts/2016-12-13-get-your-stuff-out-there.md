@@ -20,5 +20,5 @@ That's why it's so important just to get your stuff out there. You don't have to
 
  [1]: http://bryanbraun.github.io/after-dark-css/
  [2]: https://chrome.google.com/webstore/detail/flying-toasters-new-tab/dgflocgmhcgcfcdnikcihjmfdfdefmbi/reviews
- [3]: http://www.bryanbraun.com/2014/10/24/dumb-little-things
- [4]: http://www.bryanbraun.com/2015/09/25/no-smarter-than-you
+ [3]: {{site.url}}/2014/10/24/dumb-little-things
+ [4]: {{site.url}}/2015/09/25/no-smarter-than-you

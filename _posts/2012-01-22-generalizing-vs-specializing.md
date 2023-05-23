@@ -28,7 +28,7 @@ Specialization wins.
 
 So what are we variety-loving career-pursuing humans to do?
 
-I asked this question to Steve Liddle, a computer science professor, mobile app developer, and the man responsible for <a href="http://scriptures.byu.edu/" target="_blank" rel="noopener noreferrer">scriptures.byu.edu</a>. I've <a href="http://bryanbraun.com/2011/09/21/the-future-is-mobile" target="_blank" rel="noopener noreferrer" title="The Future is Mobile">mentioned him before</a>; he's a tech-entrepreneurship enthusiast who's always encouraging students to develop programming skills and follow tech trends.
+I asked this question to Steve Liddle, a computer science professor, mobile app developer, and the man responsible for <a href="http://scriptures.byu.edu/" target="_blank" rel="noopener noreferrer">scriptures.byu.edu</a>. I've <a href="{{site.url}}/2011/09/21/the-future-is-mobile" target="_blank" rel="noopener noreferrer" title="The Future is Mobile">mentioned him before</a>; he's a tech-entrepreneurship enthusiast who's always encouraging students to develop programming skills and follow tech trends.
 
 He said that you can't learn everything... you don't have the time. Rather, he suggested that we ought to develop a surface level understanding of many things. Then, from that understanding, choose a few things that we really want to focus on.
 

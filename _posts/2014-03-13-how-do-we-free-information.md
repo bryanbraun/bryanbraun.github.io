@@ -35,8 +35,8 @@ Here's a couple rough thoughts.
 
 Many of these ideas aren't new. There are success stories like [Wikipedia Zero][13], [Stack Overflow][14], [ReCaptcha][15], and [Google Summer of Code][16]. But we need more and better implementations. Each one is step towards a future where information is evenly distributed and available to all who need it.
 
- [1]: https://bryanbraun.com/2014/03/06/if-you-free-information-you-improve-education/ "If you free information, you improve education"
- [2]: http://bryanbraun.com/2013/07/16/friction-is-a-tool "Friction is a Tool"
+ [1]: {{site.url}}/2014/03/06/if-you-free-information-you-improve-education/ "If you free information, you improve education"
+ [2]: {{site.url}}/2013/07/16/friction-is-a-tool "Friction is a Tool"
  [3]: http://www.businessinsider.com/luis-von-ahn-creator-of-duolingo-recaptcha-2014-3
  [4]: http://open.bufferapp.com/introducing-open-salaries-at-buffer-including-our-transparent-formula-and-all-individual-salaries/
  [5]: http://www.wikia.com/Wikia

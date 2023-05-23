@@ -19,7 +19,7 @@ One way I've handled this is by taking a small topic, and exploring every possib
 
  [1]: http://sparkbox.github.io/logo-experiments/
  [2]: http://sparkbox.github.io/bouncy-ball
- [3]: http://www.bryanbraun.com/2014/11/27/every-possible-way-to-define-a-javascript-function
+ [3]: {{site.url}}/2014/11/27/every-possible-way-to-define-a-javascript-function
 
 Other great examples of these kinds of projects include [the hello-world repo][4], and [TodoMVC][5].
 
@@ -28,5 +28,5 @@ Other great examples of these kinds of projects include [the hello-world repo][4
 
 All these projects are exercises in [constraint-based learning][6] and can be a lot of fun (which isn't always the case for this kind of [deliberate practice][7]). What technologies or techniques would you like to understand better? Would you benefit by exploring *every possible way* to complete an unfamiliar task?
 
- [6]: http://www.bryanbraun.com/2016/06/16/constraint-based-learning
+ [6]: {{site.url}}/2016/06/16/constraint-based-learning
  [7]: http://expertenough.com/1423/deliberate-practice

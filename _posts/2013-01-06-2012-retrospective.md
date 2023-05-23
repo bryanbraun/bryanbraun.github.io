@@ -16,7 +16,7 @@ It was also the first year I:
 - [Programmed a game](http://bryanbraun.github.io/alchemist)
 - <a href="/assets/images/acquia_ad.JPG" target="_blank" rel="noopener noreferrer" title="If I were 17 again, I'd use Facebook ads to help me run for student body president. It would be the talk of the school... which is important if you are running for student body president.">Put up a Facebook ad</a>
 - [Spoke on a radio show][5]
-- <a href="https://bryanbraun.com/2012/07/07/in-which-i-explain-how-i-got-my-dream-job" target="_blank" rel="noopener noreferrer" title="In which I explain how I got my dream job">Landed a salary</a>
+- <a href="{{site.url}}/2012/07/07/in-which-i-explain-how-i-got-my-dream-job" target="_blank" rel="noopener noreferrer" title="In which I explain how I got my dream job">Landed a salary</a>
 - Saw <a href="https://insider.si.edu/2009/09/smithsonian-receives-giant-squid-caught-in-trawl-net-in-the-gulf-of-mexico/" target="_blank" rel="noopener noreferrer" title="That's right. They exist.">a giant squid</a>
 - Got <a href="https://twitter.com/Dries/status/186999538106646529" target="_blank" rel="noopener noreferrer" title="Dries Tweet">a tweet</a> from <a href="https://twitter.com/Dries" target="_blank" rel="noopener noreferrer" title="Dries">someone with 20K+ followers</a>
 - Paid money for [an eBook][6]
@@ -41,7 +41,7 @@ It was also the first year I:
 - Took a shower when the water couldn't get as cold as I wanted
 - <a href="http://devore-jonathan.wistia.com/medias/xhhirat8vx" target="_blank" rel="noopener noreferrer" title="Hurricane Sandy Video">Cleaned up after a Hurricane</a>
 - Saw <a href="http://en.wikipedia.org/wiki/File:Lavender_Mist.jpg" target="_blank" rel="noopener noreferrer" title="There is often a miniture version of this painting where Heidi sits at our kitchen table.">a Jackson Pollack</a>
-- Sent out a <a href="http://bryanbraun.com/2012/12/15/happy-holidays-2012" target="_blank" rel="noopener noreferrer" title="I admit, the design was influenced by the fact that the Smithsonian art museum had lots of Andy Warhol's art on display.">Christmas card</a>
+- Sent out a <a href="{{site.url}}/2012/12/15/happy-holidays-2012" target="_blank" rel="noopener noreferrer" title="I admit, the design was influenced by the fact that the Smithsonian art museum had lots of Andy Warhol's art on display.">Christmas card</a>
 - Juggled three diapers in the air
 - Had my Gmail account compromised
 - <a href="http://drupal.org/project/writer" target="_blank" rel="noopener noreferrer" title="This page went up on December 31st, so it was a close call.">Contributed to open source</a>
@@ -62,16 +62,16 @@ What a year.
 
 <small>(Detailed Stats: <strong>2011:</strong> 3 family members, 283 lbs, mileage=153629, read 12 books, total blog subscriptions=24. <strong>2012:</strong> 4 family members, 293 lbs, mileage=165156, read 5 books, total blog subscriptions=51)</small>
 
- [1]: http://bryanbraun.com/2011/02/20/checking-in "Checking in"
- [2]: http://bryanbraun.com/2012/01/01/looking-back-looking-forward "Looking Back. Looking Forward."
- [3]: http://bryanbraun.com/2012/08/05/17-states-14-days "17 States in 14 Days"
- [4]: http://bryanbraun.com/books "Book Reviews"
- [5]: http://bryanbraun.com/2012/09/09/press "Their regular broadcast is at www.siriusxm.com/byuradio"
+ [1]: {{site.url}}/2011/02/20/checking-in "Checking in"
+ [2]: {{site.url}}/2012/01/01/looking-back-looking-forward "Looking Back. Looking Forward."
+ [3]: {{site.url}}/2012/08/05/17-states-14-days "17 States in 14 Days"
+ [4]: {{site.url}}/books "Book Reviews"
+ [5]: {{site.url}}/2012/09/09/press "Their regular broadcast is at www.siriusxm.com/byuradio"
  [6]: https://play.google.com/store/books/details/Seth_Godin_Linchpin?id=dI66B5IY2X0C "Linchpin"
  [7]: http://3.bp.blogspot.com/-Wz0KXs56fhk/UClQmpbS7NI/AAAAAAAACBM/k1ojCUe7My8/s320/P7280281.JPG
  [8]: http://3.bp.blogspot.com/-HbpTvjSIFAM/UClRb7nVbGI/AAAAAAAACEI/VKfeM5tP-Zk/s1600/P8010534.JPG
- [9]: http://bryanbraun.com/2012/04/30/in-the-press#discovery-channel "You never realize how important the ability to form coherent sentances is, until you lose it."
- [10]: http://bryanbraun.com/2012/08/05/17-states-14-days "17 states in 14 days"
+ [9]: {{site.url}}/2012/04/30/in-the-press#discovery-channel "You never realize how important the ability to form coherent sentances is, until you lose it."
+ [10]: {{site.url}}/2012/08/05/17-states-14-days "17 states in 14 days"
  [11]: http://graffiatodc.com/menus/ "...at Graffiato. The've also got this Spinach and Bacon pizza that is fantastic."
  [12]: http://4.bp.blogspot.com/-zW_kjoacPlU/UL-Hr_sm_rI/AAAAAAAAFLw/O9lOk_f1JNE/s1600/IMG_1037.JPG "They don't call him Stinky Pete for nothing."
  [13]: http://2.bp.blogspot.com/-IeYkDNxJzAE/UH8H-Vq4wQI/AAAAAAAAE74/rZkK2wXJd7c/s1600/IMG_0895.JPG

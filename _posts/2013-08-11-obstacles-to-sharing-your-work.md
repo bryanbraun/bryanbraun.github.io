@@ -3,7 +3,7 @@ title: "Obstacles to sharing your work"
 date: 2013-08-11 14:05:02
 ---
 
-I suppose that for the common person there are two unanswered questions that make <a href="http://bryanbraun.com/2013/08/10/change-the-world-with-5-more-effort" title="Change the world with 5 percent more effort">sharing your work</a> difficult.
+I suppose that for the common person there are two unanswered questions that make <a href="{{site.url}}/2013/08/10/change-the-world-with-5-more-effort" title="Change the world with 5 percent more effort">sharing your work</a> difficult.
 
 1. Where will I put it? and
 2. How will the person who is looking for it, find it?
@@ -19,7 +19,7 @@ As for #1 here are a couple suggestions:
 * For website templates, put them on <a href="http://www.opendesigns.org/">opendesigns.org</a>
 * For music put it on <a href="https://soundcloud.com/">soundcloud</a>, and consider applying <a href="https://blog.soundcloud.com/2013/07/31/what-is-creative-commons/">the Creative Commons license</a>.
 * For nearly anything, start up a free blog with <a href="https://blogger.com/">blogger</a> or <a href="https://wordpress.com/">wordpress</a> and start putting stuff up there.
-* For complete control over all your stuff. <a href="https://bryanbraun.com/contact">Ask me</a> how to set up your own website so you can host it all yourself.
+* For complete control over all your stuff. <a href="{{site.url}}/contact">Ask me</a> how to set up your own website so you can host it all yourself.
 
 I'm sure there are also communities for graphic design, CAD, architecture, animation, and other various topics. This list is just to show you that there are lots of places out there, if you look.
 

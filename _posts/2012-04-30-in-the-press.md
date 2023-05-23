@@ -27,7 +27,7 @@ Just kidding!
 
 If you missed the program, there will be a rebroadcast on Monday, April 30th at 4pm Mountain Time. I'll also try to get a copy the the recording for my "[In the News][2]" page.
 
- [2]: https://bryanbraun.com/news
+ [2]: {{site.url}}/news
 
 But it didn't stop there! We got called up by a program that runs on Discovery Channel Canada called [Daily Planet](https://web.archive.org/web/20120510040430/http://www.discoverychannel.ca/Showpage.aspx?sid=13287) which covers breakthroughs in science and technology from around the world. I volunteered to be interviewed for the show and put BYU in the national spotlight. How <a href="https://twitter.com/DailyPlanet/status/195296047327752193">cool</a> is that? One of the guys at BYU Media told me that it isn't often that BYU gets to be featured on Discovery Channel. It was an opportunity I couldn't pass up!
 

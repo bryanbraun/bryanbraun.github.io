@@ -36,4 +36,4 @@ Even Eliza, Hamilton's wife... the one person who could be satisfied with the si
 
 I think that's what gets me the most. Life is so short, and [we have so much potential][5], that there's a constant tension between being satisfied with what we have, and anxious about what we still want to do. That tension ebbs and flows but it never goes away. And Hamilton's story communicates that better than any other I've seen.
 
- [5]: http://www.bryanbraun.com/2014/07/21/the-relentless-increase-in-opportunity-costs
+ [5]: {{site.url}}/2014/07/21/the-relentless-increase-in-opportunity-costs

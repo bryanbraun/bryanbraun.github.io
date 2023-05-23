@@ -23,4 +23,4 @@ It didn't matter that the weather was warm, with 94% humidity. It didn't matter 
 
 I'm a big believer in the unglamorous consistent [grinding effort][1] that we often don't see behind the moments of triumph. I'm going to back off of running for a while, but whatever I end up doing instead, you can bet I'll be planning on putting in the miles.
 
- [1]: http://www.bryanbraun.com/2016/02/08/don-hertzfeldt-on-creative-work
+ [1]: {{site.url}}/2016/02/08/don-hertzfeldt-on-creative-work

@@ -19,7 +19,7 @@ Tired of [Writer's](http://drupal.org/project/writer) default front page? Don't 
     <img src="/assets/images/teaser-view.png" alt="Standard with teaser thumbnail" class="fp-img" />
   </p>
 
-  <div class="fp-links">    
+  <div class="fp-links">
     <p>
       Exported View:<br /><a href="/assets/documents/standard_with_teaser.txt">Get the export</a>
     </p>
@@ -75,6 +75,6 @@ With the Views import/export feature, you can have these running on your site in
 If you have a custom front page and want to share the exported view, then [contact me][2], and I'll add it to the list.
 
  [1]: /assets/images/import_screen.png
- [2]: http://bryanbraun.com/contact
+ [2]: {{site.url}}/contact
 
 Happy theming.

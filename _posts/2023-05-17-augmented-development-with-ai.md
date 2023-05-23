@@ -34,7 +34,7 @@ My talk also included an "AI reading list" with all my favorite articles on the 
 * [AI-enhanced development makes me more ambitious with my projects](https://simonwillison.net/2023/Mar/27/ai-enhanced-development/) - Simon Willison
 * [[Podcast] GPT-4, ChatGPT, and the Future of AI](https://lexfridman.com/sam-altman/) - Lex Friedman & Sam Altman
 
-If you know of any good ones I didn't mention [email them to me](https://www.bryanbraun.com/contact/) or leave them in [the comments](#comments).
+If you know of any good ones I didn't mention [email them to me]({{site.url}}/contact/) or leave them in [the comments](#comments).
 
 ## The full talk
 

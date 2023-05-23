@@ -13,4 +13,4 @@ A year ago, I had just moved out east, having spent most of my life in the slowe
 
 Perhaps as a coping mechanism, I started to think: Maybe their baseline skills are higher than mine, but I'm determined to catch up somehow. And I'll do it by getting 1% better every day.
 
-1% isn't a lot, but <strong>every day</strong> is powerful. [Like compounding interest](https://www.bryanbraun.com/2015/11/17/compounding-benefits/), it will turn a small persistent effort into a powerful wave of growth. It's slow, it's relentless, and I think I can see it working.
+1% isn't a lot, but <strong>every day</strong> is powerful. [Like compounding interest]({{site.url}}/2015/11/17/compounding-benefits/), it will turn a small persistent effort into a powerful wave of growth. It's slow, it's relentless, and I think I can see it working.

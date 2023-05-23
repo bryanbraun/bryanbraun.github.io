@@ -21,6 +21,6 @@ There are hundreds of approaches to freeing information, from [President Obama's
  [3]: http://www.freebase.com/
  [4]: http://en.wikipedia.org/wiki/Main_Page
  [5]: https://creativecommons.org/
- [6]: http://bryanbraun.com/2014/03/13/how-do-we-free-information
+ [6]: {{site.url}}/2014/03/13/how-do-we-free-information
 
 I don't pretend to believe that free access to information will solve the worlds problems. It won't. But put the right information in the right hands at the right time, and it can change lives. It's certainly changed mine.

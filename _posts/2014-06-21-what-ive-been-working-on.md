@@ -20,7 +20,7 @@ Isn't that great?
 
 I think so, and I want to see more of that. But making a book like "Pro Git" is actually quite a bit of work... not just the writing but buidling a technology stack that can manage both community collaboration and publishing the site online. I wanted to remove some of that [friction][6]. 
 
- [6]: http://www.bryanbraun.com/2013/07/16/friction-is-a-tool
+ [6]: {{site.url}}/2013/07/16/friction-is-a-tool
 
 I thought, why not use Github for collaboration, and Bitbooks for publishing?
 
