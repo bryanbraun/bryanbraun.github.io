@@ -104,4 +104,4 @@ Whether you've been working with Drupal for 6 days or 6 years, there's a lot lef
 
 I've had several requests to see some of my cards and while I recommend you build your own, I do think that seeing somebody else's may be useful as an example. Thus, I've included them at the link below. They're not perfect, especially the early ones I made, but they may give you some ideas.
 
-<a href="{{site.url}}/assets/images/Bryan%27s%20Programming%20Deck.apkg">Bryan's Programming Deck</a>
+<a href="{{site.url}}/assets/documents/Bryan%27s%20Programming%20Deck.apkg">Bryan's Programming Deck</a>
