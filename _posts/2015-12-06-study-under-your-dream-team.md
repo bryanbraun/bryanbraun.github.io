@@ -1,6 +1,9 @@
 ---
 title: 'Study under your Dream Team'
 date: 2015-12-06 22:44:43
+related: [
+  "Location, Location, Location (putting yourself in the right spot)"
+]
 ---
 
 Picture the most amazing semester of school of all time... one where each class is being taught by any living person of your choice. Who would you pick to be your teachers?
