@@ -1,6 +1,7 @@
 ---
 title: "The stories we tell ourselves"
 date: 2023-06-06
+updated: 2023-06-27
 related: [
   "We don't control outcomes",
   "The Growth Mindset",
@@ -29,7 +30,7 @@ David Foster Wallace, describes a number of fragile stories in [his commencement
 
 > “If you worship money and things — if they are where you tap real meaning in life — then you will never have enough. Never feel you have enough. It’s the truth. Worship your own body and beauty and sexual allure and you will always feel ugly, and when time and age start showing, you will die a million deaths before they finally plant you... Worship power — you will feel weak and afraid, and you will need ever more power over others to keep the fear at bay. Worship your intellect, being seen as smart — you will end up feeling stupid, a fraud, always on the verge of being found out.”
 
-These values seem so obviously bad that we'd never think of ourselves adopting them. Me? Worshiping money? Never!
+These values seem so obviously bad that we'd never think of ourselves adopting them. Me? Worshiping power?
 
 The problem is that these values slowly form without us even realizing it. David Foster Wallace continues:
 
@@ -51,23 +52,27 @@ Journaling around questions like this, or asking people close to you are probabl
 
 ## Deliberately choosing robust stories
 
-There's a reason to be aware of our stories: it's to make them work for us.
+There's a reason to be aware of our stories: it's so we can change them when they aren't working for us.
 
-Derek Sivers [gives a parable of a runner](https://sive.rs/run) who decides to imagine that a tiger is chasing them because it makes them run faster. The tiger isn't actually there, but does that matter if it helps the runner reach their goal? Derek [later explains](https://sive.rs/run2):
+Consider this example from Victor Frankl's "Man's Search for Meaning":
 
-> Actions come from emotions. Emotions come from beliefs. So choose whatever belief makes you take the action you want.
+> "Once, an elderly practitioner consulted me because of his severe depression. He could not overcome the loss of his wife who had died two years before and whom he had loved above all else. Now, how could I help him? What should I tell him? Well, I refrained from telling him anything but instead confronted him with the question, “What would have happened, Doctor, if you had died first, and your wife would have had to survive you?” “Oh,” he said, “for her this would have been terrible; how she would have suffered!”. Whereupon I replied, “You see, Doctor, such a suffering has been spared her, and it was you who have spared her this suffering — to be sure, at the price that now you have to survive and mourn her.” He said no word but shook my hand and calmly left my office. In some way, suffering ceases to be suffering at the moment it finds a meaning, such as the meaning of sacrifice."
+
+All it took was a new story—a better story—and everything changed.
+
+Imagine how much better our lives could be if we could **deliberately choose** our stories, instead of adopting whatever random narratives drift across our news and social media feeds. We'd have this powerful tool for helping us overcome obstacles and break out of bouts of unhappiness<a href="#footnote-1"><sup>1</sup></a>.
+
+!["Pain is a fact. Suffering is a choice" - Naval Ravikant]({{site.url}}/assets/images/pain-vs-suffering.jpg)
+
+Derek Sivers [talks about](https://sive.rs/run2) how choosing our stories can drive us to action:
+
+> Actions come from emotions. Emotions come from beliefs. **So choose whatever belief makes you take the action you want**.
 >
 > One belief makes you act selfish. Another belief makes you act generous. One thought makes you do something stupid. Another thought makes you do something smart. **What matters is the action they create**. So choose the thought that works for you.
 
-Deliberately changing our stories and adopting new ones can be a powerful tool for helping us overcome obstacles and break out of bouts of unhappiness<a href="#footnote-1"><sup>1</sup></a>. Consider the following two Naval Ravikant tweets:
+This is a great way to summon up motivation but it's a double-edged sword. Stories that drive us to action can just as easily drive away happiness. As [Naval Ravikant said](https://twitter.com/naval/status/846774878195757057), "*Desire is a contract that you make with yourself to be unhappy until you get what you want.*"
 
-> ["Pain is a fact. Suffering is a choice."](https://twitter.com/naval/status/1389064024378122241)
->
-> ["Desire is a contract that you make with yourself to be unhappy until you get what you want."](https://twitter.com/naval/status/846774878195757057)
-
-In both cases, there's a story that produces unhappiness. It seems obvious that letting go of the story would make things better.
-
-But it's still hard. If an athlete lets go of the need to win (in order to be happy), will they lose their edge? If it's your life's pursuit to win the Nobel prize, is the chance to achieve it worth the lost happiness along the way? I don't know.
+So what's an ambitious person to do? If an athlete lets go of the need to win (in order to be happy), will they lose their edge? If it's your life's pursuit to win the Nobel prize, is the chance to achieve it worth the lost happiness along the way? I don't know.
 
 Ultimately, robust stories don't depend on outcomes. Inherent value is robust. [Growth mindset]({{site.url}}/2011/07/18/the-growth-mindset/) is robust. Gratitude is robust. So is the belief that [all experiences provide something valuable to teach us]({{site.url}}/2020/05/07/i-wish-you-bad-luck/).
 

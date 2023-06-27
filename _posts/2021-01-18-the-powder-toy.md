@@ -65,7 +65,7 @@ All of the things I've mentioned above makes this an incredible educational game
 
 The elements and their properties are great primers for chemistry and materials science.
 
-The simulation of temperature, pressure, velocity, and gravity, helps develop [an intuition]({{site.url}}/2019/03/28/the-unique-power-of-games-in-building-intuition/). for physics.
+The simulation of temperature, pressure, velocity, and gravity, helps develop [an intuition]({{site.url}}/2019/03/28/the-unique-power-of-games-in-building-intuition/) for physics.
 
 The console and APIs gives you opportunities to tinker with programming.
 
