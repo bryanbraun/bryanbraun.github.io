@@ -1,7 +1,7 @@
 ---
 title: "Online Tools for Creative Kids"
 date: 2020-03-25
-updated: 2023-05-05
+updated: 2023-07-31
 related: [
   "Daily Demos: a ritual for raising kids that create",
   "The unique power of games in building intuition",
@@ -20,11 +20,11 @@ Anyways, here's our list as it currently stands:
 
 ## Art
 
-- **[Sumopaint.com](https://sumopaint.com)** is a solid online drawing paint app.
+- **[Sumopaint.com](https://sumo.app/)** is a solid online drawing paint app.
 - **[KidPix](https://kidpix.app/)** an online version of the classic KidPix 1.0 drawing app.
 - **[make8bitart.com](https://make8bitart.com)** is a lovely online pixel art editor.
 - **[Triangulart](https://maxwellito.github.io/triangulart)** is great for making isometric drawings. It's one of my favorites.
-- **[SandSpiel](https://sandspiel.club/)** is an online interactive sand environment that combines art and science.
+- **[SandSpiel](https://sandspiel.club/)** is an online interactive sand environment that combines art and science. Also see [Sandspiel studio](https://studio.sandspiel.club/) for even more creative power.
 
 …also:
 
@@ -32,7 +32,6 @@ Anyways, here's our list as it currently stands:
 - **[Sketches School](https://apps.apple.com/us/app/tayasui-sketches-school/id1354087061)** (iPad)
 - **[Spark](https://www.playspark.art/)** (iPad)
 - **[Chrome Canvas](https://support.google.com/chromebook/answer/9200774?hl=en)** (Chromebook only)
-
 
 ## Science
 

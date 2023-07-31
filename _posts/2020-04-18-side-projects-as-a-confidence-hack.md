@@ -1,6 +1,7 @@
 ---
 title: "Side-projects as a confidence hack"
 date: 2020-04-18
+updated: 2023-07-31
 related: [
   "Get your stuff out there",
   "How I choose a side project",
@@ -24,7 +25,7 @@ Side-projects are tangible. They are a thing you can point at and say "I made th
 
 "I took unfamiliar technologies and I figured them out. I ran into weird bugs, and I fixed them. I built [the whole thing](https://twitter.com/chriscoyier/status/1183782878276128768), from end-to-end. I powered through, and I shipped the thing."
 
-Every side-project is evidence of your competence. You've done it before, and you can do it again.
+Every side-project is [evidence of your competence](https://twitter.com/nateliason/status/1678509238333718529). You've done it before, and you can do it again.
 
 Confidence, as a developer, doesn't come from knowing everything. If so, nobody would have confidence.
 

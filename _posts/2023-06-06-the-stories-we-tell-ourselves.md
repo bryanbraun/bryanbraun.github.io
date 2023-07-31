@@ -62,7 +62,7 @@ All it took was a new story—a better story—and everything changed.
 
 Imagine how much better our lives could be if we could **deliberately choose** our stories, instead of adopting whatever random narratives drift across our news and social media feeds. We'd have this powerful tool for helping us overcome obstacles and break out of bouts of unhappiness<a href="#footnote-1"><sup>1</sup></a>.
 
-!["Pain is a fact. Suffering is a choice" - Naval Ravikant]({{site.url}}/assets/images/pain-vs-suffering.jpg)
+[!["Pain is a fact. Suffering is a choice" - Naval Ravikant]({{site.url}}/assets/images/pain-vs-suffering.jpg)](https://twitter.com/naval/status/1389064024378122241?lang=en)
 
 Derek Sivers [talks about](https://sive.rs/run2) how choosing our stories can drive us to action:
 
