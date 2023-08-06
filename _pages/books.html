@@ -7,8 +7,20 @@ redirect_from: /books/mans-search-meaning
 redirect_from: /books/whack-side-head
 ---
 
-<p>Whenever I read a book, I add it to the list below, give it a rating, and write up a brief synopsis describing the book and the insights it brought me. Is there a book you think I'll like? <a href="/contact">Let me know</a> and maybe it will show up here soon.</p>
+<p>Whenever I read a book, I add it to the list below, give it a rating, and write up a brief synopsis describing the book and the insights it brought me.
+  <span class="intro__subscribe">
+    <svg viewBox="0 0 800 800">
+      <path d="M493 652H392c0-134-111-244-244-244V307c189 0 345 156 345 345zm71 0c0-228-188-416-416-416V132c285 0 520 235 520 520z"></path>
+      <circle cx="219" cy="581" r="71"></circle>
+    </svg>
+    Follow along <a href="/books.xml">with RSS</a>
+  </span>
+</p>
+
+<p>Is there a book you think I'll like? <a href="/contact">Let me know</a> and maybe it will show up here soon.</p>
 <p><small>Inspired by the <a href="https://sivers.org/book" target="_blank" rel="noopener noreferrer">Derek Sivers booklist.</a></small></p>
+
+<hr />
 
 <div class="books">
   {% for book in site.books reversed %}
