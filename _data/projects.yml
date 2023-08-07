@@ -55,12 +55,12 @@
 
 - name: "Poor Man's Styleguide"
   desc: "A quick-and-dirty front-end styleguide, designed to be copied and pasted into your CMS"
-  url: https://www.poormansstyleguide.com
+  url: https://bryanbraun.com/poor-mans-styleguide/
   image: /assets/images/frontend-styleguide-template_0.png
 
 - name: "Bitbooks"
   desc: "[Retired] A service for generating online books from a Github repo full of markdown files"
-  url: https://www.bryanbraun.com/2015/10/20/bitbooks-closing-thoughts
+  url: https://bryanbraun.com/2015/10/20/bitbooks-closing-thoughts
   image: /assets/images/bitbooks_b2.png
 
 - name: "Franklin"
