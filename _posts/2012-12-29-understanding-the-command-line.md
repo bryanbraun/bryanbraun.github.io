@@ -22,4 +22,4 @@ And suddenly, I felt a sense of understanding for people of old age, who have no
 
 It's a perspective I hope I don't soon forget.
 
-(by the way, if you are also seeking to understand the command line, <a href="http://wiseheartdesign.com/articles/2010/11/12/the-designers-guide-to-the-osx-command-prompt/" title="It's for Mac OS only. Sorry Windows users.">this is the best tutorial I've ever found on the topic</a>)
+(by the way, if you are also seeking to understand the command line, <a href="https://web.archive.org/web/20160304020725/http://wiseheartdesign.com/articles/2010/11/12/the-designers-guide-to-the-osx-command-prompt/" title="It's for Mac OS only. Sorry Windows users.">this is the best tutorial I've ever found on the topic</a>)
