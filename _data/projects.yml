@@ -1,3 +1,8 @@
+- name: "Cloudflare Purge Alfred Workflow"
+  desc: "An Alfred workflow for purging the cache on a website."
+  url: https://github.com/bryanbraun/cloudflare-purge-alfred-workflow
+  image: /assets/images/cloudflare-alfred-project.png
+
 - name: "Checkboxland"
   desc: "A JavaScript library for rendering anything as HTML checkboxes"
   url: http://bryanbraun.github.io/checkboxland
