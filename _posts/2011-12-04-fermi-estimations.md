@@ -6,9 +6,7 @@ date: 2011-12-04 23:37:59
 
 I love this commercial... especially the way the owl says "two-hoo!" He also sounds like the owl on Winnie the Pooh.
 
-<p>
-  <iframe width="640" height="360" src="https://www.youtube.com/embed/LZ0epRjfGLw?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
-</p>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/LZ0epRjfGLw?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 The world may never know... if it weren't for <a href="http://en.wikipedia.org/wiki/Enrico_Fermi">Enrico Fermi</a>.
 

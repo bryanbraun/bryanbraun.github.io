@@ -4,8 +4,8 @@
 }
 
 /* Override any syntax highlighting that indicates invalid syntax. This seems nice
-   in theory but in practices I often want to put elipsis characters (like ⋮ or … )
-   into my code examples, which is technically invalid but helps keep things succint.
+   in theory but in practices I often want to put ellipsis characters (like ⋮ or … )
+   into my code examples, which is technically invalid but helps keep things succinct.
 */
 .highlight .err {
   background-color: transparent;

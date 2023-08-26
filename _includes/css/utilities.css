@@ -34,3 +34,9 @@
   padding: 0 !important;
   margin: 0 !important;
 }
+
+.fake-link {
+  color: var(--link-1-color);
+  text-decoration: underline;
+  cursor: pointer;
+}

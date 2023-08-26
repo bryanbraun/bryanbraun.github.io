@@ -7,4 +7,4 @@ Happy holidays, from Bryan, Holly, Heidi, and the Brisons.
 
 <img alt="Family photo with everyone holding musical instruments" src="/assets/images/Brison-Band.jpg" />
 
-<p>We're music folk....</p>
+We're music folk....

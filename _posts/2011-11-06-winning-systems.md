@@ -29,10 +29,6 @@ But why would anyone want to hire an unmotivated, incompetent fool? You wouldn't
 
 McDonalds famously made it so easy to make a hamburger that they could literally pull teenagers off the streets and have them cooking your food in a matter of hours. Cooking isn't that easy. McDonalds designed a winning system.
 
-<p>
-  <img alt="McDonalds Logo" src="http://blog.mysanantonio.com/downtown/files/2011/07/mcdonalds.png" title="McDonalds Logo" />
-</p>
-
 Winning systems are the key to overcoming procrastination. [This neat video](https://www.youtube.com/watch?v=DJ2T4-rUUcs) describes how beating procrastination means outsmarting your future self (it's a book promo... a very convincing one).
 
 My mission president used to say, "If you always do what you've always done, then you'll always get what you've always got." In other words, if you are trying to overcome a weakness, it does no good just to "try harder." We can't just _will ourselves_ more self-control. We have to change our tactics, find the loopholes, and create a new method for beating our weaknesses.
