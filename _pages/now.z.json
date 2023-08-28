@@ -28,7 +28,7 @@ permalink: /now.json
   ],
   "items": [
     {
-      "id": "1",
+      "id": "{{ nowPage.date }}",
       "url": "{{ site.url }}{{ nowPage.url }}",
       "date_published": "{{ nowPage.date | date_to_xmlschema }}",
       "title": "{{ nowPage.title }}",
