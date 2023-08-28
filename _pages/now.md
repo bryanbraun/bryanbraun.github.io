@@ -1,24 +1,26 @@
 ---
 title: Now
-date: 2023-05-11 # last updated
+date: 2023-08-27 # last updated
 excerpt: What I'm doing now.
 permalink: /now/
 ---
 
-I'm at home in Dayton Ohio. The weather is warm, the flowers have bloomed, and I'm spending more time outdoors (mostly walking, biking, and doing yard work).
+I'm at home in Dayton Ohio. All of the kids are in school and things are a bit quieter at home. A possum has started hanging around our house in the evenings, along with the bunnies, bees, and mosquitos we often see at this time of year.
 
 ## At Work
 
-I'm over a year into my remote Software Engineering position at [Formidable](https://formidable.com/). I feel very fortunate to be here a time when the industry has been contracting a bit. For the last few months I've been building out a GraphQL API using Apollo and Node. It's been interesting working on backend code after several years of doing frontend. There's always something new to learn.
+I've been working remotely as a Software Engineer at [Formidable](https://formidable.com/) for over a year and a half. Most recently, I've been bouncing between backend and frontend, making improvements to a GraphQL API and building out ApplePay integrations. I've done a lot of e-commerce work in the last few years and I can feel the momentum of that experience helping me today.
 
 ## At Home
 
-I've been getting more into health and fitness recently. In February I started listening to [the Huberman Lab podcast](https://hubermanlab.com/), measuring body fat, tracking calories, eating more protein, and weight-lifting twice a week. I've never really focused on this kind of stuff in the past so it's taught me a lot about food and exercise. Over the past year, my bench press max has increased from 140 to 195 lbs (I have a goal to bench 200). It feels pretty good to be "the strongest I've ever been." 🏋️‍♂️
+I've been getting more into health and fitness recently. I recently finished a 6-month calorie-tracking experiment where I ended up accidentally losing 16 pounds. It was the lowest I've weighed since high-school, which was a bit extreme. I've since stopped tracking calories and I intend to gain about half of that weight back. Regardless, I learned a lot and I hope to keep several of [the habits I picked up](https://www.bryanbraun.com/2023/08/22/good-eating-habits/).
 
-I've been easing back into side projects and blogging. I recently gave a talk at Dayton Web Developers about augmented programming using AI tools ([recording here](https://www.youtube.com/watch?v=lDyBR4XkC5A), [slides here](https://docs.google.com/presentation/d/1JbBrACpAlFWew3nNQ4C0VET6v1Ow1TDS4TQt_lV125E/edit#slide=id.g4dfce81f19_0_45)). I have more things I want to do but I'll probably be taking it slow. Family comes first!
+In August, I finally [reached my goal of bench-pressing 200 lbs](https://www.bryanbraun.com/2023/08/26/200-lbs/). It became increasingly challenging to make progress near the end, so it was exhilarating to finally get it. I plan to continue weightlifting but I may switch up the exercising I want to focus on.
+
+I've been easing back into side projects and blogging. I have [a new side-project](https://github.com/bryanbraun/lets-get-creative) that I'm excited about. Progress is consistent but slow, due to house-projects and early mornings taking my son to school. That's ok. Family comes first!
 
 ---
 
 _This page was inspired by Derek Sivers and [his /now page](https://sivers.org/now)._
 
-_This page was last updated: May 17th, 2023_
+_This page was last updated: {{ page.date | date_to_string: "ordinal", "US" }}_
