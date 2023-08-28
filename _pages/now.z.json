@@ -1,0 +1,39 @@
+---
+title: Now JSON Feed
+layout: null
+permalink: /now.json
+
+# This file is named now.z.json instead of now.json because Jekyll
+# renders pages alphabetically and we need now.md to be rendered
+# before this file in order for nowPage.content to be fully rendered
+# (with liquid and markdown content). For more details, see:
+# https: //github.com/jekyll/jekyll/issues/1232#issue-15818557
+---
+
+{%- assign nowPage = site.pages | where: 'title', 'Now' | first -%}
+
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "home_page_url": "{{ site.url }}{{ nowPage.url }}",
+  "title": "Bryan Braun - {{ nowPage.title }}",
+  "description": "{{ nowPage.excerpt }}",
+  "feed_url": "{{ site.url }}/now.json",
+  "favicon": "{{ site.url }}/assets/images/feed-favicon.png",
+  "icon": "{{ site.url }}/assets/images/feed-icon.png",
+  "language": "en-US",
+  "authors": [
+    {
+      "name": "{{ site.author }}"
+    }
+  ],
+  "items": [
+    {
+      "id": "1",
+      "url": "{{ site.url }}{{ nowPage.url }}",
+      "date_published": "{{ nowPage.date | date_to_xmlschema }}",
+      "title": "{{ nowPage.title }}",
+      "summary": "{{ nowPage.excerpt }}",
+      "content_html": {{ nowPage.content | jsonify }}
+    }
+  ]
+}

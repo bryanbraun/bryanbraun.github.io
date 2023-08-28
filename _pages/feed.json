@@ -8,7 +8,7 @@ permalink: /feed.json
   "home_page_url": "{{ site.url }}",
   "title": "{{ site.title }}",
   "description": {{ site.description | jsonify }},
-  "feed_url": "{{ site.url }}/feed.json",
+  "feed_url": "{{ site.url }}{{ page.permalink }}",
   "favicon": "{{ site.url }}/assets/images/feed-favicon.png",
   "icon": "{{ site.url }}/assets/images/feed-icon.png",
   "language": "en-US",
@@ -17,15 +17,16 @@ permalink: /feed.json
       "name": {{ site.author | jsonify }}
     }
   ],
-  "items": [{% for post in site.posts limit: 10 %}
-    {
-      "id": "{{ post.id }}",
-      "url": "{{ site.url }}{{ post.url }}",
-      "date_published": "{{ post.date | date_to_xmlschema }}",
-      "title": {{ post.title | jsonify }},
-      "summary": {{ post.excerpt | strip_html | strip_newlines | jsonify }},
-      "content_html": {{ post.content | strip_newlines | jsonify }}
-    }{% unless forloop.last == true %},{% endunless %}
+  "items": [
+    {% for post in site.posts limit: 10 %}
+      {
+        "id": "{{ post.id }}",
+        "url": "{{ site.url }}{{ post.url }}",
+        "date_published": "{{ post.date | date_to_xmlschema }}",
+        "title": {{ post.title | jsonify }},
+        "summary": {{ post.excerpt | strip_html | strip_newlines | jsonify }},
+        "content_html": {{ post.content | strip_newlines | jsonify }}
+      }{% unless forloop.last == true %},{% endunless %}
     {% endfor %}
   ]
 }

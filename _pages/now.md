@@ -1,6 +1,7 @@
 ---
-title: What I'm doing now
-excerpt: A brief description of what I'm doing now.
+title: Now
+date: 2023-05-11 # last updated
+excerpt: What I'm doing now.
 permalink: /now/
 ---
 
