@@ -25,7 +25,11 @@ redirect_from: /books/whack-side-head
 <div class="books">
   {% for book in site.books reversed %}
     <div class="book">
-      <h2>{{ book.title }}</h2>
+      {% comment %}
+        We use slugify to create anchor link IDs because we want to be able to
+        generate the same links in our JSON feed, where AnchorJS isn't available.
+      {% endcomment %}
+      <h2 id="{{ book.title | slugify }}">{{ book.title }}</h2>
       <div>Author: {{ book.author }}</div>
       <div>Read: {{ book.date | date: "%b %Y" }}</div>
       <div>Rating: {{ book.rating }}</div>

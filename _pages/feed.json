@@ -5,16 +5,17 @@ permalink: /feed.json
 ---
 {
   "version": "https://jsonfeed.org/version/1.1",
+  "user_comment": "This feed allows you to read the posts from this site in any feed reader that supports the JSON Feed format. To add this feed to your reader, copy the following URL — {{ site.url }}{{ page.url }} — and add it your reader.",
   "home_page_url": "{{ site.url }}",
   "title": "{{ site.title }}",
-  "description": {{ site.description | jsonify }},
+  "description": "{{ site.description }}",
   "feed_url": "{{ site.url }}{{ page.permalink }}",
   "favicon": "{{ site.url }}/assets/images/feed-favicon.png",
   "icon": "{{ site.url }}/assets/images/feed-icon.png",
   "language": "en-US",
   "authors": [
     {
-      "name": {{ site.author | jsonify }}
+      "name": "{{ site.author }}"
     }
   ],
   "items": [

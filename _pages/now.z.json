@@ -5,7 +5,7 @@ permalink: /now.json
 
 # This file is named now.z.json instead of now.json because Jekyll
 # renders pages alphabetically and we need now.md to be rendered
-# before this file in order for nowPage.content to be fully rendered
+# before this file in order for nowPage.content to be embeddable
 # (with liquid and markdown content). For more details, see:
 # https: //github.com/jekyll/jekyll/issues/1232#issue-15818557
 ---
@@ -17,7 +17,7 @@ permalink: /now.json
   "home_page_url": "{{ site.url }}{{ nowPage.url }}",
   "title": "Bryan Braun - {{ nowPage.title }}",
   "description": "{{ nowPage.excerpt }}",
-  "feed_url": "{{ site.url }}/now.json",
+  "feed_url": "{{ site.url }}{{ page.url }}",
   "favicon": "{{ site.url }}/assets/images/feed-favicon.png",
   "icon": "{{ site.url }}/assets/images/feed-icon.png",
   "language": "en-US",
