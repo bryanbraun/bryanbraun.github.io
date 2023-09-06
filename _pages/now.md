@@ -24,3 +24,5 @@ I've been easing back into side projects and blogging. I have [a new side-projec
 _This page was inspired by Derek Sivers and [his /now page](https://sivers.org/now)._
 
 _This page was last updated: {{ page.date | date_to_string: "ordinal", "US" }}_
+
+_Subscribe to future updates by adding [the feed]({{site.url}}/now.json) to your feed reader ([more details here](https://aboutfeeds.com/))_

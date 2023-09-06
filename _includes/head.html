@@ -40,9 +40,20 @@
   <link rel="icon" href="/favicon.ico">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.url }}">
 
-  <!-- Include meta tags for JSONFeed (/feed.json), and atom+xml (/rss.xml) -->
-  <link rel="alternate" type="application/json" title="{{ site.title }}" href="{{ '/feed.json' | prepend: site.baseurl | prepend: site.url }}" />
+  {% comment %}
+    RSS Feeds!
+    Make the blog feed discoverable on every page: JSONFeed (/feed.json) and Atom (/rss.xml)
+    Make other feeds discoverable on their respective pages: books (/books.json) and now (/now.json).
+  {% endcomment %}
+
   {% feed_meta %}
+  <link rel="alternate" type="application/feed+json" title="Bryan Braun - Blog" href="{{ '/feed.json' | prepend: site.baseurl | prepend: site.url }}" />
+  {% if page.url == '/books/' %}
+    <link rel="alternate" type="application/feed+json" title="Bryan Braun - Books" href="{{ '/books.json' | prepend: site.baseurl | prepend: site.url }}" />
+  {% endif %}
+  {% if page.url == '/now/' %}
+    <link rel="alternate" type="application/feed+json" title="Bryan Braun - Now" href="{{ '/now.json' | prepend: site.baseurl | prepend: site.url }}" />
+  {% endif %}
 
   {% comment %}
     Inline our CSS because it's below 14k (as recommended in https://hackernoon.com/10-things-i-learned-making-the-fastest-site-in-the-world-18a0e1cdf4a7)
