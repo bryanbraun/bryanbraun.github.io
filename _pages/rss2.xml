@@ -1,13 +1,11 @@
 ---
 layout: null
 permalink: /rss2.xml
+
+# A custom RSS/Atom Template, based on the one in the jekyll-feed repo:
+# https://github.com/jekyll/jekyll-feed/blob/master/lib/jekyll-feed/feed.xml
+# The <xml> tag should start on the first empty line, to ensure the feed is valid.
 ---
-
-{% comment %}
-  A custom RSS/Atom Template, based on the one in the jekyll-feed repo:
-  https://github.com/jekyll/jekyll-feed/blob/master/lib/jekyll-feed/feed.xml
-{% endcomment %}
-
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" {% if site.lang %}xml:lang="{{ site.lang }}"{% endif %}>
   <generator uri="https://jekyllrb.com/" version="{{ jekyll.version }}">Jekyll</generator>
@@ -15,6 +13,7 @@ permalink: /rss2.xml
   <link href="{{ '/' | absolute_url }}" rel="alternate" type="text/html" {% if site.lang %}hreflang="{{ site.lang }}" {% endif %}/>
   <updated>{{ site.time | date_to_xmlschema }}</updated>
   <id>{{ page.url | absolute_url | xml_escape }}</id>
+  <icon>{{ site.url}}/assets/images/feed-favicon.png</icon>
 
   <title type="html">Bryan Braun - Blog</title>
   <subtitle>{{ site.description | xml_escape }}</subtitle>
