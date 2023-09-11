@@ -20,15 +20,15 @@ This is the least interesting reason, so I won't dwell much on it. Rails is a wo
 
 ## It helps me understand other technologies better
 
-Rails has influenced nearly every web technology that came after it in some way, so being familiar with Rails makes you familiar with all of them, at least to some degree. Back in April as part of my work I was dropped into a Laravel codebase for a couple of hours to do a quick audit. I had never been in a Laravel codebase before, but because I understood rails, I was able to find my way around and start adding value immediately. The same thing happened to me with a SailsJS codebase in May.
+Rails has influenced nearly every web technology that came after it in some way, so being familiar with Rails makes you familiar with all of them, at least to some degree. Back in April as part of my work I was dropped into a Laravel codebase for a couple of hours to do a quick audit. I had never been in a Laravel codebase before, but because I understood Rails, I was able to find my way around and start adding value immediately. The same thing happened to me with a SailsJS codebase in May.
 
-It's not just MVC frameworks either. Learning rails means you're getting exposed to ideas around testing, asset management, data migrations, templating, background jobs, deployment automation, APIs, HTTP methods and more. These ideas are going crop up all over the stack throughout your career.
+It's not just MVC frameworks either. Learning Rails means you're getting exposed to ideas around testing, asset management, data migrations, templating, background jobs, deployment automation, APIs, HTTP methods and more. These ideas are going crop up all over the stack throughout your career.
 
 The point is, learning Rails was a **force multiplier** because it gave me mental models which I could apply and reapply in all sorts of situations.
 
 ## It helps me communicate with other developers
 
-You may be just starting your backend journey, but a whole generation of backend developers grew up building rails apps. Many of those developers are now senior developers, technical directors, and team leads—people you need to be able to communicate with. I can't count how many times in the last year I've relied on "Rails-y" terminology (words like "actions," "associations," "resources," and "helpers") to explain something or ask a question of my team. 
+You may be just starting your backend journey, but a whole generation of backend developers grew up building Rails apps. Many of those developers are now senior developers, technical directors, and team leads—people you need to be able to communicate with. I can't count how many times in the last year I've relied on "Rails-y" terminology (words like "actions," "associations," "resources," and "helpers") to explain something or ask a question of my team.
 
 <hr class="section-divider">
 

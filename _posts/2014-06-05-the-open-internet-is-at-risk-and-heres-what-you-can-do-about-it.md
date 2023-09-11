@@ -16,7 +16,7 @@ date: 2014-06-05 18:51:41
 >
 > Bryan Braun
 
-I wrote this rather boring email in response to a [rather troubling FCC proposal][1] threatening Net Neutrality. You have likely heard something about this, and I won't go to the trouble to try and explain it clearly. Others have done that much better than I could... this is the best explaination I could find:
+I wrote this rather boring email in response to a [rather troubling FCC proposal][1] threatening Net Neutrality. You have likely heard something about this, and I won't go to the trouble to try and explain it clearly. Others have done that much better than I could... this is the best explanation I could find:
 
 (you may also enjoy [this one][2], if late-night comedy is more your thing)
 
