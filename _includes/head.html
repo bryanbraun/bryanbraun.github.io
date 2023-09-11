@@ -46,7 +46,7 @@
     Make other feeds discoverable on their respective pages: books (/books.json) and now (/now.json).
   {% endcomment %}
 
-  {% feed_meta %}
+  <link rel="alternate" type="application/atom+xml" title="Bryan Braun - Blog" href="{{ '/rss.xml' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/feed+json" title="Bryan Braun - Blog" href="{{ '/feed.json' | prepend: site.baseurl | prepend: site.url }}" />
   {% if page.url == '/books/' %}
     <link rel="alternate" type="application/feed+json" title="Bryan Braun - Books" href="{{ '/books.json' | prepend: site.baseurl | prepend: site.url }}" />

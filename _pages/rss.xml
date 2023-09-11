@@ -1,10 +1,10 @@
 ---
 layout: null
-permalink: /rss2.xml
+permalink: /rss.xml
 
 # A custom RSS/Atom Template, based on the one in the jekyll-feed repo:
 # https://github.com/jekyll/jekyll-feed/blob/master/lib/jekyll-feed/feed.xml
-# The <xml> tag should start on the first empty line, to ensure the feed is valid.
+# The <xml> tag should start on the first empty line, or the feed will be invalid.
 ---
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" {% if site.lang %}xml:lang="{{ site.lang }}"{% endif %}>
