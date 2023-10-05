@@ -45,7 +45,7 @@ What about the commit we wanted to edit? It's in the past. If we do a `git log`,
 ```
 $ git log
 commit e081013caa58d6aef84dcde1050fabcaf81a82fc (HEAD)
-Author: Bryan Braun <bbraun7@gmail.com>
+Author: Bryan Braun
 Date:   Thu Jan 3 14:22:21 2019 -0500
 
     feat: make changes to deploy scripts

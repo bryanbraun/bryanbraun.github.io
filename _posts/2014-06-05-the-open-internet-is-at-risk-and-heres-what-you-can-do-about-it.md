@@ -4,7 +4,7 @@ date: 2014-06-05 18:51:41
 ---
 
 > **To:** openinternet@fcc.gov
-> **From:** Bryan Braun <bbraun7@gmail.com>
+> **From:** Bryan Braun
 > **Date:** Wed, Jun 4, 2014 at 11:19 PM
 > **Subject:** Comment on proceeding 14-28 -- Protecting and Promoting the Open Internet
 >
