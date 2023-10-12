@@ -1,6 +1,7 @@
 ---
 title: "Things I wish someone would have told me about configuring VSCode"
 date: 2023-08-10
+updated: 2023-10-12
 related: [
   "Understanding the Command Line",
   "Vim Color Schemes: A Call for Designers",
@@ -69,4 +70,4 @@ There's nothing wrong with GitLens, if you need it. But if you don't, that's les
 
 <hr class="section-divider">
 
-That covers most of my recent VSCode discoveries. I could keep going, telling you about my favorite extensions and shortcuts but lots of other people are sharing that kind of stuff. If you want more, maybe check out [vscodecandothat.com](https://vscodecandothat.com) or [vscode.email](https://vscode.email).
+That covers most of my recent VSCode discoveries. I could keep going, telling you about my favorite extensions and shortcuts but lots of other people are sharing that kind of stuff. If you want more, maybe check out [vscodecandothat.com](https://web.archive.org/web/20230807073335/https://vscodecandothat.com/) or [vscode.email](https://vscode.email).
