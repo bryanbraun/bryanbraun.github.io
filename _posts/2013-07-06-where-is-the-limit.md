@@ -3,7 +3,7 @@ title: "Where is the limit?"
 date: 2013-07-06 05:56:19
 ---
 
-I was listening to an interview with <a href="http://en.wikipedia.org/wiki/David_Heinemeier_Hansson"><span class="s1">DHH</span></a>, when he began talking about his hobby of racing. I found this gem in the middle of the discussion.
+I was listening to an interview with <a href="http://en.wikipedia.org/wiki/David_Heinemeier_Hansson">DHH</a>, when he began talking about his hobby of racing. I found this gem in the middle of the discussion.
 
 > I think the key thing holding a lot of people back from racing or a lot of other pursuits is just this innate fear of the limit. In racing, the limit is when the tires are going to give up their hold on the asphalt and let go. So to find where that limit is, you have to overstep it. You have to go beyond the limit to know where that limit is and then be able to ride it.
 >

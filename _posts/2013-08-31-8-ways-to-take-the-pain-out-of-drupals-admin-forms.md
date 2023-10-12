@@ -53,7 +53,7 @@ By default, Drupal gives you three basic multi-select options: checkboxes, autoc
 
       <td valign="top">
         <p>
-          <span class="s1"><a href="https://drupal.org/project/multicolumncheckboxesradios">Multicolumn checkboxes radios</a></span> <small><a href="#footnote1">[1]</a></small>, Styling to display checkboxes in multiple columns.
+          <a href="https://drupal.org/project/multicolumncheckboxesradios">Multicolumn checkboxes radios</a> <small><a href="#footnote1">[1]</a></small>, Styling to display checkboxes in multiple columns.
         </p>
 
         <p>
@@ -346,9 +346,9 @@ The web has charged ahead since the last release of Drupal, and HTML5 supports m
   </tbody>
 </table>
 
-The Elements module provides developer tools instead of widgets you can add through the UI, but it's still nice to have modern form elements easily available to developers. You can also try out one of <a href="https://groups.drupal.org/node/205298"><span class="s1">the many options for HTML5 drag and drop file uploads</span></a> and see if there's one that suits your needs.
+The Elements module provides developer tools instead of widgets you can add through the UI, but it's still nice to have modern form elements easily available to developers. You can also try out one of <a href="https://groups.drupal.org/node/205298">the many options for HTML5 drag and drop file uploads</a> and see if there's one that suits your needs.
 
-With <a href="https://drupal.org/node/1183606"><span class="s1">a handful of these features going into Drupal 8</span></a>, and <a href="https://drupal.org/node/1683838"><span class="s1">other good ones</span></a> <a href="https://drupal.org/node/491022"><span class="s1">in the works</span></a>, there's a lot of progress in this space. In the mean time, these modules will take you far.
+With <a href="https://drupal.org/node/1183606">a handful of these features going into Drupal 8</a>, and <a href="https://drupal.org/node/1683838"><span class="s1">other good ones</span></a> <a href="https://drupal.org/node/491022"><span class="s1">in the works</span></a>, there's a lot of progress in this space. In the mean time, these modules will take you far.
 
 What do you think? Did I miss any?
 
