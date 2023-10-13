@@ -1,6 +1,7 @@
 ---
 title: "ES modules in production: my experience so far"
 date: 2020-10-23
+updated: 2023-10-12
 related: [
   "A minimalist development workflow using ES6 modules and Snowpack",
   "How searching for a bundle-free React led me to web components",
@@ -35,7 +36,7 @@ I kept looking for examples of people doing this but I struggled to find them, s
 **Dependencies not supporting ES modules.**
 I often found libraries I wanted to use, only to learn that they didn't support ES modules. They usually supported CommonJS instead, which meant I couldn't use them. At first, I was working around this by loading versions of the library that use browser globals (either via script tag, or [side-effects import](https://stackoverflow.com/q/41127479/1154642)). This worked, but it didn't feel ideal.
 
-Eventually, I started using [Snowpack](https://www.snowpack.dev/), which can import dependencies that don't support ES modules and produce a one-time build that does. This worked so well that [I've started using it on other projects](https://github.com/sparkbox/bouncy-ball/pull/104).
+Eventually, I started using [esinstall](https://www.npmjs.com/package/esinstall), which can import dependencies that don't support ES modules and produce a one-time build that does. This worked so well that [I've started using it on other projects](https://github.com/sparkbox/bouncy-ball/commit/568a1f2353efc879ef3c373b963569b6bf2644f6).
 
 **Environment variables.** Typically, I'd assign these at build-time but you can't when there's no build. Fortunately, Cory House has [a great post describing all the options](https://www.freecodecamp.org/news/environment-settings-in-javascript-apps-c5f9744282b6/). I ended up using [environment sniffing](https://www.freecodecamp.org/news/environment-settings-in-javascript-apps-c5f9744282b6/#option-6-environment-sniffing) which feels a little weird, but ultimately isn't a big deal for my app.
 
@@ -56,9 +57,7 @@ I was a little worried about not minifying my JavaScript. Isn't that a huge numb
 
 I've been pleasantly surprised. If this were a typical, bundled, single-page-application, I would have needed to deal with one or two major tooling upgrades by now. Instead, I've been able to focus on features. [Native web technologies FTW](https://blog.jim-nielsen.com/2020/cheating-entropy-with-native-web-tech/)!
 
-If my module count gets so big that performance starts to noticeably degrade, I'm pretty confident that I'll be able to use Snowpack to work through it. From [their docs](https://www.snowpack.dev/#bundle-for-production):
-
-> Snowpack treats bundling as an optional production optimization, which means you’re free to skip over the extra complexity of bundling until you need it. **You should be able to use a bundler because you want to, and not because you need to**.
+If my module count gets so big that performance starts to noticeably degrade, then I could always set up bundling as an optimization for production. Keeping it production-only preserves that great local-dev experience while avoiding unnecessary complexity. I expect it would be fairly straightforward to setup esbuild (or a similar tool) to do this, since an ESM-friendly codebase should be bundle-able without any changes.
 
 I like this idea of postponing complexity. It feels very agile.
 

@@ -1,7 +1,7 @@
 ---
 title: "A minimalist development workflow using ES6 modules and Snowpack"
 date: 2020-08-28
-updated: 2021-08-27
+updated: 2023-10-12
 related: [
   "A minimalist development workflow using ES modules and esinstall",
   "Alt-React",
@@ -9,7 +9,9 @@ related: [
 ]
 ---
 
-*Update: the approach described below works for Snowpack v1 and v2, but not for Snowpack v3+. To setup the same minimalist workflow today, I recommend using `esinstall`. For more details, see: [A minimalist development workflow using ES modules and esinstall]({{site.url}}/2021/08/27/a-minimalist-development-workflow-using-es-modules-and-esinstall/).*
+*Update: Snowpack is no longer actively maintained. To setup the same minimalist workflow today, I recommend using `esinstall`. For more details, see: [A minimalist development workflow using ES modules and esinstall]({{site.url}}/2021/08/27/a-minimalist-development-workflow-using-es-modules-and-esinstall/).*
+
+*The approach described below is compatible with Snowpack v1 and v2, but not Snowpack v3.*
 
 ***
 
