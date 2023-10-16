@@ -1,3 +1,8 @@
+- name: "Let's Get Creative"
+  desc: "A collection of high-quality, free, online creativity tools."
+  url: https://bryanbraun.github.io/lets-get-creative
+  image: /assets/images/lets-get-creative-project.png
+
 - name: "Cloudflare Purge Alfred Workflow"
   desc: "An Alfred workflow for purging the cache on a website."
   url: https://github.com/bryanbraun/cloudflare-purge-alfred-workflow
@@ -5,7 +10,7 @@
 
 - name: "Checkboxland"
   desc: "A JavaScript library for rendering anything as HTML checkboxes"
-  url: http://bryanbraun.github.io/checkboxland
+  url: https://bryanbraun.github.io/checkboxland
   image: /assets/images/checkboxland-project.png
 
 - name: "Music Box Fun"

@@ -2,6 +2,7 @@
 title: "Checkboxland"
 date: 2020-06-06
 related: [
+  "I keep making things out of checkboxes",
   "Music Box Fun",
   "Introducing Bouncy Ball: A TodoMVC for Web Animation",
   "The best conference I ever attended"
@@ -26,7 +27,7 @@ As we were about to start the event, I had a conversation with [Rob](https://twi
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/eRgpd-r43l8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-When I realized that you could make something similar using html checkboxes, I knew I had the perfect hack-night project. After three hours, and a bunch of help from my friend [Yosevu](https://twitter.com/yosevu), we had a [working digital clock made out of html checkboxes](https://repl.it/@bryanbraun/Checkboxland).
+When I realized that you could make something similar using html checkboxes, I knew I had the perfect hack-night project. After three hours, and a bunch of help from my friend [Yosevu](https://twitter.com/yosevu), we had a working digital clock made out of html checkboxes.
 
 It was a fun thing to work on, but my brain wouldn't let go. A clock is nice, but theoretically, you could build *anything* this way. Right?
 
