@@ -33,7 +33,7 @@ The idea for this site started out simple but quickly became much more ambitious
 
 My motivation tanked. Weeks went by with me staring into the abyss. Eventually, I asked myself, *"Why am I not excited to work on this anymore?"*
 
-I found my answer. I had been building out this ambitious interactive header carousel thing but something was wrong. What was it? Was the feature a distraction? Was it tacky? Was it not worth the complexity? Whatever it was, my gut didn't like it and just I couldn't move forward. I ended up tearing out that code, trying something a bit simpler, and the motivation came roaring back. I learned a valuable lesson: sometimes your lack of motivation is trying to tell you something.
+I found my answer. I had been building out this ambitious interactive header carousel thing but something was wrong. What was it? Was the feature a distraction? Was it tacky? Was it not worth the complexity? Whatever it was, my gut didn't like it and I just couldn't move forward. I ended up tearing out that code, trying something a bit simpler, and the motivation came roaring back. I learned a valuable lesson: sometimes your lack of motivation is trying to tell you something.
 
 But I digress. The site finally feels right, so we're going live even though the code is still a mess. I aspire to tidy it up some more post-launch. 😅
 

@@ -39,7 +39,7 @@
   image: /assets/images/custom-formats.png
 
 - name: "Commit Haikus"
-  desc: "A bot that tweets out accidental commit message haikus"
+  desc: "[Retired] A bot that tweets out accidental commit message haikus"
   url: https://twitter.com/CommitHaikus
   image: /assets/images/commit-haikus.jpg
 
