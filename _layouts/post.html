@@ -23,7 +23,7 @@ layout: default
       <a class="edit-link" href="https://github.com/{{ site.github.repository_nwo }}/edit/{{ site.branch }}/{{ page.path }}">Edit this post</a>
     </div>
 
-    {% if content and page.related %}
+    {% if content and page.related and page.related.size > 0 %}
       <div class="related-inline">
         <span class="related-inline--title">Related posts:</span>
         <span class="related-inline--posts">

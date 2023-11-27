@@ -1,11 +1,15 @@
 ---
 title: "Take control of what you consume"
 date: 2013-07-04 04:17:07
+related: [
+  "The rivers we swim in",
+  "Changing your Environment"
+]
 ---
 
 You are, at least to some degree, a product of your environment. The [people][1] you spend time with. The places you visit. The movies, and [books][2], and music you enjoy.
 
-That's why I find it surprising how often we let our media consumption be dictated by chance. Some sources of media, like television and newspapers, encourage passive consumption.   You read the stories they print. You watch the shows and the commercials they air. Besides your ability to turn it off, you don't have much control. You get whatever garbage is coming down the chute.
+That's why I find it surprising how often we let our media consumption be dictated by chance. Some sources of media, like television and newspapers, encourage passive consumption. You read the stories they print. You watch the shows and the commercials they air. Besides your ability to turn it off, you don't have much control. You get whatever garbage is coming down the chute.
 
 The web, as an interactive medium, tends to be better. Services like <a href="https://news.google.com/" target="_blank" rel="noopener noreferrer" title="Click the gear. Instantly intuitive customization = UI win.">Google News</a> let you tone down some topics and dial up others ones so you see more of the news your interested in (great for silencing all the election-year babble last year). Social networks like Facebook and Google+ let you subscribe to some groups and users while muting others. This helps you tune out the cruft on your newsfeed. And RSS lets you build your own specialized newsfeed out of your very favorite parts of the web.
 

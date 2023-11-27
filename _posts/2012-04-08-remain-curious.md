@@ -11,7 +11,7 @@ David attributes much of his success to a natural curiousity about others. When 
 
 Do you see how ridiculous that is? If anybody has anything interesting, remarkable, or valuable to say, it would be this guy... not me. The man recruited <a href="http://en.wikipedia.org/wiki/Steve_Wozniak" target="_blank" rel="noopener noreferrer">Steve Wozinak </a>to work for his last company. My greatest achievment thus far has been convincing Holly to marry me (although those of you who know her, realize how great of an achievment this actually is). Still, David was curious about me, and I grew a lot of respect for him.
 
-Curiousity is a rare characteristic among adults. We usually have it squelched out of us by the time we're in our twenties. It tends to get overshadowed by virtues like "persistance," "determination," or "dilligence." And yet, curiosity is the seed from which greatness grows . Science Fiction writer Iassac Asimov noted the value of curiosity when he said:
+Curiousity is a rare characteristic among adults. We usually have it squelched out of us by the time we're in our twenties. It tends to get overshadowed by virtues like "persistance," "determination," or "dilligence." And yet, curiosity is the seed from which greatness grows. Science Fiction writer Iassac Asimov noted the value of curiosity when he said:
 
 > The most exciting phrase to hear in science, the one that heralds new discoveries, is not “Eureka” but “That’s funny...”
 
