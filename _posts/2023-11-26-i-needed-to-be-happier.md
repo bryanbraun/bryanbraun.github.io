@@ -30,7 +30,7 @@ They're out there. You just have to look for them.
   <p>This post is part of a series about online media and RSS:</p>
   <ul>
     <li>Part 1: I needed to be happier</li>
-    <li>Part 2: Rejecting the algorithm (coming soon)</li>
+    <li><a href="{{site.url}}/2023/11/27/rejecting-the-algorithm/">Part 2: Rejecting the algorithm</a></li>
     <li>Part 3: Doubling down on RSS (coming soon)</li>
   </ul>
 </div>
