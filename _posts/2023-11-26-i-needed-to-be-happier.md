@@ -31,7 +31,7 @@ They're out there. You just have to look for them.
   <ul>
     <li>Part 1: I needed to be happier</li>
     <li><a href="{{site.url}}/2023/11/27/rejecting-the-algorithm/">Part 2: Rejecting the algorithm</a></li>
-    <li>Part 3: Doubling down on RSS (coming soon)</li>
+    <li><a href="{{site.url}}/2023/11/28/doubling-down-on-rss/">Part 3: Doubling down on RSS</a></li>
   </ul>
 </div>
 
