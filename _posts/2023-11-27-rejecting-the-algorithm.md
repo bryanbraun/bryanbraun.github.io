@@ -48,5 +48,6 @@ We can choose to soak our minds in the brine of popular culture, allowing our th
     <li><a href="{{site.url}}/2023/11/26/i-needed-to-be-happier/">Part 1: I needed to be happier</a></li>
     <li>Part 2: Rejecting the algorithm</li>
     <li><a href="{{site.url}}/2023/11/28/doubling-down-on-rss/">Part 3: Doubling down on RSS</a></li>
+    <li><a href="{{site.url}}/2023/11/29/everyone-has-a-substack-and-its-great/">Part 4: Everyone has a Substack and it's great</a></li>
   </ul>
 </div>

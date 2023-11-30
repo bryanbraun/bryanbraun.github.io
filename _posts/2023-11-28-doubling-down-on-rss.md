@@ -51,9 +51,13 @@ All of this to say, RSS is alive and doing well. There's no reason that you coul
     <li><a href="{{site.url}}/2023/11/26/i-needed-to-be-happier/">Part 1: I needed to be happier</a></li>
     <li><a href="{{site.url}}/2023/11/27/rejecting-the-algorithm/">Part 2: Rejecting the algorithm</a></li>
     <li>Part 3: Doubling down on RSS</li>
+    <li><a href="{{site.url}}/2023/11/29/everyone-has-a-substack-and-its-great/">Part 4: Everyone has a Substack and it's great</a></li>
   </ul>
 </div>
 
 ***
 
-<small>* I'm using the term RSS loosely to mean "the RSS-like family of feed protocols" including RSS, Atom, and JSONFeed.</small>
+<small>* For anyone unfamiliar with RSS, [this video](https://www.youtube.com/watch?v=6HNUqDL-pI8) and [this website](https://aboutfeeds.com/) both give a nice overview.</small>
+
+<small>Also, as a note, I'm using the term "RSS" loosely to mean "the RSS-like family of feed protocols" including RSS, Atom, and JSONFeed.
+</small>
