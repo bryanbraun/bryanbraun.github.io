@@ -1,6 +1,7 @@
 ---
 title: "Doubling down on RSS"
 date: 2023-11-28
+updated: 2023-12-04
 related: [] # Intentionally omitted for this series, because it includes it's own related links list.
 ---
 
@@ -25,6 +26,7 @@ As a consumer:
 - In lieu of using Youtube's built-in subscription mechanism, I've subscribed to the RSS feeds for Youtube channels I like.
 - In lieu of email subscriptions, I've subscribed to RSS feeds for Substack authors I want to follow.
   - I wish I could do this for Convertkit newsletters but [it currently isn't supported](https://community.convertkit.com/question/hello-is-there-a-way-to-access-convertkit-broadcasts-via-an-rss-feed-5feb3c129097d52df87b9b3f?answerId=5feb41dd777123228369919f) (I put in a feature request though 🤓)
+  - *Update: after writing this, I got an email which explained that there are free tools (like [kill-the-newsletter.com](https://kill-the-newsletter.com/)) for converting newsletters into feeds. I should also mention that the paid version of many feed readers (Feedly, Feedbin, etc.) also offer this feature.*
 - I've been working through the list of people I follow on social media, checking to see if they have a blog with an RSS feed, and subscribing if so.
   - For people with blogs but no RSS feed, I've been [submitting](https://github.com/KyleAMathews/blog/pull/83) [pull requests](https://github.com/gksander/cowboy-codes/pull/1) to add one.
 
