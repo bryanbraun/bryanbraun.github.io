@@ -1,19 +1,19 @@
 ---
 title: Now
-date: 2023-10-26 # last updated
+date: 2024-01-01 # last updated
 excerpt: What I'm doing now.
 permalink: /now/
 ---
 
-I'm at home in Dayton Ohio. It's chilly outside and the daylight hours are waning. We've pulled out our cold-weather gear and switched our thermostat from A/C to heating. I think we're all set to spend another winter in Dayton.
+I'm at home in Dayton Ohio. It's cold and gray outside, but we're excited to embrace the new year after spending a nice Christmas holiday with family and friends.
 
 ## At Work
 
-I've been working remotely as a Software Engineer at [Formidable](https://formidable.com/) for over a year and a half. Formidable was [recently acquired by NearForm](https://formidable.com/blog/2023/formidable-joins-forces-with-nearform/) but my day-to-day work has been relatively unaffected. Lately, I've been working on an e-commerce codebase migration. I've done a lot of e-commerce work in the last few years and I can feel the momentum of that experience helping me today.
+I've been working remotely as a Software Engineer at [Formidable](https://formidable.com/) for almost two years. Formidable was [recently acquired by NearForm](https://formidable.com/blog/2023/formidable-joins-forces-with-nearform/) but my day-to-day work has been relatively unaffected. Lately, I've been working on an e-commerce codebase migration. I've done a lot of e-commerce work in the last few years and I can feel the momentum of that experience helping me today.
 
 ## At Home
 
-I'm up early these days, teaching a morning class twice a week and taking my son to school. I'm also weightlifting twice a week. I've just reached a new bench press max of 205 lbs and my long-term goal is to bench 225. I'm not in a hurry.
+I'm up early these days, teaching a morning class twice a week and taking my son to school. I'm also weightlifting twice a week. I've just reached a new bench press max of 210 lbs and my long-term goal is to bench 225. I'm not in a hurry.
 
 I practice the piano a lot these days because I play in church on Sundays. I'm getting better at taking difficult songs, writing in the fingering, and working them up to a playable state.
 
