@@ -13,7 +13,7 @@ I've been working remotely as a Software Engineer at [Formidable](https://formid
 
 ## At Home
 
-I'm up early these days, teaching a morning class twice a week and taking my son to school. I'm also weightlifting twice a week. I've just reached a new bench press max of 210 lbs and my long-term goal is to bench 225. I'm not in a hurry.
+I'm up early these days, teaching a morning class twice a week and taking my son to school. I'm also weightlifting twice a week. I've just reached a new bench press max of 215 lbs and my long-term goal is to bench 225. I'm not in a hurry.
 
 I practice the piano a lot these days because I play in church on Sundays. I'm getting better at taking difficult songs, writing in the fingering, and working them up to a playable state.
 

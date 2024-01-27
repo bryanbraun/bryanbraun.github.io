@@ -23,7 +23,7 @@ A few years ago I spent a week recording how I used my time each day in my journ
   <img alt="A pie chart of the day's activities." class="size-full wp-image-481" src="/assets/images/accounting-for-my-time.jpg" style="width: 727px; height: 656px;" title="I don't have time" />
 </p>
 
-In general, it was hard for me to believe how much time I spent on unnecessary things (me? productive me?!?). After one week of accounting for my days in this manner, I had a much better understanding of how I *really *spent my time. We start each day with an empty pie and fill it up with stuff until it's time to go to bed.
+In general, it was hard for me to believe how much time I spent on unnecessary things (me? productive me?!?). After one week of accounting for my days in this manner, I had a much better understanding of how I *really* spent my time. We start each day with an empty pie and fill it up with stuff until it's time to go to bed.
 
 Inevitably, we fall asleep with items still on our to do list. Truly, these items were not as important to us as the things we did. That doesn't mean they weren't important. We are constantly making trade-offs between several important things. I tend to over-commit myself, which forces me to choose between conflicting interests. It always seems like I'm in a hurry. If I had <a href="http://www.bobsbiltong.co.uk/images/upload/Bar%20One_300x300.jpg" target="_blank" rel="noopener noreferrer" title="Bar One (for a 25 Hour Day)">25 hours in a day</a>, I'd fill it up it an instant (just like I do every fall during daylight savings).
 
