@@ -12,7 +12,7 @@ I like the business model of Substack. Direct pay seems to create better incenti
 
 Substack's business model encourages authors to write freemium-style. The free content attracts new readers and the premium content supports the author (funded by their biggest fans). Freemium has flaws but it creates a lot of positive consumer surplus.
 
-For example, every Substack comes with an RSS feed. All free content is available in the feed and all premium content is teased in the feed as well (usually with a title a preview snippet). Apparently there are also [unique feed urls containing free and premium content for paid subscribers](https://support.substack.com/hc/en-us/articles/360041722272-Will-my-Podcast-RSS-feed-show-paid-only-content-) (though I haven't tested this myself).
+For example, every Substack comes with an RSS feed. All free content is available in the feed and all premium content is teased in the feed as well (usually with a title and preview snippet). Apparently there are also [unique feed urls containing free and premium content for paid subscribers](https://support.substack.com/hc/en-us/articles/360041722272-Will-my-Podcast-RSS-feed-show-paid-only-content-) (though I haven't tested this myself).
 
 Facebook used to have RSS feeds but it ended up removing them because RSS undermined their ad-based business model. With Substack, RSS *helps* the business model instead of hurting it.
 
