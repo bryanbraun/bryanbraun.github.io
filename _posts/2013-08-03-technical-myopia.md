@@ -2,7 +2,8 @@
 title: "Technical Myopia"
 date: 2013-08-03 13:39:12
 related: [
-  "Don't Optimize Performance Prematurely"
+  "Don't Optimize Performance Prematurely",
+  "Technology isn't the thing…"
 ]
 ---
 

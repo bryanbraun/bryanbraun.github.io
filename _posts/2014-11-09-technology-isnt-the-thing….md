@@ -1,6 +1,9 @@
 ---
 title: "Technology isn't the thing…"
 date: 2014-11-09 21:34:14
+related: [
+  "Technical Myopia"
+]
 ---
 
 Javascript isn't the thing. Or Git. Or Docker. Or [insert buzzword here].
