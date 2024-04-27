@@ -15,6 +15,7 @@ There are so many of them.
 <img src="{{site.url}}/assets/images/ai-website-8.png" loading="lazy" alt="the limecube ai website builder" />
 <img src="{{site.url}}/assets/images/ai-website-1.png" loading="lazy" alt="the pineapple ai website builder" />
 <img src="{{site.url}}/assets/images/ai-website-2.png" loading="lazy" alt="the uncody ai website builder" />
+<img src="{{site.url}}/assets/images/ai-website-5.png" loading="lazy" alt="the pico ai web app builder" />
 <img src="{{site.url}}/assets/images/ai-website-3.png" loading="lazy" alt="the vzy ai website builder" />
 <img src="{{site.url}}/assets/images/ai-website-4.png" loading="lazy" alt="the relume ai website builder" />
 <img src="{{site.url}}/assets/images/ai-website-10.png" loading="lazy" alt="the butternut ai website builder" />
