@@ -15,7 +15,7 @@ Curiousity is a rare characteristic among adults. We usually have it squelched o
 
 > The most exciting phrase to hear in science, the one that heralds new discoveries, is not “Eureka” but “That’s funny...”
 
-The curious are compelled to investigate how things work. They take things apart, they ask lots of questions, they look at the source code.They are the ones who get on wikipedia and click that <a href="http://en.wikipedia.org/wiki/Main_Page" target="_blank" rel="noopener noreferrer" title="Look in the left hand column">random article </a>link (I'm going to click it right now, and the article is... <a href="http://en.wikipedia.org/wiki/Doctor_Radio" target="_blank" rel="noopener noreferrer" title="I've never heard of it... have you?">Doctor Radio</a>!). They see life as an interesting puzzle, not as a "to-do" list.
+The curious are compelled to investigate how things work. They take things apart, they ask lots of questions, they look at the source code. They are the ones who get on wikipedia and click that <a href="http://en.wikipedia.org/wiki/Main_Page" target="_blank" rel="noopener noreferrer" title="Look in the left hand column">random article </a>link (I'm going to click it right now, and the article is... <a href="http://en.wikipedia.org/wiki/Doctor_Radio" target="_blank" rel="noopener noreferrer" title="I've never heard of it... have you?">Doctor Radio</a>!). They see life as an interesting puzzle, not as a "to-do" list.
 
 I'm just as guilty as anybody for getting wrapped up in my left-brained worldview of tasks, commitments, schedules and data. I'm in the thick of it right now but once this end-of-semester madness is over, I'm making sure to give myself a little time to just doodle around. Who knows what will come of it.
 

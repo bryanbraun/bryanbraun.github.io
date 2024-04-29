@@ -5,11 +5,11 @@ excerpt: What I'm doing now.
 permalink: /now/
 ---
 
-I'm at home in Dayton Ohio. It's the sun in shining and the birds are chirping.
+I'm at home in Dayton Ohio. The sun is shining and the birds are chirping.
 
 ## At Work
 
-I've been working remotely as a Software Engineer at [Formidable](https://formidable.com/) for almost two years. Formidable was [recently acquired by NearForm](https://formidable.com/blog/2023/formidable-joins-forces-with-nearform/) but my day-to-day work has been relatively unaffected. Lately, I've been working on an e-commerce codebase migration. I've done a lot of e-commerce work in the last few years and I can feel the momentum of that experience helping me today.
+I've been working remotely as a Software Engineer at [Formidable](https://formidable.com/) for over two years now. Formidable was [recently acquired by NearForm](https://formidable.com/blog/2023/formidable-joins-forces-with-nearform/) but my day-to-day work has been relatively unaffected. Lately, I've been working on an e-commerce codebase migration. I've done a lot of e-commerce work in the last few years and I can feel the momentum of that experience helping me today.
 
 ## At Home
 
