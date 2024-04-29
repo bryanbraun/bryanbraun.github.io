@@ -1,11 +1,11 @@
 ---
 title: Now
-date: 2024-01-01 # last updated
+date: 2024-04-29 # last updated
 excerpt: What I'm doing now.
 permalink: /now/
 ---
 
-I'm at home in Dayton Ohio. It's cold and gray outside, but we're excited to embrace the new year after spending a nice Christmas holiday with family and friends.
+I'm at home in Dayton Ohio. It's the sun in shining and the birds are chirping.
 
 ## At Work
 
@@ -13,13 +13,11 @@ I've been working remotely as a Software Engineer at [Formidable](https://formid
 
 ## At Home
 
-I'm up early these days, teaching a morning class twice a week and taking my son to school. I'm also weightlifting twice a week. I've just reached a new bench press max of 215 lbs and my long-term goal is to bench 225. I'm not in a hurry.
+I'm up early these days, teaching a morning class twice a week and taking my son to school. I'm also weightlifting twice a week. I've just reached a new bench press max of 220 lbs and my long-term goal is to bench 225. I'm not in a hurry.
 
 I practice the piano a lot these days because I play in church on Sundays. I'm getting better at taking difficult songs, writing in the fingering, and working them up to a playable state.
 
 I've been easing back into side projects and blogging. I recently launched [Let's Get Creative](https://www.bryanbraun.com/lets-get-creative/), a fun little site that showcases my favorite online creativity tools. It took a surprising amount of effort for a single-page content site (I ended up using some vacation days to get it out the door). It was a good opportunity to exercise my design skills and I'm really happy with how it turned out.
-
-I've worked on a few other small things like updating some older posts and adding JSON feeds for [my book reviews]({{site.url}}/books.json) and [this now page]({{site.url}}/now.json). Feel free to subscribe, if you want to get future updates in your feed reader.
 
 ---
 
