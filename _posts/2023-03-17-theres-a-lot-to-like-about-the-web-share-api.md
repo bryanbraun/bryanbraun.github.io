@@ -47,4 +47,4 @@ More resources:
 - [CanIUse: Web Share](https://caniuse.com/web-share)
 - [MDN: Web Share API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Share_API)
 - [Tutorial: Integrate with the OS sharing UI with the Web Share API](https://web.dev/web-share/)
-- [The Graxel project post]() (where I first discovered this feature)
+- [The Graxel project post](https://maxwellito.com/post/graxel-editor/) (where I first discovered this feature)
