@@ -1,6 +1,7 @@
 ---
 title: "Goodbye Evernote, Hello Obsidian"
 date: 2024-06-10
+updated: 2024-06-19
 related: [
   "Thinking Long Term"
 ]
@@ -37,7 +38,7 @@ I don't have to fight the tool when I can customize it to meet my needs. Now eve
 
 Obsidian is local-first, or, as I might describe it, "a usability layer over the file system." Every note you create is just a text file (markdown) and you can organize these files into folders while still using modern formatting, navigation, and search. "Local-first" seems like just a clever technical detail but it has huge implications for ownership and control. Ownership, because the files live on your computer and [text files have longevity](https://stephango.com/file-over-app). Control, because text files are flexible. You can check them into git, and BAM you've got versioning. Or you can put them in Dropbox and BAM you've got syncing.
 
-Now, I've been around long enough to watch many good apps go south (see: Evernote). That could happen to Obsidian too but it has a lot of things going for it, specifically, [being bootstrapped and 100% user-supported](https://stephango.com/vcware). Val Agostino [once said](https://www.monarchmoney.com/blog/mint-shutting-down) that "*\[every] company eventually becomes its business model*," and Obsidian's business model avoids the misaligned incentives that plague much of the industry. Time will tell whether they hold to [their principles](https://obsidian.md/about) but I'm optimistic that whatever happens, we won't have to worry about lock-in.
+Now, I've been around long enough to watch many good apps go south (see: Evernote). That could happen to Obsidian too but it has a lot of things going for it, specifically, [being bootstrapped and 100% user-supported](https://stephango.com/vcware). Val Agostino [said](https://www.monarchmoney.com/blog/mint-shutting-down) that "a company eventually becomes its business model*," and Obsidian's business model avoids the misaligned incentives that plague much of the industry. Time will tell whether they hold to [their principles](https://obsidian.md/about) but I'm optimistic that whatever happens, we won't have to worry about lock-in.
 
 > It is now possible for tiny teams to make principled software that millions of people use, unburdened by investors. Principled apps that put people in control of their data, their privacy, their wellbeing. These principles can be irrevocably built into the architecture of the app.
 >

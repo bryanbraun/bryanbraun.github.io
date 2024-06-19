@@ -1,7 +1,7 @@
 ---
 title: "Doubling down on RSS"
 date: 2023-11-28
-updated: 2023-12-04
+updated: 2024-06-19
 related: [] # Intentionally omitted for this series, because it includes it's own related links list.
 ---
 
@@ -16,9 +16,7 @@ As an author:
 - I created a feed for [Let's Get Creative](https://www.bryanbraun.com/lets-get-creative/), my recent side-project:
   - [Let's Get Creative - Online Creativity Tools](https://www.bryanbraun.com/lets-get-creative/feed.json)
 - I enabled feeds for my article reading queue in [Pocket](https://getpocket.com/):
-  - [My unread items](https://getpocket.com/users/bryanbraun/feed/unread)
-  - [My archived items](https://getpocket.com/users/bryanbraun/feed/read) (item's I've read)
-  - [All my items](https://getpocket.com/users/bryanbraun/feed/all) (read and unread)
+  - *Update: Pocket has [discontinued their RSS feeds feature](https://support.mozilla.org/en-US/kb/can-i-subscribe-to-my-list-via-rss).* 😡
 
 As a consumer:
 

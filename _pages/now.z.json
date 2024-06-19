@@ -7,7 +7,7 @@ permalink: /now.json
 # renders pages alphabetically and we need now.md to be rendered
 # before this file in order for nowPage.content to be embeddable
 # (with liquid and markdown content). For more details, see:
-# https: //github.com/jekyll/jekyll/issues/1232#issue-15818557
+# https://github.com/jekyll/jekyll/issues/1232#issue-15818557
 ---
 
 {%- assign nowPage = site.pages | where: 'title', 'Now' | first -%}
