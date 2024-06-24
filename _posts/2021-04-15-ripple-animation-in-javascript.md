@@ -1,7 +1,7 @@
 ---
 title: "A ripple animation in JavaScript"
 date: 2021-04-15
-updated: 2021-08-21
+last_modified_at: 2021-08-21
 related: [
   "How I rebuilt \"Flying Toasters\" using only CSS animations",
   "CSS Transitions VS Keyframe Animations",

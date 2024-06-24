@@ -1,7 +1,7 @@
 ---
 title: "A minimalist development workflow using ES modules and esinstall"
 date: 2021-08-27
-updated: 2023-10-12
+last_modified_at: 2023-10-12
 related: [
   "A minimalist development workflow using ES6 modules and Snowpack",
   "ES modules in production: my experience so far",

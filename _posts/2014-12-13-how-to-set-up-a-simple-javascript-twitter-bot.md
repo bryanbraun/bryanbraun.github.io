@@ -1,7 +1,7 @@
 ---
 title: "How to Set Up a Simple Javascript Twitter Bot"
 date: 2014-12-13 12:35:17
-updated: 2020-04-16
+last_modified_at: 2020-04-16
 related: [
   'Setting up automated testing for a small client-side Javascript project',
   'Linking to your Javascript Library from Inside the Github Pages Docs Folder'

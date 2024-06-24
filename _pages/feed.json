@@ -24,7 +24,7 @@ permalink: /feed.json
         "id": "{{ post.id }}",
         "url": "{{ site.url }}{{ post.url }}",
         "date_published": "{{ post.date | date_to_xmlschema }}",
-        "date_modified": "{{ post.updated | default: post.date | date_to_xmlschema }}",
+        "date_modified": "{{ post.last_modified_at | default: post.date | date_to_xmlschema }}",
         "title": {{ post.title | jsonify }},
         "summary": {{ post.excerpt | strip_html | strip_newlines | jsonify }},
         "content_html": {{ post.content | strip_newlines | jsonify }}

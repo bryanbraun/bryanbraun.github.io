@@ -1,7 +1,7 @@
 ---
 title: "Using the URL to build database-free web apps"
 date: 2019-12-07
-updated: 2020-01-03
+last_modified_at: 2020-01-03
 related: [
   "Music Box Fun",
   "Alt-React",

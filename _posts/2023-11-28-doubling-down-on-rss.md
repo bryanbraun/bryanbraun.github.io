@@ -1,7 +1,7 @@
 ---
 title: "Doubling down on RSS"
 date: 2023-11-28
-updated: 2024-06-19
+last_modified_at: 2024-06-19
 related: [] # Intentionally omitted for this series, because it includes it's own related links list.
 ---
 

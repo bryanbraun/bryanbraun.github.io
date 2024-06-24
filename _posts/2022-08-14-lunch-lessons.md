@@ -1,7 +1,7 @@
 ---
 title: "Lunch Lessons"
 date: 2022-08-14
-updated: 2023-09-17
+last_modified_at: 2023-09-17
 related: [
   "Daily Demos: a ritual for raising kids that create",
   "The unique power of games in building intuition",

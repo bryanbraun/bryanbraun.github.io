@@ -1,7 +1,7 @@
 ---
 title: "Linking to your Javascript Library from Inside the Github Pages Docs Folder"
 date: 2017-04-22 22:27:00
-updated: 2020-04-17
+last_modified_at: 2020-04-17
 related: [
   "On keeping your gh-pages and master branch in sync"
 ]

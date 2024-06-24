@@ -1,7 +1,7 @@
 ---
 title: "The Frontend Developer's Guide to Docker"
 date: 2014-07-15 20:56:56
-updated: 2019-08-06
+last_modified_at: 2019-08-06
 related: [
   "A Brief Overview of Docker Tags"
 ]

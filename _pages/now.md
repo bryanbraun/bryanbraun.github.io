@@ -1,11 +1,11 @@
 ---
 title: Now
-date: 2024-04-29 # last updated
+date: 2024-06-24 # last updated
 excerpt: What I'm doing now.
 permalink: /now/
 ---
 
-I'm at home in Dayton Ohio. The sun is shining and the birds are chirping.
+I'm at home in Dayton Ohio. The days are warm and the evenings bring out the fireflies. Even after nine years is Ohio, it still feels magical.
 
 ## At Work
 
@@ -13,11 +13,11 @@ I've been working remotely as a Software Engineer at [Formidable](https://formid
 
 ## At Home
 
-I'm up early these days, teaching a morning class twice a week and taking my son to school. I'm also weightlifting twice a week. I've just reached a new bench press max of 220 lbs and my long-term goal is to bench 225. I'm not in a hurry.
+I've gotten into weightlifting for the past couple of years and I finally reached my goal of bench-pressing 225 lbs. It's been a rewarding journey and I'm not sure what fitness goal I want to pursue next. Let me know if you have suggestions!
 
 I practice the piano a lot these days because I play in church on Sundays. I'm getting better at taking difficult songs, writing in the fingering, and working them up to a playable state.
 
-I've been easing back into side projects and blogging. I recently launched [Let's Get Creative](https://www.bryanbraun.com/lets-get-creative/), a fun little site that showcases my favorite online creativity tools. It took a surprising amount of effort for a single-page content site (I ended up using some vacation days to get it out the door). It was a good opportunity to exercise my design skills and I'm really happy with how it turned out.
+I've been easing back into side projects and blogging. I've been spending most of my coding time on [musicbox.fun](https://musicbox.fun) these days, mostly because it sits at the intersection of a lot of my interests and I get to flex my frontend muscles.
 
 ---
 

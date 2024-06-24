@@ -1,7 +1,7 @@
 ---
 title: "The Ulysses Contract"
 date: 2012-11-11 15:27:26
-updated: 2020-06-06
+last_modified_at: 2020-06-06
 related: [
   "Winning Systems",
   "Procrastination: The future-you cannot be trusted"

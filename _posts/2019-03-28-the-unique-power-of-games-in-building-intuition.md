@@ -1,7 +1,7 @@
 ---
 title: "The unique power of games in building intuition"
 date: 2019-03-28
-updated: 2020-10-20
+last_modified_at: 2020-10-20
 related: [
   "Do we really need to know all this stuff?",
   "The Future of Educational Games"

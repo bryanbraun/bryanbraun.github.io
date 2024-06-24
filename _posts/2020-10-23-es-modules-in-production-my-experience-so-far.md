@@ -1,7 +1,7 @@
 ---
 title: "ES modules in production: my experience so far"
 date: 2020-10-23
-updated: 2023-10-12
+last_modified_at: 2023-10-12
 related: [
   "A minimalist development workflow using ES6 modules and Snowpack",
   "How searching for a bundle-free React led me to web components",

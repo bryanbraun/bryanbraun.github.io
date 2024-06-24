@@ -1,7 +1,7 @@
 ---
 title: "Side-projects as a confidence hack"
 date: 2020-04-18
-updated: 2023-07-31
+last_modified_at: 2023-07-31
 related: [
   "Get your stuff out there",
   "How I choose a side project",

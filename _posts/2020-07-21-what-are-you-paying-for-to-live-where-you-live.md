@@ -1,7 +1,7 @@
 ---
 title: "What are you paying for, to live where you live?"
 date: 2020-07-21
-updated: 2020-07-25
+last_modified_at: 2020-07-25
 related: [
   "Design your Default",
   "Living Deliberately",

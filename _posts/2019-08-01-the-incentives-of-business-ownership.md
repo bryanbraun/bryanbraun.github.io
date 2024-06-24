@@ -1,7 +1,7 @@
 ---
 title: "The incentives of business ownership"
 date: 2019-08-01
-updated: 2023-08-25
+last_modified_at: 2023-08-25
 related: [
   "Design your Default",
   "Never Count on Willpower",

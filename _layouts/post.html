@@ -7,8 +7,8 @@ layout: default
     <h1 class="article-title">{{ page.title }}</h1>
     <div class="article-meta">
       <div>{{ page.date | date: "%b %-d, %Y" }}</div>
-      {% if page.updated %}
-        <div><em>Updated: {{ page.updated | date: "%b %-d, %Y" }}</em></div>
+      {% if page.last_modified_at %}
+        <div><em>Updated: {{ page.last_modified_at | date: "%b %-d, %Y" }}</em></div>
       {% endif %}
     </div>
     <p class="article-meta"></p>

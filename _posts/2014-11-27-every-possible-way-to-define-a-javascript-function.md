@@ -1,7 +1,7 @@
 ---
 title: "Every Possible Way to Define a Javascript Function"
 date: 2014-11-27 14:35:18
-updated: 2020-04-16
+last_modified_at: 2020-04-16
 related: [
   "An Overview of Javascript's try-catch",
   "Every Possible Way"

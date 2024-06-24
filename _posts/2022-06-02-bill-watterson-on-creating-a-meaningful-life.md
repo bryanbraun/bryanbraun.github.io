@@ -1,7 +1,7 @@
 ---
 title: "Bill Watterson on creating a meaningful life"
 date: 2022-06-02
-updated: 2022-06-14
+last_modified_at: 2022-06-14
 related: [
   "Jonathon Harris on Attention",
   "Don Hertzfeldt on Creative Work",

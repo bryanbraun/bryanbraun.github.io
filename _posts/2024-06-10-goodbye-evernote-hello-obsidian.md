@@ -1,7 +1,7 @@
 ---
 title: "Goodbye Evernote, Hello Obsidian"
 date: 2024-06-10
-updated: 2024-06-19
+last_modified_at: 2024-06-19
 related: [
   "Thinking Long Term"
 ]

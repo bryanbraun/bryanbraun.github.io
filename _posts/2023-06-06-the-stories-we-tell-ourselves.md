@@ -1,7 +1,7 @@
 ---
 title: "The stories we tell ourselves"
 date: 2023-06-06
-updated: 2023-06-27
+last_modified_at: 2023-06-27
 related: [
   "We don't control outcomes",
   "The Growth Mindset",

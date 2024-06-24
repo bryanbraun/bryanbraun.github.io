@@ -1,7 +1,7 @@
 ---
 title: "Things I wish someone would have told me about configuring VSCode"
 date: 2023-08-10
-updated: 2023-10-12
+last_modified_at: 2023-10-12
 related: [
   "Understanding the Command Line",
   "Vim Color Schemes: A Call for Designers",
