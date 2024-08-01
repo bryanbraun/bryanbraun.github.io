@@ -27,7 +27,7 @@ Well, maybe it was secure from a business perspective (read: no lawsuits) but it
 
 Every once and a while, us technical people laugh and scoff at the average user, who doesn't have the "common sense" to create a secure password, or doesn't know how to securely manage the 20+ usernames & passwords they inevitably use. We send tweets like...
 
-> "Top 25 most common passwords chosen by idiot users. LOLOLOOLOLOLOL!!! - <http://goo.gl/4grvyd>"
+> "Top 25 most common passwords chosen by idiot users. LOLOLOOLOLOLOL!!! - https://slate.com/technology/2014/01/25-worst-passwords-what-your-terrible-common-password-says-about-you.html"
 
 ...and we have a collective laugh at those among us who can't keep up with the times. And we're totally backwards.
 
