@@ -43,7 +43,7 @@ Apparently, this is a thing that happens to domain names, but as far as I know, 
 
 So to summarize, I'm saying a domain name is "haunted" when something in its past gives it a poor reputation among search engines, affecting its ability to rank in search results, even after it changes ownership.
 
-The inner-workings of search engines are notoriously opaque*, making it difficult to 1) tell you're being affected and 2) know how to fix it. The following are my suggestions, based on my experience with `musicbox.fun`.
+The inner-workings of search engines are notoriously opaque*, making it difficult to 1) know if you're being affected and 2) know how to fix it. The following are my suggestions, based on my experience with `musicbox.fun`.
 
 ## How to check if a domain name is haunted
 
@@ -88,7 +88,7 @@ As far as I can tell, there's not really anything you can do to make past, valid
 
 My SEO strategy has always been to do great work and make it easy for Google to see it. It usually works pretty well (at least for my non-haunted domains). For haunted domains, you have a bad reputation to overturn, which seems to require extra vigilence. SEO basics, like high-quality, structured, accessible, content on a fast-loading site, are table stakes.
 
-If you've done any SEO work, you know that Search Engines treat links to your site as a massive signal of relevance and trust. I suspect that fresh incoming links are especially important for overturning a bad reputation, though I haven't confirmed this personally. If you think `musicbox.fun` is a useful project and you wield [the power of a link]({{site.url}}/2020/10/03/the-power-of-a-link/), consider posting a link to it, and maybe we'll find out together.
+If you've done any SEO work, you know that search engines treat links to your site as a massive signal of relevance and trust. I suspect that fresh incoming links are especially important for overturning a bad reputation, though I haven't confirmed this personally. If you think `musicbox.fun` is a useful project and you wield [the power of a link]({{site.url}}/2020/10/03/the-power-of-a-link/), consider posting a link to it, and maybe we'll find out together.
 
 ### 3. Wait for a while?
 
