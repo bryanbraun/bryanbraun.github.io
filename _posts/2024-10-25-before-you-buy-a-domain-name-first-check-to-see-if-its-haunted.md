@@ -99,7 +99,7 @@ In my research I found [a detailed stackexchange post about trust scores and how
 
 This post isn't a primary source, but I also came across an Q&A with a Google Search employee who fielded a similar question about DMCA violations. Their response said something similar, basically, that it can take time for the reputation effects to wear off (I'm struggling to find the video now, but I'll link it when I do).
 
-All of this is fairly disappointing. In a perfect world, when your legitimately good content isn't being surfaced by Google, it's a failure on **their** part, and **their** problem to solve, not yours. In practice, it is **your** problem and you have to do a bunch of work to help them see that their current assessment of your domain name is no longer accurate.
+All of this is fairly disappointing. In a perfect world, when your legitimately good content isn't being surfaced by Google, it's a failure on **their** part, and **their** problem to solve, not yours. In practice, it's **your** problem and you have to do a bunch of work to help them see that their current assessment of your domain name is no longer accurate.
 
 ![Image of the medium from the movie 'Poltergeist' saying "this house is clean"]({{site.url}}/assets/images/this-house-is-clean.jpg)
 
