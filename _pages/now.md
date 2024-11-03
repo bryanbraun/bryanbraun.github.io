@@ -1,23 +1,25 @@
 ---
 title: Now
-date: 2024-06-24 # last updated
+date: 2024-11-02 # last updated
 excerpt: What I'm doing now.
 permalink: /now/
 ---
 
-I'm at home in Dayton Ohio. The days are warm and the evenings bring out the fireflies. Even after nine years is Ohio, it still feels magical.
+I'm at home in Dayton Ohio. The weather's getting colder, though it's been unseasonably warm thus far.
 
 ## At Work
 
-I've been working remotely as a Software Engineer at [Formidable](https://formidable.com/) for over two years now. Formidable was [recently acquired by NearForm](https://formidable.com/blog/2023/formidable-joins-forces-with-nearform/) but my day-to-day work has been relatively unaffected. Lately, I've been working on an e-commerce codebase migration. I've done a lot of e-commerce work in the last few years and I can feel the momentum of that experience helping me today.
+I'm working remotely as a Software Engineer at [Nearform](https://nearform.com/) (Formidable [was acquired by NearForm over a year ago](https://formidable.com/blog/2023/formidable-joins-forces-with-nearform/)). We recently did a company offsite and it was nice meeting my coworkers in person for the first time. I'm continuing to work on codebase migrations for a major e-commerce site. I've done a lot of e-commerce work in the last few years and I can feel the momentum of that experience helping me today.
 
 ## At Home
 
-I've gotten into weightlifting for the past couple of years and I finally reached my goal of bench-pressing 225 lbs. It's been a rewarding journey and I'm not sure what fitness goal I want to pursue next. Let me know if you have suggestions!
+I cut my hair short after growing it out for 2 years. I had never grown it out before and I wanted to try it to see what it would look like. I documented the process and learned a lot but it feels good to be back to my classic look.
 
-I practice the piano a lot these days because I play in church on Sundays. I'm getting better at taking difficult songs, writing in the fingering, and working them up to a playable state.
+I'm still weightlifting. My bench press max has plateaued, sitting at 225 lbs for about six months now. I'm ok with it though. I'm mostly just focused on showing up twice a week and maintaining my strength.
 
-I've been easing back into side projects and blogging. I've been spending most of my coding time on [musicbox.fun](https://musicbox.fun) these days, mostly because it sits at the intersection of a lot of my interests and I get to flex my frontend muscles.
+Over the past year, I have been practicing a difficult piano arrangement and I finally got a chance to perform it in church. It went really well! I can get nervous when performing but I had a well-timed confidence boost which seemed to help a lot. I also appreciated Holly's advice: "Just play it."
+
+I've had some recent bursts of productivity working on [musicbox.fun](https://musicbox.fun). I built a bunch of advanced editing features that I'm proud of and I wrote [a popular blog post about my experience getting the domain name]({{site.url}}/2024/10/25/before-you-buy-a-domain-name-first-check-to-see-if-its-haunted/). I enjoy the project because it sits at the intersection of a lot of my interests and I get to flex my frontend muscles.
 
 ---
 
