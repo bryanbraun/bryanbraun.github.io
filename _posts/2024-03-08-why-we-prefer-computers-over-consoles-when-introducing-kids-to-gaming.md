@@ -31,7 +31,7 @@ A computer is a general-purpose device that happens to run games. It's that gene
 
 Time spent gaming on a computer is time spent practicing cross-functional computer skills. During an average gaming session, my kids might be doing things like typing, searching the web, downloading mods, navigating a filesystem, and troubleshooting simple audio or wifi issues. They use hotkeys, learn how to mitigate "lag," and practice basic password management.
 
-Some games open the door to advanced computer skills. Minecraft, Algodoo, [The Powder Toy]({{site.url}}/2021/01/18/the-powder-toy/), and others include an in-game console, for running commands or simple scripts. This becomes a gateway to more ambitious customization like developing [resource packs](https://www.planetminecraft.com/texture-pack/pizzaluxe/) and mods, which uses graphic design and programming skills.
+Some games open the door to advanced computer skills. Minecraft, Algodoo, [The Powder Toy]({{site.url}}/2021/01/18/the-powder-toy/), and others include an in-game console for running commands or simple scripts. This becomes a gateway to more ambitious customization like developing [resource packs](https://www.planetminecraft.com/texture-pack/pizzaluxe/) and mods, which uses graphic design and programming skills.
 
 Multiplayer gaming on a computer exposes you to the basics of networking and hosting. My kids know how to look up their IP addresses so they can invite their siblings to a LAN game of Minecraft or Terarria. By using our family Minecraft server, they've learned about latency and server overload (there was an "incident" where a kid detonated a massive sphere of TNT, bringing the server to its knees 🤣).
 
