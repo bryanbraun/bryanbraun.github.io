@@ -39,7 +39,7 @@ I decided to use Github's CLI tool, `gh`, to query the Github API and pull down 
 gh search commits --author bryanbraun --json commit --jq ".[].commit.tree.sha" --limit 1000
 ```
 
-This worked but [it limited me to 1000 commits](https://github.com/cli/cli/discussions/7010) (my public total is closer to 4k). Eventually, I found a way to get them all by writing a bash script to break up my queries by year, generating one file per query, and combining the files when done:
+This worked but [it has a maximum limit of 1000 commits](https://github.com/cli/cli/discussions/7010) (my public total is closer to 4k). Eventually, I found a way to get them all by writing a bash script to break up my queries by year, generating one file per query, and combining the files when done:
 
 ```bash
 #!/bin/bash
