@@ -20,7 +20,7 @@ I don't need willpower to make myself bike. My only option is the healthy one.
 
 This is the same reason I don't have Netflix. It's a lot easier to [put the hours in]({{site.url}}/2013/11/01/put-the-hours-in/) and [create something]({{site.url}}/2016/02/08/don-hertzfeldt-on-creative-work/) when I'm not being tempted by the latest show.
 
-This is also why my social media accounts [have](https://chrome.google.com/webstore/detail/df-youtube-distraction-fr/mjdepdfccjgcndkmemponafgioodelna/related?hl=en-US) [no](https://chrome.google.com/webstore/detail/twitter-newsfeed-eradicat/olmgbkhifmcfpaagiaakihcgobdkmchl?hl=en-US) [newsfeeds](https://chrome.google.com/webstore/detail/news-feed-eradicator-for/fjcldmjmjhkklehbacihaiopjklihlgg?hl=en). Facebook is too boring to get sucked into without a newsfeed.
+This is also why my social media accounts [have](https://chrome.google.com/webstore/detail/df-youtube-distraction-fr/mjdepdfccjgcndkmemponafgioodelna/related?hl=en-US) [no](https://github.com/bryanbraun/twitter-timeline-eradicator) [newsfeeds](https://chrome.google.com/webstore/detail/news-feed-eradicator-for/fjcldmjmjhkklehbacihaiopjklihlgg?hl=en). Facebook is too boring to get sucked into without a newsfeed.
 
 Living with all these "restrictions" isn't hard because I don't even know what I'm missing. You can't be tempted to sneak cookies that aren't in the pantry to begin with.
 
