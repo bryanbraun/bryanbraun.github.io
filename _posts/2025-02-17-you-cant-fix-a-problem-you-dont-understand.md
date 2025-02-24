@@ -27,4 +27,4 @@ We kept digging and eventually we found it: one of our dependencies was storing 
 
 Since then, I've adopted a mantra: **you can't fix a problem you don't understand**.
 
-It doesn't matter if the "fix" comes from AI, Stack Overflow, or trial-and-error. If I don't understand the problem, I feel unsettled until I do.
+It doesn't matter if the "fix" comes from AI, Stack Overflow, or trial-and-error. If you don't know *why* it works, there's a good chance that it doesn't.
