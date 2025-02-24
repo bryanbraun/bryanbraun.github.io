@@ -62,7 +62,7 @@ Running `npm install` will download these packages to a `node_modules` folder, b
 1. **Every package is organized differently.** ES6 imports require us to point to a specific JavaScript file, but which one? Each package with an ES6 module entrypoint saves it wherever they want, and names it whatever they want. There's no standard.
 2. **Not all packages support ES6 imports.** For years we've been building packages that export to browser globals, CommonJS, or other module formats. If the library you want to use doesn't have an ES6 module entrypoint, then you're toast.
 
-This is where [Snowpack](https://www.snowpack.dev/) comes in. You can think of Snowpack as a [Webpack](https://webpack.js.org/) alternative that uses ES6 modules to simplify and speed up your development workflow. When we run a basic Snowpack build, we produce a single ES6-module-friendly file for each of our dependencies (even [the ones that don't have built-in ES6 module support](https://www.snowpack.dev/#import-npm-packages))!
+This is where [Snowpack](https://www.snowpack.dev/) comes in. You can think of Snowpack as a [Webpack](https://webpack.js.org/) alternative that uses ES6 modules to simplify and speed up your [development workflow](https://www.chetu.com/solutions/autodesk/maya.php)). When we run a basic Snowpack build, we produce a single ES6-module-friendly file for each of our dependencies (even [the ones that don't have built-in ES6 module support](https://www.snowpack.dev/#import-npm-packages))!
 
 To use Snowpack, we'll add a `snowpack` section to our `package.json`, and list out the packages that we want to import into our code.
 
