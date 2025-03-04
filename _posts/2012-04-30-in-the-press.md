@@ -7,7 +7,7 @@ related: [
 ]
 ---
 
-As I mentioned last week, my capstone team has received a lot of attention for our efforts to build a device that allows people to scale walls like Batman. Last week Monday, I was brought on [BYU radio](http://www.byuradio.org/about) (SIRIUS XM Channel 143) to talk about the device we made. I got to speak in front of a national audience about what we had been working on. It was a rush! It must have gone well because I was invited to come back with other members of my team and speak on Friday for a full hour on the <a href="http://bluebirdsisterhood.wordpress.com/2012/04/27/scale-fortress-walls-like-batman-on-the-talkworthy-radio-show/">Talkworthy radio</a> show with <a href="http://www.facebook.com/kimpowerstilson" title="She has over 2000 Facebook friends, but who's counting?">Kim Power Stilson</a>. It was great!
+As I mentioned last week, my capstone team has received a lot of attention for our efforts to build a device that allows people to scale walls like Batman. Last week Monday, I was brought on [BYU radio](http://www.byuradio.org/about) (SIRIUS XM Channel 143) to talk about the device we made. I got to speak in front of a national audience about what we had been working on. It was a rush! It must have gone well because I was invited to come back with other members of my team and speak on Friday for a full hour on the <a href="http://bluebirdsisterhood.wordpress.com/2012/04/27/scale-fortress-walls-like-batman-on-the-talkworthy-radio-show/">Talkworthy radio</a> show with Kim Power Stilson. It was great!
 
 <img src="/assets/images/bryanradio.jpg" />
 

@@ -1,0 +1,189 @@
+<svg
+	xmlns="http://www.w3.org/2000/svg" width="617" height="297" style="background-color:#fff" viewBox="-0.5 -0.5 617 297">
+	<rect width="100%" height="100%" fill="#fff"/>
+	<g data-cell-id="WIyWlLk6GJQsqaUBKTNV-0">
+		<g data-cell-id="WIyWlLk6GJQsqaUBKTNV-1">
+			<g data-cell-id="YtAl-boQkoAEetO0NvhT-1">
+				<path fill="#FFF" stroke="#000" stroke-miterlimit="10" d="M8 108h60l30 30v80H8V108Z" pointer-events="all"/>
+				<path fill-opacity=".05" d="M68 108v30h30Z" pointer-events="all"/>
+				<path fill="none" stroke="#000" stroke-miterlimit="10" d="M68 108v30h30" pointer-events="all"/>
+				<switch transform="translate(-.5 -.5)">
+					<foreignObject width="100%" height="100%" pointer-events="none" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow:visible;text-align:left">
+						<div
+							xmlns="http://www.w3.org/1999/xhtml" style="display:flex;align-items:unsafe center;justify-content:unsafe center;width:88px;height:1px;padding-top:163px;margin-left:9px">
+							<div data-drawio-colors="color: rgb(0, 0, 0);" style="box-sizing:border-box;font-size:0;text-align:center">
+								<div style="display:inline-block;font-size:12px;font-family:ui-monospace,monospace;color:#000;line-height:1.2;pointer-events:all;white-space:normal;overflow-wrap:normal">import b
+									<br/>from &quot;b.js&quot;
+								</div>
+							</div>
+						</div>
+					</foreignObject>
+					<text x="53" y="167" font-family="ui-monospace,monospace" font-size="14" text-anchor="middle">import b...</text>
+				</switch>
+			</g>
+			<g data-cell-id="YtAl-boQkoAEetO0NvhT-2">
+				<path fill="#FFF" stroke="#000" stroke-miterlimit="10" d="M148 108h60l30 30v80h-90V108Z" pointer-events="all"/>
+				<path fill-opacity=".05" d="M208 108v30h30Z" pointer-events="all"/>
+				<path fill="none" stroke="#000" stroke-miterlimit="10" d="M208 108v30h30" pointer-events="all"/>
+				<switch transform="translate(-.5 -.5)">
+					<foreignObject width="100%" height="100%" pointer-events="none" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow:visible;text-align:left">
+						<div
+							xmlns="http://www.w3.org/1999/xhtml" style="display:flex;align-items:unsafe center;justify-content:unsafe center;width:88px;height:1px;padding-top:163px;margin-left:149px">
+							<div data-drawio-colors="color: rgb(0, 0, 0);" style="box-sizing:border-box;font-size:0;text-align:center">
+								<div style="display:inline-block;font-size:12px;font-family:ui-monospace,monospace;color:#000;line-height:1.2;pointer-events:all;white-space:normal;overflow-wrap:normal">import a
+									<br/>from &quot;a.js&quot;
+								</div>
+							</div>
+						</div>
+					</foreignObject>
+					<text x="193" y="167" font-family="ui-monospace,monospace" font-size="14" text-anchor="middle">import a...</text>
+				</switch>
+			</g>
+			<g data-cell-id="YtAl-boQkoAEetO0NvhT-4">
+				<path fill="none" d="M8 78h60v30H8z" pointer-events="all"/>
+				<switch transform="translate(-.5 -.5)">
+					<foreignObject width="100%" height="100%" pointer-events="none" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow:visible;text-align:left">
+						<div
+							xmlns="http://www.w3.org/1999/xhtml" style="display:flex;align-items:unsafe center;justify-content:unsafe center;width:58px;height:1px;padding-top:93px;margin-left:9px">
+							<div data-drawio-colors="color: rgb(0, 0, 0);" style="box-sizing:border-box;font-size:0;text-align:center">
+								<div style="display:inline-block;font-size:16px;font-family:ui-monospace,monospace;color:#000;line-height:1.2;pointer-events:all;font-weight:700;white-space:normal;overflow-wrap:normal">a.js</div>
+							</div>
+						</div>
+					</foreignObject>
+					<text x="38" y="98" font-family="ui-monospace,monospace" font-size="16" font-weight="bold" text-anchor="middle">a.js</text>
+				</switch>
+			</g>
+			<g data-cell-id="YtAl-boQkoAEetO0NvhT-5">
+				<path fill="none" d="M148 78h60v30h-60z" pointer-events="all"/>
+				<switch transform="translate(-.5 -.5)">
+					<foreignObject width="100%" height="100%" pointer-events="none" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow:visible;text-align:left">
+						<div
+							xmlns="http://www.w3.org/1999/xhtml" style="display:flex;align-items:unsafe center;justify-content:unsafe center;width:58px;height:1px;padding-top:93px;margin-left:149px">
+							<div data-drawio-colors="color: rgb(0, 0, 0);" style="box-sizing:border-box;font-size:0;text-align:center">
+								<div style="display:inline-block;font-size:16px;font-family:ui-monospace,monospace;color:#000;line-height:1.2;pointer-events:all;font-weight:700;white-space:normal;overflow-wrap:normal">b.js</div>
+							</div>
+						</div>
+					</foreignObject>
+					<text x="178" y="98" font-family="ui-monospace,monospace" font-size="16" font-weight="bold" text-anchor="middle">b.js</text>
+				</switch>
+			</g>
+			<g stroke="#000" stroke-miterlimit="10" data-cell-id="YtAl-boQkoAEetO0NvhT-6">
+				<path fill="none" d="M98 163h43.63" pointer-events="stroke"/>
+				<path d="m146.88 163-7 3.5 1.75-3.5-1.75-3.5Z" pointer-events="all"/>
+			</g>
+			<g stroke="#000" stroke-miterlimit="10" data-cell-id="YtAl-boQkoAEetO0NvhT-9">
+				<path fill="none" d="M148 188h-44.63" pointer-events="stroke"/>
+				<path d="m98.12 188 7-3.5-1.75 3.5 1.75 3.5Z" pointer-events="all"/>
+			</g>
+			<g data-cell-id="YtAl-boQkoAEetO0NvhT-10">
+				<path fill="#FFF" stroke="#000" stroke-miterlimit="10" d="M338 38h60l30 30v80h-90V38Z" pointer-events="all"/>
+				<path fill-opacity=".05" d="M398 38v30h30Z" pointer-events="all"/>
+				<path fill="none" stroke="#000" stroke-miterlimit="10" d="M398 38v30h30" pointer-events="all"/>
+				<switch transform="translate(-.5 -.5)">
+					<foreignObject width="100%" height="100%" pointer-events="none" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow:visible;text-align:left">
+						<div
+							xmlns="http://www.w3.org/1999/xhtml" style="display:flex;align-items:unsafe center;justify-content:unsafe center;width:88px;height:1px;padding-top:93px;margin-left:339px">
+							<div data-drawio-colors="color: rgb(0, 0, 0);" style="box-sizing:border-box;font-size:0;text-align:center">
+								<div style="display:inline-block;font-size:12px;font-family:ui-monospace,monospace;color:#000;line-height:1.2;pointer-events:all;white-space:normal;overflow-wrap:normal">import b
+									<br/>from &quot;b.js&quot;
+								</div>
+							</div>
+						</div>
+					</foreignObject>
+					<text x="383" y="97" font-family="ui-monospace,monospace" font-size="14" text-anchor="middle">import b...</text>
+				</switch>
+			</g>
+			<g data-cell-id="YtAl-boQkoAEetO0NvhT-11">
+				<path fill="#FFF" stroke="#000" stroke-miterlimit="10" d="M518 38h60l30 30v80h-90V38Z" pointer-events="all"/>
+				<path fill-opacity=".05" d="M578 38v30h30Z" pointer-events="all"/>
+				<path fill="none" stroke="#000" stroke-miterlimit="10" d="M578 38v30h30" pointer-events="all"/>
+				<switch transform="translate(-.5 -.5)">
+					<foreignObject width="100%" height="100%" pointer-events="none" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow:visible;text-align:left">
+						<div
+							xmlns="http://www.w3.org/1999/xhtml" style="display:flex;align-items:unsafe center;justify-content:unsafe center;width:88px;height:1px;padding-top:93px;margin-left:519px">
+							<div data-drawio-colors="color: rgb(0, 0, 0);" style="box-sizing:border-box;font-size:0;text-align:center">
+								<div style="display:inline-block;font-size:12px;font-family:ui-monospace,monospace;color:#000;line-height:1.2;pointer-events:all;white-space:normal;overflow-wrap:normal">import c
+									<br/>from &quot;c.js&quot;
+								</div>
+							</div>
+						</div>
+					</foreignObject>
+					<text x="563" y="97" font-family="ui-monospace,monospace" font-size="14" text-anchor="middle">import c...</text>
+				</switch>
+			</g>
+			<g data-cell-id="YtAl-boQkoAEetO0NvhT-12">
+				<path fill="none" d="M338 8h60v30h-60z" pointer-events="all"/>
+				<switch transform="translate(-.5 -.5)">
+					<foreignObject width="100%" height="100%" pointer-events="none" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow:visible;text-align:left">
+						<div
+							xmlns="http://www.w3.org/1999/xhtml" style="display:flex;align-items:unsafe center;justify-content:unsafe center;width:58px;height:1px;padding-top:23px;margin-left:339px">
+							<div data-drawio-colors="color: rgb(0, 0, 0);" style="box-sizing:border-box;font-size:0;text-align:center">
+								<div style="display:inline-block;font-size:16px;font-family:ui-monospace,monospace;color:#000;line-height:1.2;pointer-events:all;font-weight:700;white-space:normal;overflow-wrap:normal">a.js</div>
+							</div>
+						</div>
+					</foreignObject>
+					<text x="368" y="28" font-family="ui-monospace,monospace" font-size="16" font-weight="bold" text-anchor="middle">a.js</text>
+				</switch>
+			</g>
+			<g data-cell-id="YtAl-boQkoAEetO0NvhT-13">
+				<path fill="none" d="M518 8h60v30h-60z" pointer-events="all"/>
+				<switch transform="translate(-.5 -.5)">
+					<foreignObject width="100%" height="100%" pointer-events="none" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow:visible;text-align:left">
+						<div
+							xmlns="http://www.w3.org/1999/xhtml" style="display:flex;align-items:unsafe center;justify-content:unsafe center;width:58px;height:1px;padding-top:23px;margin-left:519px">
+							<div data-drawio-colors="color: rgb(0, 0, 0);" style="box-sizing:border-box;font-size:0;text-align:center">
+								<div style="display:inline-block;font-size:16px;font-family:ui-monospace,monospace;color:#000;line-height:1.2;pointer-events:all;font-weight:700;white-space:normal;overflow-wrap:normal">b.js</div>
+							</div>
+						</div>
+					</foreignObject>
+					<text x="548" y="28" font-family="ui-monospace,monospace" font-size="16" font-weight="bold" text-anchor="middle">b.js</text>
+				</switch>
+			</g>
+			<g stroke="#000" stroke-miterlimit="10" data-cell-id="YtAl-boQkoAEetO0NvhT-14">
+				<path fill="none" d="M428 108q45.5.5 83.09-.24" pointer-events="stroke"/>
+				<path d="m516.34 107.65-6.93 3.64 1.68-3.53-1.82-3.47Z" pointer-events="all"/>
+			</g>
+			<g stroke="#000" stroke-miterlimit="10" data-cell-id="YtAl-boQkoAEetO0NvhT-15">
+				<path fill="none" d="m518 148-18.83 30.94" pointer-events="stroke"/>
+				<path d="m496.44 183.42.65-7.79 2.08 3.31 3.9.32Z" pointer-events="all"/>
+			</g>
+			<g data-cell-id="YtAl-boQkoAEetO0NvhT-16">
+				<path fill="#FFF" stroke="#000" stroke-miterlimit="10" d="M428 178h60l30 30v80h-90V178Z" pointer-events="all"/>
+				<path fill-opacity=".05" d="M488 178v30h30Z" pointer-events="all"/>
+				<path fill="none" stroke="#000" stroke-miterlimit="10" d="M488 178v30h30" pointer-events="all"/>
+				<switch transform="translate(-.5 -.5)">
+					<foreignObject width="100%" height="100%" pointer-events="none" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow:visible;text-align:left">
+						<div
+							xmlns="http://www.w3.org/1999/xhtml" style="display:flex;align-items:unsafe center;justify-content:unsafe center;width:88px;height:1px;padding-top:233px;margin-left:429px">
+							<div data-drawio-colors="color: rgb(0, 0, 0);" style="box-sizing:border-box;font-size:0;text-align:center">
+								<div style="display:inline-block;font-size:12px;font-family:ui-monospace,monospace;color:#000;line-height:1.2;pointer-events:all;white-space:normal;overflow-wrap:normal">import a
+									<br/>from &quot;a.js&quot;
+								</div>
+							</div>
+						</div>
+					</foreignObject>
+					<text x="473" y="237" font-family="ui-monospace,monospace" font-size="14" text-anchor="middle">import a...</text>
+				</switch>
+			</g>
+			<g stroke="#000" stroke-miterlimit="10" data-cell-id="YtAl-boQkoAEetO0NvhT-17">
+				<path fill="none" d="m426.47 191.86-38.99-39.34" pointer-events="stroke"/>
+				<path d="m383.79 148.79 7.41 2.51-3.72 1.22-1.25 3.71Z" pointer-events="all"/>
+			</g>
+			<g data-cell-id="YtAl-boQkoAEetO0NvhT-18">
+				<path fill="none" d="M428 148h60v30h-60z" pointer-events="all"/>
+				<switch transform="translate(-.5 -.5)">
+					<foreignObject width="100%" height="100%" pointer-events="none" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow:visible;text-align:left">
+						<div
+							xmlns="http://www.w3.org/1999/xhtml" style="display:flex;align-items:unsafe center;justify-content:unsafe center;width:58px;height:1px;padding-top:163px;margin-left:429px">
+							<div data-drawio-colors="color: rgb(0, 0, 0);" style="box-sizing:border-box;font-size:0;text-align:center">
+								<div style="display:inline-block;font-size:16px;font-family:ui-monospace,monospace;color:#000;line-height:1.2;pointer-events:all;font-weight:700;white-space:normal;overflow-wrap:normal">c.js</div>
+							</div>
+						</div>
+					</foreignObject>
+					<text x="458" y="168" font-family="ui-monospace,monospace" font-size="16" font-weight="bold" text-anchor="middle">c.js</text>
+				</switch>
+			</g>
+			<path fill="none" stroke="#b3b3b3" stroke-dasharray="2 6" stroke-miterlimit="10" stroke-width="2" d="M288 278V28" data-cell-id="YtAl-boQkoAEetO0NvhT-20" pointer-events="stroke"/>
+		</g>
+	</g>
+</svg>

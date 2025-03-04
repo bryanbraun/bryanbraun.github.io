@@ -384,9 +384,26 @@ hr {
   padding-left: 0;
 }
 
-.all-posts{
+.all-posts {
   font-family: var(--sans-serif-stack);
   font-size: 12px;
+}
+
+.callout { /* for the "callout" section in the footer */
+  font-family: var(--sans-serif-stack);
+  padding: 3rem 0;
+  margin: 2rem 0;
+  text-align: center;
+  border-bottom: var(--bb-border-rule);
+  border-top: var(--bb-border-rule);
+}
+
+.work-with-me-text p {
+  font-size: 20px;
+  margin: 0;
+}
+.work-with-me-text p:not(:last-child) {
+  margin-bottom: 1rem;
 }
 
 /* Subscribe styles
@@ -395,18 +412,10 @@ hr {
    I might come back and improve this later if I'm running into edge cases.
 */
 .subscribe {
-  font-family: var(--sans-serif-stack);
-  padding: 3rem 0;
-  margin: 2rem 0;
-  text-align: center;
-  border-bottom: var(--bb-border-rule);
-  border-top: var(--bb-border-rule);
+  margin: 0 auto;
 }
 .subscribe-text p {
   margin: 0 0 0.5rem 0;
-}
-.subscribe-form {
-  margin: 0 auto;
 }
 .subscribe-email {
   background-color: #ffffff;
@@ -421,14 +430,6 @@ hr {
   margin: 3px 10px;
   height: 32px;
 }
-.mc-field-group {
-  display: inline-block;
-}
-.mce_inline_error {
-  display: inline-block;
-  vertical-align: top;
-}
-
 .subscribe-button-wrap {
   display: inline-block;
   vertical-align: top;
@@ -448,6 +449,13 @@ hr {
 .subscribe-button:hover {
   background-color: var(--bb-blue2);
   cursor: pointer;
+}
+.mc-field-group {
+  display: inline-block;
+}
+.mce_inline_error {
+  display: inline-block;
+  vertical-align: top;
 }
 
 .comments {

@@ -40,3 +40,20 @@
   text-decoration: underline;
   cursor: pointer;
 }
+
+/* This class is intended to be used on a <blockquote> element */
+.big-quote {
+  font-size: 24px;
+  font-style: italic;
+  color: #717171;
+  margin: 2rem 0;
+}
+.big-quote .quotee {
+  font-family: var(--sans-serif-stack);
+  font-size: 16px;
+  margin-top: 1rem;
+}
+
+.big-text {
+  font-size: 20px;
+}

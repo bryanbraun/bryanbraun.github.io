@@ -13,4 +13,4 @@ Fear is temporary. <a href="{{site.url}}/2013/07/12/which-is-worse" title="Which
 
 Selfishness breeds temporary gain, while the friendships that come from selflessness can last forever.
 
-When defining your underlying principles on how you make decisions with regards to money, opportunities, friends, and family, choose forever over temporary.
+When defining your underlying [principles](/principles) on how you make decisions with regards to money, opportunities, friends, and family, choose forever over temporary.

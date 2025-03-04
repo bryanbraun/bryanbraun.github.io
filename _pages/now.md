@@ -1,19 +1,19 @@
 ---
 title: Now
-date: 2025-01-14 # last updated
+date: 2025-03-04 # last updated
 excerpt: What I'm doing now.
 permalink: /now/
 ---
 
-I'm at home in Dayton Ohio, where we've been having a snowy winter.
+I'm at home in Dayton Ohio, where we've been having a snowy winter (but every day, we're seeing more sunlight).
 
 ## At Work
 
-I'm working remotely as a Senior Software Engineer at [Nearform](https://nearform.com/) (Formidable [was acquired by NearForm over a year ago](https://formidable.com/blog/2023/formidable-joins-forces-with-nearform/)). I've been at the company for three years now (which is the second-longest tenure of all the places I've worked). We recently did a company offsite and it was nice meeting my coworkers in person for the first time. I'm continuing to work on codebase modernization for a well-known e-commerce brand.
+After three years at [Nearform](https://nearform.com/), I'm now looking for new work opportunities. If you'd like to work with me, you can [learn more here](/work-with-me).
+
+I've been playing around a bit with AI models, building this [demo RAG application](https://github.com/bryanbraun/rag-demo) as a learning exercise. Yes there's a lot of hype around AI but there's also real use-cases and I'd love to add those tools to my software development toolbox.
 
 ## At Home
-
-I cut my hair short after growing it out for 2 years. I had never grown it out before and I wanted to try it to see what it would look like. I documented the process and learned a lot but it feels good to be back to my classic look.
 
 I'm been making some progress in weightlifting, recently achieving a new max bench press at 235lbs. I didn't ever think I would come this far but I continue to enjoy doing it, so I continue to visit the gym twice a week.
 
