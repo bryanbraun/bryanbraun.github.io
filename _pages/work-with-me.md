@@ -39,7 +39,7 @@ Specifically, I'm interested in:
 
 What I can offer you:
 
-* **Experience:** I've been in the arena. I've worked to resolve security issues, performance problems botched releases, and technical debt. I've learned which problems you can punt on and which ones need immediate action. I've got the instincts to identify and mitigate risks before it's too late.
+* **Experience:** I've been in the arena. I've worked to resolve security issues, performance problems, botched releases, and technical debt. I've learned which problems you can punt on and which ones need immediate action. I've got the instincts to identify and mitigate risks before it's too late.
 * **Creativity:** I love to explore what's possible and push the boundaries on the front end, both technically and from a UX perspective (fun example: [Checkboxland]({{site.url}}/2021/09/21/i-keep-making-things-out-of-checkboxes/)). Working at the intersection of design and development is my favorite.
 * **A team culture boost**: When I join a team, I bring a dose of optimism and curiosity. My vibe is thoughtful, humble and friendly. I'm famous for my [positive code reviews](https://sparkbox.com/foundry/stop_giving_depressing_code_reviews).
 * **Front-end leadership:** I've [written for CSS-Tricks](https://css-tricks.com/designing-a-javascript-plugin-system/), [spoken](/speaking) at Fluent Conference, and built popular open source libraries (my projects have been used by Microsoft, Google, and [thousands of other organizations](https://github.com/bryanbraun/anchorjs/network/dependents?package_id=UGFja2FnZS0xNDk5MDEzMw%3D%3D)). I lead by example and enjoy sharing what I've learned.
