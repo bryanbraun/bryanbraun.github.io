@@ -17,5 +17,6 @@ _site
 Gemfile.lock
 
 # I'm going to ignore drafts because I can't think of a reason I'd
-# want to push unfisnished posts up to github.
+# want to push unfinished posts up to github.
 _drafts
+!_drafts/2017-01-25-example-post.md

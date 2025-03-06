@@ -9,7 +9,7 @@ related: [
 
 Reference this post when creating a new post.
 
-Items we **don't** need in frontmatter:
+Items we **don't** need in front matter:
 
 - date - it is inferred from the post's filename (see http://ben.balter.com/jekyll-style-guide/posts/)
 - layout - it is set to "post" as a default in `_config.yml`
