@@ -28,8 +28,7 @@ Another situation. In BYU's music civilization classes, part of the examination 
 
  [2]: http://itunes.apple.com/us/app/shazam/id284993459?mt=8 "Shazam"
 
-We are coming to a point in time where access to the "sum of all human knowledge" is turning traditional learning upside down. More and more of what you learn in school is freely available online. We are starting to ask ourselves if we really need to know all these things, or if we just need to know how to find them.<img alt="Siri answers, &quot;what is the airspeed velocity of an unladen swallow?&quot;" src="http://blogs.twincities.com/yourtechweblog/files/2011/10/IMG_1772.png" style="width: 200px; height: 300px; margin: 30px; float: right;" title="Siri can answer anything" />
-
+We are coming to a point in time where access to the "sum of all human knowledge" is turning traditional learning upside down. More and more of what you learn in school is freely available online. We are starting to ask ourselves if we really need to know all these things, or if we just need to know how to find them.
 
 Knowing how to find them is getting incredibly easy. Google images lets you "<a href="http://www.youtube.com/watch?v=t99BfDnBZcI" title="Google &quot;search by image&quot;">search by image</a>" by dragging an image from your desktop to their search bar. Then it finds a bunch of images that look just like it (useful for identifying art, famous locations, flowers, and more). It's not perfect but it's getting better. Apple's Siri (on the iPhone 4S) is voice activated and integrated with Wolfram Alpha, so all you have to do is ask your phone a question and it will <a href="http://www.youtube.com/watch?v=5pg6fho-xb4" title="Siri Demo">literally</a> give you the answer. Sounds too good to be true? It's not perfect but it's getting better.
 

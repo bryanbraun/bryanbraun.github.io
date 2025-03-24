@@ -5,7 +5,7 @@ excerpt: What I'm doing now.
 permalink: /now/
 ---
 
-I'm at home in Dayton Ohio, where we've been having a snowy winter (but every day, we're seeing more sunlight).
+I'm at home in Dayton Ohio. It's raining a lot but the weather is getting warmer every day. 🌦️
 
 ## At Work
 
@@ -15,7 +15,7 @@ I've been playing around a bit with AI models, building this [demo RAG applicati
 
 ## At Home
 
-I'm been making some progress in weightlifting, recently achieving a new max bench press at 235lbs. I didn't ever think I would come this far but I continue to enjoy doing it, so I continue to visit the gym twice a week.
+I'm been making some progress in weightlifting, recently achieving a new max bench press at 240lbs. I didn't ever think I would come this far but I continue to enjoy doing it, so I continue to visit the gym twice a week.
 
 For the last year or so, I've been getting up at 5:50 every morning to teach a before-school class for local teenagers, about faith and life-skills. It's a lot of effort but the good days make it totally worth it.
 
