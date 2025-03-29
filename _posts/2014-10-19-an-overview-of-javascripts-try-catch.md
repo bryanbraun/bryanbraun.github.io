@@ -1,13 +1,14 @@
 ---
 title: "An Overview of Javascript's try-catch"
 date: 2014-10-19 22:00:59
-last_modified_at: 2020-08-25
+last_modified_at: 2025-03-29
 related: [
-  "Every Possible Way to Define a Javascript Function"
+  "Every Possible Way to Define a Javascript Function",
+  "Breaking down circular dependencies in JavaScript modules"
 ]
 ---
 
-Javascript has a pattern called try-catch that can be a bit confusing if you aren't used to it. I just finished a fantastic javascript book, which covered the topic well, so I thought I'd share what I learned.
+Javascript has a pattern called try-catch that can be a bit confusing if you aren't used to it. I just finished a fantastic Javascript book, which covered the topic well, so I thought I'd share what I learned.
 
 ## What is try-catch?
 
@@ -35,7 +36,7 @@ The "finally" braces, contains any code that you want to run "no matter what." I
 
 ## A couple examples
 
-We can test this out by creating our own artificial errors using the 'throw' statement, like so:
+We can test this out by creating our own artificial errors using the `throw` statement, like so:
 
 ```javascript
 try {
@@ -46,7 +47,7 @@ try {
 }
 ```
 
-As you can see the "catch" block references a javascript object that we've named \`err\`. This object contains information about the error that was returned, like the error message (stored in \`err.message\`).
+As you can see the "catch" block references a Javascript object that we've named `err`. This object contains information about the error that was returned, like the error message (stored in `err.message`).
 
 Let's make a few changes to our example to bring all these concepts together.
 
