@@ -1,6 +1,7 @@
 ---
 title: "Gridmaster: Closing Thoughts"
 date: 2020-09-08
+last_modified_at: 2025-04-03
 related: [
   "Bitbooks: Closing Thoughts",
   "I'm working part-time now",
@@ -36,3 +37,7 @@ In many ways, this was the most ambitious side-project I've worked on, and there
 
 
 Traditional Excel training still isn't that great, and I still believe that [the interactive approach we took is the future of online learning in general]({{site.url}}/2015/10/20/we-are-just-seeing-the-beginning-of-interactive-online-learning/). I'm looking forward to seeing other future products build on the ideas we explored.
+
+<hr class="section-divider" />
+
+<p><small>Note: I went ahead and <a target="_blank" href="https://gitlab.com/bryanbraun/gridmaster.io">made Gridmaster's source-code public</a> for posterity's sake. Take a look if you're interested!</small></p>
