@@ -398,14 +398,6 @@ hr {
   border-top: var(--bb-border-rule);
 }
 
-.work-with-me-text p {
-  font-size: 20px;
-  margin: 0;
-}
-.work-with-me-text p:not(:last-child) {
-  margin-bottom: 1rem;
-}
-
 /* Subscribe styles
    The styles are a bit Janky because I don't want to mess with mailchimp's embed
    form too much, for fear that I might break AJAX or validation features.

@@ -32,7 +32,7 @@ redirect_from:
 [6]: {{site.url}}/2012/04/30/in-the-press
 [7]: http://www.theregister.co.uk/2014/03/17/flying_toaster_screen_savers_return_on_github/
 [8]: http://daringfireball.net/linked/2015/06/07/after-dark
-[9]: https://www.smashingmagazine.com/smashing-newsletter-issue-165/#a3
+[9]: https://www.smashingmagazine.com/the-smashing-newsletter/smashing-newsletter-issue-165/
 [10]: https://www.commarts.com/favorites/five-interactive-designers-share-their-treasured-finds-3
 [11]: https://lifehacker.com/create-your-own-sharable-mechanical-music-box-tunes-wit-1839583697
 [12]: https://css-tricks.com/designing-a-javascript-plugin-system/

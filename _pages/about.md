@@ -1,22 +1,24 @@
 ---
 layout: default
 title: About
-excerpt: I'm a frontend developer, currently based in the American Midwest. I use design and code to inspire, educate, and empower people.
+excerpt: I'm a frontend/fullstack engineer, currently based in the American Midwest. I use design and code to help people.
 permalink: /about/
 redirect_from:
  - /who-is-bryan
  - /about/young-bryan/
 ---
 
-I'm a Senior Software Engineer, currently based in the American Midwest. I use design and code to inspire, educate, and empower people.
+I'm a frontend/fullstack engineer, currently based in the American Midwest. I use design and code to help people.
 
-I am [currently looking for my next opportunity](/work-with-me).
+I've spent the last 12 years building web products for startups, Fortune 500 companies, Stanford University, The White House, and other great organizations.
 
-I like to share what I'm learning through [writing](/blog), [speaking](/speaking), and [open-source](https://github.com/bryanbraun). My work has been [featured](/featured) in Morning Brew, Smashing Magazine, and Lifehacker. I'm an [indie hacker](https://www.indiehackers.com/start), and I'm always working on some sort of [side-project](/projects). [This is what I'm working on now](/now).
+I'm always working on some sort of [side-project](/projects). My work has been [featured](/featured) in Morning Brew, Smashing Magazine, and Lifehacker. [This is what I'm working on now](/now).
 
-[These are my principles](/principles).
+I like to share what I'm learning through [writing](/blog), [speaking](/speaking), and [open-source](https://github.com/bryanbraun).
 
-I'm a husband and father. I'm [INTJ](https://www.16personalities.com/intj-personality) and [LDS](https://www.lds.org/?lang=eng). When I'm not writing code or tweaking fonts, you can find me [reading](/books), riding my bicycle, practicing the piano, or building lego worlds with my kids.
+[These are the principles](/principles) that help me make decisions.
+
+I'm a husband and father. I'm [INTJ](https://www.16personalities.com/intj-personality) and [LDS](https://www.lds.org/?lang=eng). When I'm not writing code or tweaking fonts, you can find me [listening to audiobooks](/books), practicing the piano, or building lego worlds with my kids.
 
 ## Social
 

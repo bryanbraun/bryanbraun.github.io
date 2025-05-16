@@ -82,3 +82,4 @@ That's all I've got. Thanks, Wes, for hanging out with us!
 <p class="center">
   <img alt="Never stop learning" src="{{site.url}}/assets/images/never-stop-learning.jpg" />
 </p>
+

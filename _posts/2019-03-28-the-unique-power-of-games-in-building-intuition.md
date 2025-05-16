@@ -1,7 +1,7 @@
 ---
 title: "The unique power of games in building intuition"
 date: 2019-03-28
-last_modified_at: 2020-10-20
+last_modified_at: 2025-05-16
 related: [
   "Do we really need to know all this stuff?",
   "The Future of Educational Games",
@@ -135,7 +135,7 @@ Now, segregated cities is a big, complex problem, and sure, this simple game won
 
 I think there are tons of opportunities to create social good by helping people learn concepts that are practical, critical, but unintuitive. Things like compounding interest, opportunity cost, diminishing returns, and [others](https://fs.blog/mental-models/). If our society actually understood these concepts at a fundamental level, that would be a big deal!
 
-It's not just about developing classical knowledge either. Imagine a game where your goal is to survive while homeless. What would that do for your empathy?
+It's not just about developing classical knowledge either. Imagine [a game where your goal is to survive while homeless](https://playspent.org). What would that do for your empathy?
 
 <figure class="center">
   <img src="{{site.url}}/assets/images/papers-please-screenshot.png" alt="A scene from the game Papers, Please?" />

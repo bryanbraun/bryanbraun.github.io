@@ -1,25 +1,23 @@
 ---
 title: Now
-date: 2025-03-04 # last updated
+date: 2025-05-16 # last updated
 excerpt: What I'm doing now.
 permalink: /now/
 ---
 
-I'm at home in Dayton Ohio. It's raining a lot but the weather is getting warmer every day. 🌦️
+I'm at home in Dayton Ohio. Everything's green, summer is here, and I'm trying to get outside as much as I can.
 
 ## At Work
 
-After three years at [Nearform](https://nearform.com/), I'm now looking for new work opportunities. If you'd like to work with me, you can [learn more here](/work-with-me).
+Things are in transition. More to come soon.
 
-I've been playing around a bit with AI models, building this [demo RAG application](https://github.com/bryanbraun/rag-demo) as a learning exercise. Yes there's a lot of hype around AI but there's also real use-cases and I'd love to add those tools to my software development toolbox.
+I continue to tinker with AI as a development tool. Sometimes it's incredibly helpful—other times, not so much. I find it most helpful for brainstorming ideas and tutoring me on technical topics that I'm less familiar with.
 
 ## At Home
 
-I'm been making some progress in weightlifting, recently achieving a new max bench press at 240lbs. I didn't ever think I would come this far but I continue to enjoy doing it, so I continue to visit the gym twice a week.
+I've continued to lift weights, recently hitting a new max bench press of 240lbs. Weightlifting has been fun but I really enjoyed going on a long run recently, so I'm considering doing more of that going forward. We'll see.
 
-For the last year or so, I've been getting up at 5:50 every morning to teach a before-school class for local teenagers, about faith and life-skills. It's a lot of effort but the good days make it totally worth it.
-
-I had some decent productivity in 2024 ([see here for the list of things I made](https://www.bryanbraun.com/2025/01/01/made-in-2024/)). The project I've enjoyed the most recently is [musicbox.fun](https://musicbox.fun), because it sits at the intersection of a lot of my interests. I'm still working out my goals for 2025.
+My early morning class is on hiatus for the summer, so I'm hoping to have a bit more time for sleep and writing/coding. I finally added MIDI import/export to [musicbox.fun](https://musicbox.fun) which felt pretty good (I've wanted to add it for a long time). There's a lot more I'd like to add but I may have to turn my attention to some major house projects for a bit. 😩
 
 ---
 
