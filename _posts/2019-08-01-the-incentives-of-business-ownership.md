@@ -35,16 +35,22 @@ Not only do business owners have open-ended work… they have incredible financi
 Having a job where 1) your work makes an impact and 2) that impact brings direct financial benefit, is a killer combination. Now, *the only thing standing in your way is doing your best possible work*. That's a very different situation than being on an hourly wage, where you get paid the same no matter what you do.
 
 * * *
-<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Who does the work? Who bears the consequences? Who reaps the rewards? When the incentives are aligned, it's the same person.</p>&mdash; James Clear (@JamesClear) <a href="https://twitter.com/JamesClear/status/1694758020390023433">August 24, 2023</a></blockquote>
+
+<a href="https://twitter.com/JamesClear/status/1694758020390023433">
+  <img src="{{site.url}}/assets/images/aligned-incentives-tweet.png" alt="Who does the work? Who bears the consequences? Who reaps the rewards? When the incentives are aligned, it's the same person." />
+</a>
+
 * * *
 
 
 People respond to incentives. When employees have bad incentives they're less likely to invest in themselves (via a great morning routine, continuing education, or other forms of personal development). As a result, their health suffers, their motivation suffers, and the quality of their work suffers. This is why I'm such an advocate for profit-sharing, education benefits, and other business structures that align employer's and employee's incentives. It's a win-win.
 
 * * *
-<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">I’m increasingly of the belief that incentive design is the most important problem to work on. Humans are good at overcoming obstacles when they have reason to do so — the worst problems tend to be ones of cooperation, not technological or scientific understanding.</p>&mdash; Devon (@devonzuegel) <a href="https://twitter.com/devonzuegel/status/952407915045859329?ref_src=twsrc%5Etfw">January 14, 2018</a></blockquote>
 
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="https://twitter.com/devonzuegel/status/952407915045859329">
+  <img src="{{site.url}}/assets/images/incentive-design-tweet.png" alt="I’m increasingly of the belief that incentive design is the most important problem to work on. Humans are good at overcoming obstacles when they have reason to do so — the worst problems tend to be ones of cooperation, not technological or scientific understanding." />
+</a>
+
 * * *
 
 I do my best to invest in my health and happiness but since [my willpower is unreliable]({{site.url}}/2018/02/15/never-count-on-willpower/), I spend a lot of time thinking about how I can use incentive design to get "future me" to make the right choices. As such, I'm always on the lookout for "killer combinations" of my own.

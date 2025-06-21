@@ -75,10 +75,9 @@ Soon I had extended the Checkboxland API so I could load any video (like ones fr
 
 This also meant I could display webcam data, which got a lot of attention on Twitter when I shared it:
 
-<blockquote class="twitter-tweet" data-dnt="true">
-  <p lang="en" dir="ltr">I made a webcam filter out of html checkboxes.<br><br>Try it out here: <a href="https://t.co/1lBHfEgmhw">https://t.co/1lBHfEgmhw</a> <a href="https://t.co/tZrFOg3PWl">pic.twitter.com/tZrFOg3PWl</a></p>&mdash; Bryan Braun (@BryanEBraun) <a href="https://twitter.com/BryanEBraun/status/1435955497358741506?ref_src=twsrc%5Etfw">September 9, 2021</a>
-</blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="https://twitter.com/BryanEBraun/status/1435955497358741506">
+  <img src="{{site.url}}/assets/images/checkbox-webcam-filter-tweet.jpg" alt="I made a webcam filter out of html checkboxes. Try it out here:" />
+</a>
 
 Finally, my co-worker Reed told me about a challenge where people try to play the animated video "Bad Apple" on various obscure computing environments (see [a bunch of examples here](https://www.youtube.com/playlist?list=PLajlU5EKJVdonUGTEc7B-0YqElDlz9Sf9)). It sounded fun so I went ahead and put together a youtube video for that.
 

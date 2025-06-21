@@ -28,8 +28,6 @@ Fortunately, there are lots of hidden gems. Great opportunities at lesser-known 
 
 I'm guilty of over-researching things from time to time, but "environment decisions" are worth spending time on.
 
-
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">Swim in rivers that flow to where you want to go.</p>&mdash; Bryan Braun (@BryanEBraun) <a href="https://twitter.com/BryanEBraun/status/1121422714617638912?ref_src=twsrc%5Etfw">April 25, 2019</a>
-</blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="https://twitter.com/BryanEBraun/status/1121422714617638912">
+  <img src="{{site.url}}/assets/images/rivers-tweet.png" alt="Swim in rivers that flow to where you want to go." />
+</a>

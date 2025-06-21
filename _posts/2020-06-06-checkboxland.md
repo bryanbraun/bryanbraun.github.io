@@ -41,10 +41,9 @@ I soon had an opportunity to spend a week at [The Recurse Center](https://www.re
 
 Anyway, that project became Checkboxland, and it has allowed me to rapidly spin up demos and see what I could make. For example, these scannable checkbox QR Codes:
 
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">It&#39;s Friday night so of course I&#39;m eating cookie dough and making a QR code out of html checkboxes that always tells you the current time.<a href="https://t.co/ZNjG0SWAce">https://t.co/ZNjG0SWAce</a> <a href="https://t.co/Fywf7FZFpu">pic.twitter.com/Fywf7FZFpu</a></p>&mdash; Bryan Braun (@BryanEBraun) <a href="https://twitter.com/BryanEBraun/status/1264014217063149569?ref_src=twsrc%5Etfw">May 23, 2020</a>
-</blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="https://twitter.com/BryanEBraun/status/1264014217063149569">
+  <img src="{{site.url}}/assets/images/checkbox-qr-code-tweet.jpg" alt="It's Friday night so of course I'm eating cookie dough and making a QR code out of html checkboxes that always tells you the current time." />
+</a>
 
 ## "A thing that shouldn't exist"
 
