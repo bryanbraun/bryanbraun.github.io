@@ -14,6 +14,7 @@ h5,
 h6 {
   font-family: var(--sans-serif-stack);
   font-weight: normal;
+  text-wrap: balance;
 }
 
 /* These headings are identical, to discourage unnecessary hierarchy. */
@@ -22,6 +23,10 @@ h5,
 h6 {
   font-size: 1rem;
   margin: 1.333rem 0;
+}
+
+p {
+  text-wrap: pretty;
 }
 
 a {

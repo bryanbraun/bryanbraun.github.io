@@ -48,6 +48,9 @@
   color: #717171;
   margin: 2rem 0;
 }
+.big-quote > div, .big-quote > p {
+  hanging-punctuation: first; /* hanging quotes in Safari (only takes effect when using smart quotes) */
+}
 .big-quote .quotee {
   font-family: var(--sans-serif-stack);
   font-size: 16px;
