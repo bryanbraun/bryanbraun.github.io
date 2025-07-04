@@ -1,4 +1,4 @@
-# The Ruby version for local devlopment is set in .ruby-version
+# The Ruby version for local development is set in .ruby-version
 # We set it to the same version that GitHub Pages uses, to keep
 # local dev as similar to production as possible. That version
 # can be found here: https://pages.github.com/versions/
