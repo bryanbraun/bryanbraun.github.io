@@ -20,7 +20,7 @@ Some decisions seem to have a disproportionately large impact:
 
 What makes these decisions so impactful? They are **environment decisions**.
 
-Our environments shape us in hundreds of little ways that are difficult to see and predict. It's like swimming in a river, where the current slowly pulls you in one direction, until you look up and realize that you've been drifting downstream the entire time. The right environment can pull to you where you want to go (and compensate for a lot of mistakes along the way).
+Our environments shape us in hundreds of little ways that are difficult to see and predict. It's like swimming in a river, where the current slowly pulls you in one direction, until you look up and realize that you've been drifting downstream the entire time. The right environment can pull you to where you want to go (and compensate for a lot of mistakes along the way).
 
 It's hard, though. Smart people know that environments matter, so you have to fight for opportunities. Many schools won't accept you. Most companies aren't hiring for your position. Changing friends is difficult. Good housing is expensive. It's even harder if you're disadvantaged in one way or another.
 

@@ -22,7 +22,7 @@ For one, sometimes **the world changes**, and your idea no longer makes sense.
 
 I once drafted a blog post about some quirky behaviors in `npm`, but by the time I came back to refine it, the behaviors had been fixed. Another time, I had an idea for a podcast, only [to watch somebody else create it]({{site.url}}/2014/02/14/tldr/) (they did a *great* job). Most recently, I've found that several of my project ideas can be replaced by a simple AI prompt (like, *"Generate some lorem ipsum text in the style of Dr. Seuss"*).
 
-But the other reason that waiting is risky, is that **you** change.
+But the other reason that waiting is risky, is that **you change**.
 
 I've got several ideas for children's books, but I can feel my interest in them waning as my kids get older. Several of the business ideas I added grew out of pain points that I no longer have. And when I look at some of the more ambitious projects, I wonder if I even still have the appetite to take a swing at them.
 

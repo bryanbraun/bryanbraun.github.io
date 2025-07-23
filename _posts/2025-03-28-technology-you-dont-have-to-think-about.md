@@ -10,7 +10,7 @@ related: [
 
 > "Civilization advances by extending the number of important operations which we can perform without thinking about them."
 >
-> – [Alfred North Whitehead](https://www.brainyquote.com/quotes/alfred_north_whitehead_108058)
+> [Alfred North Whitehead](https://www.brainyquote.com/quotes/alfred_north_whitehead_108058)
 
 Effective technology takes our most time-consuming tasks and moves them into the background so we can focus on other important things. We can see this happening on the civilization level with the infrastructure we've built to get inexpensive food, water, energy, and transportation.
 
