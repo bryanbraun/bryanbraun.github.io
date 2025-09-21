@@ -27,14 +27,14 @@ The goal behind this server was to create a fun and safe virtual space for our k
 ## Early decisions
 ### Hosting
 
-When it comes to hosting, the level of maintenance vs control is a trade-off and we were willing to adopt some maintenance overhead if it gave us a lot of control over our gaming environment. With that it mind, here are the hosting options we looked at:
+When it comes to hosting, there's a maintenance vs control trade-off and we were willing to adopt some maintenance overhead if it gave us a lot of control over our gaming environment. With that it mind, here are the hosting options we looked at:
 
 - 1st-party hosted world (Realms, etc) - Low maintenance, low control
 - 3rd-party Minecraft-specific server rental (Shockbyte, etc) - Medium maintenance, high control
 - 3rd-party generic server rental (Digital Ocean, etc)- High maintenance, high control
 - Full self-hosted (Raspberry Pi, etc) - Extremely high maintenance, highest control
 
- A service like Realms offers a polished experience, but it seemed too limiting for us (it's a single vanilla Minecrat world, with low customization). That said, managing all the code and dependencies on a Linux machine in my basement seemed unsustainable. We decided on a $5/month server from Shockbyte. Serious server maintainers like to hate on Shockbyte because it's shared hosting. I get it—us web-devs have similar opinions about services like BlueHost and HostGator. But for a small, private, family server, Shockbyte was perfect. Here's a few things I liked about it:
+ A service like Realms offers a polished experience, but it seemed too limiting for us (it's a single vanilla Minecraft world, with low customization). That said, managing all the code and dependencies on a Linux machine in my basement seemed unsustainable. We decided on a $5/month server from Shockbyte. Serious server maintainers like to hate on Shockbyte because it's shared hosting. I get it—us web-devs have similar opinions about services like BlueHost and HostGator. But for a small, private, family server, Shockbyte was perfect. Here's a few things I liked about it:
 
 - A convenient dashboard that allows server maintenance from any web browser.
 - A dedicated UI for Minecraft-specific server maintenance needs (Minecraft version management, Plugin browser, User management, etc)

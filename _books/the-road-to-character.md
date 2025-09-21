@@ -1,0 +1,9 @@
+---
+title: "The Road to Character"
+author: David Brooks
+date: 2025-09-19
+categories: non-fiction
+rating: 3/5
+---
+
+I became interested in this book when I discovered it was written by David Brooks—a New York Times columnist whose writing I've enjoyed in the past. The book discusses character—what it is and how we might develop it in the modern world. Much of the book follows the lives of lesser-known historical figures who became influential in their fields despite misfortune, personal failings, and terrible circumstances. Each story demonstrated a degree of character development amid the chaos and messiness of life. The stories were ok, but the idea that stuck out the most to me was "The Big Me," his term for the dominant culture today. He describes it as an unquestioned belief that the true authority for your decision making should be your inner-self. You hear it in phrases like "follow your passion," and "be yourself," which suggest that you should trust your feelings, your logic, and your drives, when deciding what to do in life. In this world-view, anything you feel is legitimate **because** you felt it. It's empowering but it fuels selfishness (and all it's societal byproducts). What's the opposite of this? Self-mastery. This idea that your desires are not always good sign-posts, and that you should take an active role in evaluating the inner voices, feeding the good ones, and starving the bad ones. How do we know what is good and bad? If we can't find the answer inside, we are forced to look outside… to find a higher authority. Instead of asking ourselves, "what do I want?" we start asking ourselves "what does the world need?" We start to have a reason to self-confront, to deprioritize our own desires, and to sacrifice for the greater good. The world could use more people like that, in my opinion.
