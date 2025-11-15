@@ -44,15 +44,15 @@ function processPayment(user, order) {
 
 This is great for codebases that already have universal linting and build failures for any violations. I like comments on linting exceptions because they help explain whether an exception is valid, or technical debt. You can [make these comments required](https://eslint-community.github.io/eslint-plugin-eslint-comments/rules/require-description.html).
 
-**3: A racheting system**
+**3: A ratcheting system**
 
-A [rachet](https://en.wikipedia.org/wiki/Ratchet_(device)) allows motion in one direction but prevents motion in the other. As such, we can set up systems that only allow the number of bad patterns to decrease. For example, the JavaScript ecosystem includes tools like [eslint-seatbelt](https://www.notion.com/blog/how-we-evolved-our-code-notions-ratcheting-system-using-custom-eslint-rules), [betterer](https://github.com/phenomnomnominal/betterer), and [diffjam](https://github.com/diffjam/diffjam), each of which uses a racheting process to gradually drive towards compliance.
+A [ratchet](https://en.wikipedia.org/wiki/Ratchet_(device)) allows motion in one direction but prevents motion in the other. As such, we can set up systems that only allow the number of bad patterns to decrease. For example, the JavaScript ecosystem includes tools like [eslint-seatbelt](https://www.notion.com/blog/how-we-evolved-our-code-notions-ratcheting-system-using-custom-eslint-rules), [betterer](https://github.com/phenomnomnominal/betterer), and [diffjam](https://github.com/diffjam/diffjam), each of which uses a ratcheting process to gradually drive towards compliance.
 
 ## Excellent rules for AI agents
 
 An ounce of prevention is worth a pound of cure, and we can prevent bad code from being written in the first place with a set of excellent rules for AI agents. All the major coding agents support this (see [Claude](https://www.anthropic.com/engineering/claude-code-best-practices#a-create-claudemd-files), [Cursor](https://cursor.com/docs/context/rules), [Copilot](https://docs.github.com/en/copilot/how-tos/configure-custom-instructions/add-repository-instructions)).
 
-Well-written rules make a huge difference. When I joined ClassDojo, I could hardly believe how much "better" the coding AIs were. It wasn't the AIs themselves (I was using the same models and editors on my own proejcts). It was the rules.
+Well-written rules make a huge difference. When I joined ClassDojo, I could hardly believe how much "better" the coding AIs were. It wasn't the AIs themselves (I was using the same models and editors on my own projects). It was the rules.
 
 If you don't have any rules in your project, create some (AI can help with this, but start small!). Then, anytime you get weird output from an AI, consider adding or adjusting the rules. Give engineers collective ownership over these rules with permission to adjust them as needed. This can be a powerful system for preventing undesirable patterns (especially ones outside the scope of linting).
 
