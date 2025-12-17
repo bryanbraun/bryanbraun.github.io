@@ -23,8 +23,8 @@ My job offers revealed the beginnings of several wildly diverging paths, which r
 
 When I was in college, my roommates and I had a running joke. Whenever some tiny setback would occur, one of us would smile and say "the good times are over." The absurdity of it got us laughing, because we had our whole lives ahead of us. Clearly, things were going to be ok.
 
-These days, "the good times are over" is a common narrative in the world—treated seriously, not as a joke. It can be tempting to fall into that way of thinking.
+These days, "the good times are over" is a common narrative in the world—treated seriously, not as a joke. It can [be tempting to fall into that way of thinking]({{site.url}}/2023/11/26/i-needed-to-be-happier/).
 
-But if we could see more clearly, we'd realize that a world of branching opportunities still stretches out before us, both individually and collectively. One of the key reasons I chose ClassDojo was because I saw a team that was full of energy and optimism for the future ahead. That's [a river I want to swim in](https://www.bryanbraun.com/2021/05/21/the-rivers-we-swim-in/).
+But if we could see more clearly, we'd realize that a world of branching opportunities still stretches out before us, both individually and collectively. One of the key reasons I chose ClassDojo was because I saw a team that was full of energy and optimism for the future ahead. That's [a river I want to swim in]({{site.url}}/2021/05/21/the-rivers-we-swim-in/).
 
 I'm excited to see where this path leads.
