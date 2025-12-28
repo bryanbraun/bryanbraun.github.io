@@ -388,6 +388,9 @@ hr {
   list-style-type: none;
   padding-left: 0;
 }
+.blog-list > li {
+  display: flex;
+}
 
 .all-posts {
   font-family: var(--sans-serif-stack);

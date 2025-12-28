@@ -2,7 +2,9 @@
 title: "Raise your standards for important things; lower them for unimportant things"
 date: 2025-12-27
 related: [
-  "Technical Myopia",
+  "Jonathon Harris on Attention",
+  "Focus",
+  "Living Deliberately"
 ]
 ---
 
@@ -20,7 +22,7 @@ The "tendencies" I described above go by many names: passion, obsession, fixatio
 
 **Raise your standards for important things; lower them for unimportant things**
 
-When is a room clean enough? When is a meal healthy enough? We all have standards for these things, and ours standards can be adjusted. Maintaining high standards is expensive, and any effort we spend on high standards for unimportant things is ultimately a waste.
+When is a room clean enough? When is a meal healthy enough? We all have standards for these things, and our standards can be adjusted. Maintaining high standards is expensive, and any effort we spend on high standards for unimportant things is ultimately a waste.
 
 I could double-down on my March Madness research or I could play a board game with my kids.
 
