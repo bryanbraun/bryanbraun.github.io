@@ -30,4 +30,4 @@ I could remove every last dandelion from my lawn or I could publish that blog po
 
 How do we know what's important and what's unimportant? There's no right answer. You get to decide!
 
-For me, the most important things are the things that last the longest: Family, health, and personal development (like building skills and exercising creativity). Anything else can afford to degrade a bit.
+For me, the most important things are the things that last the longest: family, health, and personal development (like building skills and exercising creativity). Anything else can afford to degrade a bit.
