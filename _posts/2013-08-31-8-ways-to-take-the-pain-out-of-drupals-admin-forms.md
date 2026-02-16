@@ -53,7 +53,7 @@ By default, Drupal gives you three basic multi-select options: checkboxes, autoc
 
       <td valign="top">
         <p>
-          <a href="https://drupal.org/project/multicolumncheckboxesradios">Multicolumn checkboxes radios</a> <small><a href="#footnote1">[1]</a></small>, Styling to display checkboxes in multiple columns.
+          <a href="https://drupal.org/project/multicolumncheckboxesradios">Multicolumn checkboxes radios</a><sup id="fnref-1"><a href="#fn-1" class="footnote-ref">1</a></sup>, Styling to display checkboxes in multiple columns.
         </p>
 
         <p>
@@ -352,4 +352,13 @@ With <a href="https://drupal.org/node/1183606">a handful of these features goin
 
 What do you think? Did I miss any?
 
-<small id="footnote1">[1] Multi-column checkbox radios is <a href="https://drupal.org/node/1148836">only partially ported to Drupal 7</a>.</small>
+***
+
+<div class="footnotes">
+  <ol>
+    <li id="fn-1">
+      <p>Multi-column checkbox radios is <a href="https://drupal.org/node/1148836">only partially ported to Drupal 7</a>.</p>
+      <a href="#fnref-1" class="footnote-backref">↩</a>
+    </li>
+  </ol>
+</div>

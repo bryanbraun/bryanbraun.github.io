@@ -60,7 +60,7 @@ Consider this example from Victor Frankl's "Man's Search for Meaning":
 
 All it took was a new story—a better story—and everything changed.
 
-Imagine how much better our lives could be if we could **deliberately choose** our stories, instead of adopting whatever random narratives drift across our news and social media feeds. We'd have this powerful tool for helping us overcome obstacles and break out of bouts of unhappiness<a href="#footnote-1"><sup>1</sup></a>.
+Imagine how much better our lives could be if we could **deliberately choose** our stories, instead of adopting whatever random narratives drift across our news and social media feeds. We'd have this powerful tool for helping us overcome obstacles and break out of bouts of unhappiness<sup id="fnref-1"><a href="#fn-1" class="footnote-ref">1</a></sup>.
 
 [!["Pain is a fact. Suffering is a choice" - Naval Ravikant]({{site.url}}/assets/images/pain-vs-suffering.jpg)](https://twitter.com/naval/status/1389064024378122241?lang=en)
 
@@ -94,7 +94,7 @@ Naval Ravikant [talked about this on his podcast](https://nav.al/happiness):
 
 > "The beauty of being mentally high functioning in our society is that you can trade it for almost anything. You can be happy and smart—it’s just going to take more work. If you’re smart, you can figure out how to be healthy within your genetic constraints and how to be wealthy within your environmental constraints. If you’re smart, you can figure out how to be happy within your biological constraints."
 
-Doctors still take medicine when they are sick. It isn't "self-manipulation." It's doing what gets results because you want the results<a href="#footnote-2"><sup>2</sup></a>.
+Doctors still take medicine when they are sick. It isn't "self-manipulation." It's doing what gets results because you want the results<sup id="fnref-2"><a href="#fn-2" class="footnote-ref">2</a></sup>.
 
 We should think of our mental health in the same way. If we're too proud to deliberately choose new narratives when our old ones aren't working, we hurt ourselves for no reason.
 
@@ -117,9 +117,15 @@ It's when I'm in a rut that I can't seem to get out of, or fighting discourageme
 
 <hr class="section-divider" />
 
-<p>
-  <small id="footnote-1"><em>1: This is basically <a href="https://en.wikipedia.org/wiki/Cognitive_reframing" target="_blank">reframing</a>, a key part of Cognitive Behavioral Therapy that's <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3584580/" target="_blank">shown to be widely effective</a></em></small>
-</p>
-<p>
-  <small id="footnote-2"><em>2: See also the philosophy of <a href="https://en.wikipedia.org/wiki/Pragmatism" target="_blank">Pragmatism</a></em></small>
-</p>
+<div class="footnotes">
+  <ol>
+    <li id="fn-1">
+      <p>This is basically <a href="https://en.wikipedia.org/wiki/Cognitive_reframing" target="_blank">reframing</a>, a key part of Cognitive Behavioral Therapy that's <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3584580/" target="_blank">shown to be widely effective</a></p>
+      <a href="#fnref-1" class="footnote-backref">↩</a>
+    </li>
+    <li id="fn-2">
+      <p>See also the philosophy of <a href="https://en.wikipedia.org/wiki/Pragmatism" target="_blank">Pragmatism</a></p>
+      <a href="#fnref-2" class="footnote-backref">↩</a>
+    </li>
+  </ol>
+</div>

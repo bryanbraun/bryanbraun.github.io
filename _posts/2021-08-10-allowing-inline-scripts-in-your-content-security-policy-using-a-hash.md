@@ -44,7 +44,7 @@ Refresh the page and confirm that your error message goes away.
 
 So what is this error and why does this fix work?
 
-The job of a Content Security Policy (CSP) is to restrict a bunch of browser features<sup><a href="#footnotes">1</a></sup> for your website, to make it more difficult for hackers to exploit.
+The job of a Content Security Policy (CSP) is to restrict a bunch of browser features<sup id="fnref-1"><a href="#fn-1" class="footnote-ref">1</a></sup> for your website, to make it more difficult for hackers to exploit.
 
 One of these restricted features is inline scripting (basically, a set of `<script>` tags with JavaScript code inside of them).
 
@@ -62,7 +62,7 @@ It does this by using a hash function to create a unique ID for your inline scri
   Side note: <a href="https://en.wikipedia.org/wiki/Cryptographic_hash_function" target="_blank">Hash functions</a> are algorithms that are used to create a unique ID (or digest) for a given data input. They have several applications, like generating "git commit IDs", obscuring password data, and verifying the integrity of HTTPS requests.
 </div>
 
-To generate an ID for our inline script, we can copy every character inside our `<script>` tags (including the whitespace) and paste them as the input of our hashing algorithm, as shown in this example<sup><a href="#footnotes">2</a></sup>:
+To generate an ID for our inline script, we can copy every character inside our `<script>` tags (including the whitespace) and paste them as the input of our hashing algorithm, as shown in this example<sup id="fnref-2"><a href="#fn-2" class="footnote-ref">2</a></sup>:
 
 <figure class="center">
   <a href="{{site.url}}/assets/images/csp-hash-instructions.png" target="_blank"><img src="{{site.url}}/assets/images/csp-hash-instructions.png" alt="An example showing of code being selected and pasted into a terminal command for a SHA-256 hashing algorithm" /></a>
@@ -89,11 +89,16 @@ These issues can be annoying so it's best to minimize your inline scripts as muc
 
 ***
 
-<p id="footnotes">
-  <small><sup>1</sup> The awkward implication here is that browsers are pretty insecure by default. Browser developers can't correct this without massively breaking backwards compatibility… a principle they're pretty committed to (for which I'm grateful!). Thus, Content Security Policies create as an opt-in way to create a more secure (and restrictive) browsing environment on a per-website basis.</small>
-</p>
-
-<p>
-  <small><sup>2</sup> I pulled the examples in this post from a Content Security Policy I added to a project of mine. You can see <a href="https://github.com/bryanbraun/checkboxland/commit/b351b48f9ccf93bc65dc706d5ce89be0464f2b9b" target="_blank">the full commit changes for that policy addition here on Github</a>.</small>
-</p>
+<div class="footnotes">
+  <ol>
+    <li id="fn-1">
+      <p>The awkward implication here is that browsers are pretty insecure by default. Browser developers can't correct this without massively breaking backwards compatibility… a principle they're pretty committed to (for which I'm grateful!). Thus, Content Security Policies create as an opt-in way to create a more secure (and restrictive) browsing environment on a per-website basis.</p>
+      <a href="#fnref-1" class="footnote-backref">↩</a>
+    </li>
+    <li id="fn-2">
+      <p>I pulled the examples in this post from a Content Security Policy I added to a project of mine. You can see <a href="https://github.com/bryanbraun/checkboxland/commit/b351b48f9ccf93bc65dc706d5ce89be0464f2b9b" target="_blank">the full commit changes for that policy addition here on Github</a>.</p>
+      <a href="#fnref-2" class="footnote-backref">↩</a>
+    </li>
+  </ol>
+</div>
 
