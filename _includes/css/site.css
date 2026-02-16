@@ -462,6 +462,19 @@ hr {
   text-align: center;
 }
 
+.footnotes {
+  font-size: 13px;
+}
+.footnotes ol {
+  padding-left: 1rem;
+}
+.footnotes p {
+  margin: 0 0 0.25rem 0
+}
+.footnotes li {
+  margin: 0.5rem 0;
+}
+
 /* The default table is mostly browser defaults and basically unstyled (no border, etc). */
 /* Cancel top-margin for common first elements inside of table cells. */
 table td > pre:first-child {

@@ -78,7 +78,7 @@ Ultimately, robust stories don't depend on outcomes. Inherent value is robust. [
 
 Perhaps the most robust story we can adopt is none at all:
 
-> "For all species other than us humans, things just are what they are. Our problem is that we’re always trying to figure out what things mean—why things are the way they are. As though the why matters. Emerson put it best: “We cannot spend the day in explanation.” Don’t waste time on false constructs."
+> "For all species other than us humans, things just are what they are. Our problem is that we’re always trying to figure out what things mean—why things are the way they are. As though the why matters. Emerson put it best: 'We cannot spend the day in explanation.' Don’t waste time on false constructs."
 >
 > ― Ryan Holiday, The Obstacle Is the Way
 
