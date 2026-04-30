@@ -18,7 +18,7 @@ For the past five years, I've been running a family Minecraft server. The server
 The goal behind this server was to create a fun and safe virtual space for our kids to spend time with distant family members and friends. There are lots of public Minecraft servers out there, many which are very active and have heavily customized Minecraft to create RPGs, mini-games, team sports, and more. Instead of trying to recreate something like that, we focused on building a private space to play Minecraft in all of it's many forms (various gamemodes, rulesets, enhancements, etc).
 
 ### Project requirements
-- The server should use Minecraft Java edition. We prefer Java edition for it's superior creative ecosystem, including mods, plugins, resource packs, and more (for details, see [Why we prefer computers over consoles when introducing kids to gaming]({{site.url}}2024/03/08/why-we-prefer-computers-over-consoles-when-introducing-kids-to-gaming/)).
+- The server should use Minecraft Java edition. We prefer Java edition for it's superior creative ecosystem, including mods, plugins, resource packs, and more (for details, see [Why we prefer computers over consoles when introducing kids to gaming]({{site.url}}/2024/03/08/why-we-prefer-computers-over-consoles-when-introducing-kids-to-gaming/)).
 - The server should be private.
 - The server should give us admins full creative control to design the ideal playing experience for our family. We should be able to play in whatever worlds we want to, in any gamemode, with any ruleset we want.
 - The server should be relatively low-maintenance.
