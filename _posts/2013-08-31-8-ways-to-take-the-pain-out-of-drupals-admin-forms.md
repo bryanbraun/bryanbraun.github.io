@@ -357,8 +357,7 @@ What do you think? Did I miss any?
 <div class="footnotes">
   <ol>
     <li id="fn-1">
-      <p>Multi-column checkbox radios is <a href="https://drupal.org/node/1148836">only partially ported to Drupal 7</a>.</p>
-      <a href="#fnref-1" class="footnote-backref">↩</a>
+      <p>Multi-column checkbox radios is <a href="https://drupal.org/node/1148836">only partially ported to Drupal 7</a>. <a href="#fnref-1" class="footnote-backref">↩</a></p>
     </li>
   </ol>
 </div>

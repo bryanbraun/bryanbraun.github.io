@@ -36,8 +36,8 @@ It would stand out! That matters, arguably, even more than speed.
 
 The more I thought about this, the more I recognized it as the same ol' quality vs quantity debate, where it pays to strike a balance:
 
-* If we pour all our surplus time into quality, we end up *hurting* quality by failing to iterate.
-* If we pour all our surplus time into quantity, we end up *hurting* speed as tech debt accumulates<sup id="fnref-1"><a href="#fn-1" class="footnote-ref">1</a></sup>.
+* If we pour all our surplus time into quality, we end up *hurting* quality by failing to iterate<sup id="fnref-1"><a href="#fn-1" class="footnote-ref">1</a></sup>.
+* If we pour all our surplus time into quantity, we end up *hurting* speed as tech debt accumulates<sup id="fnref-2"><a href="#fn-2" class="footnote-ref">2</a></sup>.
 
 But what's the ideal balance? Is it 90% quality, 10% speed? 50% - 50%?
 
@@ -48,7 +48,10 @@ How would you spend your AI surplus?
 <div class="footnotes">
   <ol>
     <li id="fn-1">
-      <p>Remember: <em>Slow is smooth, and smooth is fast</em>. <a href="#fnref-1" class="footnote-backref">↩</a></p>
+      <p>For an example, see the <a href="https://jamesclear.com/repetitions" target="_blank">story of the photography class</a>, as told by James Clear in <a href="https://bryanbraun.com/books/#atomic-habits" target="_blank">Atomic Habits</a>. <a href="#fnref-1" class="footnote-backref">↩</a></p>
+    </li>
+    <li id="fn-2">
+      <p>Remember: <em>Slow is smooth, and smooth is fast</em>. <a href="#fnref-2" class="footnote-backref">↩</a></p>
     </li>
   </ol>
 </div>

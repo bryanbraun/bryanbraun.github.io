@@ -92,12 +92,10 @@ These issues can be annoying so it's best to minimize your inline scripts as muc
 <div class="footnotes">
   <ol>
     <li id="fn-1">
-      <p>The awkward implication here is that browsers are pretty insecure by default. Browser developers can't correct this without massively breaking backwards compatibility… a principle they're pretty committed to (for which I'm grateful!). Thus, Content Security Policies create as an opt-in way to create a more secure (and restrictive) browsing environment on a per-website basis.</p>
-      <a href="#fnref-1" class="footnote-backref">↩</a>
+      <p>The awkward implication here is that browsers are pretty insecure by default. Browser developers can't correct this without massively breaking backwards compatibility… a principle they're pretty committed to (for which I'm grateful!). Thus, Content Security Policies create as an opt-in way to create a more secure (and restrictive) browsing environment on a per-website basis. <a href="#fnref-1" class="footnote-backref">↩</a></p>
     </li>
     <li id="fn-2">
-      <p>I pulled the examples in this post from a Content Security Policy I added to a project of mine. You can see <a href="https://github.com/bryanbraun/checkboxland/commit/b351b48f9ccf93bc65dc706d5ce89be0464f2b9b" target="_blank">the full commit changes for that policy addition here on Github</a>.</p>
-      <a href="#fnref-2" class="footnote-backref">↩</a>
+      <p>I pulled the examples in this post from a Content Security Policy I added to a project of mine. You can see <a href="https://github.com/bryanbraun/checkboxland/commit/b351b48f9ccf93bc65dc706d5ce89be0464f2b9b" target="_blank">the full commit changes for that policy addition here on Github</a>. <a href="#fnref-2" class="footnote-backref">↩</a></p>
     </li>
   </ol>
 </div>

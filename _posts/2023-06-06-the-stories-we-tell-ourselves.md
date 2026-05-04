@@ -120,12 +120,10 @@ It's when I'm in a rut that I can't seem to get out of, or fighting discourageme
 <div class="footnotes">
   <ol>
     <li id="fn-1">
-      <p>This is basically <a href="https://en.wikipedia.org/wiki/Cognitive_reframing" target="_blank">reframing</a>, a key part of Cognitive Behavioral Therapy that's <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3584580/" target="_blank">shown to be widely effective</a></p>
-      <a href="#fnref-1" class="footnote-backref">↩</a>
+      <p>This is basically <a href="https://en.wikipedia.org/wiki/Cognitive_reframing" target="_blank">reframing</a>, a key part of Cognitive Behavioral Therapy that's <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3584580/" target="_blank">shown to be widely effective</a> <a href="#fnref-1" class="footnote-backref">↩</a></p>
     </li>
     <li id="fn-2">
-      <p>See also the philosophy of <a href="https://en.wikipedia.org/wiki/Pragmatism" target="_blank">Pragmatism</a></p>
-      <a href="#fnref-2" class="footnote-backref">↩</a>
+      <p>See also the philosophy of <a href="https://en.wikipedia.org/wiki/Pragmatism" target="_blank">Pragmatism</a> <a href="#fnref-2" class="footnote-backref">↩</a></p>
     </li>
   </ol>
 </div>

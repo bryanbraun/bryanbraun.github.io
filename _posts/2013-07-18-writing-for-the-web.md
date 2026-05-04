@@ -9,7 +9,7 @@ There also isn't a lot of money in writing online, where distribution is free an
 
 These two facts create a situation where there is an enormous amount of material online. A lot of it is good, but very little of it is truly exceptional. With so much to sort through and so little to find, the opportunity-cost of reading a long article is very high. So we don't read long articles online.
 
-We surf. We skim. We sample, and we move on. We're like children on an easter egg hunt, checking a spot for something good, making a snap judgement<sup>1</sup>, then moving on to the next place.
+We surf. We skim. We sample, and we move on. We're like children on an easter egg hunt, checking a spot for something good, making a snap judgement<sup id="fnref-1"><a href="#fn-1" class="footnote-ref">1</a></sup>, then moving on to the next place.
 
 This behavior has been researched and documented. Only <a href="http://www.slate.com/articles/technology/technology/2013/06/how_people_read_online_why_you_won_t_finish_this_article.single.html" target="_blank" rel="noopener noreferrer" title="How People Read Online: Why you won't Finish this Article">a small percent of visitors read online articles to completion</a>. Maybe it has something to do with the intangibility of it all. In the physical world, the fundamental unit of content is a book. You can hold it in your hands, keep on your shelf, or give to a friend. Indeed, many who write on web topics (like <a href="http://alwaysreadthemanual.com" target="_blank" rel="noopener noreferrer" title="The Manual">these guys</a>) have taken their writing off-line in an attempt to make it more tangible (and more profitable).
 
@@ -19,4 +19,10 @@ So what do you do if you're writing for the web? I'm not sure I have all the ans
 
 <hr class="section-divider" />
 
-<small>[1] Note, this highlights the importance of good web design. People will only spend a second or two looking at your page, and if anything they see indicates "low-quality" they'll be out of there.</small>
+<div class="footnotes">
+  <ol>
+    <li id="fn-1">
+      <p>Note, this highlights the importance of good web design. People will only spend a second or two looking at your page, and if anything they see indicates "low-quality" they'll be out of there. <a href="#fnref-1" class="footnote-backref">↩</a></p>
+    </li>
+  </ol>
+</div>
