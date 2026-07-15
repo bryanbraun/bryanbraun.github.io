@@ -5,7 +5,6 @@ related: [
   "A super-underrated skill",
   "It's an Energy Problem",
   "How I'm making changes in 2019",
-  "Design your Default",
   "Winning Systems"
 ]
 ---
@@ -24,6 +23,6 @@ Because it is!
 
 When I'm struggling with daily patterns, it's helpful for me to look at the times I was rocking it. I've had periods of my life when my workouts were really consistant, or I journaled every day, or I always woke up early. What contributed to those things?
 
-Often, it was [social pressure]({{site.url}}/2011/11/06/winning-systems/), [an accountability buddy]({{site.url}}/2016/09/05/lets-get-stuff-done/), or [a change of environment]({{site.url}}/2023/11/26/i-needed-to-be-happier/) that pushed me into a productive place (underrated benefit of having a blog: it's a historical record of your successes and failures).
+Often, it was [social pressure]({{site.url}}/2011/11/06/winning-systems/), [an accountability buddy]({{site.url}}/2016/09/05/lets-get-stuff-done/), or [a change of environment]({{site.url}}/2023/11/26/i-needed-to-be-happier/) that pushed me into a productive place (underrated benefit of having a blog: it's a useful historical record of your successes and failures).
 
 Of all the things I might learn looking back at these experiences, perhaps the most important is that it's never been easy. I've got 15+ years of posts documenting the battle. Sometimes I'm winning and sometimes I'm losing, but I'm always fighting, and that's a daily pattern too.
