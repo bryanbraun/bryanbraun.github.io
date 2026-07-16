@@ -102,7 +102,7 @@ With a bit of luck, we'll look back on today as a uniquely special time. Why not
       <p>Example arguments include <a href="https://www.popularmechanics.com/science/a65997294/dead-internet-explained/" target="_blank">The Internet Will Be More Dead Than Alive Within 3 Years, Trend Shows</a> and <a href="https://www.bloomberg.com/news/articles/2025-05-08/maybe-ai-slop-is-killing-the-internet-after-all" target="_blank">Maybe AI Slop is Killing the Internet, After All</a>. <a href="#fnref-1" class="footnote-backref">↩</a></p>
     </li>
     <li id="fn-2">
-      <p>Case in point, my own goofy little joke-project: <a href="https://www.bryanbraun.com/pro-wrestler-or-roller-coaseter/" target="_blank">pro wrestler or roller-coaster</a> <a href="#fnref-2" class="footnote-backref">↩</a></p>
+      <p>Case in point, my own goofy little joke-project: <a href="{{site.url}}/pro-wrestler-or-roller-coaseter/" target="_blank">pro wrestler or roller-coaster</a> <a href="#fnref-2" class="footnote-backref">↩</a></p>
     </li>
     <li id="fn-3">
       <p>I'll bet anything that 15 years from now, 30 year-olds will be wistfully remembering the good ol' days of <a href="https://www.neal.fun/" target="_blank">neal.fun</a> and "early Mr. Beast videos" in the same way that my generation feels nostalgic for Google Reader and Homestar Runner. <a href="#fnref-3" class="footnote-backref">↩</a></p>
