@@ -40,7 +40,7 @@ Even if there's a proliferation of new, interesting, web software, there are sev
 
 ### Argument 1: AI-generated software is unoriginal/low-quality/slop
 
-AI generated content is kindof a bummer, but AI generated apps don't have to be. A software tool has the same utility to the end-user whether the code was written by an AI or by hand. The end-users of software don't read the code and [don't care about the code]({{site.url}}/2014/11/09/technology-isnt-the-thing…). They care whether it solves their problem.
+AI generated content is kindof a bummer, but AI generated apps don't have to be. A software tool has the same utility to the end-user whether the code was written by an AI or by hand. The end-users of software don't read the code and [don't care about the code]({{site.url}}/2014/11/09/technology-isnt-the-thing). They care whether it solves their problem.
 
 Now maybe you think that AI-generated software is inherently buggy. Software has always been buggy, but to the degree that you feel AI-generated software is worse, consider the forces at play. Users hate buggy software, and in a world with lots of options, fast and stable software will attract the most users. We're all still learning how AI will contribute to that outcome, but the point is that [Slop is Not Necessarily the Future](https://www.greptile.com/blog/ai-slopware-future).
 
