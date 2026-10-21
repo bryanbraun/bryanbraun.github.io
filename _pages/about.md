@@ -20,6 +20,8 @@ I like to share what I'm learning through [writing](/blog), [speaking](/speaking
 
 I'm a husband and father. I'm [INTJ](https://www.16personalities.com/intj-personality) and [LDS](https://www.lds.org/?lang=eng). When I'm not writing code or tweaking fonts, you can find me [listening to audiobooks](/books), practicing the piano, or building lego worlds with my kids.
 
+
+
 ## Social
 
 <div class="social-icons">
@@ -42,3 +44,9 @@ This site is built with [Jekyll](https://jekyllrb.com/) and hosted on [Github Pa
 The site and logo were designed by me. The main fonts are [PT Sans](https://fonts.google.com/specimen/PT+Sans) and [PT Serif](https://fonts.google.com/specimen/PT+Serif). The social media icons were made by [Swifticons](https://www.swifticons.com). There's also a [styleguide](/styleguide).
 
 All the code is open-source and [available on Github](https://github.com/bryanbraun/bryanbraun.github.io), released under the [MIT license](https://github.com/bryanbraun/bryanbraun.github.io/blob/main/license.md). All content is licensed with a [Creative Commons Attribution License (BY 4.0)](https://creativecommons.org/licenses/by/4.0/), unless otherwise noted. If you find anything you can improve about this site, please submit a pull request.
+
+## AI Usage
+
+The content of this website is written by me. I do not use AI to generate the text you are reading because writing from scratch helps me process my thoughts (which is one of the main reasons I blog in the first place). I don't currently use AI-powered writing tools (grammar-check, spell-check, dictation tools, etc), but I may experiment with them as long as they don't undermine the thinking process.
+
+The code for this website was originally hand-written, but I have since used AI to make several useful updates. I expect to continue using AI to write code for this website and other personal coding projects. When I create a public project exclusively with AI, I mention that fact in the project README.
