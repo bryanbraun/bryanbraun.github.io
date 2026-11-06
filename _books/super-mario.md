@@ -1,7 +1,7 @@
 ---
 title: "Super Mario: How Nintendo Conquered America"
 author: Jeff Ryan
-date: 2026-11-XX
+date: 2026-11-05
 categories: non-fiction
 rating: 4/5
 ---
