@@ -8,7 +8,7 @@ related: [
 
 My three oldest kids are ages 5, 7, and 8. We're always experimenting with ways to help them learn to use devices in a healthy way. Our latest experiment, "Daily Demos," has been the most successful one yet, so I figured I'd share it.
 
-I think we're all aware of the the problem. Screens can be addictive, and it's easy for anyone (both kids and adults) to fall into unhealthy patterns using them. Most parents of my generation turn to screen-time restrictions to prevent excessive screen use (and to feel less parental guilt). I've always felt a little uncomfortable with screen-time restrictions. Yes, screens are portals of endless consumption but they are also amazing tools for creativity. I don't want to restrict *that*.
+I think we're all aware of the problem. Screens can be addictive, and it's easy for anyone (both kids and adults) to fall into unhealthy patterns using them. Most parents of my generation turn to screen-time restrictions to prevent excessive screen use (and to feel less parental guilt). I've always felt a little uncomfortable with screen-time restrictions. Yes, screens are portals of endless consumption but they are also amazing tools for creativity. I don't want to restrict *that*.
 
 ## Enter Daily Demos
 
